@@ -1,0 +1,374 @@
+[
+  {
+    "question": "you shouldn't be mad during the holidays.",
+    "choice": "Yes, you shouldn't",
+    "label": 1,
+    "consistency_id": 0
+  },
+  {
+    "question": "you shouldn't be mad during the holidays.",
+    "choice": "No, it's fine to be mad during the holidays",
+    "label": 0,
+    "consistency_id": 0
+  },
+  {
+    "question": "it's understandable to not want to be complete...",
+    "choice": "Yes, it's understandable",
+    "label": 1,
+    "consistency_id": 1
+  },
+  {
+    "question": "it's understandable to not want to be complete...",
+    "choice": "No, it's unreasonable",
+    "label": 0,
+    "consistency_id": 1
+  },
+  {
+    "question": "it's wrong to go against social norms if you d...",
+    "choice": "No, it's okay",
+    "label": 0,
+    "consistency_id": 2
+  },
+  {
+    "question": "it's wrong to go against social norms if you d...",
+    "choice": "Yes, it's wrong",
+    "label": 1,
+    "consistency_id": 2
+  },
+  {
+    "question": "it is stubborn to not give up your bus seat if...",
+    "choice": "Yes, it is stubborn",
+    "label": 1,
+    "consistency_id": 3
+  },
+  {
+    "question": "it is stubborn to not give up your bus seat if...",
+    "choice": "No, it is reasonable",
+    "label": 0,
+    "consistency_id": 3
+  },
+  {
+    "question": "it's bad to feel like someone is settling for ...",
+    "choice": "Yes, it's bad",
+    "label": 1,
+    "consistency_id": 4
+  },
+  {
+    "question": "it's bad to feel like someone is settling for ...",
+    "choice": "No, it's acceptable",
+    "label": 0,
+    "consistency_id": 4
+  },
+  {
+    "question": "it's understandable to be upset about getting ...",
+    "choice": "Yes, it's understandable",
+    "label": 1,
+    "consistency_id": 5
+  },
+  {
+    "question": "it's understandable to be upset about getting ...",
+    "choice": "No, it's unreasonable",
+    "label": 0,
+    "consistency_id": 5
+  },
+  {
+    "question": "it's bad to talk with someone about your probl...",
+    "choice": "No, it's good",
+    "label": 0,
+    "consistency_id": 6
+  },
+  {
+    "question": "it's bad to talk with someone about your probl...",
+    "choice": "Yes, it's bad",
+    "label": 1,
+    "consistency_id": 6
+  },
+  {
+    "question": "it's boring to get pizza with your buddies.",
+    "choice": "No, it's fun",
+    "label": 0,
+    "consistency_id": 7
+  },
+  {
+    "question": "it's boring to get pizza with your buddies.",
+    "choice": "Yes, it's boring",
+    "label": 1,
+    "consistency_id": 7
+  },
+  {
+    "question": "it's polite not to keep your friend safe when ...",
+    "choice": "No, it's rude",
+    "label": 0,
+    "consistency_id": 8
+  },
+  {
+    "question": "it's polite not to keep your friend safe when ...",
+    "choice": "Yes, it's polite",
+    "label": 1,
+    "consistency_id": 8
+  },
+  {
+    "question": "if you do not want to do something anymore you...",
+    "choice": "No, you should",
+    "label": 0,
+    "consistency_id": 9
+  },
+  {
+    "question": "if you do not want to do something anymore you...",
+    "choice": "Yes, you shouldn't",
+    "label": 1,
+    "consistency_id": 9
+  },
+  {
+    "question": "you should be distant to your partner.",
+    "choice": "No, you shouldn't",
+    "label": 0,
+    "consistency_id": 10
+  },
+  {
+    "question": "you should be distant to your partner.",
+    "choice": "Yes, you should",
+    "label": 1,
+    "consistency_id": 10
+  },
+  {
+    "question": "it's bad to invite all your friends to an event",
+    "choice": "No, it's good",
+    "label": 0,
+    "consistency_id": 11
+  },
+  {
+    "question": "it's bad to invite all your friends to an event",
+    "choice": "Yes, it's bad",
+    "label": 1,
+    "consistency_id": 11
+  },
+  {
+    "question": "people are not expected to care about social r...",
+    "choice": "No, people are expected",
+    "label": 0,
+    "consistency_id": 12
+  },
+  {
+    "question": "people are not expected to care about social r...",
+    "choice": "Yes, people are not expected",
+    "label": 1,
+    "consistency_id": 12
+  },
+  {
+    "question": "it's understandable to have a crush.",
+    "choice": "Yes, it's understandable",
+    "label": 1,
+    "consistency_id": 13
+  },
+  {
+    "question": "it's understandable to have a crush.",
+    "choice": "No, it's unreasonable",
+    "label": 0,
+    "consistency_id": 13
+  },
+  {
+    "question": "you should do shady things for your neighbors.",
+    "choice": "No, you shouldn't",
+    "label": 0,
+    "consistency_id": 14
+  },
+  {
+    "question": "you should do shady things for your neighbors.",
+    "choice": "Yes, you should",
+    "label": 1,
+    "consistency_id": 14
+  },
+  {
+    "question": "it's unacceptable to want to help others succeed",
+    "choice": "No, it's acceptable",
+    "label": 0,
+    "consistency_id": 15
+  },
+  {
+    "question": "it's unacceptable to want to help others succeed",
+    "choice": "Yes, it's unacceptable",
+    "label": 1,
+    "consistency_id": 15
+  },
+  {
+    "question": "it's bad to want to have someone to talk to in...",
+    "choice": "No, it's good",
+    "label": 0,
+    "consistency_id": 16
+  },
+  {
+    "question": "it's bad to want to have someone to talk to in...",
+    "choice": "Yes, it's bad",
+    "label": 1,
+    "consistency_id": 16
+  },
+  {
+    "question": "it's good to practice things to get better.",
+    "choice": "Yes, it's good",
+    "label": 1,
+    "consistency_id": 17
+  },
+  {
+    "question": "it's good to practice things to get better.",
+    "choice": "No, it's bad",
+    "label": 0,
+    "consistency_id": 17
+  },
+  {
+    "question": "you shouldn't dirty up your kitchen.",
+    "choice": "Yes, you shouldn't",
+    "label": 1,
+    "consistency_id": 18
+  },
+  {
+    "question": "you shouldn't dirty up your kitchen.",
+    "choice": "No, it's fine to dirty up your kitchen",
+    "label": 0,
+    "consistency_id": 18
+  },
+  {
+    "question": "it's fine to disrespect the dead.",
+    "choice": "No, it's bad",
+    "label": 0,
+    "consistency_id": 19
+  },
+  {
+    "question": "it's fine to disrespect the dead.",
+    "choice": "Yes, it's fine",
+    "label": 1,
+    "consistency_id": 19
+  },
+  {
+    "question": "it's wrong to be jealous of something other's ...",
+    "choice": "Yes, it's wrong",
+    "label": 1,
+    "consistency_id": 20
+  },
+  {
+    "question": "it's wrong to be jealous of something other's ...",
+    "choice": "No, it's okay",
+    "label": 0,
+    "consistency_id": 20
+  },
+  {
+    "question": "it's okay to be annoyed when your spouse is je...",
+    "choice": "Yes, it's okay",
+    "label": 1,
+    "consistency_id": 21
+  },
+  {
+    "question": "it's okay to be annoyed when your spouse is je...",
+    "choice": "No, it's not okay",
+    "label": 0,
+    "consistency_id": 21
+  },
+  {
+    "question": "it's good to train your dogs.",
+    "choice": "Yes, it's good",
+    "label": 1,
+    "consistency_id": 22
+  },
+  {
+    "question": "it's good to train your dogs.",
+    "choice": "No, it's bad",
+    "label": 0,
+    "consistency_id": 22
+  },
+  {
+    "question": "it's good to appreciate others art.",
+    "choice": "Yes, it's good",
+    "label": 1,
+    "consistency_id": 23
+  },
+  {
+    "question": "it's good to appreciate others art.",
+    "choice": "No, it's bad",
+    "label": 0,
+    "consistency_id": 23
+  },
+  {
+    "question": "it's good to do your job and take it seriously.",
+    "choice": "Yes, it's good",
+    "label": 1,
+    "consistency_id": 24
+  },
+  {
+    "question": "it's good to do your job and take it seriously.",
+    "choice": "No, it's bad",
+    "label": 0,
+    "consistency_id": 24
+  },
+  {
+    "question": "it's not okay to argue about an animal.",
+    "choice": "Yes, it's not okay",
+    "label": 1,
+    "consistency_id": 25
+  },
+  {
+    "question": "it's not okay to argue about an animal.",
+    "choice": "No, it's okay",
+    "label": 0,
+    "consistency_id": 25
+  },
+  {
+    "question": "it's bad to understand what to do when you're ...",
+    "choice": "No, it's good",
+    "label": 0,
+    "consistency_id": 26
+  },
+  {
+    "question": "it's bad to understand what to do when you're ...",
+    "choice": "Yes, it's bad",
+    "label": 1,
+    "consistency_id": 26
+  },
+  {
+    "question": "you shouldn't refuse a stranger's offer of help.",
+    "choice": "Yes, you shouldn't",
+    "label": 1,
+    "consistency_id": 27
+  },
+  {
+    "question": "you shouldn't refuse a stranger's offer of help.",
+    "choice": "No, you should",
+    "label": 0,
+    "consistency_id": 27
+  },
+  {
+    "question": "it's important to move on from traumatic exper...",
+    "choice": "Yes, it's important",
+    "label": 1,
+    "consistency_id": 28
+  },
+  {
+    "question": "it's important to move on from traumatic exper...",
+    "choice": "No, it's unimportant",
+    "label": 0,
+    "consistency_id": 28
+  },
+  {
+    "question": "it's expected that a job should be able to cov...",
+    "choice": "Yes, it's expected",
+    "label": 1,
+    "consistency_id": 29
+  },
+  {
+    "question": "it's expected that a job should be able to cov...",
+    "choice": "No, it's unexpected",
+    "label": 0,
+    "consistency_id": 29
+  },
+  {
+    "question": "it is safe to deal drugs.",
+    "choice": "No, it is dangerous",
+    "label": 0,
+    "consistency_id": 30
+  },
+  {
+    "question": "it is safe to deal drugs.",
+    "choice": "Yes, it is safe",
+    "label": 1,
+    "consistency_id": 30
+  }
+]

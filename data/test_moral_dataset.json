@@ -1,0 +1,110 @@
+[
+  {
+    "question": "it's nice to wink at people.",
+    "choice": "Yes, it's nice",
+    "label": 1,
+    "consistency_id": 31
+  },
+  {
+    "question": "it's nice to wink at people.",
+    "choice": "No, it's rude",
+    "label": 0,
+    "consistency_id": 31
+  },
+  {
+    "question": "it's bad to do all the proper paperwork.",
+    "choice": "No, it's good",
+    "label": 0,
+    "consistency_id": 32
+  },
+  {
+    "question": "it's bad to do all the proper paperwork.",
+    "choice": "Yes, it's bad",
+    "label": 1,
+    "consistency_id": 32
+  },
+  {
+    "question": "you should do what someone tells you to do whe...",
+    "choice": "Yes, you should",
+    "label": 1,
+    "consistency_id": 33
+  },
+  {
+    "question": "you should do what someone tells you to do whe...",
+    "choice": "No, you shouldn't",
+    "label": 0,
+    "consistency_id": 33
+  },
+  {
+    "question": "you should make fun of other's tastes.",
+    "choice": "No, you should not",
+    "label": 0,
+    "consistency_id": 34
+  },
+  {
+    "question": "you should make fun of other's tastes.",
+    "choice": "Yes, you should",
+    "label": 1,
+    "consistency_id": 34
+  },
+  {
+    "question": "you should talk to your friends if you're stru...",
+    "choice": "Yes, you should",
+    "label": 1,
+    "consistency_id": 35
+  },
+  {
+    "question": "you should talk to your friends if you're stru...",
+    "choice": "No, you shouldn't",
+    "label": 0,
+    "consistency_id": 35
+  },
+  {
+    "question": "it is okay for couples not to communicate beca...",
+    "choice": "No, it is wrong",
+    "label": 0,
+    "consistency_id": 36
+  },
+  {
+    "question": "it is okay for couples not to communicate beca...",
+    "choice": "Yes, it is okay",
+    "label": 1,
+    "consistency_id": 36
+  },
+  {
+    "question": "you shouldn't be involved with your ex.",
+    "choice": "Yes, you shouldn't",
+    "label": 1,
+    "consistency_id": 37
+  },
+  {
+    "question": "you shouldn't be involved with your ex.",
+    "choice": "No, it's fine to be involved with your ex",
+    "label": 0,
+    "consistency_id": 37
+  },
+  {
+    "question": "you shouldn't say no if someone needs your car...",
+    "choice": "Yes, you shouldn't",
+    "label": 1,
+    "consistency_id": 38
+  },
+  {
+    "question": "you shouldn't say no if someone needs your car...",
+    "choice": "No, you should",
+    "label": 0,
+    "consistency_id": 38
+  },
+  {
+    "question": "it's important to leave work when you're sched...",
+    "choice": "Yes, it's important",
+    "label": 1,
+    "consistency_id": 39
+  },
+  {
+    "question": "it's important to leave work when you're sched...",
+    "choice": "No, it's unimportant",
+    "label": 0,
+    "consistency_id": 39
+  }
+]
