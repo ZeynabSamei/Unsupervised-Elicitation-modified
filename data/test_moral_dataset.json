@@ -1,110 +1,1214 @@
 [
   {
-    "question": "it's nice to wink at people.",
-    "choice": "Yes, it's nice",
-    "label": 1,
-    "consistency_id": 31
-  },
-  {
-    "question": "it's nice to wink at people.",
-    "choice": "No, it's rude",
-    "label": 0,
-    "consistency_id": 31
-  },
-  {
-    "question": "it's bad to do all the proper paperwork.",
-    "choice": "No, it's good",
-    "label": 0,
-    "consistency_id": 32
-  },
-  {
-    "question": "it's bad to do all the proper paperwork.",
-    "choice": "Yes, it's bad",
-    "label": 1,
-    "consistency_id": 32
-  },
-  {
-    "question": "you should do what someone tells you to do whe...",
-    "choice": "Yes, you should",
-    "label": 1,
-    "consistency_id": 33
-  },
-  {
-    "question": "you should do what someone tells you to do whe...",
-    "choice": "No, you shouldn't",
-    "label": 0,
-    "consistency_id": 33
-  },
-  {
-    "question": "you should make fun of other's tastes.",
-    "choice": "No, you should not",
-    "label": 0,
-    "consistency_id": 34
-  },
-  {
-    "question": "you should make fun of other's tastes.",
-    "choice": "Yes, you should",
-    "label": 1,
-    "consistency_id": 34
-  },
-  {
-    "question": "you should talk to your friends if you're stru...",
-    "choice": "Yes, you should",
-    "label": 1,
-    "consistency_id": 35
-  },
-  {
-    "question": "you should talk to your friends if you're stru...",
-    "choice": "No, you shouldn't",
-    "label": 0,
-    "consistency_id": 35
-  },
-  {
-    "question": "it is okay for couples not to communicate beca...",
-    "choice": "No, it is wrong",
-    "label": 0,
-    "consistency_id": 36
-  },
-  {
-    "question": "it is okay for couples not to communicate beca...",
-    "choice": "Yes, it is okay",
-    "label": 1,
-    "consistency_id": 36
-  },
-  {
-    "question": "you shouldn't be involved with your ex.",
+    "question": "you shouldn't yell at your spouse.",
     "choice": "Yes, you shouldn't",
-    "label": 1,
-    "consistency_id": 37
+    "class_label": 1,
+    "consistency_id": 0
   },
   {
-    "question": "you shouldn't be involved with your ex.",
-    "choice": "No, it's fine to be involved with your ex",
-    "label": 0,
-    "consistency_id": 37
-  },
-  {
-    "question": "you shouldn't say no if someone needs your car...",
-    "choice": "Yes, you shouldn't",
-    "label": 1,
-    "consistency_id": 38
-  },
-  {
-    "question": "you shouldn't say no if someone needs your car...",
+    "question": "you shouldn't yell at your spouse.",
     "choice": "No, you should",
-    "label": 0,
+    "class_label": 0,
+    "consistency_id": 0
+  },
+  {
+    "question": "you shouldn't tell your doctor that your medication is making you have bad side effects.",
+    "choice": "No, you should",
+    "class_label": 0,
+    "consistency_id": 1
+  },
+  {
+    "question": "you shouldn't tell your doctor that your medication is making you have bad side effects.",
+    "choice": "Yes, you shouldn't",
+    "class_label": 1,
+    "consistency_id": 1
+  },
+  {
+    "question": "you should look up to your parents if they are callous.",
+    "choice": "No, you shouldn't",
+    "class_label": 0,
+    "consistency_id": 2
+  },
+  {
+    "question": "you should look up to your parents if they are callous.",
+    "choice": "Yes, you should",
+    "class_label": 1,
+    "consistency_id": 2
+  },
+  {
+    "question": "you're expected to be honest.",
+    "choice": "Yes, you're expected",
+    "class_label": 1,
+    "consistency_id": 3
+  },
+  {
+    "question": "you're expected to be honest.",
+    "choice": "No, you're not expected",
+    "class_label": 0,
+    "consistency_id": 3
+  },
+  {
+    "question": "it's fine to tell someone when you subscribe to a new series.",
+    "choice": "Yes, it's fine",
+    "class_label": 1,
+    "consistency_id": 4
+  },
+  {
+    "question": "it's fine to tell someone when you subscribe to a new series.",
+    "choice": "No, it's not fine",
+    "class_label": 0,
+    "consistency_id": 4
+  },
+  {
+    "question": "it's understandable to be naive when you're younger.",
+    "choice": "Yes, it's understandable",
+    "class_label": 1,
+    "consistency_id": 5
+  },
+  {
+    "question": "it's understandable to be naive when you're younger.",
+    "choice": "No, it's not understandable",
+    "class_label": 0,
+    "consistency_id": 5
+  },
+  {
+    "question": "it is not close minded to forbid anyone from attending a gay pride event.",
+    "choice": "No, it is close minded",
+    "class_label": 0,
+    "consistency_id": 6
+  },
+  {
+    "question": "it is not close minded to forbid anyone from attending a gay pride event.",
+    "choice": "Yes, it is not close minded",
+    "class_label": 1,
+    "consistency_id": 6
+  },
+  {
+    "question": "it's not always good to ask someone what time you should be at someone's place before you arrive.",
+    "choice": "No, it's always good",
+    "class_label": 0,
+    "consistency_id": 7
+  },
+  {
+    "question": "it's not always good to ask someone what time you should be at someone's place before you arrive.",
+    "choice": "Yes, it's not always good",
+    "class_label": 1,
+    "consistency_id": 7
+  },
+  {
+    "question": "you're not expected to develop feelings for someone you've been intimate with.",
+    "choice": "No, you're expected",
+    "class_label": 0,
+    "consistency_id": 8
+  },
+  {
+    "question": "you're not expected to develop feelings for someone you've been intimate with.",
+    "choice": "Yes, you're not expected",
+    "class_label": 1,
+    "consistency_id": 8
+  },
+  {
+    "question": "it's wrong to curse.",
+    "choice": "No, it's okay",
+    "class_label": 0,
+    "consistency_id": 9
+  },
+  {
+    "question": "it's wrong to curse.",
+    "choice": "Yes, it's wrong",
+    "class_label": 1,
+    "consistency_id": 9
+  },
+  {
+    "question": "it is expected to ask for permission before using something that is not yours.",
+    "choice": "Yes, it is expected",
+    "class_label": 1,
+    "consistency_id": 10
+  },
+  {
+    "question": "it is expected to ask for permission before using something that is not yours.",
+    "choice": "No, it is not expected",
+    "class_label": 0,
+    "consistency_id": 10
+  },
+  {
+    "question": "it is normal for bedtime to be quiet time",
+    "choice": "Yes, it is normal",
+    "class_label": 1,
+    "consistency_id": 11
+  },
+  {
+    "question": "it is normal for bedtime to be quiet time",
+    "choice": "No, it is not normal",
+    "class_label": 0,
+    "consistency_id": 11
+  },
+  {
+    "question": "you should not try calling someone if you haven't heard from them in a while.",
+    "choice": "No, you should",
+    "class_label": 0,
+    "consistency_id": 12
+  },
+  {
+    "question": "you should not try calling someone if you haven't heard from them in a while.",
+    "choice": "Yes, you shouldn't",
+    "class_label": 1,
+    "consistency_id": 12
+  },
+  {
+    "question": "it's not ok to leave an unfaithful partner.",
+    "choice": "No, it's ok",
+    "class_label": 0,
+    "consistency_id": 13
+  },
+  {
+    "question": "it's not ok to leave an unfaithful partner.",
+    "choice": "Yes, it's not ok",
+    "class_label": 1,
+    "consistency_id": 13
+  },
+  {
+    "question": "it's not ok to be picky about public restrooms.",
+    "choice": "No, it's understandable",
+    "class_label": 0,
+    "consistency_id": 14
+  },
+  {
+    "question": "it's not ok to be picky about public restrooms.",
+    "choice": "Yes, it's not ok",
+    "class_label": 1,
+    "consistency_id": 14
+  },
+  {
+    "question": "it's smart to make sure you can trust a person you're in a serious relationship with.",
+    "choice": "Yes, it's smart",
+    "class_label": 1,
+    "consistency_id": 15
+  },
+  {
+    "question": "it's smart to make sure you can trust a person you're in a serious relationship with.",
+    "choice": "No, it's not smart",
+    "class_label": 0,
+    "consistency_id": 15
+  },
+  {
+    "question": "you shouldn't be lazy.",
+    "choice": "Yes, you shouldn't",
+    "class_label": 1,
+    "consistency_id": 16
+  },
+  {
+    "question": "you shouldn't be lazy.",
+    "choice": "No, you should",
+    "class_label": 0,
+    "consistency_id": 16
+  },
+  {
+    "question": "it's bad if you make jokes when your partner is sweaty.",
+    "choice": "No, it's understandable",
+    "class_label": 0,
+    "consistency_id": 17
+  },
+  {
+    "question": "it's bad if you make jokes when your partner is sweaty.",
+    "choice": "Yes, it's bad",
+    "class_label": 1,
+    "consistency_id": 17
+  },
+  {
+    "question": "it's wrong to wish someone's relationship fails.",
+    "choice": "Yes, it's wrong",
+    "class_label": 1,
+    "consistency_id": 18
+  },
+  {
+    "question": "it's wrong to wish someone's relationship fails.",
+    "choice": "No, it's okay",
+    "class_label": 0,
+    "consistency_id": 18
+  },
+  {
+    "question": "it's not okay to miss a siblings important events.",
+    "choice": "Yes, it's not okay",
+    "class_label": 1,
+    "consistency_id": 19
+  },
+  {
+    "question": "it's not okay to miss a siblings important events.",
+    "choice": "No, it's okay",
+    "class_label": 0,
+    "consistency_id": 19
+  },
+  {
+    "question": "it's not okay to cause drama for your family.",
+    "choice": "Yes, it's not okay",
+    "class_label": 1,
+    "consistency_id": 20
+  },
+  {
+    "question": "it's not okay to cause drama for your family.",
+    "choice": "No, it's okay",
+    "class_label": 0,
+    "consistency_id": 20
+  },
+  {
+    "question": "it's not rude to wish your step-sibling didn't exist.",
+    "choice": "No, it's rude",
+    "class_label": 0,
+    "consistency_id": 21
+  },
+  {
+    "question": "it's not rude to wish your step-sibling didn't exist.",
+    "choice": "Yes, it's not rude",
+    "class_label": 1,
+    "consistency_id": 21
+  },
+  {
+    "question": "it's not expected that you won't insult your friends.",
+    "choice": "No, it's expected",
+    "class_label": 0,
+    "consistency_id": 22
+  },
+  {
+    "question": "it's not expected that you won't insult your friends.",
+    "choice": "Yes, it's not expected",
+    "class_label": 1,
+    "consistency_id": 22
+  },
+  {
+    "question": "it's okay to do things you might not be proud of when you're hurting financially",
+    "choice": "Yes, it's okay",
+    "class_label": 1,
+    "consistency_id": 23
+  },
+  {
+    "question": "it's okay to do things you might not be proud of when you're hurting financially",
+    "choice": "No, it's not okay",
+    "class_label": 0,
+    "consistency_id": 23
+  },
+  {
+    "question": "it's ok to have a depressive disorder.",
+    "choice": "No, it's bad",
+    "class_label": 0,
+    "consistency_id": 24
+  },
+  {
+    "question": "it's ok to have a depressive disorder.",
+    "choice": "Yes, it's ok",
+    "class_label": 1,
+    "consistency_id": 24
+  },
+  {
+    "question": "you shouldn't scare people.",
+    "choice": "Yes, you shouldn't",
+    "class_label": 1,
+    "consistency_id": 25
+  },
+  {
+    "question": "you shouldn't scare people.",
+    "choice": "No, you should",
+    "class_label": 0,
+    "consistency_id": 25
+  },
+  {
+    "question": "it is not funny to feed someone something they don't expect.",
+    "choice": "No, it is funny",
+    "class_label": 0,
+    "consistency_id": 26
+  },
+  {
+    "question": "it is not funny to feed someone something they don't expect.",
+    "choice": "Yes, it is not funny",
+    "class_label": 1,
+    "consistency_id": 26
+  },
+  {
+    "question": "it is bad to betray the trust of your parents",
+    "choice": "Yes, it is bad",
+    "class_label": 1,
+    "consistency_id": 27
+  },
+  {
+    "question": "it is bad to betray the trust of your parents",
+    "choice": "No, it is not bad",
+    "class_label": 0,
+    "consistency_id": 27
+  },
+  {
+    "question": "it's wrong to be attracted to your employees.",
+    "choice": "Yes, it's wrong",
+    "class_label": 1,
+    "consistency_id": 28
+  },
+  {
+    "question": "it's wrong to be attracted to your employees.",
+    "choice": "No, it's okay",
+    "class_label": 0,
+    "consistency_id": 28
+  },
+  {
+    "question": "it's trivial to communicate what you need from the people you live with.",
+    "choice": "No, it's important",
+    "class_label": 0,
+    "consistency_id": 29
+  },
+  {
+    "question": "it's trivial to communicate what you need from the people you live with.",
+    "choice": "Yes, it's trivial",
+    "class_label": 1,
+    "consistency_id": 29
+  },
+  {
+    "question": "it is bad to quit.",
+    "choice": "Yes, it is bad",
+    "class_label": 1,
+    "consistency_id": 30
+  },
+  {
+    "question": "it is bad to quit.",
+    "choice": "No, it is not bad",
+    "class_label": 0,
+    "consistency_id": 30
+  },
+  {
+    "question": "it's not ok to challenge others to contests of skill or speed.",
+    "choice": "No, it's okay",
+    "class_label": 0,
+    "consistency_id": 31
+  },
+  {
+    "question": "it's not ok to challenge others to contests of skill or speed.",
+    "choice": "Yes, it's not okay",
+    "class_label": 1,
+    "consistency_id": 31
+  },
+  {
+    "question": "family are not expected to give each other help in hard times.",
+    "choice": "No, family are expected",
+    "class_label": 0,
+    "consistency_id": 32
+  },
+  {
+    "question": "family are not expected to give each other help in hard times.",
+    "choice": "Yes, family are not expected",
+    "class_label": 1,
+    "consistency_id": 32
+  },
+  {
+    "question": "after a breakup it is reasonable to take as much time as you need to move on.",
+    "choice": "Yes, it is reasonable",
+    "class_label": 1,
+    "consistency_id": 33
+  },
+  {
+    "question": "after a breakup it is reasonable to take as much time as you need to move on.",
+    "choice": "No, it is not reasonable",
+    "class_label": 0,
+    "consistency_id": 33
+  },
+  {
+    "question": "it is expected that not everyone will deal with death in the same way as others.",
+    "choice": "Yes, it is expected",
+    "class_label": 1,
+    "consistency_id": 34
+  },
+  {
+    "question": "it is expected that not everyone will deal with death in the same way as others.",
+    "choice": "No, it is not expected",
+    "class_label": 0,
+    "consistency_id": 34
+  },
+  {
+    "question": "it's wrong to catcall because it's rude.",
+    "choice": "Yes, it's wrong",
+    "class_label": 1,
+    "consistency_id": 35
+  },
+  {
+    "question": "it's wrong to catcall because it's rude.",
+    "choice": "No, it's okay",
+    "class_label": 0,
+    "consistency_id": 35
+  },
+  {
+    "question": "you should be preoccupied with your ex's life.",
+    "choice": "No, you shouldn't",
+    "class_label": 0,
+    "consistency_id": 36
+  },
+  {
+    "question": "you should be preoccupied with your ex's life.",
+    "choice": "Yes, you should",
+    "class_label": 1,
+    "consistency_id": 36
+  },
+  {
+    "question": "it's okay to choose to eat your meal in your living room.",
+    "choice": "Yes, it's okay",
+    "class_label": 1,
+    "consistency_id": 37
+  },
+  {
+    "question": "it's okay to choose to eat your meal in your living room.",
+    "choice": "No, it's not okay",
+    "class_label": 0,
+    "consistency_id": 37
+  },
+  {
+    "question": "it's not gluttonous to eat a whole box of hamburger helper.",
+    "choice": "No, it's gluttonous",
+    "class_label": 0,
     "consistency_id": 38
   },
   {
-    "question": "it's important to leave work when you're sched...",
-    "choice": "Yes, it's important",
-    "label": 1,
+    "question": "it's not gluttonous to eat a whole box of hamburger helper.",
+    "choice": "Yes, it's not gluttonous",
+    "class_label": 1,
+    "consistency_id": 38
+  },
+  {
+    "question": "it's boring to go to the zoo to see new animals.",
+    "choice": "No, it's fun",
+    "class_label": 0,
     "consistency_id": 39
   },
   {
-    "question": "it's important to leave work when you're sched...",
-    "choice": "No, it's unimportant",
-    "label": 0,
+    "question": "it's boring to go to the zoo to see new animals.",
+    "choice": "Yes, it's boring",
+    "class_label": 1,
     "consistency_id": 39
+  },
+  {
+    "question": "it's okay to take other things more seriously besides work.",
+    "choice": "Yes, it's okay",
+    "class_label": 1,
+    "consistency_id": 40
+  },
+  {
+    "question": "it's okay to take other things more seriously besides work.",
+    "choice": "No, it's not okay",
+    "class_label": 0,
+    "consistency_id": 40
+  },
+  {
+    "question": "it's bad to know what you're doing in life.",
+    "choice": "No, it's good",
+    "class_label": 0,
+    "consistency_id": 41
+  },
+  {
+    "question": "it's bad to know what you're doing in life.",
+    "choice": "Yes, it's bad",
+    "class_label": 1,
+    "consistency_id": 41
+  },
+  {
+    "question": "gossiping about people is not acceptable.",
+    "choice": "Yes, it is not acceptable.",
+    "class_label": 1,
+    "consistency_id": 42
+  },
+  {
+    "question": "gossiping about people is not acceptable.",
+    "choice": "No, it is acceptable",
+    "class_label": 0,
+    "consistency_id": 42
+  },
+  {
+    "question": "it's fine to hate people that get tattoos.",
+    "choice": "Yes, it's fine",
+    "class_label": 1,
+    "consistency_id": 43
+  },
+  {
+    "question": "it's fine to hate people that get tattoos.",
+    "choice": "No, it's not fine",
+    "class_label": 0,
+    "consistency_id": 43
+  },
+  {
+    "question": "it's okay to be easily influenced by someone into a belief.",
+    "choice": "No, it's bad",
+    "class_label": 0,
+    "consistency_id": 44
+  },
+  {
+    "question": "it's okay to be easily influenced by someone into a belief.",
+    "choice": "Yes, it's okay",
+    "class_label": 1,
+    "consistency_id": 44
+  },
+  {
+    "question": "it is bad to have self confidence.",
+    "choice": "No, it is good",
+    "class_label": 0,
+    "consistency_id": 45
+  },
+  {
+    "question": "it is bad to have self confidence.",
+    "choice": "Yes, it is bad",
+    "class_label": 1,
+    "consistency_id": 45
+  },
+  {
+    "question": "you should not be respectful when you are talking to acquaintances online.",
+    "choice": "No, you should",
+    "class_label": 0,
+    "consistency_id": 46
+  },
+  {
+    "question": "you should not be respectful when you are talking to acquaintances online.",
+    "choice": "Yes, you should not",
+    "class_label": 1,
+    "consistency_id": 46
+  },
+  {
+    "question": "it's good to be supportive when your family loses their home.",
+    "choice": "Yes, it's good",
+    "class_label": 1,
+    "consistency_id": 47
+  },
+  {
+    "question": "it's good to be supportive when your family loses their home.",
+    "choice": "No, it's not good",
+    "class_label": 0,
+    "consistency_id": 47
+  },
+  {
+    "question": "you shouldn't go to mardi gras if you're in a relationship.",
+    "choice": "Yes, you shouldn't",
+    "class_label": 1,
+    "consistency_id": 48
+  },
+  {
+    "question": "you shouldn't go to mardi gras if you're in a relationship.",
+    "choice": "No, you should",
+    "class_label": 0,
+    "consistency_id": 48
+  },
+  {
+    "question": "it's wrong to know you should feel guilty but you really don't.",
+    "choice": "Yes, it's wrong",
+    "class_label": 1,
+    "consistency_id": 49
+  },
+  {
+    "question": "it's wrong to know you should feel guilty but you really don't.",
+    "choice": "No, it's okay",
+    "class_label": 0,
+    "consistency_id": 49
+  },
+  {
+    "question": "it's bad to spend time with closely related family members.",
+    "choice": "No, it's good",
+    "class_label": 0,
+    "consistency_id": 50
+  },
+  {
+    "question": "it's bad to spend time with closely related family members.",
+    "choice": "Yes, it's bad",
+    "class_label": 1,
+    "consistency_id": 50
+  },
+  {
+    "question": "it's not always good to visit your grandparents.",
+    "choice": "No, it's always good",
+    "class_label": 0,
+    "consistency_id": 51
+  },
+  {
+    "question": "it's not always good to visit your grandparents.",
+    "choice": "Yes, it's not always good",
+    "class_label": 1,
+    "consistency_id": 51
+  },
+  {
+    "question": "is important to respect your spouse",
+    "choice": "Yes, it's important",
+    "class_label": 1,
+    "consistency_id": 52
+  },
+  {
+    "question": "is important to respect your spouse",
+    "choice": "No, it's not important",
+    "class_label": 0,
+    "consistency_id": 52
+  },
+  {
+    "question": "you shouldn't let someone blame you if you did nothing wrong.",
+    "choice": "Yes, you shouldn't",
+    "class_label": 1,
+    "consistency_id": 53
+  },
+  {
+    "question": "you shouldn't let someone blame you if you did nothing wrong.",
+    "choice": "No, you should",
+    "class_label": 0,
+    "consistency_id": 53
+  },
+  {
+    "question": "it's good to have dinner with your family.",
+    "choice": "Yes, it's good",
+    "class_label": 1,
+    "consistency_id": 54
+  },
+  {
+    "question": "it's good to have dinner with your family.",
+    "choice": "No, it's not good",
+    "class_label": 0,
+    "consistency_id": 54
+  },
+  {
+    "question": "you should not try to control the way your partner spends their money.",
+    "choice": "Yes, you should not",
+    "class_label": 1,
+    "consistency_id": 55
+  },
+  {
+    "question": "you should not try to control the way your partner spends their money.",
+    "choice": "No, you should",
+    "class_label": 0,
+    "consistency_id": 55
+  },
+  {
+    "question": "you should obsess on possessions",
+    "choice": "No, you shouldn't",
+    "class_label": 0,
+    "consistency_id": 56
+  },
+  {
+    "question": "you should obsess on possessions",
+    "choice": "Yes, you should",
+    "class_label": 1,
+    "consistency_id": 56
+  },
+  {
+    "question": "it's bad to overcome your fears.",
+    "choice": "No, it's good",
+    "class_label": 0,
+    "consistency_id": 57
+  },
+  {
+    "question": "it's bad to overcome your fears.",
+    "choice": "Yes, it's bad",
+    "class_label": 1,
+    "consistency_id": 57
+  },
+  {
+    "question": "it's ok to control a significant other to the point where you tell them what they can and cannot own.",
+    "choice": "No, it's wrong",
+    "class_label": 0,
+    "consistency_id": 58
+  },
+  {
+    "question": "it's ok to control a significant other to the point where you tell them what they can and cannot own.",
+    "choice": "Yes, it's okay",
+    "class_label": 1,
+    "consistency_id": 58
+  },
+  {
+    "question": "it's okay to change your mind about your religious affiliation as you get older.",
+    "choice": "Yes, it's okay",
+    "class_label": 1,
+    "consistency_id": 59
+  },
+  {
+    "question": "it's okay to change your mind about your religious affiliation as you get older.",
+    "choice": "No, it's not okay",
+    "class_label": 0,
+    "consistency_id": 59
+  },
+  {
+    "question": "it is not ok not to of watch certain shows.",
+    "choice": "No, it is understandable",
+    "class_label": 0,
+    "consistency_id": 60
+  },
+  {
+    "question": "it is not ok not to of watch certain shows.",
+    "choice": "Yes, it is not ok",
+    "class_label": 1,
+    "consistency_id": 60
+  },
+  {
+    "question": "you shouldn't break up with your partner if they make you depressed.",
+    "choice": "No, you should",
+    "class_label": 0,
+    "consistency_id": 61
+  },
+  {
+    "question": "you shouldn't break up with your partner if they make you depressed.",
+    "choice": "Yes, you shouldn't",
+    "class_label": 1,
+    "consistency_id": 61
+  },
+  {
+    "question": "if your sibling is sick or injured, you should not let your parents know .",
+    "choice": "No, you should",
+    "class_label": 0,
+    "consistency_id": 62
+  },
+  {
+    "question": "if your sibling is sick or injured, you should not let your parents know .",
+    "choice": "Yes, you shouldn't",
+    "class_label": 1,
+    "consistency_id": 62
+  },
+  {
+    "question": "it's bad to stand up for yourself.",
+    "choice": "No, it's okay",
+    "class_label": 0,
+    "consistency_id": 63
+  },
+  {
+    "question": "it's bad to stand up for yourself.",
+    "choice": "Yes, it's bad",
+    "class_label": 1,
+    "consistency_id": 63
+  },
+  {
+    "question": "it's bad to fall for people.",
+    "choice": "No, it's understandable",
+    "class_label": 0,
+    "consistency_id": 64
+  },
+  {
+    "question": "it's bad to fall for people.",
+    "choice": "Yes, it's bad",
+    "class_label": 1,
+    "consistency_id": 64
+  },
+  {
+    "question": "avoiding new activities because of anxiety isn't foolish.",
+    "choice": "No, it is foolish.",
+    "class_label": 0,
+    "consistency_id": 65
+  },
+  {
+    "question": "avoiding new activities because of anxiety isn't foolish.",
+    "choice": "Yes, it isn't foolish",
+    "class_label": 1,
+    "consistency_id": 65
+  },
+  {
+    "question": "it's rude to cheat on the person you're dating",
+    "choice": "Yes, it's rude",
+    "class_label": 1,
+    "consistency_id": 66
+  },
+  {
+    "question": "it's rude to cheat on the person you're dating",
+    "choice": "No, it's not rude",
+    "class_label": 0,
+    "consistency_id": 66
+  },
+  {
+    "question": "you shouldn't make mischief at night",
+    "choice": "Yes, you shouldn't",
+    "class_label": 1,
+    "consistency_id": 67
+  },
+  {
+    "question": "you shouldn't make mischief at night",
+    "choice": "No, you should",
+    "class_label": 0,
+    "consistency_id": 67
+  },
+  {
+    "question": "it's not ok not to believe in religious concepts.",
+    "choice": "No, it's okay",
+    "class_label": 0,
+    "consistency_id": 68
+  },
+  {
+    "question": "it's not ok not to believe in religious concepts.",
+    "choice": "Yes, it's not ok",
+    "class_label": 1,
+    "consistency_id": 68
+  },
+  {
+    "question": "it is rude to call people late at night when they may be sleeping",
+    "choice": "Yes, it is rude",
+    "class_label": 1,
+    "consistency_id": 69
+  },
+  {
+    "question": "it is rude to call people late at night when they may be sleeping",
+    "choice": "No, it is not rude",
+    "class_label": 0,
+    "consistency_id": 69
+  },
+  {
+    "question": "it's normal to lose touch with old friends over time",
+    "choice": "Yes, it's normal",
+    "class_label": 1,
+    "consistency_id": 70
+  },
+  {
+    "question": "it's normal to lose touch with old friends over time",
+    "choice": "No, it's not normal",
+    "class_label": 0,
+    "consistency_id": 70
+  },
+  {
+    "question": "it's wrong to keep some secrets from the people close to you.",
+    "choice": "No, it's okay",
+    "class_label": 0,
+    "consistency_id": 71
+  },
+  {
+    "question": "it's wrong to keep some secrets from the people close to you.",
+    "choice": "Yes, it's wrong",
+    "class_label": 1,
+    "consistency_id": 71
+  },
+  {
+    "question": "it's right to put up with someone that wakes you up all the time.",
+    "choice": "No, it's wrong",
+    "class_label": 0,
+    "consistency_id": 72
+  },
+  {
+    "question": "it's right to put up with someone that wakes you up all the time.",
+    "choice": "Yes, it's right",
+    "class_label": 1,
+    "consistency_id": 72
+  },
+  {
+    "question": "it's good to do things simply out of envy of others.",
+    "choice": "No, it's not good",
+    "class_label": 0,
+    "consistency_id": 73
+  },
+  {
+    "question": "it's good to do things simply out of envy of others.",
+    "choice": "Yes, it's good",
+    "class_label": 1,
+    "consistency_id": 73
+  },
+  {
+    "question": "you shouldn't shatter a family.",
+    "choice": "Yes, you shouldn't",
+    "class_label": 1,
+    "consistency_id": 74
+  },
+  {
+    "question": "you shouldn't shatter a family.",
+    "choice": "No, you should",
+    "class_label": 0,
+    "consistency_id": 74
+  },
+  {
+    "question": "you should not make an effort to comb your hair.",
+    "choice": "No, you should",
+    "class_label": 0,
+    "consistency_id": 75
+  },
+  {
+    "question": "you should not make an effort to comb your hair.",
+    "choice": "Yes, you should not",
+    "class_label": 1,
+    "consistency_id": 75
+  },
+  {
+    "question": "it's important to extinguish a match before throwing it away.",
+    "choice": "Yes, it's important",
+    "class_label": 1,
+    "consistency_id": 76
+  },
+  {
+    "question": "it's important to extinguish a match before throwing it away.",
+    "choice": "No, it's not important",
+    "class_label": 0,
+    "consistency_id": 76
+  },
+  {
+    "question": "you should not demand that your friend give you back your money or things.",
+    "choice": "No, you should",
+    "class_label": 0,
+    "consistency_id": 77
+  },
+  {
+    "question": "you should not demand that your friend give you back your money or things.",
+    "choice": "Yes, you should not",
+    "class_label": 1,
+    "consistency_id": 77
+  },
+  {
+    "question": "it is good to seek shelter in a storm.",
+    "choice": "Yes, it is good",
+    "class_label": 1,
+    "consistency_id": 78
+  },
+  {
+    "question": "it is good to seek shelter in a storm.",
+    "choice": "No, it is bad",
+    "class_label": 0,
+    "consistency_id": 78
+  },
+  {
+    "question": "you shouldn't be safe when carrying dangerous weapons.",
+    "choice": "No, you should",
+    "class_label": 0,
+    "consistency_id": 79
+  },
+  {
+    "question": "you shouldn't be safe when carrying dangerous weapons.",
+    "choice": "Yes, you shouldn't",
+    "class_label": 1,
+    "consistency_id": 79
+  },
+  {
+    "question": "it is bad to be polite when you are rejecting someone.",
+    "choice": "No, it is good",
+    "class_label": 0,
+    "consistency_id": 80
+  },
+  {
+    "question": "it is bad to be polite when you are rejecting someone.",
+    "choice": "Yes, it is bad",
+    "class_label": 1,
+    "consistency_id": 80
+  },
+  {
+    "question": "it is bad to talk through family problems.",
+    "choice": "No, it is good",
+    "class_label": 0,
+    "consistency_id": 81
+  },
+  {
+    "question": "it is bad to talk through family problems.",
+    "choice": "Yes, it is bad",
+    "class_label": 1,
+    "consistency_id": 81
+  },
+  {
+    "question": "it's bad to be there with family.",
+    "choice": "No, it is good",
+    "class_label": 0,
+    "consistency_id": 82
+  },
+  {
+    "question": "it's bad to be there with family.",
+    "choice": "Yes, it's bad",
+    "class_label": 1,
+    "consistency_id": 82
+  },
+  {
+    "question": "it's not understandable that sometimes we have reasons we don't want to live too close to relatives.",
+    "choice": "No, it's understandable",
+    "class_label": 0,
+    "consistency_id": 83
+  },
+  {
+    "question": "it's not understandable that sometimes we have reasons we don't want to live too close to relatives.",
+    "choice": "Yes, it's not understandable",
+    "class_label": 1,
+    "consistency_id": 83
+  },
+  {
+    "question": "it's unacceptable to seek out help from strangers in an emergency situation.",
+    "choice": "No, it's acceptable",
+    "class_label": 0,
+    "consistency_id": 84
+  },
+  {
+    "question": "it's unacceptable to seek out help from strangers in an emergency situation.",
+    "choice": "Yes, it's unacceptable",
+    "class_label": 1,
+    "consistency_id": 84
+  },
+  {
+    "question": "you shouldn't butt your nose into other people's business.",
+    "choice": "Yes, you shouldn't",
+    "class_label": 1,
+    "consistency_id": 85
+  },
+  {
+    "question": "you shouldn't butt your nose into other people's business.",
+    "choice": "No, you should",
+    "class_label": 0,
+    "consistency_id": 85
+  },
+  {
+    "question": "it is expected some people might be scared to come out.",
+    "choice": "Yes, it is expected",
+    "class_label": 1,
+    "consistency_id": 86
+  },
+  {
+    "question": "it is expected some people might be scared to come out.",
+    "choice": "No, it is not expected",
+    "class_label": 0,
+    "consistency_id": 86
+  },
+  {
+    "question": "you are not expected to seek medical attention when needed.",
+    "choice": "No, you are expected",
+    "class_label": 0,
+    "consistency_id": 87
+  },
+  {
+    "question": "you are not expected to seek medical attention when needed.",
+    "choice": "Yes, you are not expected",
+    "class_label": 1,
+    "consistency_id": 87
+  },
+  {
+    "question": "you shouldn't get your neighbors into trouble.",
+    "choice": "Yes, you shouldn't",
+    "class_label": 1,
+    "consistency_id": 88
+  },
+  {
+    "question": "you shouldn't get your neighbors into trouble.",
+    "choice": "No, you should",
+    "class_label": 0,
+    "consistency_id": 88
+  },
+  {
+    "question": "it's not illegal not to attend school as a child",
+    "choice": "No, it's illegal not",
+    "class_label": 0,
+    "consistency_id": 89
+  },
+  {
+    "question": "it's not illegal not to attend school as a child",
+    "choice": "Yes, it's not illegal",
+    "class_label": 1,
+    "consistency_id": 89
+  },
+  {
+    "question": "people should make sure their house is suitable for the type of pet they want.",
+    "choice": "Yes, people should",
+    "class_label": 1,
+    "consistency_id": 90
+  },
+  {
+    "question": "people should make sure their house is suitable for the type of pet they want.",
+    "choice": "No, people shouldn't",
+    "class_label": 0,
+    "consistency_id": 90
+  },
+  {
+    "question": "it's okay to give someone something on purpose you know they won't like",
+    "choice": "No, it's wrong",
+    "class_label": 0,
+    "consistency_id": 91
+  },
+  {
+    "question": "it's okay to give someone something on purpose you know they won't like",
+    "choice": "Yes, it's okay",
+    "class_label": 1,
+    "consistency_id": 91
+  },
+  {
+    "question": "you should support your child's school.",
+    "choice": "Yes, you should",
+    "class_label": 1,
+    "consistency_id": 92
+  },
+  {
+    "question": "you should support your child's school.",
+    "choice": "No, you shouldn't",
+    "class_label": 0,
+    "consistency_id": 92
+  },
+  {
+    "question": "it's bad to set boundaries.",
+    "choice": "No, it's good",
+    "class_label": 0,
+    "consistency_id": 93
+  },
+  {
+    "question": "it's bad to set boundaries.",
+    "choice": "Yes, it's bad",
+    "class_label": 1,
+    "consistency_id": 93
+  },
+  {
+    "question": "it's okay to want to know if someone you like has the same feelings as you.",
+    "choice": "Yes, it's okay",
+    "class_label": 1,
+    "consistency_id": 94
+  },
+  {
+    "question": "it's okay to want to know if someone you like has the same feelings as you.",
+    "choice": "No, it's not okay",
+    "class_label": 0,
+    "consistency_id": 94
+  },
+  {
+    "question": "it is bad to go to school",
+    "choice": "No, it is good",
+    "class_label": 0,
+    "consistency_id": 95
+  },
+  {
+    "question": "it is bad to go to school",
+    "choice": "Yes, it is bad",
+    "class_label": 1,
+    "consistency_id": 95
+  },
+  {
+    "question": "you should write a manga that ends prematurely.",
+    "choice": "No, you shouldn't",
+    "class_label": 0,
+    "consistency_id": 96
+  },
+  {
+    "question": "you should write a manga that ends prematurely.",
+    "choice": "Yes, you should",
+    "class_label": 1,
+    "consistency_id": 96
+  },
+  {
+    "question": "it is fine to spoil your children with toys.",
+    "choice": "No, it is bad",
+    "class_label": 0,
+    "consistency_id": 97
+  },
+  {
+    "question": "it is fine to spoil your children with toys.",
+    "choice": "Yes, it is fine",
+    "class_label": 1,
+    "consistency_id": 97
+  },
+  {
+    "question": "partners are expected to have secrets from one another.",
+    "choice": "No, partners are not expected",
+    "class_label": 0,
+    "consistency_id": 98
+  },
+  {
+    "question": "partners are expected to have secrets from one another.",
+    "choice": "Yes, partners are expected",
+    "class_label": 1,
+    "consistency_id": 98
+  },
+  {
+    "question": "it is bad for kids to support their parents divorce if they don't get along.",
+    "choice": "No, it is understandable",
+    "class_label": 0,
+    "consistency_id": 99
+  },
+  {
+    "question": "it is bad for kids to support their parents divorce if they don't get along.",
+    "choice": "Yes, it is bad",
+    "class_label": 1,
+    "consistency_id": 99
+  },
+  {
+    "question": "it's good to make a special day for people.",
+    "choice": "Yes, it's good",
+    "class_label": 1,
+    "consistency_id": 100
+  },
+  {
+    "question": "it's good to make a special day for people.",
+    "choice": "No, it's not good",
+    "class_label": 0,
+    "consistency_id": 100
   }
 ]
