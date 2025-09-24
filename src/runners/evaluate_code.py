@@ -125,8 +125,8 @@ def evaluate_solutions(eval_config):
         eval_data.append(item)
 
     results_dir = DEFAULT_RESULTS_DIR
-    save_dir = results_dir / eval_config.experiment_name / eval_config.model_to_test
-    os.makedirs(save_dir, exist_ok=True)
+    # save_dir = results_dir / eval_config.experiment_name / eval_config.model_to_test
+    # os.makedirs(save_dir, exist_ok=True)
 
     # load caching results
     if eval_config.use_cache and save_dir is not None:
