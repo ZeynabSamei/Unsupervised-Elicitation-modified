@@ -150,8 +150,8 @@ def evaluate_solutions(eval_config):
     if save_dir is not None:
         for question_id, solution in executor_results.items():
             save_path = f"{save_dir}/{question_id}.json"
-            with open(save_path, "w") as f:
-                json.dump(solution, f, indent=2)
+            # with open(save_path, "w") as f:
+            #     json.dump(solution, f, indent=2)
 
     return executor_results
 
