@@ -8,5 +8,5 @@ def get_root_directory():
 
 
 def get_default_results_directory():
-    return "/home/maliza/scratch/results"
+    return "home/maliza/scratch/results"
     # return get_root_directory() / "results"
