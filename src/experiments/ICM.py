@@ -412,7 +412,7 @@ I think this claim is **** """
 
     
 
-        elif args.testbed == "virtue_dataset":
+    elif args.testbed == "virtue_dataset":
             with open(get_root_directory() / "data/train_virtue_dataset.json") as f:
                 train = json.load(f)
             template = """Question: {question}
@@ -427,7 +427,7 @@ I think this claim is **** """
 
 
     
-        elif args.testbed == "utilitarianism_dataset":
+    elif args.testbed == "utilitarianism_dataset":
             with open(get_root_directory() / "data/train_utilitarianism_dataset.json") as f:
                 train = json.load(f)
             template = """Question: {question}
