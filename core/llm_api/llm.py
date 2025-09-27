@@ -242,14 +242,14 @@ class ModelAPI:
             )
             modified_responses.append(response)
 
-        # if kwargs.get("save_path") is not None:
-        #     if file_sem is not None:
-        #         async with file_sem:
-        #             with open(kwargs.get("save_path"), "w") as f:
-        #                 json.dump(modified_responses, f, indent=2)
-        #     else:
-        #         with open(kwargs.get("save_path"), "w") as f:
-        #             json.dump(modified_responses, f, indent=2)
+        if kwargs.get("save_path") is not None:
+            if file_sem is not None:
+                async with file_sem:
+                    with open(kwargs.get("save_path"), "w") as f:
+                        json.dump(modified_responses, f, indent=2)
+            else:
+                with open(kwargs.get("save_path"), "w") as f:
+                    json.dump(modified_responses, f, indent=2)
         return modified_responses[:n]
 
     def reset_cost(self):
