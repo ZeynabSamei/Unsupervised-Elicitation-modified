@@ -352,7 +352,7 @@ I think this claim is **** """
             i['source'] = 'moral_dataset'
             i['consistency_key'] = 'A' if i['label'] else 'B'
             i['prompt'] = template.format(question=i['question'], answer=i['choice'])
-        args.GROUP_SIZE = 1
+        args.GROUP_SIZE = 2
 
         
     elif args.testbed == 'gsm8k':
