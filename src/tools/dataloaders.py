@@ -189,12 +189,12 @@ def save_to_cache(data, name, delete_existing=False, incoming_problem_ids=None):
                 for key, value in v.items()
                 if key not in ["prompt", "response"]
             }
-        with open(dir / f"{k}.json", "w") as f:
-            json.dump(to_write, f, indent=4)
+    #     with open(dir / f"{k}.json", "w") as f:
+    #         json.dump(to_write, f, indent=4)
 
-    if incoming_problem_ids:
-        with open(dir / "incoming_problem_ids.json", "w") as f:
-            json.dump({"problem_ids": list(incoming_problem_ids)}, f, indent=4)
+    # if incoming_problem_ids:
+    #     with open(dir / "incoming_problem_ids.json", "w") as f:
+    #         json.dump({"problem_ids": list(incoming_problem_ids)}, f, indent=4)
 
 
 def read_from_cache(name):
