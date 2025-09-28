@@ -50,7 +50,7 @@ def calculate_accuracy(train_data, inconsistent_pairs):
         train_prob = np.mean(train_probs)
 
     # Save train_data if requested
-   save_path = "/home/maliza/scratch/results/final_train_data.json"
+    save_path = "/home/maliza/scratch/results/final_train_data.json"
     if save_path is not None:
         os.makedirs(os.path.dirname(save_path), exist_ok=True)
         with open(save_path, "w") as f:
