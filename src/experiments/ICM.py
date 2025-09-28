@@ -394,7 +394,7 @@ I think this claim is **** """
                 i['source'] = 'deontology_dataset'
                 i['consistency_key'] = 'A' if i['label'] else 'B'
                 i['prompt'] = template.format(question=i['question'], answer=i['choice'])
-            args.GROUP_SIZE = 2
+            args.GROUP_SIZE = 3
 
     
     elif args.testbed == "justice_dataset":
