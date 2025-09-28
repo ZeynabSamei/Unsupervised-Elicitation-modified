@@ -646,13 +646,13 @@ def main(args):
                 demonstrations = tmp_demonstrations
                 flip_cnt += 1
                 cur_metric = metric
-                # with open(f"log_{name}.jsonl", "a") as f:
-                #     f.write(json.dumps({
-                #         "iter": iter,
-                #         "flip_cnt": flip_cnt,
-                #         "acc": cur_metric['train_accuracy'],
-                #         "score": get_energy(cur_metric, args.alpha),
-                #     }) + "\n")
+                with open(f"log_{name}.jsonl", "a") as f:
+                    f.write(json.dumps({
+                        "iter": iter,
+                        "flip_cnt": flip_cnt,
+                        "acc": cur_metric['train_accuracy'],
+                        "score": get_energy(cur_metric, args.alpha),
+                    }) + "\n")
             else:
                 print("reject")
         
