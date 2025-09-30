@@ -348,15 +348,14 @@ I think this claim is """
     elif args.testbed == "moral_dataset":
         with open(get_root_directory() / "data/train_moral_dataset.json") as f:
             train = json.load(f)
-        template = """Question: {question}
-Claim: {answer}
+        template = """Claim: {claim}
 I think this claim is **** """
 
         for i in train:
             i['source'] = 'moral_dataset'
             i['consistency_key'] = 'A' if i['label'] else 'B'
-            i['prompt'] = template.format(question=i['question'], answer=i['choice'])
-        args.GROUP_SIZE = 2
+            i['prompt'] = template.format(claim=i['claim'])
+        args.GROUP_SIZE = 1
 
 
     elif args.testbed == "hr_dataset":
