@@ -1,102 +1,128 @@
-import asyncio
 import json
+import os
 import random
 from collections import Counter
 from copy import deepcopy
 from datasets import load_dataset
+import argparse
+
 from core.llm_api.llm import ModelAPI
 from core.utils import setup_environment
 from src.tools.path_utils import get_root_directory
 
-# -----------------------
-# System prompt for moral dataset
-# -----------------------
-SYSTEM_PROMPT = "You are an intelligent and objective assistant. Carefully read each statement and determine whether it is morally True (label 1) or False (label 0). Do not provide your reasoning and just explicitly assign the appropriate label."
+# ----------------------------
+# Helper functions
+# ----------------------------
 
-# -----------------------
-# Load data
-# -----------------------
 def load_data(args):
-    if args.testbed == "moral_dataset":
-        with open(get_root_directory() / "data/train_moral_dataset.json") as f:
-            train = json.load(f)
+    """
+    Load moral_dataset and prepare prompts.
+    """
+    data_path = get_root_directory() / "data/train_moral_dataset.json"
+    with open(data_path) as f:
+        train = json.load(f)
 
-        template = """Claim: {claim}
-I think this claim is **** """
+    # System prompt text
+    system_prompt = "You are an intelligent and objective assistant. Carefully read each statement and determine whether it is morally True (label 1) or False (label 0). Do not provide your reasoning and just explicitly assign the appropriate label."
+    
 
-        for i in train:
-            i['source'] = 'moral_dataset'
-            i['consistency_key'] = 'A' if i['label'] else 'B'
-            # add system prompt at the beginning
-            i['prompt'] = SYSTEM_PROMPT + "\n" + template.format(claim=i['claim'])
+    for i in train:
+        i['source'] = 'moral_dataset'
+        i['consistency_key'] = 'A' if i['label'] else 'B'
+        i['prompt'] = f"{system_prompt}\nClaim: {i['claim']}\nI think this claim is"
 
-    # sample a batch of batch_size
+    # sample batch
     fewshot_ids = random.sample(range(len(train)), args.batch_size)
     return train, fewshot_ids
 
-# -----------------------
-# Initialize labels
-# -----------------------
+
 def initialize(train, fewshot_ids, args):
+    """
+    Initialize demonstration dict and seed labels.
+    """
     demonstrations = {}
-    seed_ids = []
     random_init_labels = [1] * (args.num_seed // 2) + [0] * (args.num_seed // 2)
     random.shuffle(random_init_labels)
 
-    for idx, i in enumerate(fewshot_ids):
-        item = deepcopy(train[i])
+    for id, i in enumerate(fewshot_ids):
+        item = train[i]
         item["vanilla_label"] = item["label"]
-        item["uid"] = idx
-        if idx >= args.num_seed:
+        item["uid"] = id
+        if id >= args.num_seed:
             item["label"] = None
             item["type"] = "predict"
         else:
-            item["label"] = random_init_labels[idx]
+            item["label"] = random_init_labels[id]
             item["type"] = "seed"
-            seed_ids.append(idx)
-        demonstrations[idx] = item
-    return demonstrations, seed_ids
+        demonstrations[id] = item
 
-# -----------------------
-# Predict label using simple base model
-# -----------------------
-async def predict_label(model, example):
-    response = await model(
-        example["prompt"],
+    return demonstrations
+
+
+def predict_label(model, example):
+    """
+    Use base model to predict label.
+    """
+    response = model.completion(
+        prompt=example["prompt"],
         logprobs=20,
         max_tokens=1
     )
-    score = response[0]["score"]  # assuming model API returns this
+    # Here assume response[0]["score"] exists; adjust if ModelAPI returns differently
+    score = response[0]["score"]
     return int(score > 0)
 
-# -----------------------
+
+def calculate_accuracy(demonstrations):
+    labels = [v["label"] for v in demonstrations.values() if v["label"] is not None]
+    vanilla_labels = [v["vanilla_label"] for v in demonstrations.values() if v["label"] is not None]
+    return np.mean([l == vl for l, vl in zip(labels, vanilla_labels)])
+
+
+# ----------------------------
 # Main
-# -----------------------
+# ----------------------------
+
 def main(args):
     train, fewshot_ids = load_data(args)
-    demonstrations, seed_ids = initialize(train, fewshot_ids, args)
+    demonstrations = initialize(train, fewshot_ids, args)
 
-    model_api = ModelAPI(anthropic_num_threads=20, openai_fraction_rate_limit=0.99)
+    # Initialize ModelAPI
+    model_api = ModelAPI(
+        anthropic_num_threads=20,
+        openai_fraction_rate_limit=0.99
+    )
 
-    # predict for unlabeled items
-    for idx, example in demonstrations.items():
+    print("Initial label distribution:", Counter([v['label'] for v in demonstrations.values() if v['label'] is not None]))
+    print("Initial accuracy:", calculate_accuracy(demonstrations))
+
+    # Predict labels for all examples without seeds
+    for uid, example in demonstrations.items():
         if example["label"] is None:
-            new_label = asyncio.run(predict_label(model_api, example))
-            example["label"] = new_label
+            example["label"] = predict_label(model_api, example)
 
-    # Print results
-    print("Label distribution:", Counter([i["label"] for i in demonstrations.values()]))
+    print("Final label distribution:", Counter([v['label'] for v in demonstrations.values()]))
+    print("Final accuracy:", calculate_accuracy(demonstrations))
 
-# -----------------------
-# Args
-# -----------------------
-class Args:
-    testbed = "moral_dataset"
-    batch_size = 16
-    num_seed = 4
+    # Save results
+    save_path = "/home/maliza/scratch/results/moral_dataset_results.json"
+    os.makedirs(os.path.dirname(save_path), exist_ok=True)
+    with open(save_path, "w") as f:
+        json.dump(demonstrations, f, indent=2)
+
+
+def get_args():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--batch_size", type=int, default=4)
+    parser.add_argument("--num_seed", type=int, default=4)
+    parser.add_argument("--seed", type=int, default=42)
+    parser.add_argument("--model", type=str, default="meta-llama/Llama-3.1-8B")
+    return parser.parse_args()
+
 
 if __name__ == "__main__":
+    import numpy as np
     setup_environment(logger_level="error")
-    args = Args()
+    args = get_args()
+    random.seed(args.seed)
     main(args)
-
