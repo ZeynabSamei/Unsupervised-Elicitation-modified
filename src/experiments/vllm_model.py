@@ -79,7 +79,7 @@ def calculate_accuracy(train_data):
     train_prob = 0 if len(train_probs) == 0 else np.mean(train_probs)
 
     # Save train_data
-    save_path = get_root_directory() / "results/final_train_data.json"
+    save_path = get_root_directory() / "results/vllm_train_data.json"
     os.makedirs(os.path.dirname(save_path), exist_ok=True)
     with open(save_path, "w") as f:
         json.dump(train_data, f, indent=2)
@@ -119,7 +119,7 @@ def main(args):
         sample = train[idx]
         prompt = sample['prompt']
         messages = [
-            {"role": "system", "content": "You are a helpful assistant."},
+            {"role": "system", "content": "You are an intelligent and objective assistant. Carefully read each statement and determine whether it is morally True (label 1) or False (label 0). Do not provide your reasoning and just explicitly assign the appropriate label."}
             {"role": "user", "content": prompt},
         ]
 
