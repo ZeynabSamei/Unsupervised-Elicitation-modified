@@ -1,127 +1,102 @@
-# SPDX-License-Identifier: Apache-2.0
-# SPDX-FileCopyrightText: Copyright contributors to the vLLM project
-
-import argparse
+import asyncio
 import json
 import random
-import requests
-from pathlib import Path
 from collections import Counter
-import os
-import numpy as np
+from copy import deepcopy
+from datasets import load_dataset
+from core.llm_api.llm import ModelAPI
+from core.utils import setup_environment
+from src.tools.path_utils import get_root_directory
 
-# -----------------------------
-# Helper functions
-# -----------------------------
-def get_root_directory():
-    return Path(__file__).resolve().parent.parent.parent
+# -----------------------
+# System prompt for moral dataset
+# -----------------------
+SYSTEM_PROMPT = "You are an intelligent and objective assistant. Carefully read each statement and determine whether it is morally True (label 1) or False (label 0). Do not provide your reasoning and just explicitly assign the appropriate label."
 
+# -----------------------
+# Load data
+# -----------------------
 def load_data(args):
     if args.testbed == "moral_dataset":
         with open(get_root_directory() / "data/train_moral_dataset.json") as f:
             train = json.load(f)
 
-        template = "Claim: {claim}\nI think this claim is ****"
+        template = """Claim: {claim}
+I think this claim is **** """
 
         for i in train:
             i['source'] = 'moral_dataset'
             i['consistency_key'] = 'A' if i['label'] else 'B'
-            i['prompt'] = template.format(claim=i['claim'])
+            # add system prompt at the beginning
+            i['prompt'] = SYSTEM_PROMPT + "\n" + template.format(claim=i['claim'])
 
-        args.GROUP_SIZE = 1
-
-    # organize by consistency_id
-    train_map = {}
-    for i in train:
-        cid = i.get('consistency_id', random.randint(0, len(train)//2))
-        if cid not in train_map:
-            train_map[cid] = []
-        train_map[cid].append(i)
-
-    out = []
-    for key in train_map:
-        out += train_map[key]
-    train = out
-
-    # sample a batch
-    fewshot_ids = random.sample(
-        list(range(len(train)// args.GROUP_SIZE)), args.batch_size // args.GROUP_SIZE
-    )
-    fewshot_ids = [
-        i * args.GROUP_SIZE + j for i in fewshot_ids for j in range(args.GROUP_SIZE)
-    ]
-
+    # sample a batch of batch_size
+    fewshot_ids = random.sample(range(len(train)), args.batch_size)
     return train, fewshot_ids
 
-def calculate_accuracy(train_data, inconsistent_pairs):
-    train_probs = []
-    for i in train_data.values():
-        if i["label"] is None:
-            continue
-        if i["label"] == 1:
-            train_probs.append(i["score"])
+# -----------------------
+# Initialize labels
+# -----------------------
+def initialize(train, fewshot_ids, args):
+    demonstrations = {}
+    seed_ids = []
+    random_init_labels = [1] * (args.num_seed // 2) + [0] * (args.num_seed // 2)
+    random.shuffle(random_init_labels)
+
+    for idx, i in enumerate(fewshot_ids):
+        item = deepcopy(train[i])
+        item["vanilla_label"] = item["label"]
+        item["uid"] = idx
+        if idx >= args.num_seed:
+            item["label"] = None
+            item["type"] = "predict"
         else:
-            train_probs.append(-i["score"])
-    train_prob = np.mean(train_probs) if train_probs else 0
+            item["label"] = random_init_labels[idx]
+            item["type"] = "seed"
+            seed_ids.append(idx)
+        demonstrations[idx] = item
+    return demonstrations, seed_ids
 
-    save_path = "/home/maliza/scratch/results/pretrain_train_data.json"
-    if save_path:
-        os.makedirs(os.path.dirname(save_path), exist_ok=True)
-        with open(save_path, "w") as f:
-            json.dump({k: v for k, v in train_data.items()}, f, indent=2)
+# -----------------------
+# Predict label using simple base model
+# -----------------------
+async def predict_label(model, example):
+    response = await model(
+        example["prompt"],
+        logprobs=20,
+        max_tokens=1
+    )
+    score = response[0]["score"]  # assuming model API returns this
+    return int(score > 0)
 
-    return {
-        "train_accuracy": 0 if len(train_data) == 0 else np.mean(
-            [i["label"] == i["vanilla_label"] for i in train_data.values()]
-        ),
-        "train_label_distribution": Counter([i["vanilla_label"] for i in train_data.values()]),
-        "train_predict_distribution": Counter([i["label"] for i in train_data.values()]),
-        "train_prob": train_prob,
-        "train_size": len(train_data),
-        "inconsistent_num": len(inconsistent_pairs),
-    }
-
-# -----------------------------
-# Main client
-# -----------------------------
-def parse_args():
-    parser = argparse.ArgumentParser(description="vLLM client for moral_dataset")
-    parser.add_argument("--batch_size", type=int, default=4)
-    parser.add_argument("--testbed", type=str, default="moral_dataset")
-    parser.add_argument("--model", type=str, default="meta-llama/Llama-3.1-8B")
-    parser.add_argument("--stream", action="store_true")
-    return parser.parse_args()
-
+# -----------------------
+# Main
+# -----------------------
 def main(args):
-    api_url = "http://localhost:8000/v1/chat/completions"
-
     train, fewshot_ids = load_data(args)
+    demonstrations, seed_ids = initialize(train, fewshot_ids, args)
 
-    for idx in fewshot_ids:
-        prompt = train[idx]["prompt"]
-        data = {
-            "model": args.model,
-            "messages": [
-                {"role": "system", "content": "You are an intelligent and objective assistant. Carefully read each statement and determine whether it is morally True (label 1) or False (label 0). Do not provide your reasoning and just explicitly assign the appropriate label."},
-                
-                {"role": "user", "content": prompt}
-            ],
-            "stream": args.stream
-        }
+    model_api = ModelAPI(anthropic_num_threads=20, openai_fraction_rate_limit=0.99)
 
-        resp = requests.post(api_url, json=data)
-        resp_json = resp.json()
+    # predict for unlabeled items
+    for idx, example in demonstrations.items():
+        if example["label"] is None:
+            new_label = asyncio.run(predict_label(model_api, example))
+            example["label"] = new_label
 
-        if "choices" in resp_json:
-            print("-" * 50)
-            print("PROMPT:\n", prompt)
-            print("RESPONSE:\n", resp_json["choices"][0]["message"]["content"])
-            print("-" * 50)
-        else:
-            print("Error from vLLM server:", resp_json)
+    # Print results
+    print("Label distribution:", Counter([i["label"] for i in demonstrations.values()]))
+
+# -----------------------
+# Args
+# -----------------------
+class Args:
+    testbed = "moral_dataset"
+    batch_size = 16
+    num_seed = 4
 
 if __name__ == "__main__":
-    args = parse_args()
+    setup_environment(logger_level="error")
+    args = Args()
     main(args)
-
 
