@@ -119,7 +119,7 @@ def main(args):
         sample = train[idx]
         prompt = sample['prompt']
         messages = [
-            {"role": "system", "content": "You are an intelligent and objective assistant. Carefully read each statement and determine whether it is morally True (label 1) or False (label 0). Do not provide your reasoning and just explicitly assign the appropriate label."}
+            {"role": "system", "content": "You are an intelligent and objective assistant. Carefully read each statement and determine whether it is morally True (label 1) or False (label 0). Do not provide your reasoning and just explicitly assign the appropriate label."},
             {"role": "user", "content": prompt},
         ]
 
