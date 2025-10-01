@@ -57,7 +57,6 @@ def initialize(train, fewshot_ids, args):
 
 def predict_label(client, model, example):
     full_prompt = f"{example['system_prompt']}\n{example['user_prompt']}"
-    print(full_prompt)
     response = client.completions.create(
         model=model,
         prompt=full_prompt,
@@ -65,8 +64,6 @@ def predict_label(client, model, example):
         temperature=0
     )
     score = response.choices[0].text.strip().lower()
-    # print('score is:',len(score))
-    # return int(score)
     
     # # Normalize the output
     if score in ["1", "true", "yes" , "correct" , "reasonable" , "acceptable", "valid" , ": 1"]:
