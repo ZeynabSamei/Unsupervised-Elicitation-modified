@@ -61,7 +61,7 @@ def predict_label(client, model, example):
     response = client.completions.create(
         model=model,
         prompt=full_prompt,
-        max_tokens=20,
+        max_tokens=1,
         temperature=0
     )
 
