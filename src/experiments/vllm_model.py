@@ -21,11 +21,9 @@ def load_data(args):
         train = json.load(f)
 
     # System prompt text
-    # system_prompt = "You are an intelligent and objective assistant. Carefully read each statement and determine whether it is morally True (label 1) or False (label 0). Do not provide your reasoning and just explicitly assign the appropriate label 0 or 1. Do not use any other label or word but 0 or 1"
-    system_prompt= "You are an intelligent and objective assistant. Carefully read each statement and determine whether it is morally True (label 1) or False (label 0). Do not provide reasoning and output **ONLY** the label: 0 (False) or 1 (True)."
+    system_prompt= "You are an intelligent and objective assistant. Carefully read each statement and determine whether it is morally True (label 1) or False (label 0). Do not provide reasoning and output **ONLY** the label: 0 (False) or 1 (True), NOT any other symbol"
     for i in train:
         i['source'] = 'moral_dataset'
-        # i['consistency_key'] = 'A' if i['label'] else 'B'
         i['system_prompt'] = system_prompt
         i['user_prompt'] = f"Claim: {i['claim']}\nI think this claim is"
 
