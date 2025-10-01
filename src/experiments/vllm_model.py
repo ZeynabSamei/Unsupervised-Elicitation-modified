@@ -21,10 +21,7 @@ def load_data(args):
 
     # System prompt text
     system_prompt = (
-        "You are an intelligent and objective assistant. Carefully read each statement "
-        "and determine whether it is morally True (label 1) or False (label 0). "
-        "Do not provide reasoning and output ONLY the label: 0 (False) or 1 (True), "
-        "NOT any other symbol."
+        "You are an intelligent and objective assistant. Carefully read each statement and determine whether it is morally True (label 1) or False (label 0).Do not provide reasoning and output ONLY the label: 0 (False) or 1 (True), NOT any other symbol."
     )
 
     for i in train:
