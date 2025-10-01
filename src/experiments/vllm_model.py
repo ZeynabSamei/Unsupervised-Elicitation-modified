@@ -56,29 +56,15 @@ def initialize(train, fewshot_ids, args):
 
     return demonstrations
 
-
 def predict_label(client, model, example):
-    """
-    Use base model to predict label.
-    """
-    response = client.chat.completions.create(
+    response = client.completions.create(
         model=model,
-        messages=[
-            {"role": "system", "content": example["system_prompt"]},
-            {"role": "user", "content": example["user_prompt"]}
-        ],
+        prompt=example["prompt"],
         max_tokens=1,
         temperature=0
     )
-
-    text = response.choices[0].message.content.strip()
-    # crude mapping to 0/1
-    if "1" in text or "True" in text:
-        return 1
-    elif "0" in text or "False" in text:
-        return 0
-    else:
-        return -1  # fallback
+    score = response.choices[0].text.strip()
+    return int(score)
 
 
 def calculate_accuracy(demonstrations):
