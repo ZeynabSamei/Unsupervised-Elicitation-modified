@@ -21,7 +21,7 @@ def load_data(args):
         train = json.load(f)
 
     # System prompt text
-    system_prompt = "You are an intelligent and objective assistant. Carefully read each statement and determine whether it is morally True (label 1) or False (label 0). Do not provide your reasoning and just explicitly assign the appropriate label."
+    system_prompt = "You are an intelligent and objective assistant. Carefully read each statement and determine whether it is morally True (label 1) or False (label 0). Do not provide your reasoning and just explicitly assign the appropriate label 0 or 1."
 
     for i in train:
         i['source'] = 'moral_dataset'
@@ -71,9 +71,9 @@ def predict_label(client, model, example):
 
     
     # Normalize the output
-    if score in ["1", "true", "yes"]:
+    if score in ["1", "true", "yes" , "correct"]:
         return 1
-    elif score in ["0", "false", "no"]:
+    elif score in ["0", "false", "no" , "wrong"]:
         return 0
     else:
         print("⚠️ Unexpected model output:", score)
