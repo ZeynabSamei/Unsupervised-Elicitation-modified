@@ -64,7 +64,6 @@ def predict_label(client, model, example):
         max_tokens=5,
         temperature=0
     )
-    print(score)
     score = response.choices[0].text.strip().lower()
     print('score is:',score)
     
