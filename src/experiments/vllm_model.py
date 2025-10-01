@@ -63,7 +63,7 @@ def predict_label(model, example):
     """
     Use base model to predict label.
     """
-    client=OpenAI(api_key='EMPTY', base_url='http://127.0.0.1:8000/v1'
+    client=OpenAI(api_key='EMPTY', base_url='http://127.0.0.1:8000/v1')
     response = client.completions.create(
         prompt=example["prompt"],
         logprobs=20,
