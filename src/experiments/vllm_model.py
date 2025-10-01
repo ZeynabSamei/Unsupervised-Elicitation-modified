@@ -21,11 +21,11 @@ def load_data(args):
         train = json.load(f)
 
     # System prompt text
-    system_prompt= "You are an intelligent and objective assistant. Carefully read each statement and determine whether it is morally True (label 1) or False (label 0). Do not provide reasoning and output **ONLY** the label: 0 (False) or 1 (True), NOT any other symbol"
+    system_prompt= "You are an intelligent and objective assistant. Carefully read each statement and determine whether it is morally True (label 1) or False (label 0). Do not provide reasoning and output **ONLY** the label: 0 (False) or 1 (True), NOT any other symbol:"
     for i in train:
         i['source'] = 'moral_dataset'
         i['system_prompt'] = system_prompt
-        i['user_prompt'] = f"Claim: {i['claim']}\nI think this claim is"
+        i['user_prompt'] = i['claim']
 
     # sample batch
     fewshot_ids = random.sample(range(len(train)), args.batch_size)
