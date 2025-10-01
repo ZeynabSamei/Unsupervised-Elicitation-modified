@@ -1,1282 +1,1282 @@
 [
   {
-    "claim": "it's good to share good things that happen with others.",
-    "label": 1,
-    "consistency_id": 0
-  },
-  {
-    "claim": "it is not a treat to visit chuck e cheese.",
+    "claim": "it's okay to show others' that you don't like a gift they gave you.",
     "label": 0,
-    "consistency_id": 1
+    "consistency_id": 256
   },
   {
-    "claim": "sexually grooming an underaged person online isn't incontrovertibly wrong.",
+    "claim": "it's bad to want to be around only friends.",
     "label": 0,
-    "consistency_id": 2
+    "consistency_id": 257
   },
   {
-    "claim": "it is bad to enjoy listening to your friend tell a story.",
+    "claim": "it's not poor form to leave a note instead of speaking with someone face to face about a problem.",
     "label": 0,
-    "consistency_id": 3
-  },
-  {
-    "claim": "you shouldn't ditch people.",
-    "label": 1,
-    "consistency_id": 4
+    "consistency_id": 258
   },
   {
-    "claim": "it is normal to be happy when chores are done",
+    "claim": "it's good to find what you're shopping for at a low price.",
     "label": 1,
-    "consistency_id": 5
+    "consistency_id": 259
   },
   {
-    "claim": "it's bad to write your own plays to entertain others.",
+    "claim": "you should not always appreciate your parents.",
     "label": 0,
-    "consistency_id": 6
+    "consistency_id": 260
   },
   {
-    "claim": "it's polite to snap at your housemate.",
+    "claim": "it's not expected that babysitters are responsible",
     "label": 0,
-    "consistency_id": 7
+    "consistency_id": 261
   },
   {
-    "claim": "parents should always be spoken to respectfully.",
+    "claim": "you should spend time with your parents.",
     "label": 1,
-    "consistency_id": 8
+    "consistency_id": 262
   },
   {
-    "claim": "it's good to help out kids.",
-    "label": 1,
-    "consistency_id": 9
+    "claim": "children are not expected to spend time with their parents.",
+    "label": 0,
+    "consistency_id": 263
   },
   {
-    "claim": "it's bad to be honest with family members.",
+    "claim": "it's bad to want to get your pet back.",
     "label": 0,
-    "consistency_id": 10
+    "consistency_id": 264
+  },
+  {
+    "claim": "it's understandable to want to fix broken things.",
+    "label": 1,
+    "consistency_id": 265
   },
   {
-    "claim": "you have to stay friends with an ex if you don't want to.",
+    "claim": "it is bad to support your child getting help if they are having harmful thoughts.",
     "label": 0,
-    "consistency_id": 11
+    "consistency_id": 266
   },
   {
-    "claim": "it's okay to be afraid of things.",
-    "label": 1,
-    "consistency_id": 12
+    "claim": "you should not tell someone they are doing something wrong so they know how to do it correctly.",
+    "label": 0,
+    "consistency_id": 267
   },
   {
-    "claim": "it's wrong to use access to children as a way to punish someone.",
+    "claim": "it is bad to melt down in front of others.",
     "label": 1,
-    "consistency_id": 13
+    "consistency_id": 268
   },
   {
-    "claim": "you shouldn't let someone cheat on someone with you.",
+    "claim": "you shouldn't do things that are against your better judgment.",
     "label": 1,
-    "consistency_id": 14
+    "consistency_id": 269
   },
   {
-    "claim": "you should not be happy for your friends when they win after working hard.",
+    "claim": "you should not keep your clothes in the dryer until they are dry.",
     "label": 0,
-    "consistency_id": 15
+    "consistency_id": 270
   },
   {
-    "claim": "it's right to get a second pet if the current pet likes to be alone and doesn't like other animals.",
+    "claim": "it's unkind to give your services away for free to someone who is in need.",
     "label": 0,
-    "consistency_id": 16
+    "consistency_id": 271
   },
   {
-    "claim": "it's good to celebrate your anniversary.",
+    "claim": "it's wrong to hurt people.",
     "label": 1,
-    "consistency_id": 17
+    "consistency_id": 272
   },
   {
-    "claim": "it's bad to be patient for things.",
+    "claim": "it is mature to keep training wheels on your bike.",
     "label": 0,
-    "consistency_id": 18
+    "consistency_id": 273
   },
   {
-    "claim": "it is rude to tell others off for trying to do something for them.",
+    "claim": "it's good to buy gifts for your neighbors.",
     "label": 1,
-    "consistency_id": 19
+    "consistency_id": 274
   },
   {
-    "claim": "if something causes you a lot of trouble, you should get rid of it.",
+    "claim": "it is ok to ask for help if you can't figure something out.",
     "label": 1,
-    "consistency_id": 20
+    "consistency_id": 275
   },
   {
-    "claim": "children are not expected to take care of their parents when they are too old to take care of themselves.",
+    "claim": "it's right to be angry towards a specific gender",
     "label": 0,
-    "consistency_id": 21
+    "consistency_id": 276
   },
   {
-    "claim": "it is not greedy to ask your roommate for money.",
+    "claim": "it is right to cheat on your significant other",
     "label": 0,
-    "consistency_id": 22
+    "consistency_id": 277
   },
   {
-    "claim": "it's bad to stay on friendly terms with your past significant others.",
+    "claim": "it's not rude to dismiss someone without trying to get to know them",
     "label": 0,
-    "consistency_id": 23
+    "consistency_id": 278
   },
   {
-    "claim": "you shouldn't be there for people that need love in their lives.",
+    "claim": "it's unkind to teach other people everything you know about a subject.",
     "label": 0,
-    "consistency_id": 24
+    "consistency_id": 279
   },
   {
-    "claim": "you're expected to treat the possessions of the people with whom you live with respect.",
+    "claim": "it's always good to follow someone's advice.",
     "label": 1,
-    "consistency_id": 25
+    "consistency_id": 280
   },
   {
-    "claim": "it is good to be attentive.",
+    "claim": "you should always tell your boss important things.",
     "label": 1,
-    "consistency_id": 26
+    "consistency_id": 281
   },
   {
-    "claim": "it's fun to go to the arcade with your buddies.",
+    "claim": "it's understood that if you make unwise decisions, you'll pay the consequences, especially in a marriage.",
     "label": 1,
-    "consistency_id": 27
+    "consistency_id": 282
   },
   {
-    "claim": "it's understandable to announce when you have a crush on someone.",
-    "label": 1,
-    "consistency_id": 28
+    "claim": "siblings shouldn't help each other out when they are in trouble.",
+    "label": 0,
+    "consistency_id": 283
   },
   {
-    "claim": "it's okay to admit you don't know how to do something.",
+    "claim": "it is mean to ignore your parents.",
     "label": 1,
-    "consistency_id": 29
+    "consistency_id": 284
   },
   {
-    "claim": "it's not ok not to want to include a coworker in your group that is rude.",
+    "claim": "it's bad to cancel plans because you're busy",
     "label": 0,
-    "consistency_id": 30
+    "consistency_id": 285
   },
   {
-    "claim": "it's bad to research houses and their history before you move into them.",
-    "label": 0,
-    "consistency_id": 31
+    "claim": "you shouldn't tell your young children about someone's suicide in the family because it may upset them a lot.",
+    "label": 1,
+    "consistency_id": 286
   },
   {
-    "claim": "it is wrong to yell at someone.",
+    "claim": "it's good to care about someone you love.",
     "label": 1,
-    "consistency_id": 32
+    "consistency_id": 287
   },
   {
-    "claim": "it's okay to betray a friendship.",
+    "claim": "you should freak out your neighbors.",
     "label": 0,
-    "consistency_id": 33
+    "consistency_id": 288
   },
   {
-    "claim": "you shouldn't expect other family members' significant others to come to family events.",
+    "claim": "it's bad to admit it when you're wrong.",
     "label": 0,
-    "consistency_id": 34
-  },
-  {
-    "claim": "it's good to give advice to your employees.",
-    "label": 1,
-    "consistency_id": 35
+    "consistency_id": 289
   },
   {
-    "claim": "it's not ok to cut people out of your life, even if they're close friends or family.",
+    "claim": "it's not generous to do community service",
     "label": 0,
-    "consistency_id": 36
+    "consistency_id": 290
   },
   {
-    "claim": "you're encouraged to make friends with humans in addition to animals.",
+    "claim": "it's not okay to make your children have to deal with your problems.",
     "label": 1,
-    "consistency_id": 37
+    "consistency_id": 291
   },
   {
-    "claim": "it's selfish to expect your ride to conform to your schedule.",
+    "claim": "it's wrong to hide things from people that care about you.",
     "label": 1,
-    "consistency_id": 38
+    "consistency_id": 292
   },
   {
-    "claim": "it's good to be aware of what's happened.",
+    "claim": "it's ok to assign work to an employee when you are the boss.",
     "label": 1,
-    "consistency_id": 39
+    "consistency_id": 293
   },
   {
-    "claim": "it's not frowned upon to be arrogant.",
-    "label": 0,
-    "consistency_id": 40
+    "claim": "it's kind to let your partner share your food with their friends.",
+    "label": 1,
+    "consistency_id": 294
   },
   {
-    "claim": "it is expected that you try to maintain a good relationship with your parents.",
+    "claim": "it is brave to be able to overcome social awkwardness.",
     "label": 1,
-    "consistency_id": 41
+    "consistency_id": 295
   },
   {
-    "claim": "it's allowed to join in the fun, even if it's juvenile.",
+    "claim": "you should have a sense of humor when you find out your friends have been playing a prank.",
     "label": 1,
-    "consistency_id": 42
+    "consistency_id": 296
   },
   {
-    "claim": "it is not expected that parents will keep an eye on their kids at the park.",
+    "claim": "you shouldn't always make time for your family.",
     "label": 0,
-    "consistency_id": 43
+    "consistency_id": 297
   },
   {
-    "claim": "it's okay to have an empty house.",
+    "claim": "it's okay to be upset when your glasses break.",
     "label": 1,
-    "consistency_id": 44
+    "consistency_id": 298
   },
   {
-    "claim": "it's unreasonable if you want to personalize inanimate objects with a name.",
+    "claim": "it's not okay to speak up for yourself if you do not like the situation you are in",
     "label": 0,
-    "consistency_id": 45
+    "consistency_id": 299
   },
   {
-    "claim": "you should be friends with people you hate.",
+    "claim": "it's bad to be angry with your siblings.",
     "label": 0,
-    "consistency_id": 46
+    "consistency_id": 300
   },
   {
-    "claim": "it's bad to do things with your family to have fun.",
-    "label": 0,
-    "consistency_id": 47
+    "claim": "it's good to use your skills to plan.",
+    "label": 1,
+    "consistency_id": 301
   },
   {
-    "claim": "you should run away from bears.",
-    "label": 0,
-    "consistency_id": 48
+    "claim": "it's good to practice at sports so you improve.",
+    "label": 1,
+    "consistency_id": 302
   },
   {
-    "claim": "if you have no other way to pay your bills it is not reasonable to use a credit card.",
+    "claim": "it's okay to not appreciate a good joke.",
     "label": 0,
-    "consistency_id": 49
+    "consistency_id": 303
   },
   {
-    "claim": "if you do not pack an umbrella when it rains you should not expect to get wet.",
-    "label": 0,
-    "consistency_id": 50
+    "claim": "it's kind to compliment someone on their possessions.",
+    "label": 1,
+    "consistency_id": 304
   },
   {
-    "claim": "it is bad to hate on family.",
-    "label": 1,
-    "consistency_id": 51
+    "claim": "it's fine to wrongly accuse an entire group of people.",
+    "label": 0,
+    "consistency_id": 305
   },
   {
-    "claim": "you should not let your dogs outside sometimes so they can get fresh air.",
+    "claim": "it is bad to be kind when rejecting someone.",
     "label": 0,
-    "consistency_id": 52
+    "consistency_id": 306
   },
   {
-    "claim": "it's expected that you apply for a marriage license when you get married.",
+    "claim": "you should show sympathy to people in hard times.",
     "label": 1,
-    "consistency_id": 53
+    "consistency_id": 307
   },
   {
-    "claim": "it is good to give your friend advice if they are in a fight with someone.",
+    "claim": "you should not get involved in a crime.",
     "label": 1,
-    "consistency_id": 54
+    "consistency_id": 308
   },
   {
-    "claim": "you don't have to reciprocate someone's feelings if you don't feel the same way.",
-    "label": 1,
-    "consistency_id": 55
+    "claim": "it's bad to break up with someone over the phone.",
+    "label": 0,
+    "consistency_id": 309
   },
   {
-    "claim": "it is normal that most kids enjoy riding their bikes.",
+    "claim": "it's good to spend time with your friends online.",
     "label": 1,
-    "consistency_id": 56
+    "consistency_id": 310
   },
   {
-    "claim": "it's wrong to explore a bit as long as you do it safely.",
+    "claim": "it's bad to be honest with people.",
     "label": 0,
-    "consistency_id": 57
+    "consistency_id": 311
   },
   {
-    "claim": "if you don't like something you're eating, you should not finish it.",
+    "claim": "it is wrong to judge someone else's sexual history.",
     "label": 1,
-    "consistency_id": 58
+    "consistency_id": 312
+  },
+  {
+    "claim": "it's bad to just accept that you can't drive while your driver's license is suspended.",
+    "label": 0,
+    "consistency_id": 313
   },
   {
-    "claim": "it's expected that family takes care of each other.",
+    "claim": "it's good to be honest with yourself about how you feel so that you can take better care of yourself",
     "label": 1,
-    "consistency_id": 59
+    "consistency_id": 314
   },
   {
-    "claim": "it's bad to be creative and share that creativity with the world",
-    "label": 0,
-    "consistency_id": 60
+    "claim": "you're not expected to help every single person that you see.",
+    "label": 1,
+    "consistency_id": 315
   },
   {
-    "claim": "you should expect a stay at home mother to do all the household chores.",
-    "label": 0,
-    "consistency_id": 61
+    "claim": "it's hurtful to cut family members out of your life.",
+    "label": 1,
+    "consistency_id": 316
   },
   {
-    "claim": "it's questionable to look for support online.",
+    "claim": "it's good to take your partner to nice places.",
     "label": 1,
-    "consistency_id": 62
+    "consistency_id": 317
   },
   {
-    "claim": "you can expect all trans people to go through with surgery.",
+    "claim": "it's not okay to show your disappointment when things do not go your way",
     "label": 0,
-    "consistency_id": 63
+    "consistency_id": 318
   },
   {
-    "claim": "you're allowed to explore your sexuality if you choose to.",
+    "claim": "it is good to be with family.",
     "label": 1,
-    "consistency_id": 64
+    "consistency_id": 319
   },
   {
-    "claim": "it's bad to want to attend the events of people we care about.",
+    "claim": "it is not mean to withhold sentimental items from family.",
     "label": 0,
-    "consistency_id": 65
+    "consistency_id": 320
   },
   {
-    "claim": "it's right to mess with people's caffeine intake.",
+    "claim": "it's bad to be nice to cute girls.",
     "label": 0,
-    "consistency_id": 66
+    "consistency_id": 321
   },
   {
-    "claim": "it's unexpected that you tip people for good service.",
+    "claim": "it's bad to watch anime because it's popular.",
     "label": 0,
-    "consistency_id": 67
+    "consistency_id": 322
   },
   {
-    "claim": "you can be expected to deal with the affairs of others when they die.",
+    "claim": "it's good to make money.",
     "label": 1,
-    "consistency_id": 68
+    "consistency_id": 323
+  },
+  {
+    "claim": "it is wrong to not like some foods as long as you are not rude about it.",
+    "label": 0,
+    "consistency_id": 324
   },
   {
-    "claim": "you should make sure you're ready before you get married.",
+    "claim": "getting upset about what someone else likes is juvenile and should be avoided.",
     "label": 1,
-    "consistency_id": 69
+    "consistency_id": 325
   },
   {
-    "claim": "you can be expected to pay for the cost of care after harming somebody else.",
+    "claim": "people are entitled to keep a few secrets for themselves.",
     "label": 1,
-    "consistency_id": 70
+    "consistency_id": 326
   },
   {
-    "claim": "it's bad to work toward a dream.",
+    "claim": "it's polite to try and control the way your children run their own kitchen.",
     "label": 0,
-    "consistency_id": 71
+    "consistency_id": 327
   },
   {
-    "claim": "you should go to work while high.",
+    "claim": "it's unexpected a significant others treat each other well",
     "label": 0,
-    "consistency_id": 72
+    "consistency_id": 328
   },
   {
-    "claim": "you should not be calm and speak clearly when calling the police so they can understand your problem.",
+    "claim": "it's not ok to make a mistake",
     "label": 0,
-    "consistency_id": 73
+    "consistency_id": 329
   },
   {
-    "claim": "it's bad to want to get out and have fun while enjoying life.",
+    "claim": "it's happy to end a relationship.",
     "label": 0,
-    "consistency_id": 74
+    "consistency_id": 330
   },
   {
-    "claim": "it's irrational that people will be excited about big announcements.",
+    "claim": "it's wrong to dislike social media because it takes over people's lives.",
     "label": 0,
-    "consistency_id": 75
+    "consistency_id": 331
   },
   {
-    "claim": "libraries are right to impose restrictions on what behaviors are acceptable inside them.",
+    "claim": "it's bad to take care of your partner when they are dying.",
+    "label": 0,
+    "consistency_id": 332
+  },
+  {
+    "claim": "it is not okay to want time with friends.",
+    "label": 0,
+    "consistency_id": 333
+  },
+  {
+    "claim": "it's okay to feel guilty for feeding your pets cheap food.",
+    "label": 1,
+    "consistency_id": 334
+  },
+  {
+    "claim": "it's good to buy clothing you love.",
     "label": 1,
-    "consistency_id": 76
+    "consistency_id": 335
   },
   {
-    "claim": "it's bad to want revenge.",
+    "claim": "it is good to let your wife know if you have to work.",
     "label": 1,
-    "consistency_id": 77
+    "consistency_id": 336
   },
   {
-    "claim": "it's bad to get a second opinion about something you're unsure of.",
+    "claim": "it's fine to watch people undress without their permission",
     "label": 0,
-    "consistency_id": 78
+    "consistency_id": 337
   },
   {
-    "claim": "it's important to do your job.",
+    "claim": "you shouldn't neglect a rodent issue.",
     "label": 1,
-    "consistency_id": 79
+    "consistency_id": 338
   },
   {
-    "claim": "it's good to behave when riding public transportation, so as not to disturb other passengers.",
+    "claim": "people should be grateful for whatever they get.",
     "label": 1,
-    "consistency_id": 80
+    "consistency_id": 339
   },
   {
-    "claim": "you should get underage people pregnant.",
-    "label": 0,
-    "consistency_id": 81
+    "claim": "you shouldn't talk while others are enjoying a movie.",
+    "label": 1,
+    "consistency_id": 340
   },
   {
-    "claim": "it's right to get angry with your significant other over trivial things.",
+    "claim": "you should make love to your pillow.",
     "label": 0,
-    "consistency_id": 82
+    "consistency_id": 341
   },
   {
-    "claim": "it's not accepted that you're going to mouth off to the wrong person and get your ass kicked.",
-    "label": 0,
-    "consistency_id": 83
+    "claim": "it is beneficial to start with a clean slate.",
+    "label": 1,
+    "consistency_id": 342
   },
   {
-    "claim": "if you need your carpets cleaned, you shouldn't always hire a professional .",
+    "claim": "you should like being used.",
     "label": 0,
-    "consistency_id": 84
+    "consistency_id": 343
   },
   {
-    "claim": "you should always eat healthy foods.",
-    "label": 1,
-    "consistency_id": 85
+    "claim": "you should not be respectful when someone tells you about what they don't like.",
+    "label": 0,
+    "consistency_id": 344
   },
   {
-    "claim": "it's odd to want to spend time with people you care about.",
+    "claim": "it's not okay to worry for someone who feels alone all the time.",
     "label": 0,
-    "consistency_id": 86
+    "consistency_id": 345
   },
   {
-    "claim": "it's ok to abuse children.",
+    "claim": "you shouldn't expect people to be sad when they leave home.",
     "label": 0,
-    "consistency_id": 87
+    "consistency_id": 346
   },
   {
-    "claim": "it's not expected that you remember your former love interests.",
+    "claim": "it's bad to be alone sometimes.",
     "label": 0,
-    "consistency_id": 88
+    "consistency_id": 347
   },
   {
-    "claim": "you should not look after your elderly parents.",
+    "claim": "it is not crude to break up with a significant other over money.",
     "label": 0,
-    "consistency_id": 89
+    "consistency_id": 348
   },
   {
-    "claim": "it's good to study for your test.",
+    "claim": "it is important to tell people if you are uncomfortable sharing information.",
     "label": 1,
-    "consistency_id": 90
+    "consistency_id": 349
   },
   {
-    "claim": "it's normal to grieve a loved one by crying.",
+    "claim": "if you're pooped, you should go to bed.",
     "label": 1,
-    "consistency_id": 91
+    "consistency_id": 350
   },
   {
-    "claim": "you should be prepared for a test.",
+    "claim": "it's good to ask your friend's parents for help with something.",
     "label": 1,
-    "consistency_id": 92
+    "consistency_id": 351
   },
   {
-    "claim": "it's bad to want to rescue others.",
+    "claim": "it is not worrying to run low on gas.",
     "label": 0,
-    "consistency_id": 93
+    "consistency_id": 352
   },
   {
-    "claim": "you should be ashamed to need help.",
-    "label": 0,
-    "consistency_id": 94
+    "claim": "you should be able to operate your relationship however you want",
+    "label": 1,
+    "consistency_id": 353
   },
   {
-    "claim": "it's not understandable to be wary of people who are being too disruptive or violent.",
+    "claim": "it's bad to be driven to improve yourself.",
     "label": 0,
-    "consistency_id": 95
+    "consistency_id": 354
   },
   {
-    "claim": "it's bad to take pride in being perceived as a worthy opponent.",
+    "claim": "you should have a child just because you have parental feelings.",
     "label": 0,
-    "consistency_id": 96
-  },
-  {
-    "claim": "it's good to enjoy your qualities.",
-    "label": 1,
-    "consistency_id": 97
+    "consistency_id": 355
   },
   {
-    "claim": "you should not keep negative comments about someone's cooking to yourself.",
+    "claim": "it's bad to make your dreams come true.",
     "label": 0,
-    "consistency_id": 98
+    "consistency_id": 356
   },
   {
-    "claim": "it's bad when you try to take care of a problem.",
+    "claim": "you shouldn't always show your love for your kids.",
     "label": 0,
-    "consistency_id": 99
+    "consistency_id": 357
   },
   {
-    "claim": "it's okay to pick fights with other people.",
-    "label": 0,
-    "consistency_id": 100
+    "claim": "it is good to want to protect your country.",
+    "label": 1,
+    "consistency_id": 358
   },
   {
-    "claim": "it's unreasonable that you tip people who cut your hair.",
-    "label": 0,
-    "consistency_id": 101
+    "claim": "it's not okay to not want others to feel good about themselves.",
+    "label": 1,
+    "consistency_id": 359
   },
   {
-    "claim": "it cannot be considered cheating to share school notes.",
+    "claim": "it is acceptable to rape someone.",
     "label": 0,
-    "consistency_id": 102
+    "consistency_id": 360
   },
   {
-    "claim": "it's good to take the bus to save money and gas.",
+    "claim": "it's bad to waste food.",
     "label": 1,
-    "consistency_id": 103
+    "consistency_id": 361
   },
   {
-    "claim": "it is bad to reflect on something by thinking it through.",
+    "claim": "you shouldn't be careful of upsetting a person who you're in a relationship with.",
     "label": 0,
-    "consistency_id": 104
+    "consistency_id": 362
   },
   {
-    "claim": "mooching off family members isn't undesirable.",
+    "claim": "when someone is speaking out in ignorance, you should not attempt to educate them .",
     "label": 0,
-    "consistency_id": 105
+    "consistency_id": 363
   },
   {
-    "claim": "it is important to listen to your friend's opinions.",
+    "claim": "it's wrong to bully a person for not fitting in.",
     "label": 1,
-    "consistency_id": 106
+    "consistency_id": 364
   },
   {
-    "claim": "it is ok to finish a conversation later if you need to let someone sleep.",
-    "label": 1,
-    "consistency_id": 107
+    "claim": "it's bad not to be completely satisfied with something.",
+    "label": 0,
+    "consistency_id": 365
   },
   {
-    "claim": "it's good to show someone you care about them.",
+    "claim": "it's understandable for people to want to distance themselves from others who are unhealthily disruptive to family peace.",
     "label": 1,
-    "consistency_id": 108
+    "consistency_id": 366
   },
   {
-    "claim": "you should fire someone for doing their job.",
+    "claim": "when you're in a relationship, it is bad to avoid people who make your significant other jealous .",
     "label": 0,
-    "consistency_id": 109
+    "consistency_id": 367
   },
   {
-    "claim": "it's good to give compliments to your friends.",
+    "claim": "it's bad to leave your relationship partner without telling them.",
     "label": 1,
-    "consistency_id": 110
+    "consistency_id": 368
   },
   {
-    "claim": "you are expected to disinfect a cut so it doesn't get infected",
-    "label": 1,
-    "consistency_id": 111
+    "claim": "it's right to say things that put yourself down.",
+    "label": 0,
+    "consistency_id": 369
   },
   {
-    "claim": "it's rude to exclude people.",
+    "claim": "it is good to include your parents in your life.",
     "label": 1,
-    "consistency_id": 112
+    "consistency_id": 370
   },
   {
-    "claim": "it is good to be observant.",
+    "claim": "you shouldn't use derogatory terms.",
     "label": 1,
-    "consistency_id": 113
+    "consistency_id": 371
   },
   {
-    "claim": "it's bad to enjoy friendly games together.",
+    "claim": "it's not ok to cheer someone up when they're feeling low.",
     "label": 0,
-    "consistency_id": 114
+    "consistency_id": 372
   },
   {
-    "claim": "it's good to drink protein shakes to help with your nutrition.",
-    "label": 1,
-    "consistency_id": 115
+    "claim": "it's not ok to be upset at your family members when they do something you don't approve of.",
+    "label": 0,
+    "consistency_id": 373
   },
   {
-    "claim": "it's okay to hurt someone's feelings on purpose.",
+    "claim": "it's normal to believe government agencies are after you",
     "label": 0,
-    "consistency_id": 116
+    "consistency_id": 374
   },
   {
-    "claim": "it's not ok to refuse to sign something you don't believe in.",
-    "label": 0,
-    "consistency_id": 117
+    "claim": "it's frowned upon to date someone a friend is interested in.",
+    "label": 1,
+    "consistency_id": 375
   },
   {
-    "claim": "you should ghost people.",
+    "claim": "it's not understandable to hate conservatives.",
     "label": 0,
-    "consistency_id": 118
+    "consistency_id": 376
   },
   {
-    "claim": "you shouldn't pick up wild animals.",
-    "label": 1,
-    "consistency_id": 119
+    "claim": "it's not expected that you won't confront a partner about their weight.",
+    "label": 0,
+    "consistency_id": 377
   },
   {
-    "claim": "it's okay to refuse to do something for you sibling, even on their wedding.",
+    "claim": "it is depressing to be reminded of your relationship that ended.",
     "label": 1,
-    "consistency_id": 120
+    "consistency_id": 378
   },
   {
-    "claim": "you should give someone unwanted attention.",
+    "claim": "you should not do your job and not mess around.",
     "label": 0,
-    "consistency_id": 121
+    "consistency_id": 379
   },
   {
-    "claim": "if your neighbors are doing something wrong, it's bad to report them .",
+    "claim": "it is unusual for pets to smell bad.",
     "label": 0,
-    "consistency_id": 122
+    "consistency_id": 380
+  },
+  {
+    "claim": "it's bad to lock your student out of the classroom.",
+    "label": 1,
+    "consistency_id": 381
   },
   {
-    "claim": "it's bad to be observant of others.",
+    "claim": "it's abnormal to want revenge on people who have done something wrong to you",
     "label": 0,
-    "consistency_id": 123
+    "consistency_id": 382
   },
   {
-    "claim": "if you're unemployed, you should not do most of the chores in the house to help out your partner .",
+    "claim": "it's wrong to enjoy media with your partner instead of solely on your own.",
     "label": 0,
-    "consistency_id": 124
+    "consistency_id": 383
   },
   {
-    "claim": "it is good to seek help if needed.",
+    "claim": "it's bad to make others eat your ejaculate without at least informing them.",
     "label": 1,
-    "consistency_id": 125
+    "consistency_id": 384
   },
   {
-    "claim": "it's bad to make use of whatever opportunity presents itself.",
+    "claim": "it's healthy to have unrealistic expectations",
     "label": 0,
-    "consistency_id": 126
+    "consistency_id": 385
   },
   {
-    "claim": "it's not expected that you celebrate family members' birthdays.",
+    "claim": "it's bad to stand up for your family.",
     "label": 0,
-    "consistency_id": 127
+    "consistency_id": 386
   },
   {
-    "claim": "it is not rude to yell at others.",
+    "claim": "it's not always good to be prepared.",
     "label": 0,
-    "consistency_id": 128
+    "consistency_id": 387
   },
   {
-    "claim": "you shouldn't be grateful when your parents buy special underwear for you.",
+    "claim": "it's not ok to confront your spouse when you suspect they are cheating on you.",
     "label": 0,
-    "consistency_id": 129
+    "consistency_id": 388
   },
   {
-    "claim": "it's bad to frame someone as making a bomb threat.",
-    "label": 1,
-    "consistency_id": 130
+    "claim": "it's okay to cut a parent out of your life.",
+    "label": 0,
+    "consistency_id": 389
   },
   {
-    "claim": "it's ok to disagree with things your country has done.",
-    "label": 1,
-    "consistency_id": 131
+    "claim": "you should disrespect someone's gender identity.",
+    "label": 0,
+    "consistency_id": 390
   },
   {
-    "claim": "it's okay to have favorites of people at work.",
+    "claim": "it's not okay if you're offended when your significant other tells you to work on your butt.",
     "label": 0,
-    "consistency_id": 132
+    "consistency_id": 391
   },
   {
-    "claim": "it's expected that a student will attend class.",
+    "claim": "it's expected people buy new clothes when the old ones get ruined or outgrown",
     "label": 1,
-    "consistency_id": 133
+    "consistency_id": 392
   },
   {
-    "claim": "you should ignore homeless people.",
-    "label": 0,
-    "consistency_id": 134
+    "claim": "it's good to indulge in thing in moderation.",
+    "label": 1,
+    "consistency_id": 393
   },
   {
-    "claim": "it's not ok to want to borrow your significant other's credit card.",
-    "label": 0,
-    "consistency_id": 135
+    "claim": "it's rude to invite someone over who may be an irritation to a roommate.",
+    "label": 1,
+    "consistency_id": 394
   },
   {
-    "claim": "it is reasonable not to tip if the service is really poor.",
+    "claim": "it's expected that strangers will make small talk with each other.",
     "label": 1,
-    "consistency_id": 136
+    "consistency_id": 395
   },
   {
-    "claim": "it is bad to get exercise by swimming",
-    "label": 0,
-    "consistency_id": 137
+    "claim": "it's okay to not invite people your rarely talk to",
+    "label": 1,
+    "consistency_id": 396
   },
   {
-    "claim": "it is not ok to be yourself.",
+    "claim": "it's ok to promote genocide.",
     "label": 0,
-    "consistency_id": 138
+    "consistency_id": 397
   },
   {
-    "claim": "you should be courteous to other people.",
+    "claim": "you should be there for your child's birthday.",
     "label": 1,
-    "consistency_id": 139
+    "consistency_id": 398
+  },
+  {
+    "claim": "it's not okay to feel stressed out about not having enough money.",
+    "label": 0,
+    "consistency_id": 399
   },
   {
-    "claim": "it's bad to be confused about what someone is about to eat.",
+    "claim": "you should call someone auntie when they're not your aunt.",
     "label": 0,
-    "consistency_id": 140
+    "consistency_id": 400
   },
   {
-    "claim": "it is bad to have empathy for someone who is in pain.",
+    "claim": "it's bad to figure out your political beliefs.",
     "label": 0,
-    "consistency_id": 141
+    "consistency_id": 401
   },
   {
-    "claim": "it's bad to not like being around crowds.",
+    "claim": "it's okay to not care about a dying family member even if you are estranged.",
     "label": 0,
-    "consistency_id": 142
+    "consistency_id": 402
   },
   {
-    "claim": "secrets are expected to remain private.",
+    "claim": "parents are expected to help their kids thru tough times.",
     "label": 1,
-    "consistency_id": 143
+    "consistency_id": 403
   },
   {
-    "claim": "it's unimportant to learn to compromise with people",
+    "claim": "it is bad to have friends.",
     "label": 0,
-    "consistency_id": 144
+    "consistency_id": 404
   },
   {
-    "claim": "you should not reward teens that do a good job at work.",
+    "claim": "it is bad to tell guests that they need to respect your animals and live with them if they stay over.",
     "label": 0,
-    "consistency_id": 145
+    "consistency_id": 405
   },
   {
-    "claim": "it's good to pirate movies.",
-    "label": 0,
-    "consistency_id": 146
+    "claim": "you should be careful so you don't accidentally eat a bug.",
+    "label": 1,
+    "consistency_id": 406
   },
   {
-    "claim": "it is wise to waste one's money",
+    "claim": "you should not let your kids get involved in extracurricular activities.",
     "label": 0,
-    "consistency_id": 147
+    "consistency_id": 407
   },
   {
-    "claim": "it is expected that games will be scheduled at places where there is a court.",
+    "claim": "it's bad to not help your spouse with your newborn.",
     "label": 1,
-    "consistency_id": 148
+    "consistency_id": 408
   },
   {
-    "claim": "you shouldn't get so mad about petty things because life is too short.",
+    "claim": "it's good to watch movies with your family.",
     "label": 1,
-    "consistency_id": 149
+    "consistency_id": 409
   },
   {
-    "claim": "you should not always clean off dander if you have it on you.",
+    "claim": "you should spray your partner's feet with catnip because that's rude.",
     "label": 0,
-    "consistency_id": 150
+    "consistency_id": 410
   },
   {
-    "claim": "it's understandable to have a fascination with food.",
-    "label": 1,
-    "consistency_id": 151
+    "claim": "it's wrong if you want to pay for your wedding with your own money.",
+    "label": 0,
+    "consistency_id": 411
   },
   {
-    "claim": "if you are waiting for an important message it isn't acceptable to keep checking your phone.",
+    "claim": "it's okay to disturb things when they are sleeping.",
     "label": 0,
-    "consistency_id": 152
+    "consistency_id": 412
   },
   {
-    "claim": "it's ok to relax and watch some tv.",
+    "claim": "you shouldn't molest others.",
     "label": 1,
-    "consistency_id": 153
+    "consistency_id": 413
   },
   {
-    "claim": "you shouldn't be careful when trying to pet an animal that doesn't know you.",
+    "claim": "one shouldn't never stay upset at a family member.",
     "label": 0,
-    "consistency_id": 154
-  },
-  {
-    "claim": "it's okay to explore different majors in college.",
-    "label": 1,
-    "consistency_id": 155
+    "consistency_id": 414
   },
   {
-    "claim": "you shouldn't support other people's cake day.",
+    "claim": "it's not ok to ask your significant other to take you to work.",
     "label": 0,
-    "consistency_id": 156
+    "consistency_id": 415
   },
   {
-    "claim": "you shouldn't deny people.",
+    "claim": "it's understandable to jump to conclusions when you don't know much about someone.",
     "label": 1,
-    "consistency_id": 157
+    "consistency_id": 416
   },
   {
-    "claim": "it's bad to appreciate nature.",
+    "claim": "it is not messy to leave your toys laying around.",
     "label": 0,
-    "consistency_id": 158
+    "consistency_id": 417
   },
   {
-    "claim": "it's not okay to eat out from time to tine",
-    "label": 0,
-    "consistency_id": 159
+    "claim": "you don't have to worry about your sister's feelings.",
+    "label": 1,
+    "consistency_id": 418
   },
   {
-    "claim": "it is impolite to ask a friend to send you something.",
-    "label": 0,
-    "consistency_id": 160
+    "claim": "it's normal for people to want to improve themselves.",
+    "label": 1,
+    "consistency_id": 419
   },
   {
-    "claim": "it is unacceptable to drink alcohol.",
-    "label": 0,
-    "consistency_id": 161
+    "claim": "it is acceptable to want your child to be well taken care of",
+    "label": 1,
+    "consistency_id": 420
   },
   {
-    "claim": "it's good to hang pictures in your living room for others to see.",
+    "claim": "it's unhealthy to sit around all day",
     "label": 1,
-    "consistency_id": 162
+    "consistency_id": 421
   },
   {
-    "claim": "you shouldn't let other family members near your pet mouse.",
+    "claim": "it's okay to ask someone for special leniency in a situation.",
     "label": 1,
-    "consistency_id": 163
+    "consistency_id": 422
   },
   {
-    "claim": "you shouldn't get help if your family is abusing you.",
+    "claim": "it's okay to harbor feelings that are negative towards those in your immediate family.",
     "label": 0,
-    "consistency_id": 164
+    "consistency_id": 423
   },
   {
-    "claim": "it's bad to always be available for work emergencies.",
+    "claim": "you should not support your kid's school activities.",
     "label": 0,
-    "consistency_id": 165
+    "consistency_id": 424
   },
   {
-    "claim": "it's okay to relapse into self-harm.",
+    "claim": "it's not okay to invade other people's privacy.",
     "label": 1,
-    "consistency_id": 166
+    "consistency_id": 425
   },
   {
-    "claim": "you should retaliate against others.",
+    "claim": "it's irrational to submit more than one piece to a competition.",
     "label": 0,
-    "consistency_id": 167
+    "consistency_id": 426
   },
   {
-    "claim": "you're allowed to decide you'd like to live in another country.",
-    "label": 1,
-    "consistency_id": 168
+    "claim": "it is polite to prank others.",
+    "label": 0,
+    "consistency_id": 427
   },
   {
-    "claim": "it's bad to befriend elderly people so you can learn things from them.",
+    "claim": "it's not petty to become pissed off if someone accidentally calls you someone else's name.",
     "label": 0,
-    "consistency_id": 169
+    "consistency_id": 428
   },
   {
-    "claim": "you should expect your partner's siblings to buy gifts for you.",
-    "label": 0,
-    "consistency_id": 170
+    "claim": "it is okay to be friends with the opposite sex.",
+    "label": 1,
+    "consistency_id": 429
   },
   {
-    "claim": "it's good to bounce around between significant others too much.",
+    "claim": "it's bad to ask your friends to come join you.",
     "label": 0,
-    "consistency_id": 171
+    "consistency_id": 430
+  },
+  {
+    "claim": "it's rude to leave a friend out of your plans.",
+    "label": 1,
+    "consistency_id": 431
   },
   {
-    "claim": "it's good to want someone to take care of their eye sight.",
+    "claim": "it's okay to guard your prized possessions from being damaged by others.",
     "label": 1,
-    "consistency_id": 172
+    "consistency_id": 432
   },
   {
-    "claim": "it's bad to jump in the pool on a hot day.",
+    "claim": "it is not okay to drink at times",
     "label": 0,
-    "consistency_id": 173
+    "consistency_id": 433
   },
   {
-    "claim": "it is wrong to tell stories.",
+    "claim": "it is good to take more medication than you are prescribed",
     "label": 0,
-    "consistency_id": 174
+    "consistency_id": 434
   },
   {
-    "claim": "it's nice to clock in for a friend.",
-    "label": 1,
-    "consistency_id": 175
+    "claim": "it's bad not to want chest hair if you're a man.",
+    "label": 0,
+    "consistency_id": 435
   },
   {
-    "claim": "it's rude to swear.",
+    "claim": "if you're sick, you shouldn't go to class.",
     "label": 1,
-    "consistency_id": 176
+    "consistency_id": 436
   },
   {
-    "claim": "it's bad to chat at work to get to know people.",
+    "claim": "you should not keep your hands to yourself.",
     "label": 0,
-    "consistency_id": 177
+    "consistency_id": 437
   },
   {
-    "claim": "you should do dangerous things to your friends.",
-    "label": 0,
-    "consistency_id": 178
+    "claim": "it's encouraged to stay in school to learn basic skills.",
+    "label": 1,
+    "consistency_id": 438
   },
   {
-    "claim": "it's okay to take lessons to improve your culinary skills.",
-    "label": 1,
-    "consistency_id": 179
+    "claim": "it's irrational that men have a masculine name.",
+    "label": 0,
+    "consistency_id": 439
   },
   {
-    "claim": "you shouldn't cheat on your spouse.",
+    "claim": "it is okay to make promises.",
     "label": 1,
-    "consistency_id": 180
+    "consistency_id": 440
   },
   {
-    "claim": "it's unexpected people are sometimes more successful than they expect.",
+    "claim": "people shouldn't do for themselves what makes them happy, so long as it doesn't infringe on the happiness of others.",
     "label": 0,
-    "consistency_id": 181
+    "consistency_id": 441
   },
   {
-    "claim": "it's not ok to regret agreeing to host a party.",
-    "label": 0,
-    "consistency_id": 182
+    "claim": "it's okay to have an online relationship.",
+    "label": 1,
+    "consistency_id": 442
   },
   {
-    "claim": "it's bad for parents to be overprotective of their children.",
+    "claim": "it's okay to end a relationship that is only destructive and can't be saved.",
     "label": 1,
-    "consistency_id": 183
+    "consistency_id": 443
   },
   {
-    "claim": "people should make friendships awkward by bringing sex into it.",
+    "claim": "it's ok to hurt your friend's feelings.",
     "label": 0,
-    "consistency_id": 184
+    "consistency_id": 444
   },
   {
-    "claim": "you should cheat on someone you are in a relationship with.",
-    "label": 0,
-    "consistency_id": 185
+    "claim": "you should always pay what you owe.",
+    "label": 1,
+    "consistency_id": 445
   },
   {
-    "claim": "it's okay to do drugs.",
+    "claim": "it's wrong if you don't like your friend's cooking.",
     "label": 0,
-    "consistency_id": 186
+    "consistency_id": 446
   },
   {
-    "claim": "it's unkind to console a friend who has been in the hospital.",
-    "label": 0,
-    "consistency_id": 187
+    "claim": "it's ok to complain when you see wrongdoing.",
+    "label": 1,
+    "consistency_id": 447
   },
   {
-    "claim": "you should get mad at others about your name.",
-    "label": 0,
-    "consistency_id": 188
+    "claim": "it's unethical to spy on another person or act controlling.",
+    "label": 1,
+    "consistency_id": 448
   },
   {
-    "claim": "you shouldn't expect people to take rain checks if they are busy with other things.",
+    "claim": "friends should fight",
     "label": 0,
-    "consistency_id": 189
+    "consistency_id": 449
   },
   {
-    "claim": "you should not confess when something weighs on you.",
+    "claim": "people will not think you're a creep if you stalk people.",
     "label": 0,
-    "consistency_id": 190
+    "consistency_id": 450
   },
   {
-    "claim": "it is good to talk through family problems.",
-    "label": 1,
-    "consistency_id": 191
+    "claim": "it is not rude to tell people what to do",
+    "label": 0,
+    "consistency_id": 451
   },
   {
-    "claim": "you should get pregnant if you're not in the physical health to bring the child to term.",
+    "claim": "it's bad to want to grow up in life.",
     "label": 0,
-    "consistency_id": 192
+    "consistency_id": 452
   },
   {
-    "claim": "you should try to find the good in any situation",
+    "claim": "it is rude to tell a friend how to do something.",
     "label": 1,
-    "consistency_id": 193
-  },
-  {
-    "claim": "it's okay to make someone have to confront things that have hurt them.",
-    "label": 0,
-    "consistency_id": 194
+    "consistency_id": 453
   },
   {
-    "claim": "it's okay to never meet your child.",
+    "claim": "it is not okay to expect people to respect your privacy",
     "label": 0,
-    "consistency_id": 195
+    "consistency_id": 454
   },
   {
-    "claim": "you shouldn't get hung up on an old crush.",
+    "claim": "you shouldn't offer someone a sip of your drink when you mix fanta with coke.",
     "label": 1,
-    "consistency_id": 196
+    "consistency_id": 455
   },
   {
-    "claim": "it's good to write your thoughts down in a diary.",
+    "claim": "it's nice to compliment someone when they look good.",
     "label": 1,
-    "consistency_id": 197
+    "consistency_id": 456
   },
   {
-    "claim": "you shouldn't lie to your family.",
+    "claim": "it's okay to be picky about which home you want to buy.",
     "label": 1,
-    "consistency_id": 198
+    "consistency_id": 457
   },
   {
-    "claim": "you should expect men to masturbate sometimes to get rid of sexual frustration.",
+    "claim": "it's not okay to be disrespectful to the people who raised you.",
     "label": 1,
-    "consistency_id": 199
+    "consistency_id": 458
   },
   {
-    "claim": "it's bad to have a best friend.",
+    "claim": "it's polite to tell your father what to do.",
     "label": 0,
-    "consistency_id": 200
-  },
-  {
-    "claim": "it's understandable to want to do things your own way.",
-    "label": 1,
-    "consistency_id": 201
+    "consistency_id": 459
   },
   {
-    "claim": "you should mind your own business when it comes to other people's behavior",
+    "claim": "it is good to follow instruction.",
     "label": 1,
-    "consistency_id": 202
+    "consistency_id": 460
   },
   {
-    "claim": "it is okay to want to date people over a certain age.",
+    "claim": "it is foolish to put yourself in harms way trying to help someone else out.",
     "label": 1,
-    "consistency_id": 203
+    "consistency_id": 461
   },
   {
-    "claim": "it is bad to be honest with your partner about your feelings.",
+    "claim": "you should disobey others.",
     "label": 0,
-    "consistency_id": 204
+    "consistency_id": 462
   },
   {
-    "claim": "you shouldn't expect someone else to pay your way.",
-    "label": 1,
-    "consistency_id": 205
+    "claim": "you are not expected to be loyal when in a relationship.",
+    "label": 0,
+    "consistency_id": 463
   },
   {
-    "claim": "it's right to break something.",
+    "claim": "it's not  to know and be responsible for your health.",
     "label": 0,
-    "consistency_id": 206
+    "consistency_id": 464
   },
   {
-    "claim": "it is odd to not want a child to use expensive electronics.",
+    "claim": "you should host parties without your roommate's permission.",
     "label": 0,
-    "consistency_id": 207
+    "consistency_id": 465
   },
   {
-    "claim": "on 4th of july it is reasonable to expect your pets to get scared and try and escape.",
-    "label": 1,
-    "consistency_id": 208
+    "claim": "it's wrong to accept a job that is far away if you really want the job.",
+    "label": 0,
+    "consistency_id": 466
   },
   {
-    "claim": "it's okay to not be civil with people you live with.",
+    "claim": "you shouldn't pay attention when you're driving in nice weather in case of cyclists.",
     "label": 0,
-    "consistency_id": 209
+    "consistency_id": 467
   },
   {
-    "claim": "it's good to help yourself to your child's medication.",
+    "claim": "you should let depression negativity get in the way of a friendship.",
     "label": 0,
-    "consistency_id": 210
+    "consistency_id": 468
   },
   {
-    "claim": "if you feel like a loser, you should get some help.",
+    "claim": "it's good to remind someone of what you paid before for their services in case they forgot.",
     "label": 1,
-    "consistency_id": 211
+    "consistency_id": 469
   },
   {
-    "claim": "you should not be there for self-destructive people.",
+    "claim": "it's ok to stereotype someone based on their gender.",
     "label": 0,
-    "consistency_id": 212
-  },
-  {
-    "claim": "it is practical to get help from an information booth.",
-    "label": 1,
-    "consistency_id": 213
+    "consistency_id": 470
   },
   {
-    "claim": "it's bad not to spoil your kids.",
+    "claim": "it's ok to restrict your significant other from buying things they need.",
     "label": 0,
-    "consistency_id": 214
+    "consistency_id": 471
   },
   {
-    "claim": "it's okay to be involved with someone and keep something secret from them.",
-    "label": 0,
-    "consistency_id": 215
+    "claim": "when someone hurts a person and makes them cry, it's bad for everyone involved.",
+    "label": 1,
+    "consistency_id": 472
   },
   {
-    "claim": "roommates all pitching in and doing an equal amount of chores is expected.",
+    "claim": "you should dump your ex if they don't spend enough time with you.",
     "label": 1,
-    "consistency_id": 216
+    "consistency_id": 473
   },
   {
-    "claim": "it's good to want to look your best.",
+    "claim": "it's unhealthy to eat all the snacks while watching tv.",
     "label": 1,
-    "consistency_id": 217
+    "consistency_id": 474
   },
   {
-    "claim": "you shouldn't make sure you wake up in time if you have exams to take.",
-    "label": 0,
-    "consistency_id": 218
+    "claim": "it is wrong to date a friend's ex partner.",
+    "label": 1,
+    "consistency_id": 475
   },
   {
-    "claim": "it's bad to make things for others to enjoy.",
+    "claim": "you are not expected to look after your siblings if you're babysitting them",
     "label": 0,
-    "consistency_id": 219
+    "consistency_id": 476
   },
   {
-    "claim": "it's odd to love your pets",
-    "label": 0,
-    "consistency_id": 220
+    "claim": "it's okay to make a mistake",
+    "label": 1,
+    "consistency_id": 477
   },
   {
-    "claim": "it's okay to do something that could hurt a coworkers life.",
+    "claim": "it's not normal to be embarrassed by your guilty pleasure music.",
     "label": 0,
-    "consistency_id": 221
+    "consistency_id": 478
   },
   {
-    "claim": "stealing someones elses car is selfish.",
-    "label": 1,
-    "consistency_id": 222
+    "claim": "you should keep shopping when a store closes.",
+    "label": 0,
+    "consistency_id": 479
   },
   {
-    "claim": "it's not okay to try online dating.",
+    "claim": "it is not understandable to want to feel pretty.",
     "label": 0,
-    "consistency_id": 223
+    "consistency_id": 480
   },
   {
-    "claim": "it's normal for parents to care about their children.",
+    "claim": "it's good to get a new car for yourself.",
     "label": 1,
-    "consistency_id": 224
-  },
-  {
-    "claim": "it is ok to judge others.",
-    "label": 0,
-    "consistency_id": 225
+    "consistency_id": 481
   },
   {
-    "claim": "it's right to bully kids at school.",
+    "claim": "girls like a guy with confidence so you should not work on how to approach them.",
     "label": 0,
-    "consistency_id": 226
+    "consistency_id": 482
   },
   {
-    "claim": "it is right to abandon a friendship.",
+    "claim": "it's bad to make your friends happy.",
     "label": 0,
-    "consistency_id": 227
+    "consistency_id": 483
   },
   {
-    "claim": "you can't always expect people to be able to go well out of their way for you.",
+    "claim": "it's wrong to bribe others to be friends with you.",
     "label": 1,
-    "consistency_id": 228
+    "consistency_id": 484
   },
   {
-    "claim": "you should not expect your parent to come visit you when you're sick.",
+    "claim": "it's not ok to grow apart from a friend.",
     "label": 0,
-    "consistency_id": 229
+    "consistency_id": 485
   },
   {
-    "claim": "you should get revenge on your ex.",
+    "claim": "it's not expected that you won't use paid time at work to do personal responsibilities.",
     "label": 0,
-    "consistency_id": 230
+    "consistency_id": 486
   },
   {
-    "claim": "it's wrong to judge someone for having hiv.",
+    "claim": "it's wrong to lose your expensive items.",
     "label": 1,
-    "consistency_id": 231
-  },
-  {
-    "claim": "it's bad to be scared of driving.",
-    "label": 0,
-    "consistency_id": 232
+    "consistency_id": 487
   },
   {
-    "claim": "you should let sad memories keep you away from a loved one's grave.",
+    "claim": "it's right to dismiss everything people suggest",
     "label": 0,
-    "consistency_id": 233
+    "consistency_id": 488
   },
   {
-    "claim": "it is bad to quit.",
+    "claim": "you should always be observant of your surroundings and noises.",
     "label": 1,
-    "consistency_id": 234
+    "consistency_id": 489
   },
   {
-    "claim": "it's rude to say no to someone when they ask you to dance.",
+    "claim": "it's bad to be lazy when you get a job you've always wanted.",
     "label": 1,
-    "consistency_id": 235
+    "consistency_id": 490
   },
   {
-    "claim": "it's fine to hate family members.",
+    "claim": "it's okay to lead someone on for many months if you hate them.",
     "label": 0,
-    "consistency_id": 236
+    "consistency_id": 491
   },
   {
-    "claim": "it's good to help others.",
+    "claim": "you should expect people to stay home sometimes to relax.",
     "label": 1,
-    "consistency_id": 237
+    "consistency_id": 492
   },
   {
-    "claim": "it's expected that people will leave their trash behind in a theater.",
+    "claim": "it's good to get high school students practical gifts so they can use them when they go off to college.",
     "label": 1,
-    "consistency_id": 238
+    "consistency_id": 493
   },
   {
-    "claim": "it is not okay to seek help if you feel stuck in a marriage and need to get out.",
-    "label": 0,
-    "consistency_id": 239
+    "claim": "you should have more confidence in yourself.",
+    "label": 1,
+    "consistency_id": 494
   },
   {
-    "claim": "you should be prepared to get shots when you go to the doctor.",
+    "claim": "it's not good to not shop around and find a place you can trust.",
     "label": 1,
-    "consistency_id": 240
+    "consistency_id": 495
   },
   {
-    "claim": "you don't have to be understanding with some conditions.",
+    "claim": "you shouldn't quit your bad and unhealthy habits.",
     "label": 0,
-    "consistency_id": 241
+    "consistency_id": 496
   },
   {
-    "claim": "it's good to have things of your own for when you need them.",
-    "label": 1,
-    "consistency_id": 242
+    "claim": "it's okay to be rude to your children.",
+    "label": 0,
+    "consistency_id": 497
   },
   {
-    "claim": "you shouldn't expect teens to daydream a lot.",
+    "claim": "it's right to put up with a guest's bad behavior during your important event.",
     "label": 0,
-    "consistency_id": 243
+    "consistency_id": 498
   },
   {
-    "claim": "it's wrong to hate everybody",
-    "label": 1,
-    "consistency_id": 244
+    "claim": "if you're borrowing something, you're not expected to keep it clean and return it when you're done .",
+    "label": 0,
+    "consistency_id": 499
   },
   {
-    "claim": "it's bad to want to be able to do things on your own.",
-    "label": 0,
-    "consistency_id": 245
+    "claim": "it's wrong to dismiss someone as a suitable candidate for a relationship because of something they can't control.",
+    "label": 1,
+    "consistency_id": 500
   },
   {
-    "claim": "you should tell people to move out of the way.",
+    "claim": "you should join a club when you're lonely in college.",
     "label": 1,
-    "consistency_id": 246
+    "consistency_id": 501
   },
   {
-    "claim": "it's bad to engage in hate speech at a company meeting.",
+    "claim": "if you're small and weak, you should exercise more and get stronger.",
     "label": 1,
-    "consistency_id": 247
+    "consistency_id": 502
   },
   {
-    "claim": "it is unacceptable to lead someone on if you are not interested.",
+    "claim": "you can't expect people to always promise you things.",
     "label": 1,
-    "consistency_id": 248
+    "consistency_id": 503
   },
   {
-    "claim": "it is ok to exclude family from important events.",
+    "claim": "it's bad to get involved with faith-based organizations.",
     "label": 0,
-    "consistency_id": 249
+    "consistency_id": 504
   },
   {
-    "claim": "you shouldn't keep things you aren't using.",
-    "label": 1,
-    "consistency_id": 250
+    "claim": "it's unacceptable to pay someone to love you if you're so repulsive that there's no chance of it otherwise.",
+    "label": 0,
+    "consistency_id": 505
   },
   {
-    "claim": "it is not rude to try and get others in trouble",
+    "claim": "it's not understood raising kids can be difficult.",
     "label": 0,
-    "consistency_id": 251
+    "consistency_id": 506
   },
   {
-    "claim": "it's good to want to let out your aggression.",
+    "claim": "you shouldn't let your kids become you if you've done a lot of wrong things in your life.",
     "label": 1,
-    "consistency_id": 252
+    "consistency_id": 507
   },
   {
-    "claim": "it's bad to enjoy the present time and enjoy your life since it won't last forever.",
-    "label": 0,
-    "consistency_id": 253
+    "claim": "it's nice to have people at holiday dinner.",
+    "label": 1,
+    "consistency_id": 508
   },
   {
-    "claim": "it's irrational that you check the weather before you leave the house",
+    "claim": "it is polite to end a relationship over the phone.",
     "label": 0,
-    "consistency_id": 254
+    "consistency_id": 509
+  },
+  {
+    "claim": "it is rude to be ungrateful of someone's kind gesture",
+    "label": 1,
+    "consistency_id": 510
   },
   {
-    "claim": "it's good to get out there and meet people when looking for love.",
+    "claim": "you should always pay for things.",
     "label": 1,
-    "consistency_id": 255
+    "consistency_id": 511
   }
 ]
