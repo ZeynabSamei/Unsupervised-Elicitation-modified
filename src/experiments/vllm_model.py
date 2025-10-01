@@ -63,8 +63,19 @@ def predict_label(client, model, example):
         max_tokens=1,
         temperature=0
     )
-    score = response.choices[0].text.strip()
-    return int(score)
+    # score = response.choices[0].text.strip()
+    # return int(score)
+
+    score = response.choices[0].message.content.strip().lower()
+    
+    # Normalize the output
+    if score in ["1", "true", "yes"]:
+        return 1
+    elif score in ["0", "false", "no"]:
+        return 0
+    else:
+        print("⚠️ Unexpected model output:", score)
+        return 0
 
 
 def calculate_accuracy(demonstrations):
