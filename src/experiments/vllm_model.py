@@ -52,7 +52,7 @@ def predict_label(client, model, example):
         return 0
     else:
         print("⚠️ Unexpected model output:", score)
-        return -1
+        return score
 
 
 # ----------------------------
