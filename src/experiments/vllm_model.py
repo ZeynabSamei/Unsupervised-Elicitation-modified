@@ -65,17 +65,17 @@ def predict_label(client, model, example):
         temperature=0
     )
     score = response.choices[0].text.strip().lower()
-    print('score is:',len(score))
-    return int(score)
+    # print('score is:',len(score))
+    # return int(score)
     
     # # Normalize the output
-    # if score in ["1", "true", "yes" , "correct" , "reasonable" , "acceptable", "valid"]:
-    #     return 1
-    # elif score in ["0", "false", "no" , "wrong", "unreasonable" , "unacceptable", "invalid"]:
-    #     return 0
-    # else:
-    #     print("⚠️ Unexpected model output:", score)
-    #     return -1
+    if score in ["1", "true", "yes" , "correct" , "reasonable" , "acceptable", "valid" , ": 1"]:
+        return 1
+    elif score in ["0", "false", "no" , "wrong", "unreasonable" , "unacceptable", "invalid" , ": 0"]:
+        return 0
+    else:
+        print("⚠️ Unexpected model output:", score)
+        return -1
 
 
 def calculate_accuracy(demonstrations):
