@@ -25,7 +25,7 @@ def load_data(args):
     system_prompt= "You are an intelligent and objective assistant. Carefully read each statement and determine whether it is morally True (label 1) or False (label 0). Do not provide reasoning. Only output the label: 0 or 1."
     for i in train:
         i['source'] = 'moral_dataset'
-        i['consistency_key'] = 'A' if i['label'] else 'B'
+        # i['consistency_key'] = 'A' if i['label'] else 'B'
         i['system_prompt'] = system_prompt
         i['user_prompt'] = f"Claim: {i['claim']}\nI think this claim is"
 
