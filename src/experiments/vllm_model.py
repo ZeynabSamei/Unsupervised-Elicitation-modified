@@ -9,7 +9,7 @@ import argparse
 from core.llm_api.llm import ModelAPI
 from core.utils import setup_environment
 from src.tools.path_utils import get_root_directory
-
+from openai import OpenAI
 # ----------------------------
 # Helper functions
 # ----------------------------
@@ -63,14 +63,16 @@ def predict_label(model, example):
     """
     Use base model to predict label.
     """
-    response = model.completion(
+    client=OpenAI(api_key='EMPTY', base_url='http://127.0.0.1:8000/v1'
+    response = client.completions.create(
         prompt=example["prompt"],
         logprobs=20,
-        max_tokens=1
+        max_tokens=1,
+        model=model
     )
     # Here assume response[0]["score"] exists; adjust if ModelAPI returns differently
-    score = response[0]["score"]
-    return int(score > 0)
+    score = choices[0]["text"]
+    return score
 
 
 def calculate_accuracy(demonstrations):
