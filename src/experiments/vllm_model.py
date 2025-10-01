@@ -65,7 +65,7 @@ def predict_label(client, model, example):
         temperature=0
     )
     score = response.choices[0].text.strip().lower()
-    print('score is:',score)
+    print('score is:',type(score))
     
     # Normalize the output
     if score in ["1", "true", "yes" , "correct" , "reasonable" , "acceptable", "valid" , 1]:
