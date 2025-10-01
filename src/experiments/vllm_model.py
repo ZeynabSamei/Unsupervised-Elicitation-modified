@@ -59,7 +59,7 @@ def predict_label(client, model, example):
     full_prompt = f"{example['system_prompt']}\n{example['user_prompt']}"
     response = client.completions.create(
         model=model,
-        prompt=example["user_prompt"],
+        prompt=full_prompt,
         max_tokens=1,
         temperature=0
     )
