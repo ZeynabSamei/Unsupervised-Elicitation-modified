@@ -37,7 +37,9 @@ def initialize(train, fewshot_ids, args):
     Initialize demonstration dict and seed labels.
     """
     demonstrations = {}
-    random_init_labels = 1
+
+    random_init_labels = [1] * (args.num_seed // 2) + [0] * (args.num_seed // 2) 
+    random.shuffle(random_init_labels)
 
     for id, i in enumerate(fewshot_ids):
         item = train[i]
