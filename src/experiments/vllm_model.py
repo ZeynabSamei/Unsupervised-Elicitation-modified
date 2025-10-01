@@ -61,12 +61,12 @@ def predict_label(client, model, example):
     response = client.completions.create(
         model=model,
         prompt=full_prompt,
-        max_tokens=1,
+        max_tokens=5,
         temperature=0
     )
-
+    print(score)
     score = response.choices[0].text.strip().lower()
-
+    print('score is:',score)
     
     # Normalize the output
     if score in ["1", "true", "yes" , "correct" , "reasonable" , "acceptable", "valid" , 1]:
