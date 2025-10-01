@@ -59,7 +59,7 @@ def initialize(train, fewshot_ids, args):
 def predict_label(client, model, example):
     response = client.completions.create(
         model=model,
-        prompt=example["prompt"],
+        prompt=example["user_prompt"],
         max_tokens=1,
         temperature=0
     )
