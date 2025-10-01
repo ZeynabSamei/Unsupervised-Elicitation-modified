@@ -57,10 +57,11 @@ def initialize(train, fewshot_ids, args):
 
 def predict_label(client, model, example):
     full_prompt = f"{example['system_prompt']}\n{example['user_prompt']}"
+    print(full_prompt)
     response = client.completions.create(
         model=model,
         prompt=full_prompt,
-        max_tokens=1,
+        max_tokens=20,
         temperature=0
     )
 
