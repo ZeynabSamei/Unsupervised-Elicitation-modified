@@ -37,8 +37,7 @@ def initialize(train, fewshot_ids, args):
     Initialize demonstration dict and seed labels.
     """
     demonstrations = {}
-    random_init_labels = [1] * (args.num_seed // 2) + [0] * (args.num_seed // 2)
-    random.shuffle(random_init_labels)
+    random_init_labels = 0
 
     for id, i in enumerate(fewshot_ids):
         item = train[i]
@@ -61,10 +60,7 @@ def predict_label(client, model, example):
         max_tokens=1,
         temperature=0
     )
-    # score = response.choices[0].text.strip()
-    # return int(score)
 
-    # score = response.choices[0].message.content.strip().lower()
     score = response.choices[0].text.strip().lower()
 
     
@@ -75,7 +71,7 @@ def predict_label(client, model, example):
         return 0
     else:
         print("⚠️ Unexpected model output:", score)
-        return 0
+        return -1
 
 
 def calculate_accuracy(demonstrations):
