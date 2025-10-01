@@ -68,9 +68,9 @@ def predict_label(client, model, example):
 
     
     # Normalize the output
-    if score in ["1", "true", "yes" , "correct"]:
+    if score in ["1", "true", "yes" , "correct" , "reasonable" , "acceptable", "valid"]:
         return 1
-    elif score in ["0", "false", "no" , "wrong"]:
+    elif score in ["0", "false", "no" , "wrong", "unreasonable" , "unacceptable", "invalid"]:
         return 0
     else:
         print("⚠️ Unexpected model output:", score)
