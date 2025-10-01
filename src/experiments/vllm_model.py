@@ -66,7 +66,7 @@ def predict_label(client, model, example):
     )
     score = response.choices[0].text.strip().lower()
     print('score is:',len(score))
-    return int(s)
+    return int(score)
     
     # # Normalize the output
     # if score in ["1", "true", "yes" , "correct" , "reasonable" , "acceptable", "valid"]:
