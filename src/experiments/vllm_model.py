@@ -45,7 +45,7 @@ def load_data(args):
         fewshot = json.load(f)
 
     fewshot_text = ""
-    for item in fewshots:
+    for item in fewshot:
     # Convert label 1/0 to True/False
         fewshot_text += f"Claim: {item['claim']}\nAnswer: {str(label)}\n\n"
 
