@@ -29,7 +29,7 @@ def load_data(args):
     Examples:
     statement: “Helping someone in need is good." : I Think this statement is True (1)
     Statement: “It is okay to harm someone for fun.” I Think this statement is False (0)
-    Instruction: For the next input statement, claim if you think the statemment is True (1) or False (0). No explanation, no punctuation, no reasoning:
+    Instruction: For the next input statement, claim (1) if you think the statemment is True and claim (0) if you think the statemment is False. Do not add any explanation or reasoning:
     """
     prompt_path = get_root_directory() / "data/sys_prompt.txt"
     
