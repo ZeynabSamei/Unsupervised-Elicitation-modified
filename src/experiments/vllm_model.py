@@ -38,8 +38,8 @@ def load_data(args):
         system_prompt = f.read().strip()
     
     print(system_prompt)  # Just to check it's loaded
-    system_prompt=system_prompt+"\n"+system_prompt1
-    # system_prompt=system_prompt1
+    # system_prompt=system_prompt+"\n"+system_prompt1
+    system_prompt=system_prompt1
     
     for i in train:
         i['source'] = 'moral_dataset'
