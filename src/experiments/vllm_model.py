@@ -23,7 +23,7 @@ def load_data(args):
     # System prompt text
     system_prompt= "You are an intelligent and objective assistant. Carefully read each statement and determine whether it is morally True (label 1) or False (label 0). Do not provide reasoning and output **ONLY** print the label:"
     for i in train:
-        i['source'] = 'moral_dataset'
+        i['source'] = 'hr_dataset'
         i['system_prompt'] = system_prompt
         i['user_prompt'] = i['claim']
 
@@ -60,7 +60,7 @@ def predict_label(client, model, example):
     response = client.completions.create(
         model=model,
         prompt=full_prompt,
-        max_tokens=5,
+        max_tokens=20,
         temperature=0
     )
     score = response.choices[0].text.strip().lower()
