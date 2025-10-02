@@ -47,7 +47,7 @@ def load_data(args):
     fewshot_text = ""
     for item in fewshot:
     # Convert label 1/0 to True/False
-        fewshot_text += f"Claim: {item['claim']}\nAnswer: {str(label)}\n\n"
+        fewshot_text += f"Claim: {item['claim']}\nAnswer: {str(item["label"])}\n\n"
 
     
     print(system_prompt)  # Just to check it's loaded
