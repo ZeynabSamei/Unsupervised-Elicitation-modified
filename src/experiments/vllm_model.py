@@ -16,7 +16,7 @@ def load_data(args):
     """
     Load moral_dataset and prepare prompts.
     """
-    data_path = get_root_directory() / "data/train_hr_dataset.json"
+    data_path = get_root_directory() / "data/train_moral_dataset.json"
     with open(data_path) as f:
         train = json.load(f)
 
@@ -41,7 +41,7 @@ def load_data(args):
 
     
     for i in train:
-        i['source'] = 'hr_dataset'
+        i['source'] = 'moral_dataset'
         i['system_prompt'] = system_prompt
         i['user_prompt'] = i['claim']
 
