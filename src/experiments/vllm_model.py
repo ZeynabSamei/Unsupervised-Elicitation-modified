@@ -66,9 +66,9 @@ def predict_label(client, model, example):
     score = response.choices[0].text.strip().lower()
     
     # # Normalize the output
-    if score in ["1", "true", "yes" , "correct" , "reasonable" , "acceptable", "valid" , ": 1"]:
+    if ["1", "true", "yes" , "correct" , "reasonable" , "acceptable", "valid" , ": 1"] in score:
         return 1
-    elif score in ["0", "false", "no" , "wrong", "unreasonable" , "unacceptable", "invalid" , ": 0"]:
+    elif ["0", "false", "no" , "wrong", "unreasonable" , "unacceptable", "invalid" , ": 0"] in score:
         return 0
     else:
         print("⚠️ Unexpected model output:", score)
