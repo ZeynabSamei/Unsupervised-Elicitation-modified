@@ -24,22 +24,29 @@ def load_data(args):
     # system_prompt= "You are a labeling assistant. Your task is to read a given statement and classify it as morally True (1) or False (0). Output strictly one character: either '0' or '1'. Do not output any words, explanations, punctuation, or symbols. The answer must be exactly one digit."
     # system_prompt= "Task: Binary classification of moral statements. Output must be exactly one character:  1 = morally True  , 0 = morally False. No explanation. No words. Only output 0 or 1."
     system_prompt1="""
-    Mission: You are a moral classification assistant. For the input statement, Do you think the statemment is morally True (1) or False (0)? Yo must choose one of True or False:
+    Mission: You are a moral classification assistant. For the input statement, Do you think the statemment is morally True (1) or False (0)? Yo must choose one of True or False. Exmplaes:
     """
     # you judge whether a given statement is morally True (1) or morally False (0).
     # Principles: Be honest, consistent, and concise. Don’t make up things or deviate from the classification.
     # Examples:
     # statement: “Helping someone in need is good." : I Think this statement is True (1)
     # Statement: “It is okay to harm someone for fun.” I Think this statement is False (0)
+    
+    
+    
     prompt_path = get_root_directory() / "data/sys_prompt.txt"
+    fewshot_path = get_root_directory() / "data/fewshot.json"
     
     # Read the system prompt
     with open(prompt_path, "r", encoding="utf-8") as f:
         system_prompt = f.read().strip()
+
+    with open(fewshot_path) as f:
+        fewshot = json.load(f)
     
     print(system_prompt)  # Just to check it's loaded
     # system_prompt=system_prompt+"\n"+system_prompt1
-    system_prompt=system_prompt1
+    system_prompt=system_prompt1+fewshot+ "Now do you think the statemment is morally True (1) or False (0)?"
     
     for i in train:
         i['source'] = 'moral_dataset'
