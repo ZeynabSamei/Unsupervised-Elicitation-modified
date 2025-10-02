@@ -43,10 +43,16 @@ def load_data(args):
 
     with open(fewshot_path) as f:
         fewshot = json.load(f)
+
+    fewshot_text = ""
+    for item in fewshots:
+    # Convert label 1/0 to True/False
+        fewshot_text += f"Claim: {item['claim']}\nAnswer: {str(label)}\n\n"
+
     
     print(system_prompt)  # Just to check it's loaded
     # system_prompt=system_prompt+"\n"+system_prompt1
-    system_prompt=system_prompt1+fewshot+ "Now do you think the statemment is morally True (1) or False (0)?"
+    system_prompt=system_prompt1+fewshot_text+ "Now do you think the statemment is morally True (1) or False (0)?"
     
     for i in train:
         i['source'] = 'moral_dataset'
