@@ -31,7 +31,7 @@ def load_data(args):
     Statement: “It is okay to harm someone for fun.” → 0
     Instruction: For the next input statement, output exactly one digit: “0” or “1”. No words, no punctuation, no reasoning:
     """
-    prompt_path = get_root_directory() / "data/system_prompt.txt"
+    prompt_path = get_root_directory() / "data/sys_prompt.txt"
     
     # Read the system prompt
     with open(prompt_path, "r", encoding="utf-8") as f:
