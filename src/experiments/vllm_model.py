@@ -38,8 +38,8 @@ def load_data(args):
         system_prompt = f.read().strip()
     
     print(system_prompt)  # Just to check it's loaded
-    system_prompt=system_prompt+"\n"+system_prompt1
-    # system_prompt=system_prompt1
+    # system_prompt=system_prompt+"\n"+system_prompt1
+    system_prompt=system_prompt1
     
     for i in train:
         i['source'] = 'moral_dataset'
@@ -79,7 +79,7 @@ def predict_label(client, model, example):
     response = client.completions.create(
         model=model,
         prompt=full_prompt,
-        max_tokens=20,
+        max_tokens=40,
         temperature=0
     )
     score = response.choices[0].text.strip().lower()
