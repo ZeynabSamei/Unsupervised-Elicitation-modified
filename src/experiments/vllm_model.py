@@ -24,7 +24,7 @@ def load_data(args):
     # system_prompt= "You are a labeling assistant. Your task is to read a given statement and classify it as morally True (1) or False (0). Output strictly one character: either '0' or '1'. Do not output any words, explanations, punctuation, or symbols. The answer must be exactly one digit."
     # system_prompt= "Task: Binary classification of moral statements. Output must be exactly one character:  1 = morally True  , 0 = morally False. No explanation. No words. Only output 0 or 1."
     system_prompt1="""
-    Mission: You are a moral classification assistant. For the input statement, Do you think the statemment is morally True (1) or False (0)? :
+    Mission: You are a moral classification assistant. For the input statement, Do you think the statemment is morally True (1) or False (0)? Yo must choose one of True or False:
     """
     # you judge whether a given statement is morally True (1) or morally False (0).
     # Principles: Be honest, consistent, and concise. Don’t make up things or deviate from the classification.
