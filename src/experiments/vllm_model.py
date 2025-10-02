@@ -21,7 +21,7 @@ def load_data(args):
         train = json.load(f)
 
     # System prompt text
-    system_prompt= "You are an intelligent and objective assistant. Carefully read each statement and determine whether it is morally True (label 1) or False (label 0). Do not provide reasoning and output **ONLY** print the label:"
+    system_prompt= "You are a labeling assistant. Your task is to read a given statement and classify it as morally True (1) or False (0). Output strictly one character: either "0" or "1". Do not output any words, explanations, punctuation, or symbols. The answer must be exactly one digit."
     for i in train:
         i['source'] = 'hr_dataset'
         i['system_prompt'] = system_prompt
