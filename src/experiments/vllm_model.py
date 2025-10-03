@@ -53,7 +53,7 @@ def load_data(args):
     
     # system_prompt=system_prompt+"\n"+system_prompt1
     system_prompt=system_prompt1+fewshot_text+ "Now do you think the claim is morally True (1) or False (0)?"
-    print(system_prompt)  # Just to check it's loaded
+    # print(system_prompt)  # Just to check it's loaded
     
     for i in train:
         i['source'] = 'moral_dataset'
@@ -90,6 +90,7 @@ def initialize(train, fewshot_ids, args):
 
 def predict_label(client, model, example):
     full_prompt = f"{example['system_prompt']}\n{example['user_prompt']}"
+    print(full_prompt)
     response = client.completions.create(
         model=model,
         prompt=full_prompt,
