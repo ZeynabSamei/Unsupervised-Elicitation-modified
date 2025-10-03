@@ -51,9 +51,9 @@ def load_data(args):
         fewshot_text += f"Claim: {item['claim']}\nAnswer: {label_str}\n\n"
 
     
-    print(system_prompt)  # Just to check it's loaded
     # system_prompt=system_prompt+"\n"+system_prompt1
     system_prompt=system_prompt1+fewshot_text+ "Now do you think the claim is morally True (1) or False (0)?"
+    print(system_prompt)  # Just to check it's loaded
     
     for i in train:
         i['source'] = 'moral_dataset'
@@ -97,7 +97,7 @@ def predict_label(client, model, example):
         temperature=0
     )
     score = response.choices[0].text.strip().lower()
-
+    print(score)
     
     # Define possible matches
     positive = ["1", "true", "yes", "correct", "reasonable", "acceptable", "valid", ": 1"]
