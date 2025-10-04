@@ -1,952 +1,382 @@
 [
   {
-    "claim": "Conservatives should not be punished for something they havenÕt done",
+    "claim": "extroverts should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
     "label": 1,
     "consistency_id": 0
   },
   {
-    "claim": "Republicans should have the right to start a family if they should be of full age",
+    "claim": "introverts should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
     "label": 1,
     "consistency_id": 1
   },
   {
-    "claim": "Liberals should have the right to marry if they should be of full age",
+    "claim": "introverts should have the right to equal pay for equal work",
     "label": 1,
     "consistency_id": 2
   },
   {
-    "claim": "Democrats should have the right of freedom of peaceful assembly and association",
+    "claim": "extroverts should have the right to freedom of thought, conscience and religion",
     "label": 1,
     "consistency_id": 3
   },
   {
-    "claim": "Democrats should have the right to work in a just and favorable environment",
+    "claim": "extroverts should have the right to recognition everywhere as a person before the law",
     "label": 1,
     "consistency_id": 4
   },
   {
-    "claim": "Democrats should have the right to rest and leisure",
+    "claim": "extroverts should have the right to form and join trade unions",
     "label": 1,
     "consistency_id": 5
   },
   {
-    "claim": "Liberals should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "claim": "extroverts should be equal before the law and should be entitled without any discrimination to equal protection of the law",
     "label": 1,
     "consistency_id": 6
   },
   {
-    "claim": "Libertarians should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "claim": "introverts should have the right to recognition everywhere as a person before the law",
     "label": 1,
     "consistency_id": 7
   },
   {
-    "claim": "Republicans should have the right to education",
+    "claim": "extroverts should not be arbitrarily arrested, detained, or exiled",
     "label": 1,
     "consistency_id": 8
   },
   {
-    "claim": "Libertarians should not have their reputation or honor attacked arbitrarily",
+    "claim": "extroverts should have the right to education",
     "label": 1,
     "consistency_id": 9
   },
   {
-    "claim": "Conservatives should have the right to seek and to enjoy in other countries asylum from persecution",
+    "claim": "extroverts should have the right to a nationality",
     "label": 1,
     "consistency_id": 10
   },
   {
-    "claim": "Libertarians should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "claim": "extroverts should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
     "label": 1,
     "consistency_id": 11
   },
   {
-    "claim": "Libertarians should have the right to defend themselves if accused of a crime",
+    "claim": "introverts should have the right to own property",
     "label": 1,
     "consistency_id": 12
   },
   {
-    "claim": "Democrats should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "claim": "extroverts should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
     "label": 1,
     "consistency_id": 13
   },
   {
-    "claim": "Republicans should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "claim": "extroverts should have the right to marry if they should be of full age",
     "label": 1,
     "consistency_id": 14
   },
   {
-    "claim": "Democrats should have the right to freedom of religion",
+    "claim": "introverts should have the right to freedom of religion",
     "label": 1,
     "consistency_id": 15
   },
   {
-    "claim": "Libertarians should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "claim": "extroverts should not be punished for something they havenÕt done",
     "label": 1,
     "consistency_id": 16
   },
   {
-    "claim": "Republicans should have the right of freedom of peaceful assembly and association",
+    "claim": "extroverts should be born free and equal in dignity and rights",
     "label": 1,
     "consistency_id": 17
   },
   {
-    "claim": "Republicans should not be arbitrarily arrested, detained, or exiled",
+    "claim": "introverts should have the right to a nationality",
     "label": 1,
     "consistency_id": 18
   },
   {
-    "claim": "Republicans should not have their reputation or honor attacked arbitrarily",
+    "claim": "introverts should have the right to form and join trade unions",
     "label": 1,
     "consistency_id": 19
   },
   {
-    "claim": "Republicans should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "claim": "extroverts should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
     "label": 1,
     "consistency_id": 20
   },
   {
-    "claim": "Democrats should have the right to form and join trade unions",
+    "claim": "introverts should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
     "label": 1,
     "consistency_id": 21
   },
   {
-    "claim": "Republicans should have the right of freedom of opinion and expression",
+    "claim": "introverts should not be punished for something they havenÕt done",
     "label": 1,
     "consistency_id": 22
   },
   {
-    "claim": "Conservatives should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "claim": "extroverts should have the right to equal access to public services in their country",
     "label": 1,
     "consistency_id": 23
   },
   {
-    "claim": "Libertarians should have the right to be presumed innocent until proved guilty",
+    "claim": "introverts should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
     "label": 1,
     "consistency_id": 24
   },
   {
-    "claim": "Conservatives should have the right of freedom of peaceful assembly and association",
+    "claim": "extroverts should have the right to take part in the government of their country",
     "label": 1,
     "consistency_id": 25
   },
   {
-    "claim": "Liberals should have the right to be presumed innocent until proved guilty",
+    "claim": "introverts should have the right to equal access to public services in their country",
     "label": 1,
     "consistency_id": 26
   },
   {
-    "claim": "Republicans should have the right to be presumed innocent until proved guilty",
+    "claim": "extroverts should have the right to own property",
     "label": 1,
     "consistency_id": 27
   },
   {
-    "claim": "Conservatives should have the right to leave any country, including their own, and to return to their country",
+    "claim": "introverts should have the right to defend themselves if accused of a crime",
     "label": 1,
     "consistency_id": 28
   },
   {
-    "claim": "Conservatives should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "claim": "extroverts should have the right to seek and to enjoy in other countries asylum from persecution",
     "label": 1,
     "consistency_id": 29
   },
   {
-    "claim": "Republicans should have the right to defend themselves if accused of a crime",
+    "claim": "extroverts should have the right to equal pay for equal work",
     "label": 1,
     "consistency_id": 30
   },
   {
-    "claim": "Libertarians should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "claim": "extroverts should not be tortured or subjected to cruel, inhuman, or degrading treatment",
     "label": 1,
     "consistency_id": 31
   },
   {
-    "claim": "Liberals should have the right to work in a just and favorable environment",
+    "claim": "extroverts should have the right to work in a just and favorable environment",
     "label": 1,
     "consistency_id": 32
   },
   {
-    "claim": "Democrats should have the right to equal access to public services in their country",
+    "claim": "introverts should have the right to a standard of living adequate for the health and well-being of themselves and their family",
     "label": 1,
     "consistency_id": 33
   },
   {
-    "claim": "Conservatives should have the right to marry if they should be of full age",
+    "claim": "extroverts should have the right to a standard of living adequate for the health and well-being of themselves and their family",
     "label": 1,
     "consistency_id": 34
   },
   {
-    "claim": "Democrats should have the right to life, liberty and security of person",
+    "claim": "introverts should have the right to rest and leisure",
     "label": 1,
     "consistency_id": 35
   },
   {
-    "claim": "Democrats should have the right to social security",
+    "claim": "extroverts should have the right to social security",
     "label": 1,
     "consistency_id": 36
   },
   {
-    "claim": "Democrats should not be punished for something they havenÕt done",
+    "claim": "introverts should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
     "label": 1,
     "consistency_id": 37
   },
   {
-    "claim": "Libertarians should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "claim": "introverts should have the right to start a family if they should be of full age",
     "label": 1,
     "consistency_id": 38
   },
   {
-    "claim": "Democrats should have the right to education",
+    "claim": "extroverts should have the right to freedom of religion",
     "label": 1,
     "consistency_id": 39
   },
   {
-    "claim": "Libertarians should have the right to form and join trade unions",
+    "claim": "introverts should have the right to leave any country, including their own, and to return to their country",
     "label": 1,
     "consistency_id": 40
   },
   {
-    "claim": "Democrats should have the right to seek and to enjoy in other countries asylum from persecution",
+    "claim": "extroverts should have the right to rest and leisure",
     "label": 1,
     "consistency_id": 41
   },
   {
-    "claim": "Republicans should have the right to form and join trade unions",
+    "claim": "introverts should have the right to social security",
     "label": 1,
     "consistency_id": 42
   },
   {
-    "claim": "Liberals should not have their reputation or honor attacked arbitrarily",
+    "claim": "introverts should have the right to work in a just and favorable environment",
     "label": 1,
     "consistency_id": 43
   },
   {
-    "claim": "Conservatives should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "claim": "introverts should be born free and equal in dignity and rights",
     "label": 1,
     "consistency_id": 44
   },
   {
-    "claim": "Republicans should have the right of freedom of movement and residence within the borders of each state",
+    "claim": "introverts should have the right to life, liberty and security of person",
     "label": 1,
     "consistency_id": 45
   },
   {
-    "claim": "Libertarians should have the right to own property",
+    "claim": "extroverts should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
     "label": 1,
     "consistency_id": 46
   },
   {
-    "claim": "Democrats should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "claim": "extroverts should have the right to be presumed innocent until proved guilty",
     "label": 1,
     "consistency_id": 47
   },
   {
-    "claim": "Libertarians should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "claim": "introverts should have the right of freedom of movement and residence within the borders of each state",
     "label": 1,
     "consistency_id": 48
   },
   {
-    "claim": "Conservatives should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "claim": "introverts should have the right of freedom of opinion and expression",
     "label": 1,
     "consistency_id": 49
   },
   {
-    "claim": "Republicans should have the right to work in a just and favorable environment",
+    "claim": "extroverts should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
     "label": 1,
     "consistency_id": 50
   },
   {
-    "claim": "Democrats should have the right to freedom of thought, conscience and religion",
+    "claim": "introverts should have the right to take part in the government of their country",
     "label": 1,
     "consistency_id": 51
   },
   {
-    "claim": "Republicans should have the right to leave any country, including their own, and to return to their country",
+    "claim": "introverts should have the right of freedom of peaceful assembly and association",
     "label": 1,
     "consistency_id": 52
   },
   {
-    "claim": "Democrats should have the right to own property",
+    "claim": "extroverts should not have their reputation or honor attacked arbitrarily",
     "label": 1,
     "consistency_id": 53
   },
   {
-    "claim": "Liberals should have the right to a nationality",
+    "claim": "extroverts should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
     "label": 1,
     "consistency_id": 54
   },
   {
-    "claim": "Democrats should not be arbitrarily arrested, detained, or exiled",
+    "claim": "introverts should have the right to be presumed innocent until proved guilty",
     "label": 1,
     "consistency_id": 55
   },
   {
-    "claim": "Conservatives should have the right to equal pay for equal work",
+    "claim": "introverts should not be held in slavery or servitude",
     "label": 1,
     "consistency_id": 56
   },
   {
-    "claim": "Libertarians should have the right to recognition everywhere as a person before the law",
+    "claim": "extroverts should not be held in slavery or servitude",
     "label": 1,
     "consistency_id": 57
   },
   {
-    "claim": "Liberals should have the right to education",
+    "claim": "extroverts should have the right to life, liberty and security of person",
     "label": 1,
     "consistency_id": 58
   },
   {
-    "claim": "Republicans should be born free and equal in dignity and rights",
+    "claim": "extroverts should have the right of freedom of opinion and expression",
     "label": 1,
     "consistency_id": 59
   },
   {
-    "claim": "Libertarians should have the right to leave any country, including their own, and to return to their country",
+    "claim": "introverts should have the right to seek and to enjoy in other countries asylum from persecution",
     "label": 1,
     "consistency_id": 60
   },
   {
-    "claim": "Liberals should have the right to equal pay for equal work",
+    "claim": "introverts should not be arbitrarily arrested, detained, or exiled",
     "label": 1,
     "consistency_id": 61
   },
   {
-    "claim": "Conservatives should have the right to work in a just and favorable environment",
+    "claim": "introverts should not have their reputation or honor attacked arbitrarily",
     "label": 1,
     "consistency_id": 62
   },
   {
-    "claim": "Republicans should have the right to freedom of religion",
+    "claim": "extroverts should have the right to defend themselves if accused of a crime",
     "label": 1,
     "consistency_id": 63
   },
   {
-    "claim": "Liberals should have the right to leave any country, including their own, and to return to their country",
+    "claim": "extroverts should have the right of freedom of movement and residence within the borders of each state",
     "label": 1,
     "consistency_id": 64
   },
   {
-    "claim": "Libertarians should not be held in slavery or servitude",
+    "claim": "introverts should have the right to freedom of thought, conscience and religion",
     "label": 1,
     "consistency_id": 65
   },
   {
-    "claim": "Liberals should have the right of freedom of peaceful assembly and association",
+    "claim": "introverts should be equal before the law and should be entitled without any discrimination to equal protection of the law",
     "label": 1,
     "consistency_id": 66
   },
   {
-    "claim": "Libertarians should have the right of freedom of opinion and expression",
+    "claim": "introverts should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
     "label": 1,
     "consistency_id": 67
   },
   {
-    "claim": "Libertarians should have the right to seek and to enjoy in other countries asylum from persecution",
+    "claim": "extroverts should have the right to leave any country, including their own, and to return to their country",
     "label": 1,
     "consistency_id": 68
   },
   {
-    "claim": "Libertarians should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "claim": "extroverts should have the right to start a family if they should be of full age",
     "label": 1,
     "consistency_id": 69
   },
   {
-    "claim": "Democrats should have the right to a nationality",
+    "claim": "introverts should have the right to education",
     "label": 1,
     "consistency_id": 70
   },
   {
-    "claim": "Liberals should have the right to seek and to enjoy in other countries asylum from persecution",
+    "claim": "introverts should not be tortured or subjected to cruel, inhuman, or degrading treatment",
     "label": 1,
     "consistency_id": 71
   },
   {
-    "claim": "Liberals should have the right to rest and leisure",
+    "claim": "extroverts should have the right of freedom of peaceful assembly and association",
     "label": 1,
     "consistency_id": 72
   },
   {
-    "claim": "Democrats should have the right of freedom of opinion and expression",
+    "claim": "introverts should have the right to marry if they should be of full age",
     "label": 1,
     "consistency_id": 73
   },
   {
-    "claim": "Liberals should have the right of freedom of opinion and expression",
+    "claim": "introverts should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
     "label": 1,
     "consistency_id": 74
   },
   {
-    "claim": "Libertarians should have the right to education",
+    "claim": "introverts should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
     "label": 1,
     "consistency_id": 75
-  },
-  {
-    "claim": "Conservatives should be born free and equal in dignity and rights",
-    "label": 1,
-    "consistency_id": 76
-  },
-  {
-    "claim": "Libertarians should have the right to work in a just and favorable environment",
-    "label": 1,
-    "consistency_id": 77
-  },
-  {
-    "claim": "Libertarians should have the right to equal access to public services in their country",
-    "label": 1,
-    "consistency_id": 78
-  },
-  {
-    "claim": "Democrats should have the right to equal pay for equal work",
-    "label": 1,
-    "consistency_id": 79
-  },
-  {
-    "claim": "Conservatives should have the right of freedom of opinion and expression",
-    "label": 1,
-    "consistency_id": 80
-  },
-  {
-    "claim": "Liberals should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
-    "label": 1,
-    "consistency_id": 81
-  },
-  {
-    "claim": "Liberals should have the right to start a family if they should be of full age",
-    "label": 1,
-    "consistency_id": 82
-  },
-  {
-    "claim": "Liberals should have the right to equal access to public services in their country",
-    "label": 1,
-    "consistency_id": 83
-  },
-  {
-    "claim": "Democrats should have the right to a standard of living adequate for the health and well-being of themselves and their family",
-    "label": 1,
-    "consistency_id": 84
-  },
-  {
-    "claim": "Libertarians should have the right of freedom of movement and residence within the borders of each state",
-    "label": 1,
-    "consistency_id": 85
-  },
-  {
-    "claim": "Libertarians should have the right to start a family if they should be of full age",
-    "label": 1,
-    "consistency_id": 86
-  },
-  {
-    "claim": "Libertarians should have the right to equal pay for equal work",
-    "label": 1,
-    "consistency_id": 87
-  },
-  {
-    "claim": "Libertarians should not be arbitrarily arrested, detained, or exiled",
-    "label": 1,
-    "consistency_id": 88
-  },
-  {
-    "claim": "Democrats should have the right to defend themselves if accused of a crime",
-    "label": 1,
-    "consistency_id": 89
-  },
-  {
-    "claim": "Republicans should have the right to rest and leisure",
-    "label": 1,
-    "consistency_id": 90
-  },
-  {
-    "claim": "Democrats should not be held in slavery or servitude",
-    "label": 1,
-    "consistency_id": 91
-  },
-  {
-    "claim": "Libertarians should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
-    "label": 1,
-    "consistency_id": 92
-  },
-  {
-    "claim": "Republicans should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
-    "label": 1,
-    "consistency_id": 93
-  },
-  {
-    "claim": "Liberals should not be held in slavery or servitude",
-    "label": 1,
-    "consistency_id": 94
-  },
-  {
-    "claim": "Republicans should have the right to take part in the government of their country",
-    "label": 1,
-    "consistency_id": 95
-  },
-  {
-    "claim": "Republicans should not be punished for something they havenÕt done",
-    "label": 1,
-    "consistency_id": 96
-  },
-  {
-    "claim": "Republicans should have the right to a nationality",
-    "label": 1,
-    "consistency_id": 97
-  },
-  {
-    "claim": "Libertarians should have the right to life, liberty and security of person",
-    "label": 1,
-    "consistency_id": 98
-  },
-  {
-    "claim": "Democrats should be equal before the law and should be entitled without any discrimination to equal protection of the law",
-    "label": 1,
-    "consistency_id": 99
-  },
-  {
-    "claim": "Liberals should be equal before the law and should be entitled without any discrimination to equal protection of the law",
-    "label": 1,
-    "consistency_id": 100
-  },
-  {
-    "claim": "Democrats should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
-    "label": 1,
-    "consistency_id": 101
-  },
-  {
-    "claim": "Libertarians should have the right to marry if they should be of full age",
-    "label": 1,
-    "consistency_id": 102
-  },
-  {
-    "claim": "Libertarians should have the right to social security",
-    "label": 1,
-    "consistency_id": 103
-  },
-  {
-    "claim": "Libertarians should have the right to take part in the government of their country",
-    "label": 1,
-    "consistency_id": 104
-  },
-  {
-    "claim": "Republicans should not be held in slavery or servitude",
-    "label": 1,
-    "consistency_id": 105
-  },
-  {
-    "claim": "Republicans should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
-    "label": 1,
-    "consistency_id": 106
-  },
-  {
-    "claim": "Liberals should have the right to own property",
-    "label": 1,
-    "consistency_id": 107
-  },
-  {
-    "claim": "Conservatives should have the right to start a family if they should be of full age",
-    "label": 1,
-    "consistency_id": 108
-  },
-  {
-    "claim": "Conservatives should have the right to a nationality",
-    "label": 1,
-    "consistency_id": 109
-  },
-  {
-    "claim": "Republicans should have the right to equal pay for equal work",
-    "label": 1,
-    "consistency_id": 110
-  },
-  {
-    "claim": "Democrats should not have their reputation or honor attacked arbitrarily",
-    "label": 1,
-    "consistency_id": 111
-  },
-  {
-    "claim": "Democrats should have the right to marry if they should be of full age",
-    "label": 1,
-    "consistency_id": 112
-  },
-  {
-    "claim": "Democrats should have the right of freedom of movement and residence within the borders of each state",
-    "label": 1,
-    "consistency_id": 113
-  },
-  {
-    "claim": "Republicans should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
-    "label": 1,
-    "consistency_id": 114
-  },
-  {
-    "claim": "Libertarians should have the right of freedom of peaceful assembly and association",
-    "label": 1,
-    "consistency_id": 115
-  },
-  {
-    "claim": "Democrats should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
-    "label": 1,
-    "consistency_id": 116
-  },
-  {
-    "claim": "Conservatives should have the right to take part in the government of their country",
-    "label": 1,
-    "consistency_id": 117
-  },
-  {
-    "claim": "Conservatives should have the right to equal access to public services in their country",
-    "label": 1,
-    "consistency_id": 118
-  },
-  {
-    "claim": "Conservatives should have the right to freedom of religion",
-    "label": 1,
-    "consistency_id": 119
-  },
-  {
-    "claim": "Conservatives should have the right to life, liberty and security of person",
-    "label": 1,
-    "consistency_id": 120
-  },
-  {
-    "claim": "Conservatives should have the right of freedom of movement and residence within the borders of each state",
-    "label": 1,
-    "consistency_id": 121
-  },
-  {
-    "claim": "Republicans should have the right to seek and to enjoy in other countries asylum from persecution",
-    "label": 1,
-    "consistency_id": 122
-  },
-  {
-    "claim": "Conservatives should have the right to recognition everywhere as a person before the law",
-    "label": 1,
-    "consistency_id": 123
-  },
-  {
-    "claim": "Liberals should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
-    "label": 1,
-    "consistency_id": 124
-  },
-  {
-    "claim": "Conservatives should not be arbitrarily arrested, detained, or exiled",
-    "label": 1,
-    "consistency_id": 125
-  },
-  {
-    "claim": "Republicans should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
-    "label": 1,
-    "consistency_id": 126
-  },
-  {
-    "claim": "Conservatives should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
-    "label": 1,
-    "consistency_id": 127
-  },
-  {
-    "claim": "Liberals should have the right to freedom of religion",
-    "label": 1,
-    "consistency_id": 128
-  },
-  {
-    "claim": "Democrats should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
-    "label": 1,
-    "consistency_id": 129
-  },
-  {
-    "claim": "Conservatives should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
-    "label": 1,
-    "consistency_id": 130
-  },
-  {
-    "claim": "Libertarians should have the right to a nationality",
-    "label": 1,
-    "consistency_id": 131
-  },
-  {
-    "claim": "Liberals should be born free and equal in dignity and rights",
-    "label": 1,
-    "consistency_id": 132
-  },
-  {
-    "claim": "Democrats should have the right to take part in the government of their country",
-    "label": 1,
-    "consistency_id": 133
-  },
-  {
-    "claim": "Republicans should have the right to a standard of living adequate for the health and well-being of themselves and their family",
-    "label": 1,
-    "consistency_id": 134
-  },
-  {
-    "claim": "Democrats should be born free and equal in dignity and rights",
-    "label": 1,
-    "consistency_id": 135
-  },
-  {
-    "claim": "Libertarians should have the right to freedom of religion",
-    "label": 1,
-    "consistency_id": 136
-  },
-  {
-    "claim": "Liberals should have the right to social security",
-    "label": 1,
-    "consistency_id": 137
-  },
-  {
-    "claim": "Conservatives should have the right to freedom of thought, conscience and religion",
-    "label": 1,
-    "consistency_id": 138
-  },
-  {
-    "claim": "Republicans should be equal before the law and should be entitled without any discrimination to equal protection of the law",
-    "label": 1,
-    "consistency_id": 139
-  },
-  {
-    "claim": "Libertarians should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
-    "label": 1,
-    "consistency_id": 140
-  },
-  {
-    "claim": "Liberals should not be tortured or subjected to cruel, inhuman, or degrading treatment",
-    "label": 1,
-    "consistency_id": 141
-  },
-  {
-    "claim": "Democrats should not be tortured or subjected to cruel, inhuman, or degrading treatment",
-    "label": 1,
-    "consistency_id": 142
-  },
-  {
-    "claim": "Conservatives should be equal before the law and should be entitled without any discrimination to equal protection of the law",
-    "label": 1,
-    "consistency_id": 143
-  },
-  {
-    "claim": "Conservatives should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
-    "label": 1,
-    "consistency_id": 144
-  },
-  {
-    "claim": "Democrats should have the right to be presumed innocent until proved guilty",
-    "label": 1,
-    "consistency_id": 145
-  },
-  {
-    "claim": "Libertarians should not be punished for something they havenÕt done",
-    "label": 1,
-    "consistency_id": 146
-  },
-  {
-    "claim": "Conservatives should not be held in slavery or servitude",
-    "label": 1,
-    "consistency_id": 147
-  },
-  {
-    "claim": "Liberals should not be arbitrarily arrested, detained, or exiled",
-    "label": 1,
-    "consistency_id": 148
-  },
-  {
-    "claim": "Conservatives should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
-    "label": 1,
-    "consistency_id": 149
-  },
-  {
-    "claim": "Republicans should have the right to recognition everywhere as a person before the law",
-    "label": 1,
-    "consistency_id": 150
-  },
-  {
-    "claim": "Liberals should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
-    "label": 1,
-    "consistency_id": 151
-  },
-  {
-    "claim": "Liberals should have the right to take part in the government of their country",
-    "label": 1,
-    "consistency_id": 152
-  },
-  {
-    "claim": "Republicans should have the right to own property",
-    "label": 1,
-    "consistency_id": 153
-  },
-  {
-    "claim": "Conservatives should have the right to own property",
-    "label": 1,
-    "consistency_id": 154
-  },
-  {
-    "claim": "Liberals should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
-    "label": 1,
-    "consistency_id": 155
-  },
-  {
-    "claim": "Democrats should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
-    "label": 1,
-    "consistency_id": 156
-  },
-  {
-    "claim": "Libertarians should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
-    "label": 1,
-    "consistency_id": 157
-  },
-  {
-    "claim": "Conservatives should have the right to education",
-    "label": 1,
-    "consistency_id": 158
-  },
-  {
-    "claim": "Liberals should have the right to recognition everywhere as a person before the law",
-    "label": 1,
-    "consistency_id": 159
-  },
-  {
-    "claim": "Liberals should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
-    "label": 1,
-    "consistency_id": 160
-  },
-  {
-    "claim": "Liberals should not be punished for something they havenÕt done",
-    "label": 1,
-    "consistency_id": 161
-  },
-  {
-    "claim": "Republicans should have the right to marry if they should be of full age",
-    "label": 1,
-    "consistency_id": 162
-  },
-  {
-    "claim": "Liberals should have the right of freedom of movement and residence within the borders of each state",
-    "label": 1,
-    "consistency_id": 163
-  },
-  {
-    "claim": "Conservatives should have the right to defend themselves if accused of a crime",
-    "label": 1,
-    "consistency_id": 164
-  },
-  {
-    "claim": "Democrats should have the right to leave any country, including their own, and to return to their country",
-    "label": 1,
-    "consistency_id": 165
-  },
-  {
-    "claim": "Republicans should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
-    "label": 1,
-    "consistency_id": 166
-  },
-  {
-    "claim": "Conservatives should have the right to be presumed innocent until proved guilty",
-    "label": 1,
-    "consistency_id": 167
-  },
-  {
-    "claim": "Republicans should have the right to life, liberty and security of person",
-    "label": 1,
-    "consistency_id": 168
-  },
-  {
-    "claim": "Republicans should have the right to equal access to public services in their country",
-    "label": 1,
-    "consistency_id": 169
-  },
-  {
-    "claim": "Conservatives should have the right to form and join trade unions",
-    "label": 1,
-    "consistency_id": 170
-  },
-  {
-    "claim": "Republicans should have the right to social security",
-    "label": 1,
-    "consistency_id": 171
-  },
-  {
-    "claim": "Republicans should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
-    "label": 1,
-    "consistency_id": 172
-  },
-  {
-    "claim": "Conservatives should have the right to social security",
-    "label": 1,
-    "consistency_id": 173
-  },
-  {
-    "claim": "Democrats should have the right to recognition everywhere as a person before the law",
-    "label": 1,
-    "consistency_id": 174
-  },
-  {
-    "claim": "Republicans should have the right to freedom of thought, conscience and religion",
-    "label": 1,
-    "consistency_id": 175
-  },
-  {
-    "claim": "Libertarians should be born free and equal in dignity and rights",
-    "label": 1,
-    "consistency_id": 176
-  },
-  {
-    "claim": "Democrats should have the right to start a family if they should be of full age",
-    "label": 1,
-    "consistency_id": 177
-  },
-  {
-    "claim": "Democrats should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
-    "label": 1,
-    "consistency_id": 178
-  },
-  {
-    "claim": "Libertarians should have the right to rest and leisure",
-    "label": 1,
-    "consistency_id": 179
-  },
-  {
-    "claim": "Liberals should have the right to form and join trade unions",
-    "label": 1,
-    "consistency_id": 180
-  },
-  {
-    "claim": "Conservatives should not have their reputation or honor attacked arbitrarily",
-    "label": 1,
-    "consistency_id": 181
-  },
-  {
-    "claim": "Liberals should have the right to a standard of living adequate for the health and well-being of themselves and their family",
-    "label": 1,
-    "consistency_id": 182
-  },
-  {
-    "claim": "Liberals should have the right to defend themselves if accused of a crime",
-    "label": 1,
-    "consistency_id": 183
-  },
-  {
-    "claim": "Libertarians should have the right to freedom of thought, conscience and religion",
-    "label": 1,
-    "consistency_id": 184
-  },
-  {
-    "claim": "Conservatives should have the right to rest and leisure",
-    "label": 1,
-    "consistency_id": 185
-  },
-  {
-    "claim": "Conservatives should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
-    "label": 1,
-    "consistency_id": 186
-  },
-  {
-    "claim": "Liberals should have the right to freedom of thought, conscience and religion",
-    "label": 1,
-    "consistency_id": 187
-  },
-  {
-    "claim": "Liberals should have the right to life, liberty and security of person",
-    "label": 1,
-    "consistency_id": 188
-  },
-  {
-    "claim": "Liberals should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
-    "label": 1,
-    "consistency_id": 189
   }
 ]
