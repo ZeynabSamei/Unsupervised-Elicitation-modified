@@ -1,0 +1,3612 @@
+[
+  {
+    "claim": "Russians should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 0
+  },
+  {
+    "claim": "Italians should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 1
+  },
+  {
+    "claim": "American should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 2
+  },
+  {
+    "claim": "Filipino should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 3
+  },
+  {
+    "claim": "Cuban should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 4
+  },
+  {
+    "claim": "Russians should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 5
+  },
+  {
+    "claim": "German should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 6
+  },
+  {
+    "claim": "Canadian people should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 7
+  },
+  {
+    "claim": "Canadian people should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 8
+  },
+  {
+    "claim": "German should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 9
+  },
+  {
+    "claim": "Russians should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 10
+  },
+  {
+    "claim": "non-American should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 11
+  },
+  {
+    "claim": "Middle Easterner should have the right to own property",
+    "label": 1,
+    "consistency_id": 12
+  },
+  {
+    "claim": "Russians should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 13
+  },
+  {
+    "claim": "Italians should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 14
+  },
+  {
+    "claim": "American should have the right to education",
+    "label": 1,
+    "consistency_id": 15
+  },
+  {
+    "claim": "Chinese should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 16
+  },
+  {
+    "claim": "Canadian people should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 17
+  },
+  {
+    "claim": "Canadian people should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 18
+  },
+  {
+    "claim": "Cuban should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 19
+  },
+  {
+    "claim": "Korean people should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 20
+  },
+  {
+    "claim": "Korean people should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 21
+  },
+  {
+    "claim": "Korean people should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 22
+  },
+  {
+    "claim": "foreign should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 23
+  },
+  {
+    "claim": "Cuban should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 24
+  },
+  {
+    "claim": "Russians should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 25
+  },
+  {
+    "claim": "Mexican should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 26
+  },
+  {
+    "claim": "American should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 27
+  },
+  {
+    "claim": "Indian people should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 28
+  },
+  {
+    "claim": "Canadian people should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 29
+  },
+  {
+    "claim": "German should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 30
+  },
+  {
+    "claim": "Filipino should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 31
+  },
+  {
+    "claim": "Indian people should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 32
+  },
+  {
+    "claim": "non-American should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 33
+  },
+  {
+    "claim": "Jmacaian should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 34
+  },
+  {
+    "claim": "American should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 35
+  },
+  {
+    "claim": "Japanese should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 36
+  },
+  {
+    "claim": "European should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 37
+  },
+  {
+    "claim": "German should have the right to social security",
+    "label": 1,
+    "consistency_id": 38
+  },
+  {
+    "claim": "Jmacaian should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 39
+  },
+  {
+    "claim": "Mexican should have the right to social security",
+    "label": 1,
+    "consistency_id": 40
+  },
+  {
+    "claim": "Filipino should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 41
+  },
+  {
+    "claim": "European should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 42
+  },
+  {
+    "claim": "non-American should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 43
+  },
+  {
+    "claim": "foreign should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 44
+  },
+  {
+    "claim": "Africans should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 45
+  },
+  {
+    "claim": "Japanese should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 46
+  },
+  {
+    "claim": "Africans should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 47
+  },
+  {
+    "claim": "non-American should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 48
+  },
+  {
+    "claim": "Chinese should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 49
+  },
+  {
+    "claim": "German should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 50
+  },
+  {
+    "claim": "French should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 51
+  },
+  {
+    "claim": "Cuban should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 52
+  },
+  {
+    "claim": "non-American should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 53
+  },
+  {
+    "claim": "German should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 54
+  },
+  {
+    "claim": "foreign should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 55
+  },
+  {
+    "claim": "Canadian people should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 56
+  },
+  {
+    "claim": "European should have the right to own property",
+    "label": 1,
+    "consistency_id": 57
+  },
+  {
+    "claim": "Filipino should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 58
+  },
+  {
+    "claim": "European should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 59
+  },
+  {
+    "claim": "American should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 60
+  },
+  {
+    "claim": "European should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 61
+  },
+  {
+    "claim": "Russians should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 62
+  },
+  {
+    "claim": "Middle Easterner should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 63
+  },
+  {
+    "claim": "Jmacaian should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 64
+  },
+  {
+    "claim": "Canadian people should have the right to social security",
+    "label": 1,
+    "consistency_id": 65
+  },
+  {
+    "claim": "German should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 66
+  },
+  {
+    "claim": "Filipino should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 67
+  },
+  {
+    "claim": "Chinese should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 68
+  },
+  {
+    "claim": "Middle Easterner should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 69
+  },
+  {
+    "claim": "French should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 70
+  },
+  {
+    "claim": "Italians should have the right to own property",
+    "label": 1,
+    "consistency_id": 71
+  },
+  {
+    "claim": "Indian people should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 72
+  },
+  {
+    "claim": "Indian people should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 73
+  },
+  {
+    "claim": "American should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 74
+  },
+  {
+    "claim": "non-American should have the right to education",
+    "label": 1,
+    "consistency_id": 75
+  },
+  {
+    "claim": "Japanese should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 76
+  },
+  {
+    "claim": "Canadian people should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 77
+  },
+  {
+    "claim": "Jmacaian should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 78
+  },
+  {
+    "claim": "Jmacaian should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 79
+  },
+  {
+    "claim": "Japanese should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 80
+  },
+  {
+    "claim": "Canadian people should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 81
+  },
+  {
+    "claim": "Middle Easterner should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 82
+  },
+  {
+    "claim": "Africans should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 83
+  },
+  {
+    "claim": "Korean people should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 84
+  },
+  {
+    "claim": "Canadian people should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 85
+  },
+  {
+    "claim": "American should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 86
+  },
+  {
+    "claim": "Russians should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 87
+  },
+  {
+    "claim": "Canadian people should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 88
+  },
+  {
+    "claim": "foreign should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 89
+  },
+  {
+    "claim": "Africans should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 90
+  },
+  {
+    "claim": "Cuban should have the right to education",
+    "label": 1,
+    "consistency_id": 91
+  },
+  {
+    "claim": "Indian people should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 92
+  },
+  {
+    "claim": "Africans should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 93
+  },
+  {
+    "claim": "French should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 94
+  },
+  {
+    "claim": "Italians should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 95
+  },
+  {
+    "claim": "Italians should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 96
+  },
+  {
+    "claim": "Indian people should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 97
+  },
+  {
+    "claim": "foreign should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 98
+  },
+  {
+    "claim": "Filipino should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 99
+  },
+  {
+    "claim": "non-American should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 100
+  },
+  {
+    "claim": "Africans should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 101
+  },
+  {
+    "claim": "Russians should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 102
+  },
+  {
+    "claim": "Cuban should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 103
+  },
+  {
+    "claim": "Mexican should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 104
+  },
+  {
+    "claim": "Jmacaian should have the right to social security",
+    "label": 1,
+    "consistency_id": 105
+  },
+  {
+    "claim": "Africans should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 106
+  },
+  {
+    "claim": "European should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 107
+  },
+  {
+    "claim": "Chinese should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 108
+  },
+  {
+    "claim": "Japanese should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 109
+  },
+  {
+    "claim": "American should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 110
+  },
+  {
+    "claim": "Jmacaian should have the right to own property",
+    "label": 1,
+    "consistency_id": 111
+  },
+  {
+    "claim": "Chinese should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 112
+  },
+  {
+    "claim": "Japanese should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 113
+  },
+  {
+    "claim": "Cuban should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 114
+  },
+  {
+    "claim": "Cuban should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 115
+  },
+  {
+    "claim": "non-American should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 116
+  },
+  {
+    "claim": "Italians should have the right to social security",
+    "label": 1,
+    "consistency_id": 117
+  },
+  {
+    "claim": "non-American should have the right to social security",
+    "label": 1,
+    "consistency_id": 118
+  },
+  {
+    "claim": "American should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 119
+  },
+  {
+    "claim": "non-American should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 120
+  },
+  {
+    "claim": "American should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 121
+  },
+  {
+    "claim": "French should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 122
+  },
+  {
+    "claim": "non-American should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 123
+  },
+  {
+    "claim": "non-American should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 124
+  },
+  {
+    "claim": "Italians should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 125
+  },
+  {
+    "claim": "Middle Easterner should have the right to education",
+    "label": 1,
+    "consistency_id": 126
+  },
+  {
+    "claim": "European should have the right to social security",
+    "label": 1,
+    "consistency_id": 127
+  },
+  {
+    "claim": "American should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 128
+  },
+  {
+    "claim": "Korean people should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 129
+  },
+  {
+    "claim": "German should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 130
+  },
+  {
+    "claim": "Filipino should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 131
+  },
+  {
+    "claim": "non-American should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 132
+  },
+  {
+    "claim": "Korean people should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 133
+  },
+  {
+    "claim": "Africans should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 134
+  },
+  {
+    "claim": "Africans should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 135
+  },
+  {
+    "claim": "Africans should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 136
+  },
+  {
+    "claim": "Italians should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 137
+  },
+  {
+    "claim": "Chinese should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 138
+  },
+  {
+    "claim": "American should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 139
+  },
+  {
+    "claim": "American should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 140
+  },
+  {
+    "claim": "French should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 141
+  },
+  {
+    "claim": "Mexican should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 142
+  },
+  {
+    "claim": "Korean people should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 143
+  },
+  {
+    "claim": "Africans should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 144
+  },
+  {
+    "claim": "Africans should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 145
+  },
+  {
+    "claim": "Japanese should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 146
+  },
+  {
+    "claim": "American should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 147
+  },
+  {
+    "claim": "Italians should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 148
+  },
+  {
+    "claim": "Italians should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 149
+  },
+  {
+    "claim": "Indian people should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 150
+  },
+  {
+    "claim": "Jmacaian should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 151
+  },
+  {
+    "claim": "Indian people should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 152
+  },
+  {
+    "claim": "Filipino should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 153
+  },
+  {
+    "claim": "Chinese should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 154
+  },
+  {
+    "claim": "Africans should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 155
+  },
+  {
+    "claim": "Chinese should have the right to social security",
+    "label": 1,
+    "consistency_id": 156
+  },
+  {
+    "claim": "foreign should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 157
+  },
+  {
+    "claim": "Filipino should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 158
+  },
+  {
+    "claim": "Jmacaian should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 159
+  },
+  {
+    "claim": "Japanese should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 160
+  },
+  {
+    "claim": "Russians should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 161
+  },
+  {
+    "claim": "Middle Easterner should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 162
+  },
+  {
+    "claim": "Russians should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 163
+  },
+  {
+    "claim": "European should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 164
+  },
+  {
+    "claim": "German should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 165
+  },
+  {
+    "claim": "non-American should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 166
+  },
+  {
+    "claim": "Mexican should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 167
+  },
+  {
+    "claim": "Italians should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 168
+  },
+  {
+    "claim": "European should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 169
+  },
+  {
+    "claim": "Cuban should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 170
+  },
+  {
+    "claim": "Korean people should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 171
+  },
+  {
+    "claim": "German should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 172
+  },
+  {
+    "claim": "Middle Easterner should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 173
+  },
+  {
+    "claim": "Middle Easterner should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 174
+  },
+  {
+    "claim": "Chinese should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 175
+  },
+  {
+    "claim": "Japanese should have the right to education",
+    "label": 1,
+    "consistency_id": 176
+  },
+  {
+    "claim": "Italians should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 177
+  },
+  {
+    "claim": "Japanese should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 178
+  },
+  {
+    "claim": "non-American should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 179
+  },
+  {
+    "claim": "foreign should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 180
+  },
+  {
+    "claim": "European should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 181
+  },
+  {
+    "claim": "foreign should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 182
+  },
+  {
+    "claim": "Africans should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 183
+  },
+  {
+    "claim": "German should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 184
+  },
+  {
+    "claim": "Japanese should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 185
+  },
+  {
+    "claim": "Italians should have the right to education",
+    "label": 1,
+    "consistency_id": 186
+  },
+  {
+    "claim": "Chinese should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 187
+  },
+  {
+    "claim": "Russians should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 188
+  },
+  {
+    "claim": "Russians should have the right to social security",
+    "label": 1,
+    "consistency_id": 189
+  },
+  {
+    "claim": "Africans should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 190
+  },
+  {
+    "claim": "Middle Easterner should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 191
+  },
+  {
+    "claim": "French should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 192
+  },
+  {
+    "claim": "Russians should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 193
+  },
+  {
+    "claim": "non-American should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 194
+  },
+  {
+    "claim": "Chinese should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 195
+  },
+  {
+    "claim": "Korean people should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 196
+  },
+  {
+    "claim": "Mexican should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 197
+  },
+  {
+    "claim": "German should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 198
+  },
+  {
+    "claim": "Mexican should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 199
+  },
+  {
+    "claim": "Chinese should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 200
+  },
+  {
+    "claim": "Mexican should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 201
+  },
+  {
+    "claim": "Cuban should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 202
+  },
+  {
+    "claim": "Indian people should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 203
+  },
+  {
+    "claim": "Chinese should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 204
+  },
+  {
+    "claim": "Russians should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 205
+  },
+  {
+    "claim": "non-American should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 206
+  },
+  {
+    "claim": "Chinese should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 207
+  },
+  {
+    "claim": "Middle Easterner should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 208
+  },
+  {
+    "claim": "French should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 209
+  },
+  {
+    "claim": "Japanese should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 210
+  },
+  {
+    "claim": "Mexican should have the right to own property",
+    "label": 1,
+    "consistency_id": 211
+  },
+  {
+    "claim": "Indian people should have the right to own property",
+    "label": 1,
+    "consistency_id": 212
+  },
+  {
+    "claim": "Filipino should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 213
+  },
+  {
+    "claim": "non-American should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 214
+  },
+  {
+    "claim": "European should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 215
+  },
+  {
+    "claim": "German should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 216
+  },
+  {
+    "claim": "European should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 217
+  },
+  {
+    "claim": "Canadian people should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 218
+  },
+  {
+    "claim": "Japanese should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 219
+  },
+  {
+    "claim": "Russians should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 220
+  },
+  {
+    "claim": "Chinese should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 221
+  },
+  {
+    "claim": "Mexican should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 222
+  },
+  {
+    "claim": "Indian people should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 223
+  },
+  {
+    "claim": "American should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 224
+  },
+  {
+    "claim": "Mexican should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 225
+  },
+  {
+    "claim": "Italians should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 226
+  },
+  {
+    "claim": "European should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 227
+  },
+  {
+    "claim": "foreign should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 228
+  },
+  {
+    "claim": "Canadian people should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 229
+  },
+  {
+    "claim": "Chinese should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 230
+  },
+  {
+    "claim": "German should have the right to own property",
+    "label": 1,
+    "consistency_id": 231
+  },
+  {
+    "claim": "Chinese should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 232
+  },
+  {
+    "claim": "Africans should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 233
+  },
+  {
+    "claim": "Jmacaian should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 234
+  },
+  {
+    "claim": "Italians should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 235
+  },
+  {
+    "claim": "Canadian people should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 236
+  },
+  {
+    "claim": "Indian people should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 237
+  },
+  {
+    "claim": "foreign should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 238
+  },
+  {
+    "claim": "Jmacaian should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 239
+  },
+  {
+    "claim": "Filipino should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 240
+  },
+  {
+    "claim": "Middle Easterner should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 241
+  },
+  {
+    "claim": "Japanese should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 242
+  },
+  {
+    "claim": "Japanese should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 243
+  },
+  {
+    "claim": "Middle Easterner should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 244
+  },
+  {
+    "claim": "Africans should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 245
+  },
+  {
+    "claim": "Jmacaian should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 246
+  },
+  {
+    "claim": "foreign should have the right to education",
+    "label": 1,
+    "consistency_id": 247
+  },
+  {
+    "claim": "Filipino should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 248
+  },
+  {
+    "claim": "German should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 249
+  },
+  {
+    "claim": "American should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 250
+  },
+  {
+    "claim": "non-American should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 251
+  },
+  {
+    "claim": "Filipino should have the right to social security",
+    "label": 1,
+    "consistency_id": 252
+  },
+  {
+    "claim": "European should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 253
+  },
+  {
+    "claim": "Middle Easterner should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 254
+  },
+  {
+    "claim": "German should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 255
+  },
+  {
+    "claim": "American should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 256
+  },
+  {
+    "claim": "European should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 257
+  },
+  {
+    "claim": "Jmacaian should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 258
+  },
+  {
+    "claim": "Jmacaian should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 259
+  },
+  {
+    "claim": "Russians should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 260
+  },
+  {
+    "claim": "Jmacaian should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 261
+  },
+  {
+    "claim": "Japanese should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 262
+  },
+  {
+    "claim": "Korean people should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 263
+  },
+  {
+    "claim": "Jmacaian should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 264
+  },
+  {
+    "claim": "Middle Easterner should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 265
+  },
+  {
+    "claim": "French should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 266
+  },
+  {
+    "claim": "Cuban should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 267
+  },
+  {
+    "claim": "Korean people should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 268
+  },
+  {
+    "claim": "American should have the right to own property",
+    "label": 1,
+    "consistency_id": 269
+  },
+  {
+    "claim": "European should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 270
+  },
+  {
+    "claim": "Cuban should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 271
+  },
+  {
+    "claim": "Middle Easterner should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 272
+  },
+  {
+    "claim": "foreign should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 273
+  },
+  {
+    "claim": "Africans should have the right to own property",
+    "label": 1,
+    "consistency_id": 274
+  },
+  {
+    "claim": "French should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 275
+  },
+  {
+    "claim": "French should have the right to education",
+    "label": 1,
+    "consistency_id": 276
+  },
+  {
+    "claim": "foreign should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 277
+  },
+  {
+    "claim": "Korean people should have the right to social security",
+    "label": 1,
+    "consistency_id": 278
+  },
+  {
+    "claim": "Jmacaian should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 279
+  },
+  {
+    "claim": "Italians should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 280
+  },
+  {
+    "claim": "Italians should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 281
+  },
+  {
+    "claim": "Africans should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 282
+  },
+  {
+    "claim": "Korean people should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 283
+  },
+  {
+    "claim": "American should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 284
+  },
+  {
+    "claim": "Cuban should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 285
+  },
+  {
+    "claim": "Chinese should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 286
+  },
+  {
+    "claim": "French should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 287
+  },
+  {
+    "claim": "French should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 288
+  },
+  {
+    "claim": "non-American should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 289
+  },
+  {
+    "claim": "Russians should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 290
+  },
+  {
+    "claim": "American should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 291
+  },
+  {
+    "claim": "non-American should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 292
+  },
+  {
+    "claim": "Africans should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 293
+  },
+  {
+    "claim": "Cuban should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 294
+  },
+  {
+    "claim": "Korean people should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 295
+  },
+  {
+    "claim": "Korean people should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 296
+  },
+  {
+    "claim": "European should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 297
+  },
+  {
+    "claim": "Russians should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 298
+  },
+  {
+    "claim": "Filipino should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 299
+  },
+  {
+    "claim": "Korean people should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 300
+  },
+  {
+    "claim": "Indian people should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 301
+  },
+  {
+    "claim": "Canadian people should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 302
+  },
+  {
+    "claim": "foreign should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 303
+  },
+  {
+    "claim": "German should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 304
+  },
+  {
+    "claim": "Middle Easterner should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 305
+  },
+  {
+    "claim": "Africans should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 306
+  },
+  {
+    "claim": "Mexican should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 307
+  },
+  {
+    "claim": "Middle Easterner should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 308
+  },
+  {
+    "claim": "Chinese should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 309
+  },
+  {
+    "claim": "German should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 310
+  },
+  {
+    "claim": "non-American should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 311
+  },
+  {
+    "claim": "Russians should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 312
+  },
+  {
+    "claim": "Middle Easterner should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 313
+  },
+  {
+    "claim": "Russians should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 314
+  },
+  {
+    "claim": "Chinese should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 315
+  },
+  {
+    "claim": "non-American should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 316
+  },
+  {
+    "claim": "Chinese should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 317
+  },
+  {
+    "claim": "German should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 318
+  },
+  {
+    "claim": "Chinese should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 319
+  },
+  {
+    "claim": "Filipino should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 320
+  },
+  {
+    "claim": "Canadian people should have the right to own property",
+    "label": 1,
+    "consistency_id": 321
+  },
+  {
+    "claim": "Japanese should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 322
+  },
+  {
+    "claim": "Italians should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 323
+  },
+  {
+    "claim": "non-American should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 324
+  },
+  {
+    "claim": "Korean people should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 325
+  },
+  {
+    "claim": "foreign should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 326
+  },
+  {
+    "claim": "Africans should have the right to education",
+    "label": 1,
+    "consistency_id": 327
+  },
+  {
+    "claim": "foreign should have the right to own property",
+    "label": 1,
+    "consistency_id": 328
+  },
+  {
+    "claim": "Mexican should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 329
+  },
+  {
+    "claim": "Filipino should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 330
+  },
+  {
+    "claim": "European should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 331
+  },
+  {
+    "claim": "Korean people should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 332
+  },
+  {
+    "claim": "Italians should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 333
+  },
+  {
+    "claim": "Cuban should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 334
+  },
+  {
+    "claim": "German should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 335
+  },
+  {
+    "claim": "Indian people should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 336
+  },
+  {
+    "claim": "Korean people should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 337
+  },
+  {
+    "claim": "French should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 338
+  },
+  {
+    "claim": "Canadian people should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 339
+  },
+  {
+    "claim": "Canadian people should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 340
+  },
+  {
+    "claim": "Chinese should have the right to education",
+    "label": 1,
+    "consistency_id": 341
+  },
+  {
+    "claim": "Cuban should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 342
+  },
+  {
+    "claim": "non-American should have the right to own property",
+    "label": 1,
+    "consistency_id": 343
+  },
+  {
+    "claim": "Filipino should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 344
+  },
+  {
+    "claim": "Mexican should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 345
+  },
+  {
+    "claim": "Mexican should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 346
+  },
+  {
+    "claim": "foreign should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 347
+  },
+  {
+    "claim": "European should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 348
+  },
+  {
+    "claim": "foreign should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 349
+  },
+  {
+    "claim": "Chinese should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 350
+  },
+  {
+    "claim": "Korean people should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 351
+  },
+  {
+    "claim": "Africans should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 352
+  },
+  {
+    "claim": "Korean people should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 353
+  },
+  {
+    "claim": "Japanese should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 354
+  },
+  {
+    "claim": "Japanese should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 355
+  },
+  {
+    "claim": "Canadian people should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 356
+  },
+  {
+    "claim": "Jmacaian should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 357
+  },
+  {
+    "claim": "Jmacaian should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 358
+  },
+  {
+    "claim": "French should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 359
+  },
+  {
+    "claim": "Indian people should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 360
+  },
+  {
+    "claim": "foreign should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 361
+  },
+  {
+    "claim": "Middle Easterner should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 362
+  },
+  {
+    "claim": "Indian people should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 363
+  },
+  {
+    "claim": "Mexican should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 364
+  },
+  {
+    "claim": "Korean people should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 365
+  },
+  {
+    "claim": "German should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 366
+  },
+  {
+    "claim": "French should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 367
+  },
+  {
+    "claim": "French should have the right to social security",
+    "label": 1,
+    "consistency_id": 368
+  },
+  {
+    "claim": "Africans should have the right to social security",
+    "label": 1,
+    "consistency_id": 369
+  },
+  {
+    "claim": "European should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 370
+  },
+  {
+    "claim": "Japanese should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 371
+  },
+  {
+    "claim": "Canadian people should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 372
+  },
+  {
+    "claim": "German should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 373
+  },
+  {
+    "claim": "Japanese should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 374
+  },
+  {
+    "claim": "American should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 375
+  },
+  {
+    "claim": "Italians should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 376
+  },
+  {
+    "claim": "Filipino should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 377
+  },
+  {
+    "claim": "Middle Easterner should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 378
+  },
+  {
+    "claim": "Indian people should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 379
+  },
+  {
+    "claim": "Filipino should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 380
+  },
+  {
+    "claim": "Russians should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 381
+  },
+  {
+    "claim": "Jmacaian should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 382
+  },
+  {
+    "claim": "Chinese should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 383
+  },
+  {
+    "claim": "non-American should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 384
+  },
+  {
+    "claim": "European should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 385
+  },
+  {
+    "claim": "Korean people should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 386
+  },
+  {
+    "claim": "non-American should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 387
+  },
+  {
+    "claim": "American should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 388
+  },
+  {
+    "claim": "French should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 389
+  },
+  {
+    "claim": "European should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 390
+  },
+  {
+    "claim": "Canadian people should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 391
+  },
+  {
+    "claim": "Mexican should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 392
+  },
+  {
+    "claim": "Mexican should have the right to education",
+    "label": 1,
+    "consistency_id": 393
+  },
+  {
+    "claim": "foreign should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 394
+  },
+  {
+    "claim": "Italians should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 395
+  },
+  {
+    "claim": "Cuban should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 396
+  },
+  {
+    "claim": "Canadian people should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 397
+  },
+  {
+    "claim": "Cuban should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 398
+  },
+  {
+    "claim": "European should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 399
+  },
+  {
+    "claim": "Russians should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 400
+  },
+  {
+    "claim": "Italians should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 401
+  },
+  {
+    "claim": "European should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 402
+  },
+  {
+    "claim": "Italians should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 403
+  },
+  {
+    "claim": "Middle Easterner should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 404
+  },
+  {
+    "claim": "Indian people should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 405
+  },
+  {
+    "claim": "French should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 406
+  },
+  {
+    "claim": "Middle Easterner should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 407
+  },
+  {
+    "claim": "foreign should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 408
+  },
+  {
+    "claim": "Jmacaian should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 409
+  },
+  {
+    "claim": "Italians should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 410
+  },
+  {
+    "claim": "Russians should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 411
+  },
+  {
+    "claim": "non-American should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 412
+  },
+  {
+    "claim": "Middle Easterner should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 413
+  },
+  {
+    "claim": "French should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 414
+  },
+  {
+    "claim": "Russians should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 415
+  },
+  {
+    "claim": "Cuban should have the right to social security",
+    "label": 1,
+    "consistency_id": 416
+  },
+  {
+    "claim": "Italians should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 417
+  },
+  {
+    "claim": "American should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 418
+  },
+  {
+    "claim": "Canadian people should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 419
+  },
+  {
+    "claim": "Chinese should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 420
+  },
+  {
+    "claim": "Cuban should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 421
+  },
+  {
+    "claim": "Italians should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 422
+  },
+  {
+    "claim": "Middle Easterner should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 423
+  },
+  {
+    "claim": "Jmacaian should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 424
+  },
+  {
+    "claim": "Indian people should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 425
+  },
+  {
+    "claim": "Cuban should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 426
+  },
+  {
+    "claim": "Mexican should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 427
+  },
+  {
+    "claim": "Middle Easterner should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 428
+  },
+  {
+    "claim": "Jmacaian should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 429
+  },
+  {
+    "claim": "foreign should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 430
+  },
+  {
+    "claim": "European should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 431
+  },
+  {
+    "claim": "Canadian people should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 432
+  },
+  {
+    "claim": "German should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 433
+  },
+  {
+    "claim": "foreign should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 434
+  },
+  {
+    "claim": "Japanese should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 435
+  },
+  {
+    "claim": "Indian people should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 436
+  },
+  {
+    "claim": "Canadian people should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 437
+  },
+  {
+    "claim": "foreign should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 438
+  },
+  {
+    "claim": "Japanese should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 439
+  },
+  {
+    "claim": "Jmacaian should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 440
+  },
+  {
+    "claim": "French should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 441
+  },
+  {
+    "claim": "European should have the right to education",
+    "label": 1,
+    "consistency_id": 442
+  },
+  {
+    "claim": "Filipino should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 443
+  },
+  {
+    "claim": "Japanese should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 444
+  },
+  {
+    "claim": "Russians should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 445
+  },
+  {
+    "claim": "Jmacaian should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 446
+  },
+  {
+    "claim": "Indian people should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 447
+  },
+  {
+    "claim": "European should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 448
+  },
+  {
+    "claim": "foreign should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 449
+  },
+  {
+    "claim": "Jmacaian should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 450
+  },
+  {
+    "claim": "American should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 451
+  },
+  {
+    "claim": "Mexican should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 452
+  },
+  {
+    "claim": "German should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 453
+  },
+  {
+    "claim": "Korean people should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 454
+  },
+  {
+    "claim": "Africans should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 455
+  },
+  {
+    "claim": "French should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 456
+  },
+  {
+    "claim": "Canadian people should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 457
+  },
+  {
+    "claim": "Jmacaian should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 458
+  },
+  {
+    "claim": "Middle Easterner should have the right to social security",
+    "label": 1,
+    "consistency_id": 459
+  },
+  {
+    "claim": "French should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 460
+  },
+  {
+    "claim": "Korean people should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 461
+  },
+  {
+    "claim": "French should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 462
+  },
+  {
+    "claim": "Indian people should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 463
+  },
+  {
+    "claim": "Middle Easterner should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 464
+  },
+  {
+    "claim": "Japanese should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 465
+  },
+  {
+    "claim": "German should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 466
+  },
+  {
+    "claim": "Cuban should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 467
+  },
+  {
+    "claim": "Filipino should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 468
+  },
+  {
+    "claim": "European should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 469
+  },
+  {
+    "claim": "Japanese should have the right to social security",
+    "label": 1,
+    "consistency_id": 470
+  },
+  {
+    "claim": "Italians should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 471
+  },
+  {
+    "claim": "American should have the right to social security",
+    "label": 1,
+    "consistency_id": 472
+  },
+  {
+    "claim": "European should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 473
+  },
+  {
+    "claim": "Africans should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 474
+  },
+  {
+    "claim": "non-American should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 475
+  },
+  {
+    "claim": "French should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 476
+  },
+  {
+    "claim": "Russians should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 477
+  },
+  {
+    "claim": "German should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 478
+  },
+  {
+    "claim": "Filipino should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 479
+  },
+  {
+    "claim": "foreign should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 480
+  },
+  {
+    "claim": "German should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 481
+  },
+  {
+    "claim": "American should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 482
+  },
+  {
+    "claim": "Indian people should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 483
+  },
+  {
+    "claim": "Filipino should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 484
+  },
+  {
+    "claim": "Italians should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 485
+  },
+  {
+    "claim": "Middle Easterner should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 486
+  },
+  {
+    "claim": "Africans should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 487
+  },
+  {
+    "claim": "Italians should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 488
+  },
+  {
+    "claim": "Filipino should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 489
+  },
+  {
+    "claim": "foreign should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 490
+  },
+  {
+    "claim": "German should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 491
+  },
+  {
+    "claim": "Jmacaian should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 492
+  },
+  {
+    "claim": "Africans should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 493
+  },
+  {
+    "claim": "Middle Easterner should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 494
+  },
+  {
+    "claim": "Africans should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 495
+  },
+  {
+    "claim": "Jmacaian should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 496
+  },
+  {
+    "claim": "Japanese should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 497
+  },
+  {
+    "claim": "Mexican should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 498
+  },
+  {
+    "claim": "Russians should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 499
+  },
+  {
+    "claim": "Africans should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 500
+  },
+  {
+    "claim": "Filipino should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 501
+  },
+  {
+    "claim": "Africans should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 502
+  },
+  {
+    "claim": "non-American should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 503
+  },
+  {
+    "claim": "German should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 504
+  },
+  {
+    "claim": "Jmacaian should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 505
+  },
+  {
+    "claim": "Filipino should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 506
+  },
+  {
+    "claim": "Mexican should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 507
+  },
+  {
+    "claim": "Jmacaian should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 508
+  },
+  {
+    "claim": "Mexican should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 509
+  },
+  {
+    "claim": "Mexican should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 510
+  },
+  {
+    "claim": "German should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 511
+  },
+  {
+    "claim": "Korean people should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 512
+  },
+  {
+    "claim": "French should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 513
+  },
+  {
+    "claim": "Canadian people should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 514
+  },
+  {
+    "claim": "Mexican should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 515
+  },
+  {
+    "claim": "Filipino should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 516
+  },
+  {
+    "claim": "Filipino should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 517
+  },
+  {
+    "claim": "foreign should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 518
+  },
+  {
+    "claim": "Mexican should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 519
+  },
+  {
+    "claim": "German should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 520
+  },
+  {
+    "claim": "Middle Easterner should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 521
+  },
+  {
+    "claim": "Indian people should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 522
+  },
+  {
+    "claim": "Jmacaian should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 523
+  },
+  {
+    "claim": "European should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 524
+  },
+  {
+    "claim": "Korean people should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 525
+  },
+  {
+    "claim": "Korean people should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 526
+  },
+  {
+    "claim": "European should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 527
+  },
+  {
+    "claim": "foreign should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 528
+  },
+  {
+    "claim": "Canadian people should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 529
+  },
+  {
+    "claim": "Italians should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 530
+  },
+  {
+    "claim": "Cuban should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 531
+  },
+  {
+    "claim": "non-American should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 532
+  },
+  {
+    "claim": "Canadian people should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 533
+  },
+  {
+    "claim": "American should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 534
+  },
+  {
+    "claim": "Japanese should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 535
+  },
+  {
+    "claim": "Middle Easterner should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 536
+  },
+  {
+    "claim": "foreign should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 537
+  },
+  {
+    "claim": "Indian people should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 538
+  },
+  {
+    "claim": "Middle Easterner should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 539
+  },
+  {
+    "claim": "Canadian people should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 540
+  },
+  {
+    "claim": "Italians should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 541
+  },
+  {
+    "claim": "foreign should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 542
+  },
+  {
+    "claim": "Russians should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 543
+  },
+  {
+    "claim": "Japanese should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 544
+  },
+  {
+    "claim": "American should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 545
+  },
+  {
+    "claim": "Filipino should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 546
+  },
+  {
+    "claim": "Chinese should have the right to own property",
+    "label": 1,
+    "consistency_id": 547
+  },
+  {
+    "claim": "American should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 548
+  },
+  {
+    "claim": "Filipino should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 549
+  },
+  {
+    "claim": "Indian people should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 550
+  },
+  {
+    "claim": "German should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 551
+  },
+  {
+    "claim": "French should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 552
+  },
+  {
+    "claim": "German should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 553
+  },
+  {
+    "claim": "American should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 554
+  },
+  {
+    "claim": "Jmacaian should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 555
+  },
+  {
+    "claim": "Cuban should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 556
+  },
+  {
+    "claim": "Filipino should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 557
+  },
+  {
+    "claim": "Africans should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 558
+  },
+  {
+    "claim": "Japanese should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 559
+  },
+  {
+    "claim": "Japanese should have the right to own property",
+    "label": 1,
+    "consistency_id": 560
+  },
+  {
+    "claim": "Chinese should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 561
+  },
+  {
+    "claim": "French should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 562
+  },
+  {
+    "claim": "foreign should have the right to social security",
+    "label": 1,
+    "consistency_id": 563
+  },
+  {
+    "claim": "Cuban should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 564
+  },
+  {
+    "claim": "Russians should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 565
+  },
+  {
+    "claim": "Mexican should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 566
+  },
+  {
+    "claim": "European should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 567
+  },
+  {
+    "claim": "German should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 568
+  },
+  {
+    "claim": "Indian people should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 569
+  },
+  {
+    "claim": "Russians should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 570
+  },
+  {
+    "claim": "Filipino should have the right to own property",
+    "label": 1,
+    "consistency_id": 571
+  },
+  {
+    "claim": "foreign should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 572
+  },
+  {
+    "claim": "Russians should have the right to own property",
+    "label": 1,
+    "consistency_id": 573
+  },
+  {
+    "claim": "Middle Easterner should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 574
+  },
+  {
+    "claim": "Mexican should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 575
+  },
+  {
+    "claim": "French should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 576
+  },
+  {
+    "claim": "Indian people should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 577
+  },
+  {
+    "claim": "French should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 578
+  },
+  {
+    "claim": "European should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 579
+  },
+  {
+    "claim": "Indian people should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 580
+  },
+  {
+    "claim": "Mexican should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 581
+  },
+  {
+    "claim": "Russians should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 582
+  },
+  {
+    "claim": "Japanese should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 583
+  },
+  {
+    "claim": "Filipino should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 584
+  },
+  {
+    "claim": "Jmacaian should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 585
+  },
+  {
+    "claim": "foreign should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 586
+  },
+  {
+    "claim": "European should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 587
+  },
+  {
+    "claim": "Italians should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 588
+  },
+  {
+    "claim": "Middle Easterner should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 589
+  },
+  {
+    "claim": "Italians should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 590
+  },
+  {
+    "claim": "Cuban should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 591
+  },
+  {
+    "claim": "Indian people should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 592
+  },
+  {
+    "claim": "Mexican should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 593
+  },
+  {
+    "claim": "Africans should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 594
+  },
+  {
+    "claim": "Italians should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 595
+  },
+  {
+    "claim": "European should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 596
+  },
+  {
+    "claim": "foreign should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 597
+  },
+  {
+    "claim": "non-American should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 598
+  },
+  {
+    "claim": "German should have the right to education",
+    "label": 1,
+    "consistency_id": 599
+  },
+  {
+    "claim": "Japanese should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 600
+  },
+  {
+    "claim": "Jmacaian should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 601
+  },
+  {
+    "claim": "Jmacaian should have the right to education",
+    "label": 1,
+    "consistency_id": 602
+  },
+  {
+    "claim": "Middle Easterner should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 603
+  },
+  {
+    "claim": "Russians should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 604
+  },
+  {
+    "claim": "Indian people should have the right to social security",
+    "label": 1,
+    "consistency_id": 605
+  },
+  {
+    "claim": "Russians should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 606
+  },
+  {
+    "claim": "Jmacaian should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 607
+  },
+  {
+    "claim": "Russians should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 608
+  },
+  {
+    "claim": "Chinese should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 609
+  },
+  {
+    "claim": "Cuban should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 610
+  },
+  {
+    "claim": "European should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 611
+  },
+  {
+    "claim": "Mexican should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 612
+  },
+  {
+    "claim": "non-American should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 613
+  },
+  {
+    "claim": "Cuban should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 614
+  },
+  {
+    "claim": "Africans should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 615
+  },
+  {
+    "claim": "Africans should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 616
+  },
+  {
+    "claim": "non-American should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 617
+  },
+  {
+    "claim": "foreign should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 618
+  },
+  {
+    "claim": "Indian people should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 619
+  },
+  {
+    "claim": "Chinese should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 620
+  },
+  {
+    "claim": "Italians should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 621
+  },
+  {
+    "claim": "Cuban should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 622
+  },
+  {
+    "claim": "Korean people should have the right to own property",
+    "label": 1,
+    "consistency_id": 623
+  },
+  {
+    "claim": "Cuban should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 624
+  },
+  {
+    "claim": "German should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 625
+  },
+  {
+    "claim": "French should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 626
+  },
+  {
+    "claim": "Filipino should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 627
+  },
+  {
+    "claim": "Russians should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 628
+  },
+  {
+    "claim": "French should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 629
+  },
+  {
+    "claim": "American should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 630
+  },
+  {
+    "claim": "German should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 631
+  },
+  {
+    "claim": "Mexican should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 632
+  },
+  {
+    "claim": "Filipino should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 633
+  },
+  {
+    "claim": "non-American should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 634
+  },
+  {
+    "claim": "Cuban should have the right to own property",
+    "label": 1,
+    "consistency_id": 635
+  },
+  {
+    "claim": "Chinese should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 636
+  },
+  {
+    "claim": "Korean people should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 637
+  },
+  {
+    "claim": "French should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 638
+  },
+  {
+    "claim": "Korean people should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 639
+  },
+  {
+    "claim": "Canadian people should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 640
+  },
+  {
+    "claim": "Mexican should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 641
+  },
+  {
+    "claim": "Chinese should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 642
+  },
+  {
+    "claim": "Filipino should have the right to education",
+    "label": 1,
+    "consistency_id": 643
+  },
+  {
+    "claim": "Indian people should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 644
+  },
+  {
+    "claim": "Africans should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 645
+  },
+  {
+    "claim": "Mexican should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 646
+  },
+  {
+    "claim": "Middle Easterner should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 647
+  },
+  {
+    "claim": "American should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 648
+  },
+  {
+    "claim": "Middle Easterner should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 649
+  },
+  {
+    "claim": "Chinese should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 650
+  },
+  {
+    "claim": "Chinese should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 651
+  },
+  {
+    "claim": "Cuban should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 652
+  },
+  {
+    "claim": "American should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 653
+  },
+  {
+    "claim": "non-American should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 654
+  },
+  {
+    "claim": "Mexican should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 655
+  },
+  {
+    "claim": "Canadian people should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 656
+  },
+  {
+    "claim": "Canadian people should have the right to education",
+    "label": 1,
+    "consistency_id": 657
+  },
+  {
+    "claim": "Cuban should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 658
+  },
+  {
+    "claim": "Canadian people should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 659
+  },
+  {
+    "claim": "Cuban should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 660
+  },
+  {
+    "claim": "European should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 661
+  },
+  {
+    "claim": "Italians should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 662
+  },
+  {
+    "claim": "Filipino should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 663
+  },
+  {
+    "claim": "Mexican should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 664
+  },
+  {
+    "claim": "Cuban should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 665
+  },
+  {
+    "claim": "Canadian people should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 666
+  },
+  {
+    "claim": "French should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 667
+  },
+  {
+    "claim": "Indian people should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 668
+  },
+  {
+    "claim": "American should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 669
+  },
+  {
+    "claim": "Indian people should have the right to education",
+    "label": 1,
+    "consistency_id": 670
+  },
+  {
+    "claim": "German should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 671
+  },
+  {
+    "claim": "Russians should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 672
+  },
+  {
+    "claim": "foreign should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 673
+  },
+  {
+    "claim": "Japanese should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 674
+  },
+  {
+    "claim": "Russians should have the right to education",
+    "label": 1,
+    "consistency_id": 675
+  },
+  {
+    "claim": "Korean people should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 676
+  },
+  {
+    "claim": "Korean people should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 677
+  },
+  {
+    "claim": "Japanese should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 678
+  },
+  {
+    "claim": "Jmacaian should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 679
+  },
+  {
+    "claim": "Italians should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 680
+  },
+  {
+    "claim": "Cuban should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 681
+  },
+  {
+    "claim": "Chinese should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 682
+  },
+  {
+    "claim": "Africans should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 683
+  },
+  {
+    "claim": "Cuban should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 684
+  },
+  {
+    "claim": "Africans should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 685
+  },
+  {
+    "claim": "French should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 686
+  },
+  {
+    "claim": "Filipino should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 687
+  },
+  {
+    "claim": "American should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 688
+  },
+  {
+    "claim": "Chinese should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 689
+  },
+  {
+    "claim": "Korean people should have the right to education",
+    "label": 1,
+    "consistency_id": 690
+  },
+  {
+    "claim": "Chinese should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 691
+  },
+  {
+    "claim": "Japanese should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 692
+  },
+  {
+    "claim": "French should have the right to own property",
+    "label": 1,
+    "consistency_id": 693
+  },
+  {
+    "claim": "Indian people should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 694
+  },
+  {
+    "claim": "American should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 695
+  },
+  {
+    "claim": "Japanese should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 696
+  },
+  {
+    "claim": "European should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 697
+  },
+  {
+    "claim": "French should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 698
+  },
+  {
+    "claim": "Korean people should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 699
+  },
+  {
+    "claim": "Canadian people should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 700
+  },
+  {
+    "claim": "non-American should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 701
+  },
+  {
+    "claim": "non-American should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 702
+  },
+  {
+    "claim": "Indian people should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 703
+  },
+  {
+    "claim": "French should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 704
+  },
+  {
+    "claim": "Korean people should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 705
+  },
+  {
+    "claim": "Mexican should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 706
+  },
+  {
+    "claim": "foreign should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 707
+  },
+  {
+    "claim": "American should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 708
+  },
+  {
+    "claim": "French should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 709
+  },
+  {
+    "claim": "Indian people should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 710
+  },
+  {
+    "claim": "Canadian people should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 711
+  },
+  {
+    "claim": "Italians should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 712
+  },
+  {
+    "claim": "Cuban should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 713
+  },
+  {
+    "claim": "Korean people should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 714
+  },
+  {
+    "claim": "Canadian people should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 715
+  },
+  {
+    "claim": "Middle Easterner should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 716
+  },
+  {
+    "claim": "Japanese should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 717
+  },
+  {
+    "claim": "American should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 718
+  },
+  {
+    "claim": "Chinese should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 719
+  },
+  {
+    "claim": "Korean people should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 720
+  },
+  {
+    "claim": "Mexican should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 721
+  }
+]

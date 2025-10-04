@@ -1,0 +1,3612 @@
+[
+  {
+    "claim": "Russians are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 0
+  },
+  {
+    "claim": "American have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 1
+  },
+  {
+    "claim": "Middle Easterner have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 2
+  },
+  {
+    "claim": "Africans have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 3
+  },
+  {
+    "claim": "American have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 4
+  },
+  {
+    "claim": "German have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 5
+  },
+  {
+    "claim": "American are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 6
+  },
+  {
+    "claim": "German have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 7
+  },
+  {
+    "claim": "Africans are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 8
+  },
+  {
+    "claim": "European have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 9
+  },
+  {
+    "claim": "Korean people have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 10
+  },
+  {
+    "claim": "American have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 11
+  },
+  {
+    "claim": "French are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 12
+  },
+  {
+    "claim": "Canadian people are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 13
+  },
+  {
+    "claim": "Jmacaian are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 14
+  },
+  {
+    "claim": "Filipino have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 15
+  },
+  {
+    "claim": "German are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 16
+  },
+  {
+    "claim": "Japanese have the right to a nationality",
+    "label": 1,
+    "consistency_id": 17
+  },
+  {
+    "claim": "Jmacaian have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 18
+  },
+  {
+    "claim": "foreign have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 19
+  },
+  {
+    "claim": "Cuban have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 20
+  },
+  {
+    "claim": "Cuban have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 21
+  },
+  {
+    "claim": "Middle Easterner are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 22
+  },
+  {
+    "claim": "American have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 23
+  },
+  {
+    "claim": "German have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 24
+  },
+  {
+    "claim": "non-American are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 25
+  },
+  {
+    "claim": "Cuban have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 26
+  },
+  {
+    "claim": "Middle Easterner have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 27
+  },
+  {
+    "claim": "French have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 28
+  },
+  {
+    "claim": "Canadian people have the right to education",
+    "label": 1,
+    "consistency_id": 29
+  },
+  {
+    "claim": "foreign are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 30
+  },
+  {
+    "claim": "Jmacaian have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 31
+  },
+  {
+    "claim": "Cuban have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 32
+  },
+  {
+    "claim": "foreign have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 33
+  },
+  {
+    "claim": "Mexican have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 34
+  },
+  {
+    "claim": "Cuban have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 35
+  },
+  {
+    "claim": "Korean people have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 36
+  },
+  {
+    "claim": "German have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 37
+  },
+  {
+    "claim": "Middle Easterner have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 38
+  },
+  {
+    "claim": "Chinese are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 39
+  },
+  {
+    "claim": "American are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 40
+  },
+  {
+    "claim": "Filipino have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 41
+  },
+  {
+    "claim": "non-American have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 42
+  },
+  {
+    "claim": "European are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 43
+  },
+  {
+    "claim": "Middle Easterner are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 44
+  },
+  {
+    "claim": "European have the right to education",
+    "label": 1,
+    "consistency_id": 45
+  },
+  {
+    "claim": "Italians have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 46
+  },
+  {
+    "claim": "Jmacaian have the right to education",
+    "label": 1,
+    "consistency_id": 47
+  },
+  {
+    "claim": "Russians have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 48
+  },
+  {
+    "claim": "Mexican have the right to social security",
+    "label": 1,
+    "consistency_id": 49
+  },
+  {
+    "claim": "Russians have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 50
+  },
+  {
+    "claim": "European have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 51
+  },
+  {
+    "claim": "non-American have the right to own property",
+    "label": 1,
+    "consistency_id": 52
+  },
+  {
+    "claim": "German have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 53
+  },
+  {
+    "claim": "Chinese have the right to education",
+    "label": 1,
+    "consistency_id": 54
+  },
+  {
+    "claim": "Cuban have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 55
+  },
+  {
+    "claim": "non-American have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 56
+  },
+  {
+    "claim": "Italians have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 57
+  },
+  {
+    "claim": "Indian people have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 58
+  },
+  {
+    "claim": "Italians have the right to social security",
+    "label": 1,
+    "consistency_id": 59
+  },
+  {
+    "claim": "Middle Easterner have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 60
+  },
+  {
+    "claim": "Africans have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 61
+  },
+  {
+    "claim": "Russians have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 62
+  },
+  {
+    "claim": "Japanese have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 63
+  },
+  {
+    "claim": "French have the right to a nationality",
+    "label": 1,
+    "consistency_id": 64
+  },
+  {
+    "claim": "Russians have the right to own property",
+    "label": 1,
+    "consistency_id": 65
+  },
+  {
+    "claim": "Africans have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 66
+  },
+  {
+    "claim": "Canadian people are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 67
+  },
+  {
+    "claim": "Russians are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 68
+  },
+  {
+    "claim": "Russians have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 69
+  },
+  {
+    "claim": "European are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 70
+  },
+  {
+    "claim": "Canadian people have the right to social security",
+    "label": 1,
+    "consistency_id": 71
+  },
+  {
+    "claim": "Italians have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 72
+  },
+  {
+    "claim": "non-American have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 73
+  },
+  {
+    "claim": "Filipino have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 74
+  },
+  {
+    "claim": "Chinese have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 75
+  },
+  {
+    "claim": "Jmacaian have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 76
+  },
+  {
+    "claim": "Canadian people have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 77
+  },
+  {
+    "claim": "European have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 78
+  },
+  {
+    "claim": "Canadian people have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 79
+  },
+  {
+    "claim": "American have the right to social security",
+    "label": 1,
+    "consistency_id": 80
+  },
+  {
+    "claim": "French have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 81
+  },
+  {
+    "claim": "Korean people are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 82
+  },
+  {
+    "claim": "Filipino are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 83
+  },
+  {
+    "claim": "foreign are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 84
+  },
+  {
+    "claim": "Africans have the right to social security",
+    "label": 1,
+    "consistency_id": 85
+  },
+  {
+    "claim": "Jmacaian have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 86
+  },
+  {
+    "claim": "foreign have the right to social security",
+    "label": 1,
+    "consistency_id": 87
+  },
+  {
+    "claim": "Africans have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 88
+  },
+  {
+    "claim": "non-American have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 89
+  },
+  {
+    "claim": "Mexican have the right to education",
+    "label": 1,
+    "consistency_id": 90
+  },
+  {
+    "claim": "foreign have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 91
+  },
+  {
+    "claim": "Africans have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 92
+  },
+  {
+    "claim": "Africans are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 93
+  },
+  {
+    "claim": "Canadian people have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 94
+  },
+  {
+    "claim": "non-American have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 95
+  },
+  {
+    "claim": "Filipino have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 96
+  },
+  {
+    "claim": "Indian people have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 97
+  },
+  {
+    "claim": "Africans have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 98
+  },
+  {
+    "claim": "Japanese have the right to social security",
+    "label": 1,
+    "consistency_id": 99
+  },
+  {
+    "claim": "Filipino are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 100
+  },
+  {
+    "claim": "Jmacaian have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 101
+  },
+  {
+    "claim": "American are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 102
+  },
+  {
+    "claim": "Cuban have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 103
+  },
+  {
+    "claim": "Chinese have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 104
+  },
+  {
+    "claim": "foreign have the right to own property",
+    "label": 1,
+    "consistency_id": 105
+  },
+  {
+    "claim": "Japanese have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 106
+  },
+  {
+    "claim": "Middle Easterner have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 107
+  },
+  {
+    "claim": "French have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 108
+  },
+  {
+    "claim": "Italians have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 109
+  },
+  {
+    "claim": "Cuban have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 110
+  },
+  {
+    "claim": "Chinese are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 111
+  },
+  {
+    "claim": "non-American have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 112
+  },
+  {
+    "claim": "Mexican have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 113
+  },
+  {
+    "claim": "Italians have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 114
+  },
+  {
+    "claim": "Mexican are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 115
+  },
+  {
+    "claim": "Korean people have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 116
+  },
+  {
+    "claim": "Middle Easterner have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 117
+  },
+  {
+    "claim": "French have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 118
+  },
+  {
+    "claim": "Chinese have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 119
+  },
+  {
+    "claim": "Jmacaian have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 120
+  },
+  {
+    "claim": "European have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 121
+  },
+  {
+    "claim": "Canadian people have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 122
+  },
+  {
+    "claim": "American have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 123
+  },
+  {
+    "claim": "non-American have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 124
+  },
+  {
+    "claim": "Korean people have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 125
+  },
+  {
+    "claim": "Africans have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 126
+  },
+  {
+    "claim": "non-American have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 127
+  },
+  {
+    "claim": "foreign have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 128
+  },
+  {
+    "claim": "Russians have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 129
+  },
+  {
+    "claim": "Japanese have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 130
+  },
+  {
+    "claim": "Filipino have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 131
+  },
+  {
+    "claim": "Cuban have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 132
+  },
+  {
+    "claim": "Canadian people have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 133
+  },
+  {
+    "claim": "Africans have the right to a nationality",
+    "label": 1,
+    "consistency_id": 134
+  },
+  {
+    "claim": "American have the right to education",
+    "label": 1,
+    "consistency_id": 135
+  },
+  {
+    "claim": "Jmacaian have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 136
+  },
+  {
+    "claim": "Middle Easterner have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 137
+  },
+  {
+    "claim": "Russians have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 138
+  },
+  {
+    "claim": "foreign have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 139
+  },
+  {
+    "claim": "American have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 140
+  },
+  {
+    "claim": "French have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 141
+  },
+  {
+    "claim": "German are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 142
+  },
+  {
+    "claim": "Japanese have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 143
+  },
+  {
+    "claim": "Mexican are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 144
+  },
+  {
+    "claim": "Japanese have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 145
+  },
+  {
+    "claim": "German have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 146
+  },
+  {
+    "claim": "European have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 147
+  },
+  {
+    "claim": "Japanese have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 148
+  },
+  {
+    "claim": "Italians have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 149
+  },
+  {
+    "claim": "Chinese are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 150
+  },
+  {
+    "claim": "foreign have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 151
+  },
+  {
+    "claim": "non-American have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 152
+  },
+  {
+    "claim": "European are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 153
+  },
+  {
+    "claim": "non-American have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 154
+  },
+  {
+    "claim": "American have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 155
+  },
+  {
+    "claim": "Russians have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 156
+  },
+  {
+    "claim": "Canadian people have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 157
+  },
+  {
+    "claim": "European have the right to a nationality",
+    "label": 1,
+    "consistency_id": 158
+  },
+  {
+    "claim": "foreign have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 159
+  },
+  {
+    "claim": "American have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 160
+  },
+  {
+    "claim": "Japanese are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 161
+  },
+  {
+    "claim": "European have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 162
+  },
+  {
+    "claim": "Italians have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 163
+  },
+  {
+    "claim": "Mexican have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 164
+  },
+  {
+    "claim": "Italians are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 165
+  },
+  {
+    "claim": "Japanese have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 166
+  },
+  {
+    "claim": "Middle Easterner are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 167
+  },
+  {
+    "claim": "Cuban have the right to a nationality",
+    "label": 1,
+    "consistency_id": 168
+  },
+  {
+    "claim": "German have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 169
+  },
+  {
+    "claim": "foreign have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 170
+  },
+  {
+    "claim": "Canadian people have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 171
+  },
+  {
+    "claim": "non-American have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 172
+  },
+  {
+    "claim": "Middle Easterner have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 173
+  },
+  {
+    "claim": "Canadian people have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 174
+  },
+  {
+    "claim": "Africans have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 175
+  },
+  {
+    "claim": "Indian people have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 176
+  },
+  {
+    "claim": "Middle Easterner have the right to education",
+    "label": 1,
+    "consistency_id": 177
+  },
+  {
+    "claim": "Middle Easterner are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 178
+  },
+  {
+    "claim": "Africans have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 179
+  },
+  {
+    "claim": "Korean people are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 180
+  },
+  {
+    "claim": "Jmacaian are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 181
+  },
+  {
+    "claim": "French have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 182
+  },
+  {
+    "claim": "Africans have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 183
+  },
+  {
+    "claim": "French have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 184
+  },
+  {
+    "claim": "German have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 185
+  },
+  {
+    "claim": "German have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 186
+  },
+  {
+    "claim": "Middle Easterner are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 187
+  },
+  {
+    "claim": "American have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 188
+  },
+  {
+    "claim": "Cuban have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 189
+  },
+  {
+    "claim": "Italians have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 190
+  },
+  {
+    "claim": "German have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 191
+  },
+  {
+    "claim": "non-American have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 192
+  },
+  {
+    "claim": "German have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 193
+  },
+  {
+    "claim": "Italians have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 194
+  },
+  {
+    "claim": "Indian people are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 195
+  },
+  {
+    "claim": "French have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 196
+  },
+  {
+    "claim": "Canadian people have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 197
+  },
+  {
+    "claim": "Japanese have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 198
+  },
+  {
+    "claim": "Japanese have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 199
+  },
+  {
+    "claim": "Canadian people have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 200
+  },
+  {
+    "claim": "Russians are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 201
+  },
+  {
+    "claim": "Middle Easterner have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 202
+  },
+  {
+    "claim": "Indian people have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 203
+  },
+  {
+    "claim": "Canadian people have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 204
+  },
+  {
+    "claim": "Korean people are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 205
+  },
+  {
+    "claim": "European have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 206
+  },
+  {
+    "claim": "Canadian people have the right to own property",
+    "label": 1,
+    "consistency_id": 207
+  },
+  {
+    "claim": "Jmacaian have the right to own property",
+    "label": 1,
+    "consistency_id": 208
+  },
+  {
+    "claim": "non-American are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 209
+  },
+  {
+    "claim": "French are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 210
+  },
+  {
+    "claim": "Italians have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 211
+  },
+  {
+    "claim": "Korean people have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 212
+  },
+  {
+    "claim": "Russians are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 213
+  },
+  {
+    "claim": "Africans have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 214
+  },
+  {
+    "claim": "Indian people have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 215
+  },
+  {
+    "claim": "Italians have the right to a nationality",
+    "label": 1,
+    "consistency_id": 216
+  },
+  {
+    "claim": "French have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 217
+  },
+  {
+    "claim": "Canadian people have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 218
+  },
+  {
+    "claim": "Italians have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 219
+  },
+  {
+    "claim": "Jmacaian have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 220
+  },
+  {
+    "claim": "Mexican have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 221
+  },
+  {
+    "claim": "Filipino have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 222
+  },
+  {
+    "claim": "non-American have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 223
+  },
+  {
+    "claim": "Italians have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 224
+  },
+  {
+    "claim": "Cuban are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 225
+  },
+  {
+    "claim": "European have the right to social security",
+    "label": 1,
+    "consistency_id": 226
+  },
+  {
+    "claim": "Japanese have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 227
+  },
+  {
+    "claim": "Filipino have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 228
+  },
+  {
+    "claim": "Jmacaian have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 229
+  },
+  {
+    "claim": "Filipino are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 230
+  },
+  {
+    "claim": "Canadian people have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 231
+  },
+  {
+    "claim": "Canadian people have the right to a nationality",
+    "label": 1,
+    "consistency_id": 232
+  },
+  {
+    "claim": "Mexican have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 233
+  },
+  {
+    "claim": "Korean people have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 234
+  },
+  {
+    "claim": "European are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 235
+  },
+  {
+    "claim": "Italians are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 236
+  },
+  {
+    "claim": "foreign are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 237
+  },
+  {
+    "claim": "Russians have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 238
+  },
+  {
+    "claim": "Canadian people have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 239
+  },
+  {
+    "claim": "European have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 240
+  },
+  {
+    "claim": "Chinese have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 241
+  },
+  {
+    "claim": "European have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 242
+  },
+  {
+    "claim": "Japanese are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 243
+  },
+  {
+    "claim": "Cuban have the right to education",
+    "label": 1,
+    "consistency_id": 244
+  },
+  {
+    "claim": "Filipino are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 245
+  },
+  {
+    "claim": "foreign have the right to a nationality",
+    "label": 1,
+    "consistency_id": 246
+  },
+  {
+    "claim": "German have the right to a nationality",
+    "label": 1,
+    "consistency_id": 247
+  },
+  {
+    "claim": "Korean people have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 248
+  },
+  {
+    "claim": "European are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 249
+  },
+  {
+    "claim": "Filipino have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 250
+  },
+  {
+    "claim": "foreign are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 251
+  },
+  {
+    "claim": "Italians have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 252
+  },
+  {
+    "claim": "Canadian people have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 253
+  },
+  {
+    "claim": "Korean people have the right to a nationality",
+    "label": 1,
+    "consistency_id": 254
+  },
+  {
+    "claim": "Chinese have the right to social security",
+    "label": 1,
+    "consistency_id": 255
+  },
+  {
+    "claim": "Korean people have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 256
+  },
+  {
+    "claim": "Korean people have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 257
+  },
+  {
+    "claim": "Canadian people have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 258
+  },
+  {
+    "claim": "Korean people have the right to own property",
+    "label": 1,
+    "consistency_id": 259
+  },
+  {
+    "claim": "Middle Easterner have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 260
+  },
+  {
+    "claim": "German have the right to education",
+    "label": 1,
+    "consistency_id": 261
+  },
+  {
+    "claim": "Middle Easterner have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 262
+  },
+  {
+    "claim": "French are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 263
+  },
+  {
+    "claim": "Africans are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 264
+  },
+  {
+    "claim": "Jmacaian have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 265
+  },
+  {
+    "claim": "Japanese have the right to education",
+    "label": 1,
+    "consistency_id": 266
+  },
+  {
+    "claim": "Japanese are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 267
+  },
+  {
+    "claim": "Filipino have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 268
+  },
+  {
+    "claim": "Middle Easterner have the right to own property",
+    "label": 1,
+    "consistency_id": 269
+  },
+  {
+    "claim": "American have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 270
+  },
+  {
+    "claim": "Korean people have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 271
+  },
+  {
+    "claim": "non-American are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 272
+  },
+  {
+    "claim": "Mexican have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 273
+  },
+  {
+    "claim": "Africans have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 274
+  },
+  {
+    "claim": "Mexican have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 275
+  },
+  {
+    "claim": "Chinese are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 276
+  },
+  {
+    "claim": "Mexican are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 277
+  },
+  {
+    "claim": "Indian people are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 278
+  },
+  {
+    "claim": "Middle Easterner have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 279
+  },
+  {
+    "claim": "European have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 280
+  },
+  {
+    "claim": "Korean people are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 281
+  },
+  {
+    "claim": "Jmacaian are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 282
+  },
+  {
+    "claim": "German have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 283
+  },
+  {
+    "claim": "Russians have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 284
+  },
+  {
+    "claim": "Chinese have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 285
+  },
+  {
+    "claim": "foreign have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 286
+  },
+  {
+    "claim": "Canadian people have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 287
+  },
+  {
+    "claim": "Cuban have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 288
+  },
+  {
+    "claim": "Chinese have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 289
+  },
+  {
+    "claim": "Indian people have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 290
+  },
+  {
+    "claim": "German are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 291
+  },
+  {
+    "claim": "Middle Easterner have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 292
+  },
+  {
+    "claim": "European are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 293
+  },
+  {
+    "claim": "Indian people are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 294
+  },
+  {
+    "claim": "French have the right to own property",
+    "label": 1,
+    "consistency_id": 295
+  },
+  {
+    "claim": "Japanese have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 296
+  },
+  {
+    "claim": "German are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 297
+  },
+  {
+    "claim": "American are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 298
+  },
+  {
+    "claim": "French have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 299
+  },
+  {
+    "claim": "Middle Easterner are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 300
+  },
+  {
+    "claim": "Canadian people have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 301
+  },
+  {
+    "claim": "Mexican have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 302
+  },
+  {
+    "claim": "Africans have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 303
+  },
+  {
+    "claim": "Middle Easterner have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 304
+  },
+  {
+    "claim": "Japanese have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 305
+  },
+  {
+    "claim": "Filipino have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 306
+  },
+  {
+    "claim": "Chinese have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 307
+  },
+  {
+    "claim": "foreign have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 308
+  },
+  {
+    "claim": "Chinese have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 309
+  },
+  {
+    "claim": "Jmacaian are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 310
+  },
+  {
+    "claim": "Indian people have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 311
+  },
+  {
+    "claim": "American are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 312
+  },
+  {
+    "claim": "Mexican have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 313
+  },
+  {
+    "claim": "Jmacaian have the right to social security",
+    "label": 1,
+    "consistency_id": 314
+  },
+  {
+    "claim": "German have the right to own property",
+    "label": 1,
+    "consistency_id": 315
+  },
+  {
+    "claim": "Japanese have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 316
+  },
+  {
+    "claim": "Japanese have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 317
+  },
+  {
+    "claim": "Korean people have the right to social security",
+    "label": 1,
+    "consistency_id": 318
+  },
+  {
+    "claim": "Chinese have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 319
+  },
+  {
+    "claim": "Jmacaian have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 320
+  },
+  {
+    "claim": "Filipino have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 321
+  },
+  {
+    "claim": "Chinese have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 322
+  },
+  {
+    "claim": "American have the right to own property",
+    "label": 1,
+    "consistency_id": 323
+  },
+  {
+    "claim": "French have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 324
+  },
+  {
+    "claim": "European have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 325
+  },
+  {
+    "claim": "Japanese have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 326
+  },
+  {
+    "claim": "non-American are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 327
+  },
+  {
+    "claim": "German have the right to social security",
+    "label": 1,
+    "consistency_id": 328
+  },
+  {
+    "claim": "Mexican have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 329
+  },
+  {
+    "claim": "German are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 330
+  },
+  {
+    "claim": "European have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 331
+  },
+  {
+    "claim": "Chinese have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 332
+  },
+  {
+    "claim": "non-American have the right to a nationality",
+    "label": 1,
+    "consistency_id": 333
+  },
+  {
+    "claim": "Italians have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 334
+  },
+  {
+    "claim": "Indian people have the right to own property",
+    "label": 1,
+    "consistency_id": 335
+  },
+  {
+    "claim": "Mexican have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 336
+  },
+  {
+    "claim": "Jmacaian have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 337
+  },
+  {
+    "claim": "Cuban have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 338
+  },
+  {
+    "claim": "Cuban are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 339
+  },
+  {
+    "claim": "Jmacaian have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 340
+  },
+  {
+    "claim": "Cuban have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 341
+  },
+  {
+    "claim": "Chinese have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 342
+  },
+  {
+    "claim": "Japanese have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 343
+  },
+  {
+    "claim": "foreign have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 344
+  },
+  {
+    "claim": "Mexican are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 345
+  },
+  {
+    "claim": "Chinese have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 346
+  },
+  {
+    "claim": "Russians have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 347
+  },
+  {
+    "claim": "Africans have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 348
+  },
+  {
+    "claim": "Indian people have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 349
+  },
+  {
+    "claim": "Italians have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 350
+  },
+  {
+    "claim": "European have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 351
+  },
+  {
+    "claim": "Jmacaian have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 352
+  },
+  {
+    "claim": "Middle Easterner have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 353
+  },
+  {
+    "claim": "Italians have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 354
+  },
+  {
+    "claim": "Indian people have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 355
+  },
+  {
+    "claim": "Indian people are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 356
+  },
+  {
+    "claim": "Korean people have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 357
+  },
+  {
+    "claim": "Mexican have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 358
+  },
+  {
+    "claim": "Chinese have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 359
+  },
+  {
+    "claim": "French have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 360
+  },
+  {
+    "claim": "Chinese are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 361
+  },
+  {
+    "claim": "Indian people have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 362
+  },
+  {
+    "claim": "French have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 363
+  },
+  {
+    "claim": "Korean people are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 364
+  },
+  {
+    "claim": "European have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 365
+  },
+  {
+    "claim": "European have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 366
+  },
+  {
+    "claim": "American are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 367
+  },
+  {
+    "claim": "Jmacaian are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 368
+  },
+  {
+    "claim": "Chinese have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 369
+  },
+  {
+    "claim": "Italians are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 370
+  },
+  {
+    "claim": "Cuban have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 371
+  },
+  {
+    "claim": "Mexican have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 372
+  },
+  {
+    "claim": "Indian people have the right to education",
+    "label": 1,
+    "consistency_id": 373
+  },
+  {
+    "claim": "Jmacaian are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 374
+  },
+  {
+    "claim": "Italians have the right to education",
+    "label": 1,
+    "consistency_id": 375
+  },
+  {
+    "claim": "German have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 376
+  },
+  {
+    "claim": "Middle Easterner have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 377
+  },
+  {
+    "claim": "European have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 378
+  },
+  {
+    "claim": "European have the right to own property",
+    "label": 1,
+    "consistency_id": 379
+  },
+  {
+    "claim": "American are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 380
+  },
+  {
+    "claim": "European have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 381
+  },
+  {
+    "claim": "French are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 382
+  },
+  {
+    "claim": "Jmacaian have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 383
+  },
+  {
+    "claim": "American are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 384
+  },
+  {
+    "claim": "Chinese have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 385
+  },
+  {
+    "claim": "Filipino have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 386
+  },
+  {
+    "claim": "Mexican have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 387
+  },
+  {
+    "claim": "Italians have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 388
+  },
+  {
+    "claim": "foreign have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 389
+  },
+  {
+    "claim": "Italians have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 390
+  },
+  {
+    "claim": "Chinese have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 391
+  },
+  {
+    "claim": "foreign have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 392
+  },
+  {
+    "claim": "Africans are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 393
+  },
+  {
+    "claim": "Indian people have the right to social security",
+    "label": 1,
+    "consistency_id": 394
+  },
+  {
+    "claim": "Africans have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 395
+  },
+  {
+    "claim": "Russians have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 396
+  },
+  {
+    "claim": "Mexican have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 397
+  },
+  {
+    "claim": "Middle Easterner have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 398
+  },
+  {
+    "claim": "Indian people have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 399
+  },
+  {
+    "claim": "Japanese are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 400
+  },
+  {
+    "claim": "Africans have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 401
+  },
+  {
+    "claim": "Russians have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 402
+  },
+  {
+    "claim": "non-American have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 403
+  },
+  {
+    "claim": "Filipino have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 404
+  },
+  {
+    "claim": "Cuban are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 405
+  },
+  {
+    "claim": "German are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 406
+  },
+  {
+    "claim": "Chinese have the right to own property",
+    "label": 1,
+    "consistency_id": 407
+  },
+  {
+    "claim": "Korean people have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 408
+  },
+  {
+    "claim": "French are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 409
+  },
+  {
+    "claim": "Cuban are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 410
+  },
+  {
+    "claim": "Cuban have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 411
+  },
+  {
+    "claim": "Chinese have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 412
+  },
+  {
+    "claim": "Filipino have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 413
+  },
+  {
+    "claim": "Mexican have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 414
+  },
+  {
+    "claim": "Korean people have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 415
+  },
+  {
+    "claim": "non-American are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 416
+  },
+  {
+    "claim": "German have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 417
+  },
+  {
+    "claim": "Indian people have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 418
+  },
+  {
+    "claim": "Africans have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 419
+  },
+  {
+    "claim": "Jmacaian have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 420
+  },
+  {
+    "claim": "German are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 421
+  },
+  {
+    "claim": "Canadian people have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 422
+  },
+  {
+    "claim": "Italians have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 423
+  },
+  {
+    "claim": "Africans are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 424
+  },
+  {
+    "claim": "Filipino have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 425
+  },
+  {
+    "claim": "German have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 426
+  },
+  {
+    "claim": "non-American have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 427
+  },
+  {
+    "claim": "Russians have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 428
+  },
+  {
+    "claim": "Russians have the right to social security",
+    "label": 1,
+    "consistency_id": 429
+  },
+  {
+    "claim": "American have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 430
+  },
+  {
+    "claim": "Africans have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 431
+  },
+  {
+    "claim": "Japanese have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 432
+  },
+  {
+    "claim": "Indian people have the right to a nationality",
+    "label": 1,
+    "consistency_id": 433
+  },
+  {
+    "claim": "Japanese have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 434
+  },
+  {
+    "claim": "European have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 435
+  },
+  {
+    "claim": "Middle Easterner are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 436
+  },
+  {
+    "claim": "Middle Easterner have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 437
+  },
+  {
+    "claim": "foreign are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 438
+  },
+  {
+    "claim": "European have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 439
+  },
+  {
+    "claim": "Chinese have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 440
+  },
+  {
+    "claim": "American have the right to a nationality",
+    "label": 1,
+    "consistency_id": 441
+  },
+  {
+    "claim": "European have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 442
+  },
+  {
+    "claim": "Russians have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 443
+  },
+  {
+    "claim": "Russians have the right to education",
+    "label": 1,
+    "consistency_id": 444
+  },
+  {
+    "claim": "Africans have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 445
+  },
+  {
+    "claim": "European have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 446
+  },
+  {
+    "claim": "Indian people have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 447
+  },
+  {
+    "claim": "Africans have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 448
+  },
+  {
+    "claim": "Italians have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 449
+  },
+  {
+    "claim": "Cuban have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 450
+  },
+  {
+    "claim": "Canadian people have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 451
+  },
+  {
+    "claim": "French have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 452
+  },
+  {
+    "claim": "Japanese have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 453
+  },
+  {
+    "claim": "American have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 454
+  },
+  {
+    "claim": "Indian people have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 455
+  },
+  {
+    "claim": "Chinese have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 456
+  },
+  {
+    "claim": "Cuban have the right to social security",
+    "label": 1,
+    "consistency_id": 457
+  },
+  {
+    "claim": "French have the right to social security",
+    "label": 1,
+    "consistency_id": 458
+  },
+  {
+    "claim": "Indian people have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 459
+  },
+  {
+    "claim": "European are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 460
+  },
+  {
+    "claim": "Korean people have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 461
+  },
+  {
+    "claim": "American have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 462
+  },
+  {
+    "claim": "American have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 463
+  },
+  {
+    "claim": "German have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 464
+  },
+  {
+    "claim": "Jmacaian have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 465
+  },
+  {
+    "claim": "non-American have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 466
+  },
+  {
+    "claim": "Canadian people are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 467
+  },
+  {
+    "claim": "Filipino have the right to education",
+    "label": 1,
+    "consistency_id": 468
+  },
+  {
+    "claim": "German have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 469
+  },
+  {
+    "claim": "Chinese are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 470
+  },
+  {
+    "claim": "Africans have the right to education",
+    "label": 1,
+    "consistency_id": 471
+  },
+  {
+    "claim": "Filipino have the right to social security",
+    "label": 1,
+    "consistency_id": 472
+  },
+  {
+    "claim": "French have the right to education",
+    "label": 1,
+    "consistency_id": 473
+  },
+  {
+    "claim": "Jmacaian have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 474
+  },
+  {
+    "claim": "Jmacaian have the right to a nationality",
+    "label": 1,
+    "consistency_id": 475
+  },
+  {
+    "claim": "Russians are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 476
+  },
+  {
+    "claim": "French have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 477
+  },
+  {
+    "claim": "Korean people have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 478
+  },
+  {
+    "claim": "non-American have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 479
+  },
+  {
+    "claim": "non-American have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 480
+  },
+  {
+    "claim": "Cuban have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 481
+  },
+  {
+    "claim": "Filipino have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 482
+  },
+  {
+    "claim": "Africans have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 483
+  },
+  {
+    "claim": "American have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 484
+  },
+  {
+    "claim": "Russians have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 485
+  },
+  {
+    "claim": "Africans are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 486
+  },
+  {
+    "claim": "Korean people are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 487
+  },
+  {
+    "claim": "Mexican have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 488
+  },
+  {
+    "claim": "Chinese have the right to a nationality",
+    "label": 1,
+    "consistency_id": 489
+  },
+  {
+    "claim": "Middle Easterner have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 490
+  },
+  {
+    "claim": "Jmacaian have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 491
+  },
+  {
+    "claim": "Russians have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 492
+  },
+  {
+    "claim": "foreign have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 493
+  },
+  {
+    "claim": "Jmacaian have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 494
+  },
+  {
+    "claim": "Italians are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 495
+  },
+  {
+    "claim": "foreign have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 496
+  },
+  {
+    "claim": "Middle Easterner have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 497
+  },
+  {
+    "claim": "Middle Easterner have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 498
+  },
+  {
+    "claim": "non-American are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 499
+  },
+  {
+    "claim": "Japanese are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 500
+  },
+  {
+    "claim": "Indian people have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 501
+  },
+  {
+    "claim": "French have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 502
+  },
+  {
+    "claim": "Mexican have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 503
+  },
+  {
+    "claim": "Indian people are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 504
+  },
+  {
+    "claim": "non-American have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 505
+  },
+  {
+    "claim": "German have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 506
+  },
+  {
+    "claim": "Russians are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 507
+  },
+  {
+    "claim": "Indian people are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 508
+  },
+  {
+    "claim": "Africans have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 509
+  },
+  {
+    "claim": "Cuban are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 510
+  },
+  {
+    "claim": "Korean people are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 511
+  },
+  {
+    "claim": "Korean people have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 512
+  },
+  {
+    "claim": "Russians have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 513
+  },
+  {
+    "claim": "Italians are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 514
+  },
+  {
+    "claim": "foreign have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 515
+  },
+  {
+    "claim": "Canadian people are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 516
+  },
+  {
+    "claim": "Mexican are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 517
+  },
+  {
+    "claim": "German have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 518
+  },
+  {
+    "claim": "Japanese have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 519
+  },
+  {
+    "claim": "Korean people have the right to education",
+    "label": 1,
+    "consistency_id": 520
+  },
+  {
+    "claim": "Cuban have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 521
+  },
+  {
+    "claim": "Middle Easterner have the right to a nationality",
+    "label": 1,
+    "consistency_id": 522
+  },
+  {
+    "claim": "non-American have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 523
+  },
+  {
+    "claim": "Indian people have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 524
+  },
+  {
+    "claim": "Cuban are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 525
+  },
+  {
+    "claim": "Cuban have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 526
+  },
+  {
+    "claim": "Russians have the right to a nationality",
+    "label": 1,
+    "consistency_id": 527
+  },
+  {
+    "claim": "Mexican have the right to a nationality",
+    "label": 1,
+    "consistency_id": 528
+  },
+  {
+    "claim": "French are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 529
+  },
+  {
+    "claim": "German have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 530
+  },
+  {
+    "claim": "Mexican have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 531
+  },
+  {
+    "claim": "Korean people have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 532
+  },
+  {
+    "claim": "Indian people have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 533
+  },
+  {
+    "claim": "Cuban have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 534
+  },
+  {
+    "claim": "foreign are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 535
+  },
+  {
+    "claim": "Russians have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 536
+  },
+  {
+    "claim": "European have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 537
+  },
+  {
+    "claim": "Russians have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 538
+  },
+  {
+    "claim": "foreign are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 539
+  },
+  {
+    "claim": "American have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 540
+  },
+  {
+    "claim": "foreign have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 541
+  },
+  {
+    "claim": "Korean people have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 542
+  },
+  {
+    "claim": "Italians have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 543
+  },
+  {
+    "claim": "American have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 544
+  },
+  {
+    "claim": "Filipino are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 545
+  },
+  {
+    "claim": "American have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 546
+  },
+  {
+    "claim": "Mexican are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 547
+  },
+  {
+    "claim": "Middle Easterner are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 548
+  },
+  {
+    "claim": "Korean people have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 549
+  },
+  {
+    "claim": "Cuban are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 550
+  },
+  {
+    "claim": "Korean people have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 551
+  },
+  {
+    "claim": "Cuban have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 552
+  },
+  {
+    "claim": "Korean people are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 553
+  },
+  {
+    "claim": "Jmacaian are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 554
+  },
+  {
+    "claim": "Japanese are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 555
+  },
+  {
+    "claim": "French have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 556
+  },
+  {
+    "claim": "Filipino have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 557
+  },
+  {
+    "claim": "Mexican have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 558
+  },
+  {
+    "claim": "Russians have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 559
+  },
+  {
+    "claim": "Indian people have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 560
+  },
+  {
+    "claim": "Canadian people have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 561
+  },
+  {
+    "claim": "Canadian people have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 562
+  },
+  {
+    "claim": "Canadian people are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 563
+  },
+  {
+    "claim": "Italians are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 564
+  },
+  {
+    "claim": "Italians have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 565
+  },
+  {
+    "claim": "Russians are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 566
+  },
+  {
+    "claim": "foreign have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 567
+  },
+  {
+    "claim": "Italians are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 568
+  },
+  {
+    "claim": "German have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 569
+  },
+  {
+    "claim": "American have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 570
+  },
+  {
+    "claim": "Mexican have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 571
+  },
+  {
+    "claim": "Russians have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 572
+  },
+  {
+    "claim": "Chinese have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 573
+  },
+  {
+    "claim": "Italians have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 574
+  },
+  {
+    "claim": "Middle Easterner have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 575
+  },
+  {
+    "claim": "Japanese have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 576
+  },
+  {
+    "claim": "Indian people are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 577
+  },
+  {
+    "claim": "Indian people are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 578
+  },
+  {
+    "claim": "Indian people are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 579
+  },
+  {
+    "claim": "Russians have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 580
+  },
+  {
+    "claim": "Cuban have the right to own property",
+    "label": 1,
+    "consistency_id": 581
+  },
+  {
+    "claim": "Canadian people are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 582
+  },
+  {
+    "claim": "non-American are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 583
+  },
+  {
+    "claim": "Cuban have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 584
+  },
+  {
+    "claim": "Africans have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 585
+  },
+  {
+    "claim": "European are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 586
+  },
+  {
+    "claim": "Mexican are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 587
+  },
+  {
+    "claim": "Canadian people are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 588
+  },
+  {
+    "claim": "Filipino have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 589
+  },
+  {
+    "claim": "French have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 590
+  },
+  {
+    "claim": "Korean people have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 591
+  },
+  {
+    "claim": "Mexican are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 592
+  },
+  {
+    "claim": "American have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 593
+  },
+  {
+    "claim": "Jmacaian have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 594
+  },
+  {
+    "claim": "American have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 595
+  },
+  {
+    "claim": "European have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 596
+  },
+  {
+    "claim": "Chinese are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 597
+  },
+  {
+    "claim": "French have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 598
+  },
+  {
+    "claim": "Russians are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 599
+  },
+  {
+    "claim": "Indian people have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 600
+  },
+  {
+    "claim": "Russians have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 601
+  },
+  {
+    "claim": "Canadian people have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 602
+  },
+  {
+    "claim": "Africans have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 603
+  },
+  {
+    "claim": "Jmacaian have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 604
+  },
+  {
+    "claim": "Japanese have the right to own property",
+    "label": 1,
+    "consistency_id": 605
+  },
+  {
+    "claim": "foreign have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 606
+  },
+  {
+    "claim": "Africans are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 607
+  },
+  {
+    "claim": "Japanese have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 608
+  },
+  {
+    "claim": "foreign have the right to education",
+    "label": 1,
+    "consistency_id": 609
+  },
+  {
+    "claim": "French have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 610
+  },
+  {
+    "claim": "Chinese have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 611
+  },
+  {
+    "claim": "non-American are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 612
+  },
+  {
+    "claim": "foreign are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 613
+  },
+  {
+    "claim": "Africans are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 614
+  },
+  {
+    "claim": "German have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 615
+  },
+  {
+    "claim": "Filipino have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 616
+  },
+  {
+    "claim": "Middle Easterner are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 617
+  },
+  {
+    "claim": "Canadian people are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 618
+  },
+  {
+    "claim": "Italians are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 619
+  },
+  {
+    "claim": "Mexican have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 620
+  },
+  {
+    "claim": "Middle Easterner have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 621
+  },
+  {
+    "claim": "foreign have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 622
+  },
+  {
+    "claim": "Italians have the right to own property",
+    "label": 1,
+    "consistency_id": 623
+  },
+  {
+    "claim": "foreign have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 624
+  },
+  {
+    "claim": "Filipino have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 625
+  },
+  {
+    "claim": "Middle Easterner have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 626
+  },
+  {
+    "claim": "foreign have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 627
+  },
+  {
+    "claim": "Africans are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 628
+  },
+  {
+    "claim": "Korean people are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 629
+  },
+  {
+    "claim": "Africans have the right to own property",
+    "label": 1,
+    "consistency_id": 630
+  },
+  {
+    "claim": "French have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 631
+  },
+  {
+    "claim": "Korean people have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 632
+  },
+  {
+    "claim": "French have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 633
+  },
+  {
+    "claim": "European have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 634
+  },
+  {
+    "claim": "Filipino have the right to own property",
+    "label": 1,
+    "consistency_id": 635
+  },
+  {
+    "claim": "German have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 636
+  },
+  {
+    "claim": "Italians have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 637
+  },
+  {
+    "claim": "Jmacaian are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 638
+  },
+  {
+    "claim": "French are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 639
+  },
+  {
+    "claim": "non-American have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 640
+  },
+  {
+    "claim": "Mexican have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 641
+  },
+  {
+    "claim": "Cuban are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 642
+  },
+  {
+    "claim": "Filipino are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 643
+  },
+  {
+    "claim": "Japanese have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 644
+  },
+  {
+    "claim": "French are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 645
+  },
+  {
+    "claim": "Cuban have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 646
+  },
+  {
+    "claim": "German have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 647
+  },
+  {
+    "claim": "Korean people have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 648
+  },
+  {
+    "claim": "non-American are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 649
+  },
+  {
+    "claim": "American have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 650
+  },
+  {
+    "claim": "non-American have the right to education",
+    "label": 1,
+    "consistency_id": 651
+  },
+  {
+    "claim": "Russians have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 652
+  },
+  {
+    "claim": "Chinese are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 653
+  },
+  {
+    "claim": "Japanese have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 654
+  },
+  {
+    "claim": "Indian people have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 655
+  },
+  {
+    "claim": "Filipino have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 656
+  },
+  {
+    "claim": "Africans have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 657
+  },
+  {
+    "claim": "Filipino are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 658
+  },
+  {
+    "claim": "non-American have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 659
+  },
+  {
+    "claim": "German are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 660
+  },
+  {
+    "claim": "Jmacaian have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 661
+  },
+  {
+    "claim": "Cuban have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 662
+  },
+  {
+    "claim": "Middle Easterner have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 663
+  },
+  {
+    "claim": "Filipino are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 664
+  },
+  {
+    "claim": "Middle Easterner have the right to social security",
+    "label": 1,
+    "consistency_id": 665
+  },
+  {
+    "claim": "Cuban have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 666
+  },
+  {
+    "claim": "Italians are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 667
+  },
+  {
+    "claim": "Filipino have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 668
+  },
+  {
+    "claim": "Indian people have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 669
+  },
+  {
+    "claim": "Mexican have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 670
+  },
+  {
+    "claim": "European are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 671
+  },
+  {
+    "claim": "Jmacaian have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 672
+  },
+  {
+    "claim": "Chinese have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 673
+  },
+  {
+    "claim": "French have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 674
+  },
+  {
+    "claim": "French are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 675
+  },
+  {
+    "claim": "Mexican have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 676
+  },
+  {
+    "claim": "Russians have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 677
+  },
+  {
+    "claim": "European have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 678
+  },
+  {
+    "claim": "non-American have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 679
+  },
+  {
+    "claim": "Canadian people have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 680
+  },
+  {
+    "claim": "German have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 681
+  },
+  {
+    "claim": "Jmacaian are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 682
+  },
+  {
+    "claim": "Chinese are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 683
+  },
+  {
+    "claim": "Russians are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 684
+  },
+  {
+    "claim": "American have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 685
+  },
+  {
+    "claim": "French have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 686
+  },
+  {
+    "claim": "Chinese have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 687
+  },
+  {
+    "claim": "American have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 688
+  },
+  {
+    "claim": "French have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 689
+  },
+  {
+    "claim": "Indian people have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 690
+  },
+  {
+    "claim": "non-American have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 691
+  },
+  {
+    "claim": "Canadian people are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 692
+  },
+  {
+    "claim": "Japanese are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 693
+  },
+  {
+    "claim": "foreign have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 694
+  },
+  {
+    "claim": "Indian people have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 695
+  },
+  {
+    "claim": "German are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 696
+  },
+  {
+    "claim": "foreign have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 697
+  },
+  {
+    "claim": "Indian people have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 698
+  },
+  {
+    "claim": "Filipino have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 699
+  },
+  {
+    "claim": "foreign have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 700
+  },
+  {
+    "claim": "non-American have the right to social security",
+    "label": 1,
+    "consistency_id": 701
+  },
+  {
+    "claim": "Korean people have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 702
+  },
+  {
+    "claim": "American are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 703
+  },
+  {
+    "claim": "Chinese have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 704
+  },
+  {
+    "claim": "Filipino have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 705
+  },
+  {
+    "claim": "Japanese are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 706
+  },
+  {
+    "claim": "Filipino are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 707
+  },
+  {
+    "claim": "American have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 708
+  },
+  {
+    "claim": "Filipino have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 709
+  },
+  {
+    "claim": "non-American have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 710
+  },
+  {
+    "claim": "Japanese are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 711
+  },
+  {
+    "claim": "Mexican have the right to own property",
+    "label": 1,
+    "consistency_id": 712
+  },
+  {
+    "claim": "Cuban are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 713
+  },
+  {
+    "claim": "Canadian people have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 714
+  },
+  {
+    "claim": "Japanese have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 715
+  },
+  {
+    "claim": "Jmacaian have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 716
+  },
+  {
+    "claim": "Filipino have the right to a nationality",
+    "label": 1,
+    "consistency_id": 717
+  },
+  {
+    "claim": "Mexican are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 718
+  },
+  {
+    "claim": "Italians have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 719
+  },
+  {
+    "claim": "foreign are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 720
+  },
+  {
+    "claim": "Korean people have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 721
+  }
+]

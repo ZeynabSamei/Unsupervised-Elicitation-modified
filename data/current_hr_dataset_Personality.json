@@ -1,0 +1,382 @@
+[
+  {
+    "claim": "extroverts have the right to social security",
+    "label": 1,
+    "consistency_id": 0
+  },
+  {
+    "claim": "introverts have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 1
+  },
+  {
+    "claim": "extroverts have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 2
+  },
+  {
+    "claim": "extroverts are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 3
+  },
+  {
+    "claim": "introverts have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 4
+  },
+  {
+    "claim": "extroverts are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 5
+  },
+  {
+    "claim": "extroverts are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 6
+  },
+  {
+    "claim": "introverts have the right to social security",
+    "label": 1,
+    "consistency_id": 7
+  },
+  {
+    "claim": "introverts are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 8
+  },
+  {
+    "claim": "introverts have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 9
+  },
+  {
+    "claim": "introverts have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 10
+  },
+  {
+    "claim": "introverts have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 11
+  },
+  {
+    "claim": "extroverts have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 12
+  },
+  {
+    "claim": "introverts have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 13
+  },
+  {
+    "claim": "introverts have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 14
+  },
+  {
+    "claim": "introverts have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 15
+  },
+  {
+    "claim": "extroverts have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 16
+  },
+  {
+    "claim": "introverts are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 17
+  },
+  {
+    "claim": "extroverts are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 18
+  },
+  {
+    "claim": "introverts have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 19
+  },
+  {
+    "claim": "introverts are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 20
+  },
+  {
+    "claim": "extroverts are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 21
+  },
+  {
+    "claim": "introverts have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 22
+  },
+  {
+    "claim": "introverts have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 23
+  },
+  {
+    "claim": "introverts have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 24
+  },
+  {
+    "claim": "extroverts have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 25
+  },
+  {
+    "claim": "introverts have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 26
+  },
+  {
+    "claim": "extroverts have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 27
+  },
+  {
+    "claim": "extroverts have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 28
+  },
+  {
+    "claim": "extroverts have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 29
+  },
+  {
+    "claim": "extroverts have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 30
+  },
+  {
+    "claim": "introverts have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 31
+  },
+  {
+    "claim": "extroverts have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 32
+  },
+  {
+    "claim": "extroverts have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 33
+  },
+  {
+    "claim": "extroverts have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 34
+  },
+  {
+    "claim": "extroverts have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 35
+  },
+  {
+    "claim": "extroverts are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 36
+  },
+  {
+    "claim": "introverts have the right to own property",
+    "label": 1,
+    "consistency_id": 37
+  },
+  {
+    "claim": "introverts have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 38
+  },
+  {
+    "claim": "introverts have the right to education",
+    "label": 1,
+    "consistency_id": 39
+  },
+  {
+    "claim": "extroverts have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 40
+  },
+  {
+    "claim": "introverts are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 41
+  },
+  {
+    "claim": "extroverts have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 42
+  },
+  {
+    "claim": "extroverts have the right to education",
+    "label": 1,
+    "consistency_id": 43
+  },
+  {
+    "claim": "introverts have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 44
+  },
+  {
+    "claim": "extroverts have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 45
+  },
+  {
+    "claim": "introverts have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 46
+  },
+  {
+    "claim": "introverts have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 47
+  },
+  {
+    "claim": "extroverts are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 48
+  },
+  {
+    "claim": "introverts are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 49
+  },
+  {
+    "claim": "introverts have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 50
+  },
+  {
+    "claim": "extroverts have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 51
+  },
+  {
+    "claim": "extroverts are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 52
+  },
+  {
+    "claim": "introverts have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 53
+  },
+  {
+    "claim": "introverts have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 54
+  },
+  {
+    "claim": "introverts have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 55
+  },
+  {
+    "claim": "extroverts have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 56
+  },
+  {
+    "claim": "introverts have the right to a nationality",
+    "label": 1,
+    "consistency_id": 57
+  },
+  {
+    "claim": "introverts are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 58
+  },
+  {
+    "claim": "introverts are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 59
+  },
+  {
+    "claim": "introverts are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 60
+  },
+  {
+    "claim": "extroverts are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 61
+  },
+  {
+    "claim": "extroverts have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 62
+  },
+  {
+    "claim": "introverts have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 63
+  },
+  {
+    "claim": "introverts are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 64
+  },
+  {
+    "claim": "extroverts have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 65
+  },
+  {
+    "claim": "extroverts have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 66
+  },
+  {
+    "claim": "extroverts have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 67
+  },
+  {
+    "claim": "introverts have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 68
+  },
+  {
+    "claim": "extroverts have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 69
+  },
+  {
+    "claim": "extroverts have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 70
+  },
+  {
+    "claim": "extroverts have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 71
+  },
+  {
+    "claim": "extroverts have the right to a nationality",
+    "label": 1,
+    "consistency_id": 72
+  },
+  {
+    "claim": "extroverts have the right to own property",
+    "label": 1,
+    "consistency_id": 73
+  },
+  {
+    "claim": "extroverts have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 74
+  },
+  {
+    "claim": "introverts have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 75
+  }
+]

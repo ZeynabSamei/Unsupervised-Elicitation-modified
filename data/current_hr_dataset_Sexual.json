@@ -1,0 +1,2282 @@
+[
+  {
+    "claim": "gay people are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 0
+  },
+  {
+    "claim": "heterosexual people have the right to a nationality",
+    "label": 1,
+    "consistency_id": 1
+  },
+  {
+    "claim": "asexual people have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 2
+  },
+  {
+    "claim": "bisexual people have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 3
+  },
+  {
+    "claim": "monogamous people have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 4
+  },
+  {
+    "claim": "monogamous people have the right to a nationality",
+    "label": 1,
+    "consistency_id": 5
+  },
+  {
+    "claim": "lesbian people have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 6
+  },
+  {
+    "claim": "polyomorous people have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 7
+  },
+  {
+    "claim": "gay people have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 8
+  },
+  {
+    "claim": "homosexual people have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 9
+  },
+  {
+    "claim": "gay people have the right to a nationality",
+    "label": 1,
+    "consistency_id": 10
+  },
+  {
+    "claim": "monogamous people have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 11
+  },
+  {
+    "claim": "polyomorous people have the right to social security",
+    "label": 1,
+    "consistency_id": 12
+  },
+  {
+    "claim": "lgbt people are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 13
+  },
+  {
+    "claim": "heterosexual people have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 14
+  },
+  {
+    "claim": "asexual people have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 15
+  },
+  {
+    "claim": "queer people have the right to education",
+    "label": 1,
+    "consistency_id": 16
+  },
+  {
+    "claim": "homosexual people are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 17
+  },
+  {
+    "claim": "lgbtq people have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 18
+  },
+  {
+    "claim": "lgbtq people have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 19
+  },
+  {
+    "claim": "lgbt people have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 20
+  },
+  {
+    "claim": "gay people have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 21
+  },
+  {
+    "claim": "homosexual people have the right to own property",
+    "label": 1,
+    "consistency_id": 22
+  },
+  {
+    "claim": "homosexual people have the right to social security",
+    "label": 1,
+    "consistency_id": 23
+  },
+  {
+    "claim": "lesbian people have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 24
+  },
+  {
+    "claim": "lgbt people have the right to own property",
+    "label": 1,
+    "consistency_id": 25
+  },
+  {
+    "claim": "homosexual people have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 26
+  },
+  {
+    "claim": "lgbtq people have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 27
+  },
+  {
+    "claim": "bisexual people have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 28
+  },
+  {
+    "claim": "lgbt people have the right to education",
+    "label": 1,
+    "consistency_id": 29
+  },
+  {
+    "claim": "lesbian people have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 30
+  },
+  {
+    "claim": "homosexual people have the right to a nationality",
+    "label": 1,
+    "consistency_id": 31
+  },
+  {
+    "claim": "lgbtq people are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 32
+  },
+  {
+    "claim": "monogamous people have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 33
+  },
+  {
+    "claim": "lgbtq people have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 34
+  },
+  {
+    "claim": "monogamous people are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 35
+  },
+  {
+    "claim": "asexual people have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 36
+  },
+  {
+    "claim": "straight people are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 37
+  },
+  {
+    "claim": "lgbtq people have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 38
+  },
+  {
+    "claim": "lesbian people have the right to own property",
+    "label": 1,
+    "consistency_id": 39
+  },
+  {
+    "claim": "straight people have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 40
+  },
+  {
+    "claim": "lesbian people have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 41
+  },
+  {
+    "claim": "gay people have the right to social security",
+    "label": 1,
+    "consistency_id": 42
+  },
+  {
+    "claim": "queer people have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 43
+  },
+  {
+    "claim": "bisexual people have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 44
+  },
+  {
+    "claim": "bisexual people have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 45
+  },
+  {
+    "claim": "bisexual people have the right to a nationality",
+    "label": 1,
+    "consistency_id": 46
+  },
+  {
+    "claim": "bisexual people have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 47
+  },
+  {
+    "claim": "queer people have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 48
+  },
+  {
+    "claim": "gay people have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 49
+  },
+  {
+    "claim": "monogamous people are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 50
+  },
+  {
+    "claim": "heterosexual people have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 51
+  },
+  {
+    "claim": "polyomorous people have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 52
+  },
+  {
+    "claim": "homosexual people have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 53
+  },
+  {
+    "claim": "queer people are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 54
+  },
+  {
+    "claim": "straight people have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 55
+  },
+  {
+    "claim": "lgbtq people have the right to a nationality",
+    "label": 1,
+    "consistency_id": 56
+  },
+  {
+    "claim": "lgbt people have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 57
+  },
+  {
+    "claim": "bisexual people have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 58
+  },
+  {
+    "claim": "lgbt people have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 59
+  },
+  {
+    "claim": "lgbtq people have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 60
+  },
+  {
+    "claim": "asexual people are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 61
+  },
+  {
+    "claim": "bisexual people have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 62
+  },
+  {
+    "claim": "bisexual people have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 63
+  },
+  {
+    "claim": "monogamous people have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 64
+  },
+  {
+    "claim": "queer people have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 65
+  },
+  {
+    "claim": "lgbtq people have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 66
+  },
+  {
+    "claim": "lesbian people have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 67
+  },
+  {
+    "claim": "lgbt people have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 68
+  },
+  {
+    "claim": "queer people are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 69
+  },
+  {
+    "claim": "lgbt people are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 70
+  },
+  {
+    "claim": "bisexual people have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 71
+  },
+  {
+    "claim": "queer people have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 72
+  },
+  {
+    "claim": "heterosexual people have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 73
+  },
+  {
+    "claim": "bisexual people have the right to own property",
+    "label": 1,
+    "consistency_id": 74
+  },
+  {
+    "claim": "homosexual people are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 75
+  },
+  {
+    "claim": "monogamous people have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 76
+  },
+  {
+    "claim": "lgbtq people have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 77
+  },
+  {
+    "claim": "straight people have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 78
+  },
+  {
+    "claim": "asexual people have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 79
+  },
+  {
+    "claim": "homosexual people are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 80
+  },
+  {
+    "claim": "bisexual people are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 81
+  },
+  {
+    "claim": "straight people have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 82
+  },
+  {
+    "claim": "lesbian people are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 83
+  },
+  {
+    "claim": "polyomorous people have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 84
+  },
+  {
+    "claim": "straight people have the right to a nationality",
+    "label": 1,
+    "consistency_id": 85
+  },
+  {
+    "claim": "polyomorous people are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 86
+  },
+  {
+    "claim": "homosexual people have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 87
+  },
+  {
+    "claim": "lesbian people have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 88
+  },
+  {
+    "claim": "lesbian people are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 89
+  },
+  {
+    "claim": "polyomorous people have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 90
+  },
+  {
+    "claim": "asexual people are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 91
+  },
+  {
+    "claim": "straight people are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 92
+  },
+  {
+    "claim": "asexual people have the right to education",
+    "label": 1,
+    "consistency_id": 93
+  },
+  {
+    "claim": "lgbtq people are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 94
+  },
+  {
+    "claim": "gay people have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 95
+  },
+  {
+    "claim": "homosexual people have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 96
+  },
+  {
+    "claim": "lgbtq people have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 97
+  },
+  {
+    "claim": "lgbt people have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 98
+  },
+  {
+    "claim": "lgbt people have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 99
+  },
+  {
+    "claim": "gay people have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 100
+  },
+  {
+    "claim": "homosexual people have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 101
+  },
+  {
+    "claim": "queer people have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 102
+  },
+  {
+    "claim": "polyomorous people have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 103
+  },
+  {
+    "claim": "gay people are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 104
+  },
+  {
+    "claim": "straight people are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 105
+  },
+  {
+    "claim": "gay people are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 106
+  },
+  {
+    "claim": "asexual people have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 107
+  },
+  {
+    "claim": "bisexual people have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 108
+  },
+  {
+    "claim": "asexual people have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 109
+  },
+  {
+    "claim": "bisexual people have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 110
+  },
+  {
+    "claim": "straight people have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 111
+  },
+  {
+    "claim": "heterosexual people are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 112
+  },
+  {
+    "claim": "lgbt people have the right to social security",
+    "label": 1,
+    "consistency_id": 113
+  },
+  {
+    "claim": "heterosexual people have the right to education",
+    "label": 1,
+    "consistency_id": 114
+  },
+  {
+    "claim": "monogamous people are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 115
+  },
+  {
+    "claim": "polyomorous people have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 116
+  },
+  {
+    "claim": "monogamous people have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 117
+  },
+  {
+    "claim": "lgbtq people have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 118
+  },
+  {
+    "claim": "gay people have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 119
+  },
+  {
+    "claim": "lesbian people have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 120
+  },
+  {
+    "claim": "heterosexual people have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 121
+  },
+  {
+    "claim": "lgbt people are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 122
+  },
+  {
+    "claim": "straight people have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 123
+  },
+  {
+    "claim": "asexual people are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 124
+  },
+  {
+    "claim": "monogamous people have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 125
+  },
+  {
+    "claim": "queer people have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 126
+  },
+  {
+    "claim": "queer people have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 127
+  },
+  {
+    "claim": "lesbian people are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 128
+  },
+  {
+    "claim": "asexual people have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 129
+  },
+  {
+    "claim": "queer people have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 130
+  },
+  {
+    "claim": "asexual people have the right to a nationality",
+    "label": 1,
+    "consistency_id": 131
+  },
+  {
+    "claim": "homosexual people have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 132
+  },
+  {
+    "claim": "lesbian people have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 133
+  },
+  {
+    "claim": "bisexual people have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 134
+  },
+  {
+    "claim": "lgbtq people have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 135
+  },
+  {
+    "claim": "gay people are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 136
+  },
+  {
+    "claim": "lgbt people have the right to a nationality",
+    "label": 1,
+    "consistency_id": 137
+  },
+  {
+    "claim": "lgbtq people have the right to education",
+    "label": 1,
+    "consistency_id": 138
+  },
+  {
+    "claim": "asexual people have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 139
+  },
+  {
+    "claim": "polyomorous people have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 140
+  },
+  {
+    "claim": "bisexual people are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 141
+  },
+  {
+    "claim": "heterosexual people have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 142
+  },
+  {
+    "claim": "lgbtq people are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 143
+  },
+  {
+    "claim": "polyomorous people have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 144
+  },
+  {
+    "claim": "bisexual people have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 145
+  },
+  {
+    "claim": "asexual people have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 146
+  },
+  {
+    "claim": "lgbt people have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 147
+  },
+  {
+    "claim": "lgbt people have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 148
+  },
+  {
+    "claim": "lgbt people have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 149
+  },
+  {
+    "claim": "heterosexual people have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 150
+  },
+  {
+    "claim": "lgbt people have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 151
+  },
+  {
+    "claim": "straight people have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 152
+  },
+  {
+    "claim": "heterosexual people have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 153
+  },
+  {
+    "claim": "lesbian people have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 154
+  },
+  {
+    "claim": "heterosexual people have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 155
+  },
+  {
+    "claim": "straight people have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 156
+  },
+  {
+    "claim": "asexual people have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 157
+  },
+  {
+    "claim": "queer people have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 158
+  },
+  {
+    "claim": "lgbtq people have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 159
+  },
+  {
+    "claim": "lgbtq people have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 160
+  },
+  {
+    "claim": "lgbtq people have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 161
+  },
+  {
+    "claim": "lgbt people are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 162
+  },
+  {
+    "claim": "polyomorous people have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 163
+  },
+  {
+    "claim": "polyomorous people are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 164
+  },
+  {
+    "claim": "straight people are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 165
+  },
+  {
+    "claim": "homosexual people have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 166
+  },
+  {
+    "claim": "bisexual people are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 167
+  },
+  {
+    "claim": "lesbian people have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 168
+  },
+  {
+    "claim": "heterosexual people are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 169
+  },
+  {
+    "claim": "straight people have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 170
+  },
+  {
+    "claim": "asexual people have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 171
+  },
+  {
+    "claim": "heterosexual people have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 172
+  },
+  {
+    "claim": "queer people are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 173
+  },
+  {
+    "claim": "lesbian people have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 174
+  },
+  {
+    "claim": "heterosexual people have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 175
+  },
+  {
+    "claim": "asexual people have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 176
+  },
+  {
+    "claim": "queer people have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 177
+  },
+  {
+    "claim": "polyomorous people are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 178
+  },
+  {
+    "claim": "lgbt people have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 179
+  },
+  {
+    "claim": "lgbtq people are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 180
+  },
+  {
+    "claim": "bisexual people have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 181
+  },
+  {
+    "claim": "polyomorous people are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 182
+  },
+  {
+    "claim": "gay people are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 183
+  },
+  {
+    "claim": "monogamous people have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 184
+  },
+  {
+    "claim": "lgbtq people have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 185
+  },
+  {
+    "claim": "bisexual people are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 186
+  },
+  {
+    "claim": "queer people have the right to own property",
+    "label": 1,
+    "consistency_id": 187
+  },
+  {
+    "claim": "heterosexual people have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 188
+  },
+  {
+    "claim": "heterosexual people have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 189
+  },
+  {
+    "claim": "straight people have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 190
+  },
+  {
+    "claim": "queer people have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 191
+  },
+  {
+    "claim": "polyomorous people have the right to education",
+    "label": 1,
+    "consistency_id": 192
+  },
+  {
+    "claim": "homosexual people have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 193
+  },
+  {
+    "claim": "lgbt people have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 194
+  },
+  {
+    "claim": "heterosexual people have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 195
+  },
+  {
+    "claim": "gay people have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 196
+  },
+  {
+    "claim": "straight people have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 197
+  },
+  {
+    "claim": "queer people have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 198
+  },
+  {
+    "claim": "gay people are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 199
+  },
+  {
+    "claim": "heterosexual people are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 200
+  },
+  {
+    "claim": "heterosexual people are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 201
+  },
+  {
+    "claim": "bisexual people are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 202
+  },
+  {
+    "claim": "lesbian people have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 203
+  },
+  {
+    "claim": "bisexual people have the right to education",
+    "label": 1,
+    "consistency_id": 204
+  },
+  {
+    "claim": "monogamous people have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 205
+  },
+  {
+    "claim": "homosexual people are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 206
+  },
+  {
+    "claim": "polyomorous people have the right to a nationality",
+    "label": 1,
+    "consistency_id": 207
+  },
+  {
+    "claim": "straight people have the right to education",
+    "label": 1,
+    "consistency_id": 208
+  },
+  {
+    "claim": "gay people have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 209
+  },
+  {
+    "claim": "polyomorous people have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 210
+  },
+  {
+    "claim": "monogamous people have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 211
+  },
+  {
+    "claim": "asexual people are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 212
+  },
+  {
+    "claim": "asexual people have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 213
+  },
+  {
+    "claim": "asexual people are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 214
+  },
+  {
+    "claim": "asexual people have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 215
+  },
+  {
+    "claim": "lesbian people are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 216
+  },
+  {
+    "claim": "monogamous people have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 217
+  },
+  {
+    "claim": "lesbian people are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 218
+  },
+  {
+    "claim": "polyomorous people have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 219
+  },
+  {
+    "claim": "lgbt people have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 220
+  },
+  {
+    "claim": "homosexual people have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 221
+  },
+  {
+    "claim": "lgbtq people have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 222
+  },
+  {
+    "claim": "gay people have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 223
+  },
+  {
+    "claim": "homosexual people have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 224
+  },
+  {
+    "claim": "queer people have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 225
+  },
+  {
+    "claim": "lesbian people have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 226
+  },
+  {
+    "claim": "gay people have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 227
+  },
+  {
+    "claim": "monogamous people have the right to social security",
+    "label": 1,
+    "consistency_id": 228
+  },
+  {
+    "claim": "lesbian people have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 229
+  },
+  {
+    "claim": "queer people have the right to a nationality",
+    "label": 1,
+    "consistency_id": 230
+  },
+  {
+    "claim": "heterosexual people have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 231
+  },
+  {
+    "claim": "bisexual people have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 232
+  },
+  {
+    "claim": "bisexual people have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 233
+  },
+  {
+    "claim": "monogamous people have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 234
+  },
+  {
+    "claim": "heterosexual people are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 235
+  },
+  {
+    "claim": "bisexual people have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 236
+  },
+  {
+    "claim": "heterosexual people have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 237
+  },
+  {
+    "claim": "lgbtq people have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 238
+  },
+  {
+    "claim": "lgbt people have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 239
+  },
+  {
+    "claim": "asexual people are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 240
+  },
+  {
+    "claim": "straight people are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 241
+  },
+  {
+    "claim": "lgbt people have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 242
+  },
+  {
+    "claim": "queer people have the right to social security",
+    "label": 1,
+    "consistency_id": 243
+  },
+  {
+    "claim": "asexual people have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 244
+  },
+  {
+    "claim": "polyomorous people are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 245
+  },
+  {
+    "claim": "bisexual people are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 246
+  },
+  {
+    "claim": "polyomorous people have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 247
+  },
+  {
+    "claim": "monogamous people have the right to education",
+    "label": 1,
+    "consistency_id": 248
+  },
+  {
+    "claim": "lgbt people have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 249
+  },
+  {
+    "claim": "lesbian people have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 250
+  },
+  {
+    "claim": "gay people are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 251
+  },
+  {
+    "claim": "lgbt people have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 252
+  },
+  {
+    "claim": "queer people are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 253
+  },
+  {
+    "claim": "homosexual people have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 254
+  },
+  {
+    "claim": "lgbtq people are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 255
+  },
+  {
+    "claim": "lgbtq people are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 256
+  },
+  {
+    "claim": "straight people have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 257
+  },
+  {
+    "claim": "straight people have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 258
+  },
+  {
+    "claim": "straight people are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 259
+  },
+  {
+    "claim": "queer people have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 260
+  },
+  {
+    "claim": "monogamous people are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 261
+  },
+  {
+    "claim": "lesbian people have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 262
+  },
+  {
+    "claim": "gay people have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 263
+  },
+  {
+    "claim": "lgbt people are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 264
+  },
+  {
+    "claim": "polyomorous people have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 265
+  },
+  {
+    "claim": "queer people have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 266
+  },
+  {
+    "claim": "gay people have the right to education",
+    "label": 1,
+    "consistency_id": 267
+  },
+  {
+    "claim": "heterosexual people are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 268
+  },
+  {
+    "claim": "asexual people are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 269
+  },
+  {
+    "claim": "homosexual people have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 270
+  },
+  {
+    "claim": "asexual people are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 271
+  },
+  {
+    "claim": "queer people are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 272
+  },
+  {
+    "claim": "polyomorous people have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 273
+  },
+  {
+    "claim": "lesbian people are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 274
+  },
+  {
+    "claim": "heterosexual people are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 275
+  },
+  {
+    "claim": "asexual people have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 276
+  },
+  {
+    "claim": "homosexual people are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 277
+  },
+  {
+    "claim": "lgbt people have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 278
+  },
+  {
+    "claim": "polyomorous people have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 279
+  },
+  {
+    "claim": "gay people have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 280
+  },
+  {
+    "claim": "homosexual people have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 281
+  },
+  {
+    "claim": "lesbian people have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 282
+  },
+  {
+    "claim": "lesbian people are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 283
+  },
+  {
+    "claim": "polyomorous people have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 284
+  },
+  {
+    "claim": "lgbt people have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 285
+  },
+  {
+    "claim": "straight people have the right to social security",
+    "label": 1,
+    "consistency_id": 286
+  },
+  {
+    "claim": "heterosexual people have the right to social security",
+    "label": 1,
+    "consistency_id": 287
+  },
+  {
+    "claim": "heterosexual people have the right to own property",
+    "label": 1,
+    "consistency_id": 288
+  },
+  {
+    "claim": "straight people have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 289
+  },
+  {
+    "claim": "lgbt people have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 290
+  },
+  {
+    "claim": "monogamous people have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 291
+  },
+  {
+    "claim": "queer people have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 292
+  },
+  {
+    "claim": "lgbtq people have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 293
+  },
+  {
+    "claim": "lesbian people have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 294
+  },
+  {
+    "claim": "straight people have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 295
+  },
+  {
+    "claim": "lesbian people have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 296
+  },
+  {
+    "claim": "gay people are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 297
+  },
+  {
+    "claim": "straight people have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 298
+  },
+  {
+    "claim": "lgbtq people are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 299
+  },
+  {
+    "claim": "heterosexual people have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 300
+  },
+  {
+    "claim": "monogamous people have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 301
+  },
+  {
+    "claim": "lgbtq people have the right to own property",
+    "label": 1,
+    "consistency_id": 302
+  },
+  {
+    "claim": "heterosexual people have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 303
+  },
+  {
+    "claim": "straight people have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 304
+  },
+  {
+    "claim": "straight people have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 305
+  },
+  {
+    "claim": "polyomorous people have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 306
+  },
+  {
+    "claim": "bisexual people are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 307
+  },
+  {
+    "claim": "gay people are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 308
+  },
+  {
+    "claim": "queer people have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 309
+  },
+  {
+    "claim": "heterosexual people have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 310
+  },
+  {
+    "claim": "polyomorous people have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 311
+  },
+  {
+    "claim": "gay people have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 312
+  },
+  {
+    "claim": "queer people are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 313
+  },
+  {
+    "claim": "polyomorous people have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 314
+  },
+  {
+    "claim": "bisexual people are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 315
+  },
+  {
+    "claim": "gay people have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 316
+  },
+  {
+    "claim": "lgbtq people have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 317
+  },
+  {
+    "claim": "homosexual people have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 318
+  },
+  {
+    "claim": "queer people have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 319
+  },
+  {
+    "claim": "homosexual people have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 320
+  },
+  {
+    "claim": "asexual people have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 321
+  },
+  {
+    "claim": "gay people have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 322
+  },
+  {
+    "claim": "queer people are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 323
+  },
+  {
+    "claim": "asexual people are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 324
+  },
+  {
+    "claim": "homosexual people are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 325
+  },
+  {
+    "claim": "heterosexual people have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 326
+  },
+  {
+    "claim": "polyomorous people have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 327
+  },
+  {
+    "claim": "monogamous people have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 328
+  },
+  {
+    "claim": "monogamous people have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 329
+  },
+  {
+    "claim": "queer people have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 330
+  },
+  {
+    "claim": "lgbt people are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 331
+  },
+  {
+    "claim": "queer people have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 332
+  },
+  {
+    "claim": "lesbian people have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 333
+  },
+  {
+    "claim": "polyomorous people are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 334
+  },
+  {
+    "claim": "homosexual people have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 335
+  },
+  {
+    "claim": "lesbian people are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 336
+  },
+  {
+    "claim": "lgbtq people have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 337
+  },
+  {
+    "claim": "straight people are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 338
+  },
+  {
+    "claim": "asexual people have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 339
+  },
+  {
+    "claim": "monogamous people have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 340
+  },
+  {
+    "claim": "polyomorous people have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 341
+  },
+  {
+    "claim": "straight people have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 342
+  },
+  {
+    "claim": "straight people have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 343
+  },
+  {
+    "claim": "heterosexual people have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 344
+  },
+  {
+    "claim": "gay people have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 345
+  },
+  {
+    "claim": "monogamous people have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 346
+  },
+  {
+    "claim": "lesbian people have the right to education",
+    "label": 1,
+    "consistency_id": 347
+  },
+  {
+    "claim": "lesbian people have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 348
+  },
+  {
+    "claim": "polyomorous people have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 349
+  },
+  {
+    "claim": "polyomorous people are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 350
+  },
+  {
+    "claim": "gay people have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 351
+  },
+  {
+    "claim": "lgbtq people have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 352
+  },
+  {
+    "claim": "straight people are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 353
+  },
+  {
+    "claim": "asexual people have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 354
+  },
+  {
+    "claim": "lesbian people have the right to social security",
+    "label": 1,
+    "consistency_id": 355
+  },
+  {
+    "claim": "lgbt people have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 356
+  },
+  {
+    "claim": "lgbtq people are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 357
+  },
+  {
+    "claim": "bisexual people have the right to social security",
+    "label": 1,
+    "consistency_id": 358
+  },
+  {
+    "claim": "heterosexual people have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 359
+  },
+  {
+    "claim": "heterosexual people are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 360
+  },
+  {
+    "claim": "lgbt people have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 361
+  },
+  {
+    "claim": "asexual people have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 362
+  },
+  {
+    "claim": "lgbtq people have the right to social security",
+    "label": 1,
+    "consistency_id": 363
+  },
+  {
+    "claim": "bisexual people have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 364
+  },
+  {
+    "claim": "homosexual people have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 365
+  },
+  {
+    "claim": "polyomorous people have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 366
+  },
+  {
+    "claim": "straight people have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 367
+  },
+  {
+    "claim": "lgbtq people are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 368
+  },
+  {
+    "claim": "monogamous people are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 369
+  },
+  {
+    "claim": "straight people have the right to own property",
+    "label": 1,
+    "consistency_id": 370
+  },
+  {
+    "claim": "bisexual people have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 371
+  },
+  {
+    "claim": "queer people have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 372
+  },
+  {
+    "claim": "polyomorous people have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 373
+  },
+  {
+    "claim": "heterosexual people have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 374
+  },
+  {
+    "claim": "homosexual people have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 375
+  },
+  {
+    "claim": "homosexual people are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 376
+  },
+  {
+    "claim": "heterosexual people have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 377
+  },
+  {
+    "claim": "gay people have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 378
+  },
+  {
+    "claim": "monogamous people have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 379
+  },
+  {
+    "claim": "lesbian people have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 380
+  },
+  {
+    "claim": "monogamous people are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 381
+  },
+  {
+    "claim": "heterosexual people have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 382
+  },
+  {
+    "claim": "asexual people have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 383
+  },
+  {
+    "claim": "monogamous people have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 384
+  },
+  {
+    "claim": "monogamous people have the right to own property",
+    "label": 1,
+    "consistency_id": 385
+  },
+  {
+    "claim": "homosexual people have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 386
+  },
+  {
+    "claim": "gay people have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 387
+  },
+  {
+    "claim": "straight people have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 388
+  },
+  {
+    "claim": "asexual people have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 389
+  },
+  {
+    "claim": "gay people have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 390
+  },
+  {
+    "claim": "polyomorous people are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 391
+  },
+  {
+    "claim": "monogamous people are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 392
+  },
+  {
+    "claim": "lgbt people are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 393
+  },
+  {
+    "claim": "monogamous people have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 394
+  },
+  {
+    "claim": "monogamous people have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 395
+  },
+  {
+    "claim": "bisexual people have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 396
+  },
+  {
+    "claim": "gay people have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 397
+  },
+  {
+    "claim": "lesbian people are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 398
+  },
+  {
+    "claim": "monogamous people are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 399
+  },
+  {
+    "claim": "lgbtq people have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 400
+  },
+  {
+    "claim": "lesbian people have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 401
+  },
+  {
+    "claim": "lgbt people are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 402
+  },
+  {
+    "claim": "homosexual people have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 403
+  },
+  {
+    "claim": "homosexual people are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 404
+  },
+  {
+    "claim": "bisexual people have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 405
+  },
+  {
+    "claim": "straight people have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 406
+  },
+  {
+    "claim": "lesbian people have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 407
+  },
+  {
+    "claim": "queer people are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 408
+  },
+  {
+    "claim": "queer people have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 409
+  },
+  {
+    "claim": "homosexual people have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 410
+  },
+  {
+    "claim": "polyomorous people are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 411
+  },
+  {
+    "claim": "lesbian people have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 412
+  },
+  {
+    "claim": "asexual people have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 413
+  },
+  {
+    "claim": "queer people are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 414
+  },
+  {
+    "claim": "straight people are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 415
+  },
+  {
+    "claim": "bisexual people have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 416
+  },
+  {
+    "claim": "monogamous people have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 417
+  },
+  {
+    "claim": "gay people have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 418
+  },
+  {
+    "claim": "lgbt people have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 419
+  },
+  {
+    "claim": "bisexual people have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 420
+  },
+  {
+    "claim": "straight people have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 421
+  },
+  {
+    "claim": "gay people have the right to own property",
+    "label": 1,
+    "consistency_id": 422
+  },
+  {
+    "claim": "lgbt people have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 423
+  },
+  {
+    "claim": "heterosexual people have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 424
+  },
+  {
+    "claim": "straight people have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 425
+  },
+  {
+    "claim": "bisexual people are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 426
+  },
+  {
+    "claim": "lgbtq people have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 427
+  },
+  {
+    "claim": "monogamous people are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 428
+  },
+  {
+    "claim": "gay people have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 429
+  },
+  {
+    "claim": "lgbt people are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 430
+  },
+  {
+    "claim": "asexual people have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 431
+  },
+  {
+    "claim": "lesbian people have the right to a nationality",
+    "label": 1,
+    "consistency_id": 432
+  },
+  {
+    "claim": "asexual people have the right to own property",
+    "label": 1,
+    "consistency_id": 433
+  },
+  {
+    "claim": "homosexual people have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 434
+  },
+  {
+    "claim": "lgbt people have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 435
+  },
+  {
+    "claim": "asexual people have the right to social security",
+    "label": 1,
+    "consistency_id": 436
+  },
+  {
+    "claim": "queer people have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 437
+  },
+  {
+    "claim": "gay people have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 438
+  },
+  {
+    "claim": "heterosexual people are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 439
+  },
+  {
+    "claim": "homosexual people have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 440
+  },
+  {
+    "claim": "bisexual people have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 441
+  },
+  {
+    "claim": "monogamous people have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 442
+  },
+  {
+    "claim": "lgbtq people have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 443
+  },
+  {
+    "claim": "asexual people have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 444
+  },
+  {
+    "claim": "monogamous people have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 445
+  },
+  {
+    "claim": "queer people have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 446
+  },
+  {
+    "claim": "bisexual people have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 447
+  },
+  {
+    "claim": "queer people have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 448
+  },
+  {
+    "claim": "homosexual people are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 449
+  },
+  {
+    "claim": "polyomorous people have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 450
+  },
+  {
+    "claim": "lgbtq people have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 451
+  },
+  {
+    "claim": "homosexual people have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 452
+  },
+  {
+    "claim": "homosexual people have the right to education",
+    "label": 1,
+    "consistency_id": 453
+  },
+  {
+    "claim": "polyomorous people have the right to own property",
+    "label": 1,
+    "consistency_id": 454
+  },
+  {
+    "claim": "gay people have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 455
+  }
+]

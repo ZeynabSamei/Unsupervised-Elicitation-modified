@@ -1,0 +1,2662 @@
+[
+  {
+    "claim": "cis women have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 0
+  },
+  {
+    "claim": "non-binary people have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 1
+  },
+  {
+    "claim": "trans people have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 2
+  },
+  {
+    "claim": "girls have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 3
+  },
+  {
+    "claim": "guys have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 4
+  },
+  {
+    "claim": "trans women have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 5
+  },
+  {
+    "claim": "cisgender people are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 6
+  },
+  {
+    "claim": "cis women have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 7
+  },
+  {
+    "claim": "girls have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 8
+  },
+  {
+    "claim": "women have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 9
+  },
+  {
+    "claim": "transgender people have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 10
+  },
+  {
+    "claim": "trans women have the right to education",
+    "label": 1,
+    "consistency_id": 11
+  },
+  {
+    "claim": "cis women are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 12
+  },
+  {
+    "claim": "guys have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 13
+  },
+  {
+    "claim": "transgender people have the right to education",
+    "label": 1,
+    "consistency_id": 14
+  },
+  {
+    "claim": "cisgender people are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 15
+  },
+  {
+    "claim": "cis men have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 16
+  },
+  {
+    "claim": "women have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 17
+  },
+  {
+    "claim": "cis men have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 18
+  },
+  {
+    "claim": "guys have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 19
+  },
+  {
+    "claim": "transmen have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 20
+  },
+  {
+    "claim": "transgender people have the right to a nationality",
+    "label": 1,
+    "consistency_id": 21
+  },
+  {
+    "claim": "transgender people are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 22
+  },
+  {
+    "claim": "non-binary people have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 23
+  },
+  {
+    "claim": "nonbinary people have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 24
+  },
+  {
+    "claim": "nonbinary people have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 25
+  },
+  {
+    "claim": "women have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 26
+  },
+  {
+    "claim": "guys are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 27
+  },
+  {
+    "claim": "trans women have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 28
+  },
+  {
+    "claim": "girls are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 29
+  },
+  {
+    "claim": "transgender people have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 30
+  },
+  {
+    "claim": "transgender people are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 31
+  },
+  {
+    "claim": "girls are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 32
+  },
+  {
+    "claim": "girls have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 33
+  },
+  {
+    "claim": "agender people have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 34
+  },
+  {
+    "claim": "transmen have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 35
+  },
+  {
+    "claim": "cis women have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 36
+  },
+  {
+    "claim": "cis women have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 37
+  },
+  {
+    "claim": "trans women are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 38
+  },
+  {
+    "claim": "trans people have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 39
+  },
+  {
+    "claim": "guys are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 40
+  },
+  {
+    "claim": "non-binary people have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 41
+  },
+  {
+    "claim": "transmen are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 42
+  },
+  {
+    "claim": "girls have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 43
+  },
+  {
+    "claim": "cisgender people have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 44
+  },
+  {
+    "claim": "cis men have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 45
+  },
+  {
+    "claim": "nonbinary people have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 46
+  },
+  {
+    "claim": "transgender people have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 47
+  },
+  {
+    "claim": "non-binary people have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 48
+  },
+  {
+    "claim": "transmen have the right to a nationality",
+    "label": 1,
+    "consistency_id": 49
+  },
+  {
+    "claim": "guys have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 50
+  },
+  {
+    "claim": "men are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 51
+  },
+  {
+    "claim": "cis women have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 52
+  },
+  {
+    "claim": "agender people have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 53
+  },
+  {
+    "claim": "cis men are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 54
+  },
+  {
+    "claim": "guys have the right to education",
+    "label": 1,
+    "consistency_id": 55
+  },
+  {
+    "claim": "cis men have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 56
+  },
+  {
+    "claim": "agender people have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 57
+  },
+  {
+    "claim": "transgender people have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 58
+  },
+  {
+    "claim": "transgender people are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 59
+  },
+  {
+    "claim": "cisgender people have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 60
+  },
+  {
+    "claim": "guys have the right to social security",
+    "label": 1,
+    "consistency_id": 61
+  },
+  {
+    "claim": "transmen have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 62
+  },
+  {
+    "claim": "women have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 63
+  },
+  {
+    "claim": "cis men have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 64
+  },
+  {
+    "claim": "nonbinary people have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 65
+  },
+  {
+    "claim": "nonbinary people have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 66
+  },
+  {
+    "claim": "trans women are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 67
+  },
+  {
+    "claim": "transmen are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 68
+  },
+  {
+    "claim": "transgender people have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 69
+  },
+  {
+    "claim": "non-binary people are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 70
+  },
+  {
+    "claim": "women have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 71
+  },
+  {
+    "claim": "women are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 72
+  },
+  {
+    "claim": "transgender people are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 73
+  },
+  {
+    "claim": "women are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 74
+  },
+  {
+    "claim": "cis women have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 75
+  },
+  {
+    "claim": "women have the right to education",
+    "label": 1,
+    "consistency_id": 76
+  },
+  {
+    "claim": "transmen have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 77
+  },
+  {
+    "claim": "men have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 78
+  },
+  {
+    "claim": "guys have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 79
+  },
+  {
+    "claim": "agender people have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 80
+  },
+  {
+    "claim": "men have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 81
+  },
+  {
+    "claim": "girls are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 82
+  },
+  {
+    "claim": "trans people are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 83
+  },
+  {
+    "claim": "trans women have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 84
+  },
+  {
+    "claim": "cisgender people have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 85
+  },
+  {
+    "claim": "cis men are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 86
+  },
+  {
+    "claim": "cis men are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 87
+  },
+  {
+    "claim": "trans women have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 88
+  },
+  {
+    "claim": "cisgender people are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 89
+  },
+  {
+    "claim": "transmen have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 90
+  },
+  {
+    "claim": "trans women have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 91
+  },
+  {
+    "claim": "trans women have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 92
+  },
+  {
+    "claim": "agender people have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 93
+  },
+  {
+    "claim": "transmen are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 94
+  },
+  {
+    "claim": "guys have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 95
+  },
+  {
+    "claim": "trans people have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 96
+  },
+  {
+    "claim": "nonbinary people have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 97
+  },
+  {
+    "claim": "non-binary people have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 98
+  },
+  {
+    "claim": "girls have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 99
+  },
+  {
+    "claim": "nonbinary people have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 100
+  },
+  {
+    "claim": "transmen have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 101
+  },
+  {
+    "claim": "trans people have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 102
+  },
+  {
+    "claim": "cisgender people have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 103
+  },
+  {
+    "claim": "cis women have the right to a nationality",
+    "label": 1,
+    "consistency_id": 104
+  },
+  {
+    "claim": "trans people have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 105
+  },
+  {
+    "claim": "cisgender people have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 106
+  },
+  {
+    "claim": "non-binary people have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 107
+  },
+  {
+    "claim": "trans people have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 108
+  },
+  {
+    "claim": "cis women have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 109
+  },
+  {
+    "claim": "girls are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 110
+  },
+  {
+    "claim": "men are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 111
+  },
+  {
+    "claim": "transmen have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 112
+  },
+  {
+    "claim": "nonbinary people have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 113
+  },
+  {
+    "claim": "transgender people have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 114
+  },
+  {
+    "claim": "cis men have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 115
+  },
+  {
+    "claim": "transmen have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 116
+  },
+  {
+    "claim": "nonbinary people have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 117
+  },
+  {
+    "claim": "non-binary people have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 118
+  },
+  {
+    "claim": "trans people have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 119
+  },
+  {
+    "claim": "men have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 120
+  },
+  {
+    "claim": "trans women are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 121
+  },
+  {
+    "claim": "women have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 122
+  },
+  {
+    "claim": "nonbinary people have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 123
+  },
+  {
+    "claim": "men have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 124
+  },
+  {
+    "claim": "nonbinary people have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 125
+  },
+  {
+    "claim": "women are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 126
+  },
+  {
+    "claim": "agender people have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 127
+  },
+  {
+    "claim": "women have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 128
+  },
+  {
+    "claim": "women have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 129
+  },
+  {
+    "claim": "women have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 130
+  },
+  {
+    "claim": "nonbinary people have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 131
+  },
+  {
+    "claim": "transmen have the right to social security",
+    "label": 1,
+    "consistency_id": 132
+  },
+  {
+    "claim": "agender people have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 133
+  },
+  {
+    "claim": "nonbinary people have the right to education",
+    "label": 1,
+    "consistency_id": 134
+  },
+  {
+    "claim": "men have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 135
+  },
+  {
+    "claim": "guys have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 136
+  },
+  {
+    "claim": "cisgender people have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 137
+  },
+  {
+    "claim": "transmen are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 138
+  },
+  {
+    "claim": "trans people have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 139
+  },
+  {
+    "claim": "women have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 140
+  },
+  {
+    "claim": "cis men have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 141
+  },
+  {
+    "claim": "trans people have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 142
+  },
+  {
+    "claim": "guys have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 143
+  },
+  {
+    "claim": "women have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 144
+  },
+  {
+    "claim": "nonbinary people have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 145
+  },
+  {
+    "claim": "agender people are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 146
+  },
+  {
+    "claim": "trans people are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 147
+  },
+  {
+    "claim": "trans people have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 148
+  },
+  {
+    "claim": "nonbinary people have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 149
+  },
+  {
+    "claim": "cisgender people are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 150
+  },
+  {
+    "claim": "agender people have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 151
+  },
+  {
+    "claim": "cis women are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 152
+  },
+  {
+    "claim": "trans people have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 153
+  },
+  {
+    "claim": "agender people have the right to education",
+    "label": 1,
+    "consistency_id": 154
+  },
+  {
+    "claim": "girls have the right to a nationality",
+    "label": 1,
+    "consistency_id": 155
+  },
+  {
+    "claim": "cis women have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 156
+  },
+  {
+    "claim": "women are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 157
+  },
+  {
+    "claim": "girls have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 158
+  },
+  {
+    "claim": "non-binary people have the right to own property",
+    "label": 1,
+    "consistency_id": 159
+  },
+  {
+    "claim": "trans people are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 160
+  },
+  {
+    "claim": "nonbinary people are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 161
+  },
+  {
+    "claim": "girls have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 162
+  },
+  {
+    "claim": "women have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 163
+  },
+  {
+    "claim": "transgender people are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 164
+  },
+  {
+    "claim": "cis women have the right to education",
+    "label": 1,
+    "consistency_id": 165
+  },
+  {
+    "claim": "trans people have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 166
+  },
+  {
+    "claim": "men have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 167
+  },
+  {
+    "claim": "men are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 168
+  },
+  {
+    "claim": "men have the right to a nationality",
+    "label": 1,
+    "consistency_id": 169
+  },
+  {
+    "claim": "transgender people have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 170
+  },
+  {
+    "claim": "trans women have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 171
+  },
+  {
+    "claim": "men have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 172
+  },
+  {
+    "claim": "cis men have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 173
+  },
+  {
+    "claim": "trans women are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 174
+  },
+  {
+    "claim": "transgender people have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 175
+  },
+  {
+    "claim": "cis men have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 176
+  },
+  {
+    "claim": "trans people are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 177
+  },
+  {
+    "claim": "guys have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 178
+  },
+  {
+    "claim": "agender people have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 179
+  },
+  {
+    "claim": "cis women are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 180
+  },
+  {
+    "claim": "cis women are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 181
+  },
+  {
+    "claim": "agender people have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 182
+  },
+  {
+    "claim": "nonbinary people have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 183
+  },
+  {
+    "claim": "trans people have the right to a nationality",
+    "label": 1,
+    "consistency_id": 184
+  },
+  {
+    "claim": "cis women are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 185
+  },
+  {
+    "claim": "non-binary people have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 186
+  },
+  {
+    "claim": "guys have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 187
+  },
+  {
+    "claim": "cis men are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 188
+  },
+  {
+    "claim": "non-binary people are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 189
+  },
+  {
+    "claim": "trans people have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 190
+  },
+  {
+    "claim": "agender people have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 191
+  },
+  {
+    "claim": "trans people are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 192
+  },
+  {
+    "claim": "cis men have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 193
+  },
+  {
+    "claim": "cis women have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 194
+  },
+  {
+    "claim": "non-binary people are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 195
+  },
+  {
+    "claim": "trans women have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 196
+  },
+  {
+    "claim": "nonbinary people have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 197
+  },
+  {
+    "claim": "transmen have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 198
+  },
+  {
+    "claim": "non-binary people have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 199
+  },
+  {
+    "claim": "agender people are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 200
+  },
+  {
+    "claim": "guys are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 201
+  },
+  {
+    "claim": "non-binary people have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 202
+  },
+  {
+    "claim": "women have the right to own property",
+    "label": 1,
+    "consistency_id": 203
+  },
+  {
+    "claim": "girls have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 204
+  },
+  {
+    "claim": "cisgender people have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 205
+  },
+  {
+    "claim": "transgender people have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 206
+  },
+  {
+    "claim": "guys have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 207
+  },
+  {
+    "claim": "cis men have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 208
+  },
+  {
+    "claim": "men are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 209
+  },
+  {
+    "claim": "transgender people have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 210
+  },
+  {
+    "claim": "women have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 211
+  },
+  {
+    "claim": "guys are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 212
+  },
+  {
+    "claim": "transmen have the right to own property",
+    "label": 1,
+    "consistency_id": 213
+  },
+  {
+    "claim": "cis men have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 214
+  },
+  {
+    "claim": "girls have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 215
+  },
+  {
+    "claim": "men have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 216
+  },
+  {
+    "claim": "transmen have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 217
+  },
+  {
+    "claim": "trans people have the right to education",
+    "label": 1,
+    "consistency_id": 218
+  },
+  {
+    "claim": "trans people are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 219
+  },
+  {
+    "claim": "guys are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 220
+  },
+  {
+    "claim": "trans people have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 221
+  },
+  {
+    "claim": "trans women have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 222
+  },
+  {
+    "claim": "girls are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 223
+  },
+  {
+    "claim": "trans people have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 224
+  },
+  {
+    "claim": "men have the right to education",
+    "label": 1,
+    "consistency_id": 225
+  },
+  {
+    "claim": "girls have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 226
+  },
+  {
+    "claim": "agender people have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 227
+  },
+  {
+    "claim": "cisgender people have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 228
+  },
+  {
+    "claim": "nonbinary people have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 229
+  },
+  {
+    "claim": "transgender people have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 230
+  },
+  {
+    "claim": "women have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 231
+  },
+  {
+    "claim": "agender people have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 232
+  },
+  {
+    "claim": "cisgender people have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 233
+  },
+  {
+    "claim": "transmen have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 234
+  },
+  {
+    "claim": "agender people have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 235
+  },
+  {
+    "claim": "non-binary people have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 236
+  },
+  {
+    "claim": "non-binary people have the right to education",
+    "label": 1,
+    "consistency_id": 237
+  },
+  {
+    "claim": "agender people are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 238
+  },
+  {
+    "claim": "women are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 239
+  },
+  {
+    "claim": "cis men are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 240
+  },
+  {
+    "claim": "men have the right to own property",
+    "label": 1,
+    "consistency_id": 241
+  },
+  {
+    "claim": "guys have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 242
+  },
+  {
+    "claim": "non-binary people have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 243
+  },
+  {
+    "claim": "non-binary people have the right to a nationality",
+    "label": 1,
+    "consistency_id": 244
+  },
+  {
+    "claim": "men have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 245
+  },
+  {
+    "claim": "agender people have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 246
+  },
+  {
+    "claim": "non-binary people have the right to social security",
+    "label": 1,
+    "consistency_id": 247
+  },
+  {
+    "claim": "trans women are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 248
+  },
+  {
+    "claim": "cis women have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 249
+  },
+  {
+    "claim": "trans women have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 250
+  },
+  {
+    "claim": "nonbinary people are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 251
+  },
+  {
+    "claim": "guys have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 252
+  },
+  {
+    "claim": "cis women have the right to own property",
+    "label": 1,
+    "consistency_id": 253
+  },
+  {
+    "claim": "women are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 254
+  },
+  {
+    "claim": "cisgender people have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 255
+  },
+  {
+    "claim": "girls have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 256
+  },
+  {
+    "claim": "transmen have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 257
+  },
+  {
+    "claim": "agender people have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 258
+  },
+  {
+    "claim": "girls have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 259
+  },
+  {
+    "claim": "non-binary people have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 260
+  },
+  {
+    "claim": "trans people have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 261
+  },
+  {
+    "claim": "cis women are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 262
+  },
+  {
+    "claim": "transgender people have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 263
+  },
+  {
+    "claim": "non-binary people are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 264
+  },
+  {
+    "claim": "transgender people have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 265
+  },
+  {
+    "claim": "guys have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 266
+  },
+  {
+    "claim": "men have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 267
+  },
+  {
+    "claim": "cisgender people have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 268
+  },
+  {
+    "claim": "transmen have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 269
+  },
+  {
+    "claim": "girls have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 270
+  },
+  {
+    "claim": "women have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 271
+  },
+  {
+    "claim": "girls have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 272
+  },
+  {
+    "claim": "girls have the right to social security",
+    "label": 1,
+    "consistency_id": 273
+  },
+  {
+    "claim": "girls have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 274
+  },
+  {
+    "claim": "cis women have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 275
+  },
+  {
+    "claim": "girls have the right to education",
+    "label": 1,
+    "consistency_id": 276
+  },
+  {
+    "claim": "agender people are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 277
+  },
+  {
+    "claim": "cis women have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 278
+  },
+  {
+    "claim": "guys have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 279
+  },
+  {
+    "claim": "cis men have the right to education",
+    "label": 1,
+    "consistency_id": 280
+  },
+  {
+    "claim": "agender people have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 281
+  },
+  {
+    "claim": "guys have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 282
+  },
+  {
+    "claim": "girls have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 283
+  },
+  {
+    "claim": "cis women have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 284
+  },
+  {
+    "claim": "trans women are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 285
+  },
+  {
+    "claim": "men have the right to social security",
+    "label": 1,
+    "consistency_id": 286
+  },
+  {
+    "claim": "agender people are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 287
+  },
+  {
+    "claim": "agender people have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 288
+  },
+  {
+    "claim": "cis women are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 289
+  },
+  {
+    "claim": "women have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 290
+  },
+  {
+    "claim": "cis women have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 291
+  },
+  {
+    "claim": "cisgender people are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 292
+  },
+  {
+    "claim": "cisgender people have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 293
+  },
+  {
+    "claim": "transmen have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 294
+  },
+  {
+    "claim": "guys have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 295
+  },
+  {
+    "claim": "cisgender people have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 296
+  },
+  {
+    "claim": "nonbinary people are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 297
+  },
+  {
+    "claim": "trans women have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 298
+  },
+  {
+    "claim": "transgender people have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 299
+  },
+  {
+    "claim": "cis men have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 300
+  },
+  {
+    "claim": "men have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 301
+  },
+  {
+    "claim": "non-binary people have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 302
+  },
+  {
+    "claim": "trans women are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 303
+  },
+  {
+    "claim": "women have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 304
+  },
+  {
+    "claim": "agender people have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 305
+  },
+  {
+    "claim": "men are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 306
+  },
+  {
+    "claim": "men have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 307
+  },
+  {
+    "claim": "trans women have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 308
+  },
+  {
+    "claim": "non-binary people have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 309
+  },
+  {
+    "claim": "transgender people have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 310
+  },
+  {
+    "claim": "women have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 311
+  },
+  {
+    "claim": "girls are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 312
+  },
+  {
+    "claim": "cis men have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 313
+  },
+  {
+    "claim": "transmen have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 314
+  },
+  {
+    "claim": "trans women have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 315
+  },
+  {
+    "claim": "trans people have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 316
+  },
+  {
+    "claim": "cis men have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 317
+  },
+  {
+    "claim": "non-binary people are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 318
+  },
+  {
+    "claim": "transgender people have the right to own property",
+    "label": 1,
+    "consistency_id": 319
+  },
+  {
+    "claim": "non-binary people have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 320
+  },
+  {
+    "claim": "trans people are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 321
+  },
+  {
+    "claim": "men have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 322
+  },
+  {
+    "claim": "non-binary people have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 323
+  },
+  {
+    "claim": "guys are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 324
+  },
+  {
+    "claim": "trans women have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 325
+  },
+  {
+    "claim": "transgender people have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 326
+  },
+  {
+    "claim": "men are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 327
+  },
+  {
+    "claim": "cis men have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 328
+  },
+  {
+    "claim": "transmen have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 329
+  },
+  {
+    "claim": "cis men have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 330
+  },
+  {
+    "claim": "transmen have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 331
+  },
+  {
+    "claim": "nonbinary people have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 332
+  },
+  {
+    "claim": "nonbinary people have the right to own property",
+    "label": 1,
+    "consistency_id": 333
+  },
+  {
+    "claim": "cis men have the right to a nationality",
+    "label": 1,
+    "consistency_id": 334
+  },
+  {
+    "claim": "cis women have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 335
+  },
+  {
+    "claim": "men have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 336
+  },
+  {
+    "claim": "men are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 337
+  },
+  {
+    "claim": "cis men have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 338
+  },
+  {
+    "claim": "guys have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 339
+  },
+  {
+    "claim": "transmen are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 340
+  },
+  {
+    "claim": "guys have the right to own property",
+    "label": 1,
+    "consistency_id": 341
+  },
+  {
+    "claim": "guys are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 342
+  },
+  {
+    "claim": "transmen have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 343
+  },
+  {
+    "claim": "nonbinary people are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 344
+  },
+  {
+    "claim": "agender people have the right to social security",
+    "label": 1,
+    "consistency_id": 345
+  },
+  {
+    "claim": "trans women have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 346
+  },
+  {
+    "claim": "trans people have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 347
+  },
+  {
+    "claim": "cis women have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 348
+  },
+  {
+    "claim": "trans women are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 349
+  },
+  {
+    "claim": "trans people have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 350
+  },
+  {
+    "claim": "men have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 351
+  },
+  {
+    "claim": "trans women have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 352
+  },
+  {
+    "claim": "cis men have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 353
+  },
+  {
+    "claim": "cisgender people have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 354
+  },
+  {
+    "claim": "cis men have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 355
+  },
+  {
+    "claim": "transmen have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 356
+  },
+  {
+    "claim": "nonbinary people have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 357
+  },
+  {
+    "claim": "agender people have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 358
+  },
+  {
+    "claim": "nonbinary people are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 359
+  },
+  {
+    "claim": "transgender people have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 360
+  },
+  {
+    "claim": "cisgender people are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 361
+  },
+  {
+    "claim": "transmen have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 362
+  },
+  {
+    "claim": "non-binary people are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 363
+  },
+  {
+    "claim": "guys have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 364
+  },
+  {
+    "claim": "transgender people are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 365
+  },
+  {
+    "claim": "cis men have the right to own property",
+    "label": 1,
+    "consistency_id": 366
+  },
+  {
+    "claim": "transmen have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 367
+  },
+  {
+    "claim": "girls have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 368
+  },
+  {
+    "claim": "women have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 369
+  },
+  {
+    "claim": "trans women have the right to a nationality",
+    "label": 1,
+    "consistency_id": 370
+  },
+  {
+    "claim": "guys have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 371
+  },
+  {
+    "claim": "transgender people have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 372
+  },
+  {
+    "claim": "men are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 373
+  },
+  {
+    "claim": "non-binary people are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 374
+  },
+  {
+    "claim": "transmen are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 375
+  },
+  {
+    "claim": "transmen have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 376
+  },
+  {
+    "claim": "men have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 377
+  },
+  {
+    "claim": "women have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 378
+  },
+  {
+    "claim": "transmen are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 379
+  },
+  {
+    "claim": "men have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 380
+  },
+  {
+    "claim": "cisgender people have the right to a nationality",
+    "label": 1,
+    "consistency_id": 381
+  },
+  {
+    "claim": "trans people have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 382
+  },
+  {
+    "claim": "transgender people have the right to social security",
+    "label": 1,
+    "consistency_id": 383
+  },
+  {
+    "claim": "agender people are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 384
+  },
+  {
+    "claim": "transgender people are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 385
+  },
+  {
+    "claim": "trans women have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 386
+  },
+  {
+    "claim": "non-binary people have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 387
+  },
+  {
+    "claim": "transmen are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 388
+  },
+  {
+    "claim": "cisgender people have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 389
+  },
+  {
+    "claim": "agender people are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 390
+  },
+  {
+    "claim": "cisgender people have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 391
+  },
+  {
+    "claim": "trans women have the right to social security",
+    "label": 1,
+    "consistency_id": 392
+  },
+  {
+    "claim": "trans women have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 393
+  },
+  {
+    "claim": "nonbinary people are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 394
+  },
+  {
+    "claim": "guys are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 395
+  },
+  {
+    "claim": "girls are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 396
+  },
+  {
+    "claim": "cis men are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 397
+  },
+  {
+    "claim": "trans people are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 398
+  },
+  {
+    "claim": "cisgender people are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 399
+  },
+  {
+    "claim": "agender people have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 400
+  },
+  {
+    "claim": "nonbinary people are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 401
+  },
+  {
+    "claim": "transmen are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 402
+  },
+  {
+    "claim": "cisgender people have the right to social security",
+    "label": 1,
+    "consistency_id": 403
+  },
+  {
+    "claim": "trans people have the right to social security",
+    "label": 1,
+    "consistency_id": 404
+  },
+  {
+    "claim": "cisgender people have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 405
+  },
+  {
+    "claim": "women have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 406
+  },
+  {
+    "claim": "cis men are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 407
+  },
+  {
+    "claim": "agender people have the right to own property",
+    "label": 1,
+    "consistency_id": 408
+  },
+  {
+    "claim": "transmen have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 409
+  },
+  {
+    "claim": "cis women have the right to social security",
+    "label": 1,
+    "consistency_id": 410
+  },
+  {
+    "claim": "guys have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 411
+  },
+  {
+    "claim": "trans people have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 412
+  },
+  {
+    "claim": "nonbinary people have the right to social security",
+    "label": 1,
+    "consistency_id": 413
+  },
+  {
+    "claim": "nonbinary people are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 414
+  },
+  {
+    "claim": "cisgender people have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 415
+  },
+  {
+    "claim": "girls have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 416
+  },
+  {
+    "claim": "cis women have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 417
+  },
+  {
+    "claim": "cisgender people are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 418
+  },
+  {
+    "claim": "girls are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 419
+  },
+  {
+    "claim": "transgender people have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 420
+  },
+  {
+    "claim": "agender people have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 421
+  },
+  {
+    "claim": "women have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 422
+  },
+  {
+    "claim": "non-binary people are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 423
+  },
+  {
+    "claim": "cis men are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 424
+  },
+  {
+    "claim": "nonbinary people have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 425
+  },
+  {
+    "claim": "transgender people have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 426
+  },
+  {
+    "claim": "men have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 427
+  },
+  {
+    "claim": "non-binary people have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 428
+  },
+  {
+    "claim": "trans women have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 429
+  },
+  {
+    "claim": "trans people have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 430
+  },
+  {
+    "claim": "cisgender people have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 431
+  },
+  {
+    "claim": "transmen have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 432
+  },
+  {
+    "claim": "cis men have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 433
+  },
+  {
+    "claim": "trans people have the right to own property",
+    "label": 1,
+    "consistency_id": 434
+  },
+  {
+    "claim": "agender people are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 435
+  },
+  {
+    "claim": "non-binary people have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 436
+  },
+  {
+    "claim": "guys have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 437
+  },
+  {
+    "claim": "girls have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 438
+  },
+  {
+    "claim": "cis women have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 439
+  },
+  {
+    "claim": "women are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 440
+  },
+  {
+    "claim": "girls have the right to own property",
+    "label": 1,
+    "consistency_id": 441
+  },
+  {
+    "claim": "cisgender people have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 442
+  },
+  {
+    "claim": "trans people are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 443
+  },
+  {
+    "claim": "girls have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 444
+  },
+  {
+    "claim": "transgender people have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 445
+  },
+  {
+    "claim": "non-binary people have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 446
+  },
+  {
+    "claim": "trans women have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 447
+  },
+  {
+    "claim": "cisgender people have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 448
+  },
+  {
+    "claim": "cis men have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 449
+  },
+  {
+    "claim": "women have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 450
+  },
+  {
+    "claim": "nonbinary people have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 451
+  },
+  {
+    "claim": "nonbinary people are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 452
+  },
+  {
+    "claim": "transgender people have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 453
+  },
+  {
+    "claim": "transgender people have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 454
+  },
+  {
+    "claim": "nonbinary people have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 455
+  },
+  {
+    "claim": "women have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 456
+  },
+  {
+    "claim": "non-binary people have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 457
+  },
+  {
+    "claim": "women have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 458
+  },
+  {
+    "claim": "men have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 459
+  },
+  {
+    "claim": "guys have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 460
+  },
+  {
+    "claim": "guys have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 461
+  },
+  {
+    "claim": "trans women have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 462
+  },
+  {
+    "claim": "nonbinary people have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 463
+  },
+  {
+    "claim": "trans women have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 464
+  },
+  {
+    "claim": "men have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 465
+  },
+  {
+    "claim": "non-binary people have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 466
+  },
+  {
+    "claim": "trans people have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 467
+  },
+  {
+    "claim": "cis women have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 468
+  },
+  {
+    "claim": "cis women have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 469
+  },
+  {
+    "claim": "cis men have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 470
+  },
+  {
+    "claim": "trans women have the right to own property",
+    "label": 1,
+    "consistency_id": 471
+  },
+  {
+    "claim": "trans people have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 472
+  },
+  {
+    "claim": "cisgender people are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 473
+  },
+  {
+    "claim": "cis women have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 474
+  },
+  {
+    "claim": "cis men have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 475
+  },
+  {
+    "claim": "guys have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 476
+  },
+  {
+    "claim": "women have the right to a nationality",
+    "label": 1,
+    "consistency_id": 477
+  },
+  {
+    "claim": "cisgender people have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 478
+  },
+  {
+    "claim": "cis women have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 479
+  },
+  {
+    "claim": "trans women are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 480
+  },
+  {
+    "claim": "girls have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 481
+  },
+  {
+    "claim": "agender people are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 482
+  },
+  {
+    "claim": "agender people have the right to a nationality",
+    "label": 1,
+    "consistency_id": 483
+  },
+  {
+    "claim": "men have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 484
+  },
+  {
+    "claim": "girls have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 485
+  },
+  {
+    "claim": "agender people have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 486
+  },
+  {
+    "claim": "nonbinary people have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 487
+  },
+  {
+    "claim": "non-binary people have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 488
+  },
+  {
+    "claim": "girls have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 489
+  },
+  {
+    "claim": "cisgender people have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 490
+  },
+  {
+    "claim": "trans people have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 491
+  },
+  {
+    "claim": "trans women have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 492
+  },
+  {
+    "claim": "non-binary people have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 493
+  },
+  {
+    "claim": "women have the right to social security",
+    "label": 1,
+    "consistency_id": 494
+  },
+  {
+    "claim": "transgender people have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 495
+  },
+  {
+    "claim": "men have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 496
+  },
+  {
+    "claim": "cisgender people have the right to education",
+    "label": 1,
+    "consistency_id": 497
+  },
+  {
+    "claim": "agender people have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 498
+  },
+  {
+    "claim": "cisgender people have the right to own property",
+    "label": 1,
+    "consistency_id": 499
+  },
+  {
+    "claim": "nonbinary people have the right to a nationality",
+    "label": 1,
+    "consistency_id": 500
+  },
+  {
+    "claim": "transgender people are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 501
+  },
+  {
+    "claim": "cis men have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 502
+  },
+  {
+    "claim": "cisgender people have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 503
+  },
+  {
+    "claim": "guys have the right to a nationality",
+    "label": 1,
+    "consistency_id": 504
+  },
+  {
+    "claim": "women are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 505
+  },
+  {
+    "claim": "girls are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 506
+  },
+  {
+    "claim": "trans women have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 507
+  },
+  {
+    "claim": "cis women have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 508
+  },
+  {
+    "claim": "cis men have the right to social security",
+    "label": 1,
+    "consistency_id": 509
+  },
+  {
+    "claim": "men have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 510
+  },
+  {
+    "claim": "men have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 511
+  },
+  {
+    "claim": "women are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 512
+  },
+  {
+    "claim": "girls have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 513
+  },
+  {
+    "claim": "transmen have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 514
+  },
+  {
+    "claim": "girls have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 515
+  },
+  {
+    "claim": "agender people have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 516
+  },
+  {
+    "claim": "cis women are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 517
+  },
+  {
+    "claim": "cis women have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 518
+  },
+  {
+    "claim": "nonbinary people have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 519
+  },
+  {
+    "claim": "non-binary people are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 520
+  },
+  {
+    "claim": "transgender people are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 521
+  },
+  {
+    "claim": "men are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 522
+  },
+  {
+    "claim": "transmen have the right to education",
+    "label": 1,
+    "consistency_id": 523
+  },
+  {
+    "claim": "transgender people have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 524
+  },
+  {
+    "claim": "cis women have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 525
+  },
+  {
+    "claim": "guys are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 526
+  },
+  {
+    "claim": "men have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 527
+  },
+  {
+    "claim": "cisgender people have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 528
+  },
+  {
+    "claim": "cis women are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 529
+  },
+  {
+    "claim": "cis men are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 530
+  },
+  {
+    "claim": "trans women have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 531
+  }
+]

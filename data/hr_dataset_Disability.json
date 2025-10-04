@@ -1,0 +1,5132 @@
+[
+  {
+    "claim": "non-disabled people should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 0
+  },
+  {
+    "claim": "people with ADHD should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 1
+  },
+  {
+    "claim": "people with autism should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 2
+  },
+  {
+    "claim": "people with a brain injury should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 3
+  },
+  {
+    "claim": "people with depression should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 4
+  },
+  {
+    "claim": "people with a hearing impairment should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 5
+  },
+  {
+    "claim": "people with depression should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 6
+  },
+  {
+    "claim": "people with vision impairment should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 7
+  },
+  {
+    "claim": "people with a hearing impairment should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 8
+  },
+  {
+    "claim": "paralyzed people should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 9
+  },
+  {
+    "claim": "hard of hearing people should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 10
+  },
+  {
+    "claim": "people with a hearing impairment should have the right to own property",
+    "label": 1,
+    "consistency_id": 11
+  },
+  {
+    "claim": "disabled people should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 12
+  },
+  {
+    "claim": "blind people should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 13
+  },
+  {
+    "claim": "people with paraplegia should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 14
+  },
+  {
+    "claim": "people with a metal health condition should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 15
+  },
+  {
+    "claim": "people with cognitive disability should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 16
+  },
+  {
+    "claim": "people with learning disability should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 17
+  },
+  {
+    "claim": "people with depression should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 18
+  },
+  {
+    "claim": "non-disabled people should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 19
+  },
+  {
+    "claim": "disabled people should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 20
+  },
+  {
+    "claim": "people with a hearing impairment should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 21
+  },
+  {
+    "claim": "people with a metal health condition should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 22
+  },
+  {
+    "claim": "people with vision impairment should have the right to education",
+    "label": 1,
+    "consistency_id": 23
+  },
+  {
+    "claim": "people with learning disability should have the right to education",
+    "label": 1,
+    "consistency_id": 24
+  },
+  {
+    "claim": "people with learning disability should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 25
+  },
+  {
+    "claim": "people with a visual impairment should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 26
+  },
+  {
+    "claim": "deaf people should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 27
+  },
+  {
+    "claim": "people of short stature should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 28
+  },
+  {
+    "claim": "people with cognitive disability should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 29
+  },
+  {
+    "claim": "people with a hearing impairment should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 30
+  },
+  {
+    "claim": "people with a brain injury should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 31
+  },
+  {
+    "claim": "people with psychosocial disability should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 32
+  },
+  {
+    "claim": "deaf people should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 33
+  },
+  {
+    "claim": "people with psychosocial disability should have the right to own property",
+    "label": 1,
+    "consistency_id": 34
+  },
+  {
+    "claim": "people with depression should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 35
+  },
+  {
+    "claim": "paralyzed people should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 36
+  },
+  {
+    "claim": "people with a visual impairment should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 37
+  },
+  {
+    "claim": "people with a visual impairment should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 38
+  },
+  {
+    "claim": "people with depression should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 39
+  },
+  {
+    "claim": "people with learning disability should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 40
+  },
+  {
+    "claim": "people with a visual impairment should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 41
+  },
+  {
+    "claim": "disabled people should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 42
+  },
+  {
+    "claim": "non-disabled people should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 43
+  },
+  {
+    "claim": "people with a hearing impairment should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 44
+  },
+  {
+    "claim": "people with bipolar disorder should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 45
+  },
+  {
+    "claim": "vision impaired people should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 46
+  },
+  {
+    "claim": "people with a visual impairment should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 47
+  },
+  {
+    "claim": "people with paraplegia should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 48
+  },
+  {
+    "claim": "hearing impaired people should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 49
+  },
+  {
+    "claim": "disabled people should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 50
+  },
+  {
+    "claim": "blind people should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 51
+  },
+  {
+    "claim": "people with quadriplegia should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 52
+  },
+  {
+    "claim": "people with disability should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 53
+  },
+  {
+    "claim": "people with disability should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 54
+  },
+  {
+    "claim": "people with paraplegia should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 55
+  },
+  {
+    "claim": "people of short stature should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 56
+  },
+  {
+    "claim": "people of short stature should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 57
+  },
+  {
+    "claim": "people with psychosocial disability should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 58
+  },
+  {
+    "claim": "people with disability should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 59
+  },
+  {
+    "claim": "people with autism should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 60
+  },
+  {
+    "claim": "deaf people should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 61
+  },
+  {
+    "claim": "people with cognitive disability should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 62
+  },
+  {
+    "claim": "non-disabled people should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 63
+  },
+  {
+    "claim": "deaf people should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 64
+  },
+  {
+    "claim": "people with quadriplegia should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 65
+  },
+  {
+    "claim": "people with cognitive disability should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 66
+  },
+  {
+    "claim": "people with depression should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 67
+  },
+  {
+    "claim": "people with disability should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 68
+  },
+  {
+    "claim": "people with a visual impairment should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 69
+  },
+  {
+    "claim": "vision impaired people should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 70
+  },
+  {
+    "claim": "people of short stature should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 71
+  },
+  {
+    "claim": "hearing impaired people should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 72
+  },
+  {
+    "claim": "people with intellectual disability should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 73
+  },
+  {
+    "claim": "people with disability should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 74
+  },
+  {
+    "claim": "hard of hearing people should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 75
+  },
+  {
+    "claim": "people with a hearing impairment should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 76
+  },
+  {
+    "claim": "people with autism should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 77
+  },
+  {
+    "claim": "people with a visual impairment should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 78
+  },
+  {
+    "claim": "people with quadriplegia should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 79
+  },
+  {
+    "claim": "people with psychosocial disability should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 80
+  },
+  {
+    "claim": "able-bodied people should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 81
+  },
+  {
+    "claim": "people with depression should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 82
+  },
+  {
+    "claim": "people with depression should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 83
+  },
+  {
+    "claim": "people with a visual impairment should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 84
+  },
+  {
+    "claim": "people of short stature should have the right to social security",
+    "label": 1,
+    "consistency_id": 85
+  },
+  {
+    "claim": "able-bodied people should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 86
+  },
+  {
+    "claim": "people with paraplegia should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 87
+  },
+  {
+    "claim": "people with paraplegia should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 88
+  },
+  {
+    "claim": "hearing impaired people should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 89
+  },
+  {
+    "claim": "people with paraplegia should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 90
+  },
+  {
+    "claim": "people with a hearing impairment should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 91
+  },
+  {
+    "claim": "hearing impaired people should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 92
+  },
+  {
+    "claim": "disabled people should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 93
+  },
+  {
+    "claim": "people with bipolar disorder should have the right to social security",
+    "label": 1,
+    "consistency_id": 94
+  },
+  {
+    "claim": "vision impaired people should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 95
+  },
+  {
+    "claim": "vision impaired people should have the right to education",
+    "label": 1,
+    "consistency_id": 96
+  },
+  {
+    "claim": "people of short stature should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 97
+  },
+  {
+    "claim": "people with learning disability should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 98
+  },
+  {
+    "claim": "people with quadriplegia should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 99
+  },
+  {
+    "claim": "disabled people should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 100
+  },
+  {
+    "claim": "people of short stature should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 101
+  },
+  {
+    "claim": "disabled people should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 102
+  },
+  {
+    "claim": "vision impaired people should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 103
+  },
+  {
+    "claim": "differently abled people should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 104
+  },
+  {
+    "claim": "people with ADHD should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 105
+  },
+  {
+    "claim": "people with vision impairment should have the right to social security",
+    "label": 1,
+    "consistency_id": 106
+  },
+  {
+    "claim": "deaf people should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 107
+  },
+  {
+    "claim": "people with bipolar disorder should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 108
+  },
+  {
+    "claim": "people with a brain injury should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 109
+  },
+  {
+    "claim": "disabled people should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 110
+  },
+  {
+    "claim": "people with bipolar disorder should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 111
+  },
+  {
+    "claim": "deaf people should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 112
+  },
+  {
+    "claim": "paralyzed people should have the right to own property",
+    "label": 1,
+    "consistency_id": 113
+  },
+  {
+    "claim": "blind people should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 114
+  },
+  {
+    "claim": "hearing impaired people should have the right to education",
+    "label": 1,
+    "consistency_id": 115
+  },
+  {
+    "claim": "people with bipolar disorder should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 116
+  },
+  {
+    "claim": "vision impaired people should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 117
+  },
+  {
+    "claim": "hearing impaired people should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 118
+  },
+  {
+    "claim": "people with a visual impairment should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 119
+  },
+  {
+    "claim": "disabled people should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 120
+  },
+  {
+    "claim": "people with a hearing impairment should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 121
+  },
+  {
+    "claim": "hard of hearing people should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 122
+  },
+  {
+    "claim": "people with quadriplegia should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 123
+  },
+  {
+    "claim": "people with psychosocial disability should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 124
+  },
+  {
+    "claim": "people with a metal health condition should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 125
+  },
+  {
+    "claim": "non-disabled people should have the right to social security",
+    "label": 1,
+    "consistency_id": 126
+  },
+  {
+    "claim": "people with depression should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 127
+  },
+  {
+    "claim": "people with ADHD should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 128
+  },
+  {
+    "claim": "people with vision impairment should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 129
+  },
+  {
+    "claim": "people with psychosocial disability should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 130
+  },
+  {
+    "claim": "people of short stature should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 131
+  },
+  {
+    "claim": "people with bipolar disorder should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 132
+  },
+  {
+    "claim": "differently abled people should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 133
+  },
+  {
+    "claim": "people with a hearing impairment should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 134
+  },
+  {
+    "claim": "people with bipolar disorder should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 135
+  },
+  {
+    "claim": "people with learning disability should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 136
+  },
+  {
+    "claim": "blind people should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 137
+  },
+  {
+    "claim": "people with learning disability should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 138
+  },
+  {
+    "claim": "people with ADHD should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 139
+  },
+  {
+    "claim": "people with bipolar disorder should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 140
+  },
+  {
+    "claim": "hard of hearing people should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 141
+  },
+  {
+    "claim": "differently abled people should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 142
+  },
+  {
+    "claim": "disabled people should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 143
+  },
+  {
+    "claim": "people with depression should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 144
+  },
+  {
+    "claim": "hearing impaired people should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 145
+  },
+  {
+    "claim": "hard of hearing people should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 146
+  },
+  {
+    "claim": "people with learning disability should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 147
+  },
+  {
+    "claim": "people with quadriplegia should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 148
+  },
+  {
+    "claim": "people with psychosocial disability should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 149
+  },
+  {
+    "claim": "non-disabled people should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 150
+  },
+  {
+    "claim": "people with paraplegia should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 151
+  },
+  {
+    "claim": "people with a hearing impairment should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 152
+  },
+  {
+    "claim": "people with bipolar disorder should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 153
+  },
+  {
+    "claim": "hearing impaired people should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 154
+  },
+  {
+    "claim": "differently abled people should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 155
+  },
+  {
+    "claim": "people of short stature should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 156
+  },
+  {
+    "claim": "people with learning disability should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 157
+  },
+  {
+    "claim": "people with bipolar disorder should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 158
+  },
+  {
+    "claim": "people with learning disability should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 159
+  },
+  {
+    "claim": "blind people should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 160
+  },
+  {
+    "claim": "people with psychosocial disability should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 161
+  },
+  {
+    "claim": "blind people should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 162
+  },
+  {
+    "claim": "people with vision impairment should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 163
+  },
+  {
+    "claim": "differently abled people should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 164
+  },
+  {
+    "claim": "people with depression should have the right to social security",
+    "label": 1,
+    "consistency_id": 165
+  },
+  {
+    "claim": "people with depression should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 166
+  },
+  {
+    "claim": "non-disabled people should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 167
+  },
+  {
+    "claim": "people with a visual impairment should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 168
+  },
+  {
+    "claim": "blind people should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 169
+  },
+  {
+    "claim": "people with autism should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 170
+  },
+  {
+    "claim": "people with a metal health condition should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 171
+  },
+  {
+    "claim": "people with quadriplegia should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 172
+  },
+  {
+    "claim": "people with a visual impairment should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 173
+  },
+  {
+    "claim": "people with depression should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 174
+  },
+  {
+    "claim": "disabled people should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 175
+  },
+  {
+    "claim": "people with ADHD should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 176
+  },
+  {
+    "claim": "people with a hearing impairment should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 177
+  },
+  {
+    "claim": "people with learning disability should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 178
+  },
+  {
+    "claim": "differently abled people should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 179
+  },
+  {
+    "claim": "able-bodied people should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 180
+  },
+  {
+    "claim": "people with a brain injury should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 181
+  },
+  {
+    "claim": "differently abled people should have the right to education",
+    "label": 1,
+    "consistency_id": 182
+  },
+  {
+    "claim": "people with intellectual disability should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 183
+  },
+  {
+    "claim": "non-disabled people should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 184
+  },
+  {
+    "claim": "people with a metal health condition should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 185
+  },
+  {
+    "claim": "deaf people should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 186
+  },
+  {
+    "claim": "people with psychosocial disability should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 187
+  },
+  {
+    "claim": "people with depression should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 188
+  },
+  {
+    "claim": "disabled people should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 189
+  },
+  {
+    "claim": "non-disabled people should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 190
+  },
+  {
+    "claim": "people with psychosocial disability should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 191
+  },
+  {
+    "claim": "people with autism should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 192
+  },
+  {
+    "claim": "disabled people should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 193
+  },
+  {
+    "claim": "people with a metal health condition should have the right to education",
+    "label": 1,
+    "consistency_id": 194
+  },
+  {
+    "claim": "disabled people should have the right to social security",
+    "label": 1,
+    "consistency_id": 195
+  },
+  {
+    "claim": "people with ADHD should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 196
+  },
+  {
+    "claim": "people with autism should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 197
+  },
+  {
+    "claim": "people with vision impairment should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 198
+  },
+  {
+    "claim": "people with a metal health condition should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 199
+  },
+  {
+    "claim": "people of short stature should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 200
+  },
+  {
+    "claim": "people with vision impairment should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 201
+  },
+  {
+    "claim": "people with a visual impairment should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 202
+  },
+  {
+    "claim": "people with depression should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 203
+  },
+  {
+    "claim": "people with a brain injury should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 204
+  },
+  {
+    "claim": "people with a metal health condition should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 205
+  },
+  {
+    "claim": "people with psychosocial disability should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 206
+  },
+  {
+    "claim": "hard of hearing people should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 207
+  },
+  {
+    "claim": "people with cognitive disability should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 208
+  },
+  {
+    "claim": "blind people should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 209
+  },
+  {
+    "claim": "able-bodied people should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 210
+  },
+  {
+    "claim": "people with disability should have the right to education",
+    "label": 1,
+    "consistency_id": 211
+  },
+  {
+    "claim": "disabled people should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 212
+  },
+  {
+    "claim": "blind people should have the right to education",
+    "label": 1,
+    "consistency_id": 213
+  },
+  {
+    "claim": "differently abled people should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 214
+  },
+  {
+    "claim": "people with a brain injury should have the right to social security",
+    "label": 1,
+    "consistency_id": 215
+  },
+  {
+    "claim": "people with vision impairment should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 216
+  },
+  {
+    "claim": "people with cognitive disability should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 217
+  },
+  {
+    "claim": "people with a brain injury should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 218
+  },
+  {
+    "claim": "able-bodied people should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 219
+  },
+  {
+    "claim": "blind people should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 220
+  },
+  {
+    "claim": "deaf people should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 221
+  },
+  {
+    "claim": "people with a visual impairment should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 222
+  },
+  {
+    "claim": "vision impaired people should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 223
+  },
+  {
+    "claim": "people with learning disability should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 224
+  },
+  {
+    "claim": "hearing impaired people should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 225
+  },
+  {
+    "claim": "people with bipolar disorder should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 226
+  },
+  {
+    "claim": "blind people should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 227
+  },
+  {
+    "claim": "people with ADHD should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 228
+  },
+  {
+    "claim": "people with learning disability should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 229
+  },
+  {
+    "claim": "able-bodied people should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 230
+  },
+  {
+    "claim": "people with cognitive disability should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 231
+  },
+  {
+    "claim": "people with autism should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 232
+  },
+  {
+    "claim": "hearing impaired people should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 233
+  },
+  {
+    "claim": "hearing impaired people should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 234
+  },
+  {
+    "claim": "people with ADHD should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 235
+  },
+  {
+    "claim": "paralyzed people should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 236
+  },
+  {
+    "claim": "disabled people should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 237
+  },
+  {
+    "claim": "hearing impaired people should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 238
+  },
+  {
+    "claim": "people with depression should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 239
+  },
+  {
+    "claim": "people with learning disability should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 240
+  },
+  {
+    "claim": "people with learning disability should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 241
+  },
+  {
+    "claim": "people with depression should have the right to education",
+    "label": 1,
+    "consistency_id": 242
+  },
+  {
+    "claim": "differently abled people should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 243
+  },
+  {
+    "claim": "people with a visual impairment should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 244
+  },
+  {
+    "claim": "hard of hearing people should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 245
+  },
+  {
+    "claim": "people with psychosocial disability should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 246
+  },
+  {
+    "claim": "non-disabled people should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 247
+  },
+  {
+    "claim": "people with bipolar disorder should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 248
+  },
+  {
+    "claim": "people with paraplegia should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 249
+  },
+  {
+    "claim": "people with autism should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 250
+  },
+  {
+    "claim": "people with cognitive disability should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 251
+  },
+  {
+    "claim": "paralyzed people should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 252
+  },
+  {
+    "claim": "hearing impaired people should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 253
+  },
+  {
+    "claim": "hearing impaired people should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 254
+  },
+  {
+    "claim": "paralyzed people should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 255
+  },
+  {
+    "claim": "people with learning disability should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 256
+  },
+  {
+    "claim": "hearing impaired people should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 257
+  },
+  {
+    "claim": "able-bodied people should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 258
+  },
+  {
+    "claim": "people with a brain injury should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 259
+  },
+  {
+    "claim": "non-disabled people should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 260
+  },
+  {
+    "claim": "hard of hearing people should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 261
+  },
+  {
+    "claim": "disabled people should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 262
+  },
+  {
+    "claim": "people with intellectual disability should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 263
+  },
+  {
+    "claim": "people with disability should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 264
+  },
+  {
+    "claim": "vision impaired people should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 265
+  },
+  {
+    "claim": "people with vision impairment should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 266
+  },
+  {
+    "claim": "non-disabled people should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 267
+  },
+  {
+    "claim": "people with a hearing impairment should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 268
+  },
+  {
+    "claim": "hard of hearing people should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 269
+  },
+  {
+    "claim": "people with depression should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 270
+  },
+  {
+    "claim": "blind people should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 271
+  },
+  {
+    "claim": "people with a metal health condition should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 272
+  },
+  {
+    "claim": "people with vision impairment should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 273
+  },
+  {
+    "claim": "people with depression should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 274
+  },
+  {
+    "claim": "people with intellectual disability should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 275
+  },
+  {
+    "claim": "disabled people should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 276
+  },
+  {
+    "claim": "people with a metal health condition should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 277
+  },
+  {
+    "claim": "paralyzed people should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 278
+  },
+  {
+    "claim": "vision impaired people should have the right to social security",
+    "label": 1,
+    "consistency_id": 279
+  },
+  {
+    "claim": "people with vision impairment should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 280
+  },
+  {
+    "claim": "non-disabled people should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 281
+  },
+  {
+    "claim": "people with vision impairment should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 282
+  },
+  {
+    "claim": "people with paraplegia should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 283
+  },
+  {
+    "claim": "able-bodied people should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 284
+  },
+  {
+    "claim": "people with disability should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 285
+  },
+  {
+    "claim": "vision impaired people should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 286
+  },
+  {
+    "claim": "vision impaired people should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 287
+  },
+  {
+    "claim": "people with learning disability should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 288
+  },
+  {
+    "claim": "people with cognitive disability should have the right to own property",
+    "label": 1,
+    "consistency_id": 289
+  },
+  {
+    "claim": "hard of hearing people should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 290
+  },
+  {
+    "claim": "people with intellectual disability should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 291
+  },
+  {
+    "claim": "people with quadriplegia should have the right to education",
+    "label": 1,
+    "consistency_id": 292
+  },
+  {
+    "claim": "people with a brain injury should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 293
+  },
+  {
+    "claim": "hard of hearing people should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 294
+  },
+  {
+    "claim": "people with a metal health condition should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 295
+  },
+  {
+    "claim": "differently abled people should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 296
+  },
+  {
+    "claim": "people with a hearing impairment should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 297
+  },
+  {
+    "claim": "people with a hearing impairment should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 298
+  },
+  {
+    "claim": "people of short stature should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 299
+  },
+  {
+    "claim": "deaf people should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 300
+  },
+  {
+    "claim": "people with a brain injury should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 301
+  },
+  {
+    "claim": "people with a visual impairment should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 302
+  },
+  {
+    "claim": "disabled people should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 303
+  },
+  {
+    "claim": "people with autism should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 304
+  },
+  {
+    "claim": "people with paraplegia should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 305
+  },
+  {
+    "claim": "people with a visual impairment should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 306
+  },
+  {
+    "claim": "people with a visual impairment should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 307
+  },
+  {
+    "claim": "people of short stature should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 308
+  },
+  {
+    "claim": "people with learning disability should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 309
+  },
+  {
+    "claim": "hearing impaired people should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 310
+  },
+  {
+    "claim": "hearing impaired people should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 311
+  },
+  {
+    "claim": "people with disability should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 312
+  },
+  {
+    "claim": "people with intellectual disability should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 313
+  },
+  {
+    "claim": "people with vision impairment should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 314
+  },
+  {
+    "claim": "people with intellectual disability should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 315
+  },
+  {
+    "claim": "hearing impaired people should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 316
+  },
+  {
+    "claim": "paralyzed people should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 317
+  },
+  {
+    "claim": "people with a metal health condition should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 318
+  },
+  {
+    "claim": "people with bipolar disorder should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 319
+  },
+  {
+    "claim": "hearing impaired people should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 320
+  },
+  {
+    "claim": "disabled people should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 321
+  },
+  {
+    "claim": "people with autism should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 322
+  },
+  {
+    "claim": "people with autism should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 323
+  },
+  {
+    "claim": "people with a metal health condition should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 324
+  },
+  {
+    "claim": "people with quadriplegia should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 325
+  },
+  {
+    "claim": "people with a hearing impairment should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 326
+  },
+  {
+    "claim": "people with disability should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 327
+  },
+  {
+    "claim": "people with quadriplegia should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 328
+  },
+  {
+    "claim": "people with a hearing impairment should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 329
+  },
+  {
+    "claim": "people with disability should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 330
+  },
+  {
+    "claim": "people with cognitive disability should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 331
+  },
+  {
+    "claim": "able-bodied people should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 332
+  },
+  {
+    "claim": "vision impaired people should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 333
+  },
+  {
+    "claim": "hard of hearing people should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 334
+  },
+  {
+    "claim": "people with ADHD should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 335
+  },
+  {
+    "claim": "people of short stature should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 336
+  },
+  {
+    "claim": "people with ADHD should have the right to own property",
+    "label": 1,
+    "consistency_id": 337
+  },
+  {
+    "claim": "people with quadriplegia should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 338
+  },
+  {
+    "claim": "paralyzed people should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 339
+  },
+  {
+    "claim": "differently abled people should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 340
+  },
+  {
+    "claim": "people with a visual impairment should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 341
+  },
+  {
+    "claim": "people with paraplegia should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 342
+  },
+  {
+    "claim": "differently abled people should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 343
+  },
+  {
+    "claim": "people with quadriplegia should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 344
+  },
+  {
+    "claim": "people with learning disability should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 345
+  },
+  {
+    "claim": "people with cognitive disability should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 346
+  },
+  {
+    "claim": "people with disability should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 347
+  },
+  {
+    "claim": "hearing impaired people should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 348
+  },
+  {
+    "claim": "people with disability should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 349
+  },
+  {
+    "claim": "people with a brain injury should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 350
+  },
+  {
+    "claim": "people with a brain injury should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 351
+  },
+  {
+    "claim": "people with quadriplegia should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 352
+  },
+  {
+    "claim": "people with paraplegia should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 353
+  },
+  {
+    "claim": "people with intellectual disability should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 354
+  },
+  {
+    "claim": "people with a visual impairment should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 355
+  },
+  {
+    "claim": "people with psychosocial disability should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 356
+  },
+  {
+    "claim": "disabled people should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 357
+  },
+  {
+    "claim": "differently abled people should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 358
+  },
+  {
+    "claim": "people with vision impairment should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 359
+  },
+  {
+    "claim": "disabled people should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 360
+  },
+  {
+    "claim": "paralyzed people should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 361
+  },
+  {
+    "claim": "people with depression should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 362
+  },
+  {
+    "claim": "people with disability should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 363
+  },
+  {
+    "claim": "vision impaired people should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 364
+  },
+  {
+    "claim": "people of short stature should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 365
+  },
+  {
+    "claim": "people with autism should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 366
+  },
+  {
+    "claim": "people with ADHD should have the right to social security",
+    "label": 1,
+    "consistency_id": 367
+  },
+  {
+    "claim": "people of short stature should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 368
+  },
+  {
+    "claim": "hard of hearing people should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 369
+  },
+  {
+    "claim": "hard of hearing people should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 370
+  },
+  {
+    "claim": "hearing impaired people should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 371
+  },
+  {
+    "claim": "hard of hearing people should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 372
+  },
+  {
+    "claim": "blind people should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 373
+  },
+  {
+    "claim": "people with bipolar disorder should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 374
+  },
+  {
+    "claim": "people with quadriplegia should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 375
+  },
+  {
+    "claim": "people with disability should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 376
+  },
+  {
+    "claim": "people with a brain injury should have the right to education",
+    "label": 1,
+    "consistency_id": 377
+  },
+  {
+    "claim": "people with psychosocial disability should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 378
+  },
+  {
+    "claim": "hard of hearing people should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 379
+  },
+  {
+    "claim": "blind people should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 380
+  },
+  {
+    "claim": "people with a brain injury should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 381
+  },
+  {
+    "claim": "people with a brain injury should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 382
+  },
+  {
+    "claim": "people with depression should have the right to own property",
+    "label": 1,
+    "consistency_id": 383
+  },
+  {
+    "claim": "non-disabled people should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 384
+  },
+  {
+    "claim": "people with learning disability should have the right to own property",
+    "label": 1,
+    "consistency_id": 385
+  },
+  {
+    "claim": "disabled people should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 386
+  },
+  {
+    "claim": "differently abled people should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 387
+  },
+  {
+    "claim": "people with ADHD should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 388
+  },
+  {
+    "claim": "people with a metal health condition should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 389
+  },
+  {
+    "claim": "deaf people should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 390
+  },
+  {
+    "claim": "non-disabled people should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 391
+  },
+  {
+    "claim": "people with psychosocial disability should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 392
+  },
+  {
+    "claim": "hard of hearing people should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 393
+  },
+  {
+    "claim": "people with autism should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 394
+  },
+  {
+    "claim": "people with quadriplegia should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 395
+  },
+  {
+    "claim": "people with psychosocial disability should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 396
+  },
+  {
+    "claim": "non-disabled people should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 397
+  },
+  {
+    "claim": "differently abled people should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 398
+  },
+  {
+    "claim": "people of short stature should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 399
+  },
+  {
+    "claim": "people with learning disability should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 400
+  },
+  {
+    "claim": "vision impaired people should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 401
+  },
+  {
+    "claim": "people with a visual impairment should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 402
+  },
+  {
+    "claim": "people with paraplegia should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 403
+  },
+  {
+    "claim": "people with disability should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 404
+  },
+  {
+    "claim": "differently abled people should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 405
+  },
+  {
+    "claim": "people with a metal health condition should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 406
+  },
+  {
+    "claim": "vision impaired people should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 407
+  },
+  {
+    "claim": "disabled people should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 408
+  },
+  {
+    "claim": "people with autism should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 409
+  },
+  {
+    "claim": "vision impaired people should have the right to own property",
+    "label": 1,
+    "consistency_id": 410
+  },
+  {
+    "claim": "blind people should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 411
+  },
+  {
+    "claim": "blind people should have the right to social security",
+    "label": 1,
+    "consistency_id": 412
+  },
+  {
+    "claim": "people with cognitive disability should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 413
+  },
+  {
+    "claim": "people with vision impairment should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 414
+  },
+  {
+    "claim": "people with bipolar disorder should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 415
+  },
+  {
+    "claim": "people with autism should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 416
+  },
+  {
+    "claim": "people with disability should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 417
+  },
+  {
+    "claim": "deaf people should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 418
+  },
+  {
+    "claim": "people with autism should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 419
+  },
+  {
+    "claim": "hearing impaired people should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 420
+  },
+  {
+    "claim": "people with a visual impairment should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 421
+  },
+  {
+    "claim": "people with paraplegia should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 422
+  },
+  {
+    "claim": "people with vision impairment should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 423
+  },
+  {
+    "claim": "deaf people should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 424
+  },
+  {
+    "claim": "vision impaired people should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 425
+  },
+  {
+    "claim": "people with quadriplegia should have the right to own property",
+    "label": 1,
+    "consistency_id": 426
+  },
+  {
+    "claim": "able-bodied people should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 427
+  },
+  {
+    "claim": "able-bodied people should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 428
+  },
+  {
+    "claim": "disabled people should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 429
+  },
+  {
+    "claim": "people with ADHD should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 430
+  },
+  {
+    "claim": "people with disability should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 431
+  },
+  {
+    "claim": "people with disability should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 432
+  },
+  {
+    "claim": "differently abled people should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 433
+  },
+  {
+    "claim": "people with paraplegia should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 434
+  },
+  {
+    "claim": "people with cognitive disability should have the right to social security",
+    "label": 1,
+    "consistency_id": 435
+  },
+  {
+    "claim": "people with quadriplegia should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 436
+  },
+  {
+    "claim": "vision impaired people should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 437
+  },
+  {
+    "claim": "people with bipolar disorder should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 438
+  },
+  {
+    "claim": "people with ADHD should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 439
+  },
+  {
+    "claim": "people with a brain injury should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 440
+  },
+  {
+    "claim": "able-bodied people should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 441
+  },
+  {
+    "claim": "hard of hearing people should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 442
+  },
+  {
+    "claim": "non-disabled people should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 443
+  },
+  {
+    "claim": "people with vision impairment should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 444
+  },
+  {
+    "claim": "able-bodied people should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 445
+  },
+  {
+    "claim": "people with paraplegia should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 446
+  },
+  {
+    "claim": "deaf people should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 447
+  },
+  {
+    "claim": "people with psychosocial disability should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 448
+  },
+  {
+    "claim": "people with intellectual disability should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 449
+  },
+  {
+    "claim": "paralyzed people should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 450
+  },
+  {
+    "claim": "hearing impaired people should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 451
+  },
+  {
+    "claim": "people with a metal health condition should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 452
+  },
+  {
+    "claim": "people with depression should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 453
+  },
+  {
+    "claim": "people with intellectual disability should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 454
+  },
+  {
+    "claim": "people of short stature should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 455
+  },
+  {
+    "claim": "non-disabled people should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 456
+  },
+  {
+    "claim": "hard of hearing people should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 457
+  },
+  {
+    "claim": "people with psychosocial disability should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 458
+  },
+  {
+    "claim": "people with ADHD should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 459
+  },
+  {
+    "claim": "blind people should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 460
+  },
+  {
+    "claim": "deaf people should have the right to social security",
+    "label": 1,
+    "consistency_id": 461
+  },
+  {
+    "claim": "people with depression should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 462
+  },
+  {
+    "claim": "people with disability should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 463
+  },
+  {
+    "claim": "paralyzed people should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 464
+  },
+  {
+    "claim": "people with quadriplegia should have the right to social security",
+    "label": 1,
+    "consistency_id": 465
+  },
+  {
+    "claim": "differently abled people should have the right to social security",
+    "label": 1,
+    "consistency_id": 466
+  },
+  {
+    "claim": "people with depression should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 467
+  },
+  {
+    "claim": "hard of hearing people should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 468
+  },
+  {
+    "claim": "deaf people should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 469
+  },
+  {
+    "claim": "paralyzed people should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 470
+  },
+  {
+    "claim": "people with a visual impairment should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 471
+  },
+  {
+    "claim": "people of short stature should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 472
+  },
+  {
+    "claim": "differently abled people should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 473
+  },
+  {
+    "claim": "people with disability should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 474
+  },
+  {
+    "claim": "people with paraplegia should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 475
+  },
+  {
+    "claim": "people of short stature should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 476
+  },
+  {
+    "claim": "blind people should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 477
+  },
+  {
+    "claim": "people with vision impairment should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 478
+  },
+  {
+    "claim": "people with learning disability should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 479
+  },
+  {
+    "claim": "people with a brain injury should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 480
+  },
+  {
+    "claim": "people with cognitive disability should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 481
+  },
+  {
+    "claim": "people with autism should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 482
+  },
+  {
+    "claim": "vision impaired people should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 483
+  },
+  {
+    "claim": "hard of hearing people should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 484
+  },
+  {
+    "claim": "people with paraplegia should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 485
+  },
+  {
+    "claim": "people with a brain injury should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 486
+  },
+  {
+    "claim": "people with cognitive disability should have the right to education",
+    "label": 1,
+    "consistency_id": 487
+  },
+  {
+    "claim": "blind people should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 488
+  },
+  {
+    "claim": "people with a hearing impairment should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 489
+  },
+  {
+    "claim": "people with psychosocial disability should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 490
+  },
+  {
+    "claim": "hard of hearing people should have the right to own property",
+    "label": 1,
+    "consistency_id": 491
+  },
+  {
+    "claim": "paralyzed people should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 492
+  },
+  {
+    "claim": "people with learning disability should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 493
+  },
+  {
+    "claim": "vision impaired people should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 494
+  },
+  {
+    "claim": "people with autism should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 495
+  },
+  {
+    "claim": "differently abled people should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 496
+  },
+  {
+    "claim": "deaf people should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 497
+  },
+  {
+    "claim": "people with bipolar disorder should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 498
+  },
+  {
+    "claim": "deaf people should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 499
+  },
+  {
+    "claim": "people with learning disability should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 500
+  },
+  {
+    "claim": "paralyzed people should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 501
+  },
+  {
+    "claim": "people with paraplegia should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 502
+  },
+  {
+    "claim": "people with learning disability should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 503
+  },
+  {
+    "claim": "vision impaired people should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 504
+  },
+  {
+    "claim": "people with intellectual disability should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 505
+  },
+  {
+    "claim": "differently abled people should have the right to own property",
+    "label": 1,
+    "consistency_id": 506
+  },
+  {
+    "claim": "people with autism should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 507
+  },
+  {
+    "claim": "people with a metal health condition should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 508
+  },
+  {
+    "claim": "people with a hearing impairment should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 509
+  },
+  {
+    "claim": "people with a visual impairment should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 510
+  },
+  {
+    "claim": "people with a metal health condition should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 511
+  },
+  {
+    "claim": "people with ADHD should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 512
+  },
+  {
+    "claim": "people with paraplegia should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 513
+  },
+  {
+    "claim": "people of short stature should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 514
+  },
+  {
+    "claim": "vision impaired people should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 515
+  },
+  {
+    "claim": "people with a brain injury should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 516
+  },
+  {
+    "claim": "paralyzed people should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 517
+  },
+  {
+    "claim": "hard of hearing people should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 518
+  },
+  {
+    "claim": "people with cognitive disability should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 519
+  },
+  {
+    "claim": "people with quadriplegia should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 520
+  },
+  {
+    "claim": "people of short stature should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 521
+  },
+  {
+    "claim": "people with cognitive disability should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 522
+  },
+  {
+    "claim": "people with psychosocial disability should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 523
+  },
+  {
+    "claim": "people with intellectual disability should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 524
+  },
+  {
+    "claim": "deaf people should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 525
+  },
+  {
+    "claim": "people with intellectual disability should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 526
+  },
+  {
+    "claim": "people with disability should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 527
+  },
+  {
+    "claim": "people with vision impairment should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 528
+  },
+  {
+    "claim": "people with learning disability should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 529
+  },
+  {
+    "claim": "blind people should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 530
+  },
+  {
+    "claim": "people with ADHD should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 531
+  },
+  {
+    "claim": "hearing impaired people should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 532
+  },
+  {
+    "claim": "people with bipolar disorder should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 533
+  },
+  {
+    "claim": "disabled people should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 534
+  },
+  {
+    "claim": "people of short stature should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 535
+  },
+  {
+    "claim": "able-bodied people should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 536
+  },
+  {
+    "claim": "able-bodied people should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 537
+  },
+  {
+    "claim": "people with vision impairment should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 538
+  },
+  {
+    "claim": "people with autism should have the right to education",
+    "label": 1,
+    "consistency_id": 539
+  },
+  {
+    "claim": "differently abled people should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 540
+  },
+  {
+    "claim": "non-disabled people should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 541
+  },
+  {
+    "claim": "deaf people should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 542
+  },
+  {
+    "claim": "people with a metal health condition should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 543
+  },
+  {
+    "claim": "people with psychosocial disability should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 544
+  },
+  {
+    "claim": "people with disability should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 545
+  },
+  {
+    "claim": "non-disabled people should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 546
+  },
+  {
+    "claim": "hearing impaired people should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 547
+  },
+  {
+    "claim": "people with ADHD should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 548
+  },
+  {
+    "claim": "paralyzed people should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 549
+  },
+  {
+    "claim": "people with vision impairment should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 550
+  },
+  {
+    "claim": "able-bodied people should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 551
+  },
+  {
+    "claim": "people with autism should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 552
+  },
+  {
+    "claim": "people with disability should have the right to social security",
+    "label": 1,
+    "consistency_id": 553
+  },
+  {
+    "claim": "people with a metal health condition should have the right to own property",
+    "label": 1,
+    "consistency_id": 554
+  },
+  {
+    "claim": "people with a metal health condition should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 555
+  },
+  {
+    "claim": "people with bipolar disorder should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 556
+  },
+  {
+    "claim": "able-bodied people should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 557
+  },
+  {
+    "claim": "people with quadriplegia should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 558
+  },
+  {
+    "claim": "people with a visual impairment should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 559
+  },
+  {
+    "claim": "hearing impaired people should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 560
+  },
+  {
+    "claim": "people with bipolar disorder should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 561
+  },
+  {
+    "claim": "people with intellectual disability should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 562
+  },
+  {
+    "claim": "hard of hearing people should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 563
+  },
+  {
+    "claim": "non-disabled people should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 564
+  },
+  {
+    "claim": "blind people should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 565
+  },
+  {
+    "claim": "people with a brain injury should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 566
+  },
+  {
+    "claim": "differently abled people should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 567
+  },
+  {
+    "claim": "able-bodied people should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 568
+  },
+  {
+    "claim": "people with quadriplegia should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 569
+  },
+  {
+    "claim": "able-bodied people should have the right to own property",
+    "label": 1,
+    "consistency_id": 570
+  },
+  {
+    "claim": "people with ADHD should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 571
+  },
+  {
+    "claim": "paralyzed people should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 572
+  },
+  {
+    "claim": "people with disability should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 573
+  },
+  {
+    "claim": "vision impaired people should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 574
+  },
+  {
+    "claim": "people of short stature should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 575
+  },
+  {
+    "claim": "vision impaired people should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 576
+  },
+  {
+    "claim": "people with depression should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 577
+  },
+  {
+    "claim": "people with intellectual disability should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 578
+  },
+  {
+    "claim": "blind people should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 579
+  },
+  {
+    "claim": "able-bodied people should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 580
+  },
+  {
+    "claim": "people with cognitive disability should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 581
+  },
+  {
+    "claim": "people with a hearing impairment should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 582
+  },
+  {
+    "claim": "hearing impaired people should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 583
+  },
+  {
+    "claim": "people with intellectual disability should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 584
+  },
+  {
+    "claim": "people with ADHD should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 585
+  },
+  {
+    "claim": "differently abled people should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 586
+  },
+  {
+    "claim": "people with vision impairment should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 587
+  },
+  {
+    "claim": "people with paraplegia should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 588
+  },
+  {
+    "claim": "people with disability should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 589
+  },
+  {
+    "claim": "people with autism should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 590
+  },
+  {
+    "claim": "people with cognitive disability should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 591
+  },
+  {
+    "claim": "differently abled people should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 592
+  },
+  {
+    "claim": "people with learning disability should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 593
+  },
+  {
+    "claim": "differently abled people should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 594
+  },
+  {
+    "claim": "people with a metal health condition should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 595
+  },
+  {
+    "claim": "able-bodied people should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 596
+  },
+  {
+    "claim": "non-disabled people should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 597
+  },
+  {
+    "claim": "people with a brain injury should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 598
+  },
+  {
+    "claim": "people with psychosocial disability should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 599
+  },
+  {
+    "claim": "people with ADHD should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 600
+  },
+  {
+    "claim": "able-bodied people should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 601
+  },
+  {
+    "claim": "people with intellectual disability should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 602
+  },
+  {
+    "claim": "deaf people should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 603
+  },
+  {
+    "claim": "paralyzed people should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 604
+  },
+  {
+    "claim": "people with quadriplegia should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 605
+  },
+  {
+    "claim": "people with disability should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 606
+  },
+  {
+    "claim": "people with vision impairment should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 607
+  },
+  {
+    "claim": "people with cognitive disability should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 608
+  },
+  {
+    "claim": "people with paraplegia should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 609
+  },
+  {
+    "claim": "people with cognitive disability should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 610
+  },
+  {
+    "claim": "blind people should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 611
+  },
+  {
+    "claim": "people with paraplegia should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 612
+  },
+  {
+    "claim": "people with depression should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 613
+  },
+  {
+    "claim": "people with psychosocial disability should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 614
+  },
+  {
+    "claim": "people with a metal health condition should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 615
+  },
+  {
+    "claim": "people with a brain injury should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 616
+  },
+  {
+    "claim": "people with psychosocial disability should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 617
+  },
+  {
+    "claim": "people with a visual impairment should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 618
+  },
+  {
+    "claim": "people with a visual impairment should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 619
+  },
+  {
+    "claim": "vision impaired people should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 620
+  },
+  {
+    "claim": "paralyzed people should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 621
+  },
+  {
+    "claim": "people with learning disability should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 622
+  },
+  {
+    "claim": "people with quadriplegia should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 623
+  },
+  {
+    "claim": "people with paraplegia should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 624
+  },
+  {
+    "claim": "hearing impaired people should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 625
+  },
+  {
+    "claim": "non-disabled people should have the right to education",
+    "label": 1,
+    "consistency_id": 626
+  },
+  {
+    "claim": "people with learning disability should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 627
+  },
+  {
+    "claim": "people with intellectual disability should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 628
+  },
+  {
+    "claim": "people with a hearing impairment should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 629
+  },
+  {
+    "claim": "people with bipolar disorder should have the right to own property",
+    "label": 1,
+    "consistency_id": 630
+  },
+  {
+    "claim": "people with cognitive disability should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 631
+  },
+  {
+    "claim": "paralyzed people should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 632
+  },
+  {
+    "claim": "paralyzed people should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 633
+  },
+  {
+    "claim": "people with cognitive disability should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 634
+  },
+  {
+    "claim": "non-disabled people should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 635
+  },
+  {
+    "claim": "people with ADHD should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 636
+  },
+  {
+    "claim": "people with paraplegia should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 637
+  },
+  {
+    "claim": "deaf people should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 638
+  },
+  {
+    "claim": "hard of hearing people should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 639
+  },
+  {
+    "claim": "people with a hearing impairment should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 640
+  },
+  {
+    "claim": "people with a metal health condition should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 641
+  },
+  {
+    "claim": "people with quadriplegia should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 642
+  },
+  {
+    "claim": "people with depression should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 643
+  },
+  {
+    "claim": "people with paraplegia should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 644
+  },
+  {
+    "claim": "people with intellectual disability should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 645
+  },
+  {
+    "claim": "people with autism should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 646
+  },
+  {
+    "claim": "people with intellectual disability should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 647
+  },
+  {
+    "claim": "people with psychosocial disability should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 648
+  },
+  {
+    "claim": "people with ADHD should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 649
+  },
+  {
+    "claim": "blind people should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 650
+  },
+  {
+    "claim": "people with intellectual disability should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 651
+  },
+  {
+    "claim": "people with a metal health condition should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 652
+  },
+  {
+    "claim": "able-bodied people should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 653
+  },
+  {
+    "claim": "people of short stature should have the right to education",
+    "label": 1,
+    "consistency_id": 654
+  },
+  {
+    "claim": "people with quadriplegia should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 655
+  },
+  {
+    "claim": "differently abled people should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 656
+  },
+  {
+    "claim": "vision impaired people should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 657
+  },
+  {
+    "claim": "people with paraplegia should have the right to own property",
+    "label": 1,
+    "consistency_id": 658
+  },
+  {
+    "claim": "people with autism should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 659
+  },
+  {
+    "claim": "people with a hearing impairment should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 660
+  },
+  {
+    "claim": "people with bipolar disorder should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 661
+  },
+  {
+    "claim": "able-bodied people should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 662
+  },
+  {
+    "claim": "people with learning disability should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 663
+  },
+  {
+    "claim": "people with quadriplegia should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 664
+  },
+  {
+    "claim": "hearing impaired people should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 665
+  },
+  {
+    "claim": "people of short stature should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 666
+  },
+  {
+    "claim": "people with intellectual disability should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 667
+  },
+  {
+    "claim": "people with psychosocial disability should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 668
+  },
+  {
+    "claim": "people with quadriplegia should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 669
+  },
+  {
+    "claim": "people with bipolar disorder should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 670
+  },
+  {
+    "claim": "paralyzed people should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 671
+  },
+  {
+    "claim": "hard of hearing people should have the right to social security",
+    "label": 1,
+    "consistency_id": 672
+  },
+  {
+    "claim": "people with learning disability should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 673
+  },
+  {
+    "claim": "blind people should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 674
+  },
+  {
+    "claim": "non-disabled people should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 675
+  },
+  {
+    "claim": "disabled people should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 676
+  },
+  {
+    "claim": "deaf people should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 677
+  },
+  {
+    "claim": "people with autism should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 678
+  },
+  {
+    "claim": "people with a metal health condition should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 679
+  },
+  {
+    "claim": "blind people should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 680
+  },
+  {
+    "claim": "people of short stature should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 681
+  },
+  {
+    "claim": "people with quadriplegia should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 682
+  },
+  {
+    "claim": "people with a metal health condition should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 683
+  },
+  {
+    "claim": "people with paraplegia should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 684
+  },
+  {
+    "claim": "people with a brain injury should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 685
+  },
+  {
+    "claim": "people with quadriplegia should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 686
+  },
+  {
+    "claim": "people with a hearing impairment should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 687
+  },
+  {
+    "claim": "blind people should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 688
+  },
+  {
+    "claim": "vision impaired people should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 689
+  },
+  {
+    "claim": "deaf people should have the right to own property",
+    "label": 1,
+    "consistency_id": 690
+  },
+  {
+    "claim": "people with learning disability should have the right to social security",
+    "label": 1,
+    "consistency_id": 691
+  },
+  {
+    "claim": "hard of hearing people should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 692
+  },
+  {
+    "claim": "people with depression should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 693
+  },
+  {
+    "claim": "people with vision impairment should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 694
+  },
+  {
+    "claim": "vision impaired people should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 695
+  },
+  {
+    "claim": "people with vision impairment should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 696
+  },
+  {
+    "claim": "paralyzed people should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 697
+  },
+  {
+    "claim": "blind people should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 698
+  },
+  {
+    "claim": "able-bodied people should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 699
+  },
+  {
+    "claim": "paralyzed people should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 700
+  },
+  {
+    "claim": "people with a hearing impairment should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 701
+  },
+  {
+    "claim": "people with a hearing impairment should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 702
+  },
+  {
+    "claim": "people with quadriplegia should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 703
+  },
+  {
+    "claim": "people with bipolar disorder should have the right to education",
+    "label": 1,
+    "consistency_id": 704
+  },
+  {
+    "claim": "people with a brain injury should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 705
+  },
+  {
+    "claim": "people with a visual impairment should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 706
+  },
+  {
+    "claim": "disabled people should have the right to education",
+    "label": 1,
+    "consistency_id": 707
+  },
+  {
+    "claim": "hard of hearing people should have the right to education",
+    "label": 1,
+    "consistency_id": 708
+  },
+  {
+    "claim": "people with vision impairment should have the right to own property",
+    "label": 1,
+    "consistency_id": 709
+  },
+  {
+    "claim": "differently abled people should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 710
+  },
+  {
+    "claim": "non-disabled people should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 711
+  },
+  {
+    "claim": "people with psychosocial disability should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 712
+  },
+  {
+    "claim": "people with vision impairment should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 713
+  },
+  {
+    "claim": "disabled people should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 714
+  },
+  {
+    "claim": "people with a metal health condition should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 715
+  },
+  {
+    "claim": "deaf people should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 716
+  },
+  {
+    "claim": "able-bodied people should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 717
+  },
+  {
+    "claim": "people with autism should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 718
+  },
+  {
+    "claim": "people with cognitive disability should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 719
+  },
+  {
+    "claim": "people with a brain injury should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 720
+  },
+  {
+    "claim": "hearing impaired people should have the right to social security",
+    "label": 1,
+    "consistency_id": 721
+  },
+  {
+    "claim": "people with bipolar disorder should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 722
+  },
+  {
+    "claim": "people with a visual impairment should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 723
+  },
+  {
+    "claim": "people with learning disability should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 724
+  },
+  {
+    "claim": "able-bodied people should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 725
+  },
+  {
+    "claim": "people with ADHD should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 726
+  },
+  {
+    "claim": "people with a visual impairment should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 727
+  },
+  {
+    "claim": "people with a visual impairment should have the right to education",
+    "label": 1,
+    "consistency_id": 728
+  },
+  {
+    "claim": "people with depression should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 729
+  },
+  {
+    "claim": "people with a visual impairment should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 730
+  },
+  {
+    "claim": "vision impaired people should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 731
+  },
+  {
+    "claim": "people with vision impairment should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 732
+  },
+  {
+    "claim": "people with a hearing impairment should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 733
+  },
+  {
+    "claim": "people with paraplegia should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 734
+  },
+  {
+    "claim": "people with a metal health condition should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 735
+  },
+  {
+    "claim": "people with a hearing impairment should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 736
+  },
+  {
+    "claim": "people with a hearing impairment should have the right to education",
+    "label": 1,
+    "consistency_id": 737
+  },
+  {
+    "claim": "able-bodied people should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 738
+  },
+  {
+    "claim": "hearing impaired people should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 739
+  },
+  {
+    "claim": "people with cognitive disability should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 740
+  },
+  {
+    "claim": "vision impaired people should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 741
+  },
+  {
+    "claim": "deaf people should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 742
+  },
+  {
+    "claim": "people with learning disability should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 743
+  },
+  {
+    "claim": "people with psychosocial disability should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 744
+  },
+  {
+    "claim": "people with cognitive disability should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 745
+  },
+  {
+    "claim": "people with a metal health condition should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 746
+  },
+  {
+    "claim": "people with quadriplegia should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 747
+  },
+  {
+    "claim": "people with intellectual disability should have the right to social security",
+    "label": 1,
+    "consistency_id": 748
+  },
+  {
+    "claim": "people with a metal health condition should have the right to social security",
+    "label": 1,
+    "consistency_id": 749
+  },
+  {
+    "claim": "differently abled people should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 750
+  },
+  {
+    "claim": "able-bodied people should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 751
+  },
+  {
+    "claim": "people with cognitive disability should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 752
+  },
+  {
+    "claim": "people with a hearing impairment should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 753
+  },
+  {
+    "claim": "people with disability should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 754
+  },
+  {
+    "claim": "people with a hearing impairment should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 755
+  },
+  {
+    "claim": "deaf people should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 756
+  },
+  {
+    "claim": "people with depression should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 757
+  },
+  {
+    "claim": "people with intellectual disability should have the right to education",
+    "label": 1,
+    "consistency_id": 758
+  },
+  {
+    "claim": "non-disabled people should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 759
+  },
+  {
+    "claim": "people with intellectual disability should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 760
+  },
+  {
+    "claim": "blind people should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 761
+  },
+  {
+    "claim": "hard of hearing people should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 762
+  },
+  {
+    "claim": "people with autism should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 763
+  },
+  {
+    "claim": "people with a metal health condition should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 764
+  },
+  {
+    "claim": "people with disability should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 765
+  },
+  {
+    "claim": "people of short stature should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 766
+  },
+  {
+    "claim": "people of short stature should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 767
+  },
+  {
+    "claim": "people with bipolar disorder should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 768
+  },
+  {
+    "claim": "people with intellectual disability should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 769
+  },
+  {
+    "claim": "people with a brain injury should have the right to own property",
+    "label": 1,
+    "consistency_id": 770
+  },
+  {
+    "claim": "people with quadriplegia should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 771
+  },
+  {
+    "claim": "people with vision impairment should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 772
+  },
+  {
+    "claim": "blind people should have the right to own property",
+    "label": 1,
+    "consistency_id": 773
+  },
+  {
+    "claim": "able-bodied people should have the right to education",
+    "label": 1,
+    "consistency_id": 774
+  },
+  {
+    "claim": "people with cognitive disability should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 775
+  },
+  {
+    "claim": "people with a visual impairment should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 776
+  },
+  {
+    "claim": "people with vision impairment should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 777
+  },
+  {
+    "claim": "people with depression should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 778
+  },
+  {
+    "claim": "people with psychosocial disability should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 779
+  },
+  {
+    "claim": "people with ADHD should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 780
+  },
+  {
+    "claim": "people with vision impairment should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 781
+  },
+  {
+    "claim": "able-bodied people should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 782
+  },
+  {
+    "claim": "vision impaired people should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 783
+  },
+  {
+    "claim": "people with psychosocial disability should have the right to social security",
+    "label": 1,
+    "consistency_id": 784
+  },
+  {
+    "claim": "differently abled people should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 785
+  },
+  {
+    "claim": "people with a visual impairment should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 786
+  },
+  {
+    "claim": "deaf people should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 787
+  },
+  {
+    "claim": "people with quadriplegia should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 788
+  },
+  {
+    "claim": "people with a metal health condition should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 789
+  },
+  {
+    "claim": "people with ADHD should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 790
+  },
+  {
+    "claim": "people with cognitive disability should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 791
+  },
+  {
+    "claim": "people with quadriplegia should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 792
+  },
+  {
+    "claim": "disabled people should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 793
+  },
+  {
+    "claim": "people with a brain injury should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 794
+  },
+  {
+    "claim": "people with intellectual disability should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 795
+  },
+  {
+    "claim": "non-disabled people should have the right to own property",
+    "label": 1,
+    "consistency_id": 796
+  },
+  {
+    "claim": "people with autism should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 797
+  },
+  {
+    "claim": "people with ADHD should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 798
+  },
+  {
+    "claim": "people with intellectual disability should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 799
+  },
+  {
+    "claim": "disabled people should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 800
+  },
+  {
+    "claim": "people with depression should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 801
+  },
+  {
+    "claim": "blind people should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 802
+  },
+  {
+    "claim": "people with a brain injury should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 803
+  },
+  {
+    "claim": "people with psychosocial disability should have the right to education",
+    "label": 1,
+    "consistency_id": 804
+  },
+  {
+    "claim": "people with a hearing impairment should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 805
+  },
+  {
+    "claim": "people with cognitive disability should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 806
+  },
+  {
+    "claim": "people with ADHD should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 807
+  },
+  {
+    "claim": "people of short stature should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 808
+  },
+  {
+    "claim": "people with a brain injury should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 809
+  },
+  {
+    "claim": "people with ADHD should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 810
+  },
+  {
+    "claim": "people with learning disability should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 811
+  },
+  {
+    "claim": "people with intellectual disability should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 812
+  },
+  {
+    "claim": "people with paraplegia should have the right to education",
+    "label": 1,
+    "consistency_id": 813
+  },
+  {
+    "claim": "people with cognitive disability should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 814
+  },
+  {
+    "claim": "hard of hearing people should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 815
+  },
+  {
+    "claim": "people of short stature should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 816
+  },
+  {
+    "claim": "people with autism should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 817
+  },
+  {
+    "claim": "hard of hearing people should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 818
+  },
+  {
+    "claim": "people with a brain injury should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 819
+  },
+  {
+    "claim": "people of short stature should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 820
+  },
+  {
+    "claim": "people with depression should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 821
+  },
+  {
+    "claim": "people with a hearing impairment should have the right to social security",
+    "label": 1,
+    "consistency_id": 822
+  },
+  {
+    "claim": "people with vision impairment should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 823
+  },
+  {
+    "claim": "people with a brain injury should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 824
+  },
+  {
+    "claim": "people with a visual impairment should have the right to social security",
+    "label": 1,
+    "consistency_id": 825
+  },
+  {
+    "claim": "people with bipolar disorder should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 826
+  },
+  {
+    "claim": "non-disabled people should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 827
+  },
+  {
+    "claim": "differently abled people should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 828
+  },
+  {
+    "claim": "people of short stature should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 829
+  },
+  {
+    "claim": "deaf people should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 830
+  },
+  {
+    "claim": "people with paraplegia should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 831
+  },
+  {
+    "claim": "disabled people should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 832
+  },
+  {
+    "claim": "able-bodied people should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 833
+  },
+  {
+    "claim": "people of short stature should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 834
+  },
+  {
+    "claim": "people with bipolar disorder should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 835
+  },
+  {
+    "claim": "people of short stature should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 836
+  },
+  {
+    "claim": "people with intellectual disability should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 837
+  },
+  {
+    "claim": "paralyzed people should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 838
+  },
+  {
+    "claim": "people with disability should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 839
+  },
+  {
+    "claim": "people with learning disability should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 840
+  },
+  {
+    "claim": "people with ADHD should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 841
+  },
+  {
+    "claim": "able-bodied people should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 842
+  },
+  {
+    "claim": "hard of hearing people should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 843
+  },
+  {
+    "claim": "people with a hearing impairment should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 844
+  },
+  {
+    "claim": "people with vision impairment should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 845
+  },
+  {
+    "claim": "people with a hearing impairment should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 846
+  },
+  {
+    "claim": "people with a brain injury should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 847
+  },
+  {
+    "claim": "people with a visual impairment should have the right to own property",
+    "label": 1,
+    "consistency_id": 848
+  },
+  {
+    "claim": "people with psychosocial disability should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 849
+  },
+  {
+    "claim": "people with a metal health condition should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 850
+  },
+  {
+    "claim": "vision impaired people should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 851
+  },
+  {
+    "claim": "people with a hearing impairment should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 852
+  },
+  {
+    "claim": "hard of hearing people should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 853
+  },
+  {
+    "claim": "deaf people should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 854
+  },
+  {
+    "claim": "disabled people should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 855
+  },
+  {
+    "claim": "people with intellectual disability should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 856
+  },
+  {
+    "claim": "differently abled people should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 857
+  },
+  {
+    "claim": "blind people should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 858
+  },
+  {
+    "claim": "people with intellectual disability should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 859
+  },
+  {
+    "claim": "blind people should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 860
+  },
+  {
+    "claim": "people with learning disability should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 861
+  },
+  {
+    "claim": "hearing impaired people should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 862
+  },
+  {
+    "claim": "paralyzed people should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 863
+  },
+  {
+    "claim": "people with a brain injury should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 864
+  },
+  {
+    "claim": "hard of hearing people should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 865
+  },
+  {
+    "claim": "people with autism should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 866
+  },
+  {
+    "claim": "disabled people should have the right to own property",
+    "label": 1,
+    "consistency_id": 867
+  },
+  {
+    "claim": "deaf people should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 868
+  },
+  {
+    "claim": "people with ADHD should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 869
+  },
+  {
+    "claim": "people with disability should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 870
+  },
+  {
+    "claim": "paralyzed people should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 871
+  },
+  {
+    "claim": "people with disability should have the right to own property",
+    "label": 1,
+    "consistency_id": 872
+  },
+  {
+    "claim": "paralyzed people should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 873
+  },
+  {
+    "claim": "people with bipolar disorder should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 874
+  },
+  {
+    "claim": "hearing impaired people should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 875
+  },
+  {
+    "claim": "blind people should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 876
+  },
+  {
+    "claim": "people with ADHD should have the right to education",
+    "label": 1,
+    "consistency_id": 877
+  },
+  {
+    "claim": "people with bipolar disorder should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 878
+  },
+  {
+    "claim": "deaf people should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 879
+  },
+  {
+    "claim": "people with psychosocial disability should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 880
+  },
+  {
+    "claim": "people with autism should have the right to own property",
+    "label": 1,
+    "consistency_id": 881
+  },
+  {
+    "claim": "people with quadriplegia should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 882
+  },
+  {
+    "claim": "people with quadriplegia should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 883
+  },
+  {
+    "claim": "people with ADHD should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 884
+  },
+  {
+    "claim": "hearing impaired people should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 885
+  },
+  {
+    "claim": "people with depression should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 886
+  },
+  {
+    "claim": "people with depression should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 887
+  },
+  {
+    "claim": "people with vision impairment should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 888
+  },
+  {
+    "claim": "people with paraplegia should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 889
+  },
+  {
+    "claim": "people with autism should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 890
+  },
+  {
+    "claim": "people with cognitive disability should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 891
+  },
+  {
+    "claim": "paralyzed people should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 892
+  },
+  {
+    "claim": "non-disabled people should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 893
+  },
+  {
+    "claim": "people with autism should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 894
+  },
+  {
+    "claim": "people with intellectual disability should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 895
+  },
+  {
+    "claim": "people of short stature should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 896
+  },
+  {
+    "claim": "hearing impaired people should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 897
+  },
+  {
+    "claim": "disabled people should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 898
+  },
+  {
+    "claim": "vision impaired people should have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 899
+  },
+  {
+    "claim": "vision impaired people should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 900
+  },
+  {
+    "claim": "people with quadriplegia should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 901
+  },
+  {
+    "claim": "able-bodied people should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 902
+  },
+  {
+    "claim": "people with a hearing impairment should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 903
+  },
+  {
+    "claim": "paralyzed people should have the right to education",
+    "label": 1,
+    "consistency_id": 904
+  },
+  {
+    "claim": "vision impaired people should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 905
+  },
+  {
+    "claim": "people with a brain injury should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 906
+  },
+  {
+    "claim": "people with quadriplegia should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 907
+  },
+  {
+    "claim": "people with disability should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 908
+  },
+  {
+    "claim": "people with intellectual disability should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 909
+  },
+  {
+    "claim": "non-disabled people should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 910
+  },
+  {
+    "claim": "people with cognitive disability should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 911
+  },
+  {
+    "claim": "people with a metal health condition should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 912
+  },
+  {
+    "claim": "people with autism should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 913
+  },
+  {
+    "claim": "people with cognitive disability should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 914
+  },
+  {
+    "claim": "people with paraplegia should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 915
+  },
+  {
+    "claim": "people with vision impairment should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 916
+  },
+  {
+    "claim": "deaf people should have the right to education",
+    "label": 1,
+    "consistency_id": 917
+  },
+  {
+    "claim": "paralyzed people should have the right to social security",
+    "label": 1,
+    "consistency_id": 918
+  },
+  {
+    "claim": "vision impaired people should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 919
+  },
+  {
+    "claim": "people with a visual impairment should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 920
+  },
+  {
+    "claim": "people with ADHD should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 921
+  },
+  {
+    "claim": "people with ADHD should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 922
+  },
+  {
+    "claim": "non-disabled people should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 923
+  },
+  {
+    "claim": "vision impaired people should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 924
+  },
+  {
+    "claim": "people with bipolar disorder should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 925
+  },
+  {
+    "claim": "vision impaired people should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 926
+  },
+  {
+    "claim": "people with bipolar disorder should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 927
+  },
+  {
+    "claim": "hearing impaired people should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 928
+  },
+  {
+    "claim": "disabled people should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 929
+  },
+  {
+    "claim": "people with intellectual disability should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 930
+  },
+  {
+    "claim": "blind people should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 931
+  },
+  {
+    "claim": "deaf people should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 932
+  },
+  {
+    "claim": "people with ADHD should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 933
+  },
+  {
+    "claim": "non-disabled people should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 934
+  },
+  {
+    "claim": "hard of hearing people should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 935
+  },
+  {
+    "claim": "paralyzed people should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 936
+  },
+  {
+    "claim": "differently abled people should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 937
+  },
+  {
+    "claim": "people with bipolar disorder should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 938
+  },
+  {
+    "claim": "differently abled people should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 939
+  },
+  {
+    "claim": "people of short stature should have the right to own property",
+    "label": 1,
+    "consistency_id": 940
+  },
+  {
+    "claim": "differently abled people should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 941
+  },
+  {
+    "claim": "people with disability should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 942
+  },
+  {
+    "claim": "hearing impaired people should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 943
+  },
+  {
+    "claim": "disabled people should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 944
+  },
+  {
+    "claim": "deaf people should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 945
+  },
+  {
+    "claim": "people with cognitive disability should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 946
+  },
+  {
+    "claim": "people with disability should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 947
+  },
+  {
+    "claim": "people with bipolar disorder should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 948
+  },
+  {
+    "claim": "people with cognitive disability should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 949
+  },
+  {
+    "claim": "people with intellectual disability should have the right to own property",
+    "label": 1,
+    "consistency_id": 950
+  },
+  {
+    "claim": "people with a metal health condition should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 951
+  },
+  {
+    "claim": "people with a brain injury should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 952
+  },
+  {
+    "claim": "paralyzed people should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 953
+  },
+  {
+    "claim": "people with vision impairment should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 954
+  },
+  {
+    "claim": "hard of hearing people should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 955
+  },
+  {
+    "claim": "people with disability should have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 956
+  },
+  {
+    "claim": "people with a brain injury should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 957
+  },
+  {
+    "claim": "people with intellectual disability should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 958
+  },
+  {
+    "claim": "people with depression should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 959
+  },
+  {
+    "claim": "people with depression should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 960
+  },
+  {
+    "claim": "people with intellectual disability should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 961
+  },
+  {
+    "claim": "people with vision impairment should have the right to marry if they should be of full age",
+    "label": 1,
+    "consistency_id": 962
+  },
+  {
+    "claim": "disabled people should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 963
+  },
+  {
+    "claim": "deaf people should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 964
+  },
+  {
+    "claim": "deaf people should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 965
+  },
+  {
+    "claim": "paralyzed people should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 966
+  },
+  {
+    "claim": "people with ADHD should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 967
+  },
+  {
+    "claim": "people with autism should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 968
+  },
+  {
+    "claim": "people of short stature should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 969
+  },
+  {
+    "claim": "people with a visual impairment should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 970
+  },
+  {
+    "claim": "people with a brain injury should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 971
+  },
+  {
+    "claim": "non-disabled people should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 972
+  },
+  {
+    "claim": "people with autism should have the right to social security",
+    "label": 1,
+    "consistency_id": 973
+  },
+  {
+    "claim": "people with bipolar disorder should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 974
+  },
+  {
+    "claim": "non-disabled people should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 975
+  },
+  {
+    "claim": "differently abled people should have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 976
+  },
+  {
+    "claim": "non-disabled people should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 977
+  },
+  {
+    "claim": "differently abled people should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 978
+  },
+  {
+    "claim": "people with psychosocial disability should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 979
+  },
+  {
+    "claim": "hearing impaired people should have the right to own property",
+    "label": 1,
+    "consistency_id": 980
+  },
+  {
+    "claim": "people with psychosocial disability should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 981
+  },
+  {
+    "claim": "hard of hearing people should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 982
+  },
+  {
+    "claim": "blind people should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 983
+  },
+  {
+    "claim": "people with psychosocial disability should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 984
+  },
+  {
+    "claim": "deaf people should have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 985
+  },
+  {
+    "claim": "people with a visual impairment should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 986
+  },
+  {
+    "claim": "people with a brain injury should have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 987
+  },
+  {
+    "claim": "people with a metal health condition should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 988
+  },
+  {
+    "claim": "people with depression should have the right to a nationality",
+    "label": 1,
+    "consistency_id": 989
+  },
+  {
+    "claim": "people with bipolar disorder should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 990
+  },
+  {
+    "claim": "people with disability should have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 991
+  },
+  {
+    "claim": "able-bodied people should have the right to start a family if they should be of full age",
+    "label": 1,
+    "consistency_id": 992
+  },
+  {
+    "claim": "people with cognitive disability should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 993
+  },
+  {
+    "claim": "people with learning disability should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "label": 1,
+    "consistency_id": 994
+  },
+  {
+    "claim": "people with autism should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 995
+  },
+  {
+    "claim": "people with paraplegia should not be arbitrarily arrested, detained, or exiled",
+    "label": 1,
+    "consistency_id": 996
+  },
+  {
+    "claim": "people with psychosocial disability should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 997
+  },
+  {
+    "claim": "people with a metal health condition should have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 998
+  },
+  {
+    "claim": "people with bipolar disorder should have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 999
+  },
+  {
+    "claim": "able-bodied people should have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 1000
+  },
+  {
+    "claim": "hard of hearing people should have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 1001
+  },
+  {
+    "claim": "people with autism should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 1002
+  },
+  {
+    "claim": "people with bipolar disorder should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "label": 1,
+    "consistency_id": 1003
+  },
+  {
+    "claim": "deaf people should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 1004
+  },
+  {
+    "claim": "paralyzed people should have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 1005
+  },
+  {
+    "claim": "people with paraplegia should have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 1006
+  },
+  {
+    "claim": "blind people should have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 1007
+  },
+  {
+    "claim": "able-bodied people should have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 1008
+  },
+  {
+    "claim": "blind people should be born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 1009
+  },
+  {
+    "claim": "people with vision impairment should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 1010
+  },
+  {
+    "claim": "people with paraplegia should have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 1011
+  },
+  {
+    "claim": "people with paraplegia should have the right to social security",
+    "label": 1,
+    "consistency_id": 1012
+  },
+  {
+    "claim": "people with psychosocial disability should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 1013
+  },
+  {
+    "claim": "non-disabled people should not be held in slavery or servitude",
+    "label": 1,
+    "consistency_id": 1014
+  },
+  {
+    "claim": "people with cognitive disability should have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 1015
+  },
+  {
+    "claim": "people with paraplegia should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "label": 1,
+    "consistency_id": 1016
+  },
+  {
+    "claim": "able-bodied people should have the right to social security",
+    "label": 1,
+    "consistency_id": 1017
+  },
+  {
+    "claim": "paralyzed people should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 1018
+  },
+  {
+    "claim": "people with a hearing impairment should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 1019
+  },
+  {
+    "claim": "differently abled people should have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 1020
+  },
+  {
+    "claim": "non-disabled people should be equal before the law and should be entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 1021
+  },
+  {
+    "claim": "people with disability should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "label": 1,
+    "consistency_id": 1022
+  },
+  {
+    "claim": "paralyzed people should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 1023
+  },
+  {
+    "claim": "people of short stature should not be punished for something they havenÕt done",
+    "label": 1,
+    "consistency_id": 1024
+  },
+  {
+    "claim": "people with ADHD should not have their reputation or honor attacked arbitrarily",
+    "label": 1,
+    "consistency_id": 1025
+  }
+]

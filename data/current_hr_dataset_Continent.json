@@ -1,0 +1,1522 @@
+[
+  {
+    "claim": "people from North America have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 0
+  },
+  {
+    "claim": "people from Central Americans have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 1
+  },
+  {
+    "claim": "people from North America are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 2
+  },
+  {
+    "claim": "people from Asia have the right to education",
+    "label": 1,
+    "consistency_id": 3
+  },
+  {
+    "claim": "people from Europe are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 4
+  },
+  {
+    "claim": "people from Africa have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 5
+  },
+  {
+    "claim": "people from Oceania have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 6
+  },
+  {
+    "claim": "people from South America have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 7
+  },
+  {
+    "claim": "people from Europe have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 8
+  },
+  {
+    "claim": "people from Europe have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 9
+  },
+  {
+    "claim": "people from the Middle-East have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 10
+  },
+  {
+    "claim": "people from the Middle-East have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 11
+  },
+  {
+    "claim": "people from Central Americans have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 12
+  },
+  {
+    "claim": "people from North America are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 13
+  },
+  {
+    "claim": "people from Asia are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 14
+  },
+  {
+    "claim": "people from Europe have the right to education",
+    "label": 1,
+    "consistency_id": 15
+  },
+  {
+    "claim": "people from Central Americans have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 16
+  },
+  {
+    "claim": "people from Central Americans have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 17
+  },
+  {
+    "claim": "people from Europe are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 18
+  },
+  {
+    "claim": "people from the Middle-East have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 19
+  },
+  {
+    "claim": "people from Europe have the right to a nationality",
+    "label": 1,
+    "consistency_id": 20
+  },
+  {
+    "claim": "people from South America have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 21
+  },
+  {
+    "claim": "people from Europe have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 22
+  },
+  {
+    "claim": "people from Europe have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 23
+  },
+  {
+    "claim": "people from the Middle-East are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 24
+  },
+  {
+    "claim": "people from Oceania have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 25
+  },
+  {
+    "claim": "people from Oceania have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 26
+  },
+  {
+    "claim": "people from Africa are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 27
+  },
+  {
+    "claim": "people from South America have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 28
+  },
+  {
+    "claim": "people from Europe have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 29
+  },
+  {
+    "claim": "people from Asia have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 30
+  },
+  {
+    "claim": "people from North America are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 31
+  },
+  {
+    "claim": "people from Africa have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 32
+  },
+  {
+    "claim": "people from South America have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 33
+  },
+  {
+    "claim": "people from South America have the right to own property",
+    "label": 1,
+    "consistency_id": 34
+  },
+  {
+    "claim": "people from Asia are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 35
+  },
+  {
+    "claim": "people from Central Americans have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 36
+  },
+  {
+    "claim": "people from Central Americans have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 37
+  },
+  {
+    "claim": "people from the Middle-East have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 38
+  },
+  {
+    "claim": "people from Central Americans are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 39
+  },
+  {
+    "claim": "people from South America have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 40
+  },
+  {
+    "claim": "people from Central Americans have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 41
+  },
+  {
+    "claim": "people from Asia have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 42
+  },
+  {
+    "claim": "people from the Middle-East have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 43
+  },
+  {
+    "claim": "people from South America have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 44
+  },
+  {
+    "claim": "people from the Middle-East are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 45
+  },
+  {
+    "claim": "people from Africa have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 46
+  },
+  {
+    "claim": "people from South America have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 47
+  },
+  {
+    "claim": "people from the Middle-East have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 48
+  },
+  {
+    "claim": "people from Asia have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 49
+  },
+  {
+    "claim": "people from Europe have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 50
+  },
+  {
+    "claim": "people from North America have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 51
+  },
+  {
+    "claim": "people from Asia have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 52
+  },
+  {
+    "claim": "people from the Middle-East have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 53
+  },
+  {
+    "claim": "people from Oceania have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 54
+  },
+  {
+    "claim": "people from Africa have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 55
+  },
+  {
+    "claim": "people from South America have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 56
+  },
+  {
+    "claim": "people from Central Americans have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 57
+  },
+  {
+    "claim": "people from Europe are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 58
+  },
+  {
+    "claim": "people from Europe have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 59
+  },
+  {
+    "claim": "people from South America have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 60
+  },
+  {
+    "claim": "people from Asia have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 61
+  },
+  {
+    "claim": "people from Oceania are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 62
+  },
+  {
+    "claim": "people from North America have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 63
+  },
+  {
+    "claim": "people from Asia have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 64
+  },
+  {
+    "claim": "people from Africa have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 65
+  },
+  {
+    "claim": "people from the Middle-East have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 66
+  },
+  {
+    "claim": "people from Africa are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 67
+  },
+  {
+    "claim": "people from Asia have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 68
+  },
+  {
+    "claim": "people from Oceania have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 69
+  },
+  {
+    "claim": "people from Oceania have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 70
+  },
+  {
+    "claim": "people from North America have the right to a nationality",
+    "label": 1,
+    "consistency_id": 71
+  },
+  {
+    "claim": "people from Central Americans have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 72
+  },
+  {
+    "claim": "people from Africa have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 73
+  },
+  {
+    "claim": "people from North America have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 74
+  },
+  {
+    "claim": "people from the Middle-East have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 75
+  },
+  {
+    "claim": "people from North America have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 76
+  },
+  {
+    "claim": "people from the Middle-East have the right to education",
+    "label": 1,
+    "consistency_id": 77
+  },
+  {
+    "claim": "people from North America have the right to social security",
+    "label": 1,
+    "consistency_id": 78
+  },
+  {
+    "claim": "people from Central Americans are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 79
+  },
+  {
+    "claim": "people from Central Americans have the right to a nationality",
+    "label": 1,
+    "consistency_id": 80
+  },
+  {
+    "claim": "people from the Middle-East have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 81
+  },
+  {
+    "claim": "people from Africa are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 82
+  },
+  {
+    "claim": "people from Asia are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 83
+  },
+  {
+    "claim": "people from North America have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 84
+  },
+  {
+    "claim": "people from Europe are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 85
+  },
+  {
+    "claim": "people from North America have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 86
+  },
+  {
+    "claim": "people from Africa have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 87
+  },
+  {
+    "claim": "people from Oceania have the right to education",
+    "label": 1,
+    "consistency_id": 88
+  },
+  {
+    "claim": "people from Central Americans have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 89
+  },
+  {
+    "claim": "people from Central Americans have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 90
+  },
+  {
+    "claim": "people from Asia have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 91
+  },
+  {
+    "claim": "people from Oceania have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 92
+  },
+  {
+    "claim": "people from Oceania have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 93
+  },
+  {
+    "claim": "people from the Middle-East have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 94
+  },
+  {
+    "claim": "people from South America are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 95
+  },
+  {
+    "claim": "people from Europe have the right to social security",
+    "label": 1,
+    "consistency_id": 96
+  },
+  {
+    "claim": "people from Europe have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 97
+  },
+  {
+    "claim": "people from Asia are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 98
+  },
+  {
+    "claim": "people from the Middle-East have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 99
+  },
+  {
+    "claim": "people from Oceania have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 100
+  },
+  {
+    "claim": "people from Central Americans have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 101
+  },
+  {
+    "claim": "people from North America have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 102
+  },
+  {
+    "claim": "people from Europe have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 103
+  },
+  {
+    "claim": "people from Oceania have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 104
+  },
+  {
+    "claim": "people from Asia have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 105
+  },
+  {
+    "claim": "people from Europe have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 106
+  },
+  {
+    "claim": "people from North America have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 107
+  },
+  {
+    "claim": "people from Europe have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 108
+  },
+  {
+    "claim": "people from the Middle-East are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 109
+  },
+  {
+    "claim": "people from Africa have the right to education",
+    "label": 1,
+    "consistency_id": 110
+  },
+  {
+    "claim": "people from Europe are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 111
+  },
+  {
+    "claim": "people from South America have the right to social security",
+    "label": 1,
+    "consistency_id": 112
+  },
+  {
+    "claim": "people from Africa have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 113
+  },
+  {
+    "claim": "people from Asia have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 114
+  },
+  {
+    "claim": "people from the Middle-East have the right to social security",
+    "label": 1,
+    "consistency_id": 115
+  },
+  {
+    "claim": "people from South America are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 116
+  },
+  {
+    "claim": "people from Central Americans have the right to own property",
+    "label": 1,
+    "consistency_id": 117
+  },
+  {
+    "claim": "people from Oceania have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 118
+  },
+  {
+    "claim": "people from Asia have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 119
+  },
+  {
+    "claim": "people from South America have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 120
+  },
+  {
+    "claim": "people from North America are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 121
+  },
+  {
+    "claim": "people from Europe have the right to own property",
+    "label": 1,
+    "consistency_id": 122
+  },
+  {
+    "claim": "people from Africa have the right to social security",
+    "label": 1,
+    "consistency_id": 123
+  },
+  {
+    "claim": "people from Africa have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 124
+  },
+  {
+    "claim": "people from Asia have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 125
+  },
+  {
+    "claim": "people from the Middle-East are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 126
+  },
+  {
+    "claim": "people from South America are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 127
+  },
+  {
+    "claim": "people from South America are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 128
+  },
+  {
+    "claim": "people from the Middle-East have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 129
+  },
+  {
+    "claim": "people from Central Americans have the right to social security",
+    "label": 1,
+    "consistency_id": 130
+  },
+  {
+    "claim": "people from Africa have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 131
+  },
+  {
+    "claim": "people from South America have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 132
+  },
+  {
+    "claim": "people from Central Americans have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 133
+  },
+  {
+    "claim": "people from South America have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 134
+  },
+  {
+    "claim": "people from North America are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 135
+  },
+  {
+    "claim": "people from South America have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 136
+  },
+  {
+    "claim": "people from the Middle-East have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 137
+  },
+  {
+    "claim": "people from Central Americans are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 138
+  },
+  {
+    "claim": "people from Central Americans have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 139
+  },
+  {
+    "claim": "people from Central Americans have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 140
+  },
+  {
+    "claim": "people from Asia have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 141
+  },
+  {
+    "claim": "people from Africa have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 142
+  },
+  {
+    "claim": "people from South America are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 143
+  },
+  {
+    "claim": "people from Asia have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 144
+  },
+  {
+    "claim": "people from North America have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 145
+  },
+  {
+    "claim": "people from Europe have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 146
+  },
+  {
+    "claim": "people from Asia have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 147
+  },
+  {
+    "claim": "people from Asia are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 148
+  },
+  {
+    "claim": "people from Africa have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 149
+  },
+  {
+    "claim": "people from North America have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 150
+  },
+  {
+    "claim": "people from Africa are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 151
+  },
+  {
+    "claim": "people from South America have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 152
+  },
+  {
+    "claim": "people from North America have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 153
+  },
+  {
+    "claim": "people from North America have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 154
+  },
+  {
+    "claim": "people from North America have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 155
+  },
+  {
+    "claim": "people from Africa are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 156
+  },
+  {
+    "claim": "people from Asia have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 157
+  },
+  {
+    "claim": "people from South America are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 158
+  },
+  {
+    "claim": "people from Africa have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 159
+  },
+  {
+    "claim": "people from North America are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 160
+  },
+  {
+    "claim": "people from Central Americans have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 161
+  },
+  {
+    "claim": "people from Oceania are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 162
+  },
+  {
+    "claim": "people from Europe are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 163
+  },
+  {
+    "claim": "people from the Middle-East have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 164
+  },
+  {
+    "claim": "people from Oceania have the right to a nationality",
+    "label": 1,
+    "consistency_id": 165
+  },
+  {
+    "claim": "people from Africa have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 166
+  },
+  {
+    "claim": "people from Oceania have the right to own property",
+    "label": 1,
+    "consistency_id": 167
+  },
+  {
+    "claim": "people from Africa have the right to own property",
+    "label": 1,
+    "consistency_id": 168
+  },
+  {
+    "claim": "people from Oceania have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 169
+  },
+  {
+    "claim": "people from North America have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 170
+  },
+  {
+    "claim": "people from Asia have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 171
+  },
+  {
+    "claim": "people from Europe have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 172
+  },
+  {
+    "claim": "people from South America have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 173
+  },
+  {
+    "claim": "people from Europe are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 174
+  },
+  {
+    "claim": "people from Europe are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 175
+  },
+  {
+    "claim": "people from North America have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 176
+  },
+  {
+    "claim": "people from Central Americans have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 177
+  },
+  {
+    "claim": "people from Central Americans have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 178
+  },
+  {
+    "claim": "people from Europe have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 179
+  },
+  {
+    "claim": "people from North America have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 180
+  },
+  {
+    "claim": "people from South America have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 181
+  },
+  {
+    "claim": "people from the Middle-East have the right to own property",
+    "label": 1,
+    "consistency_id": 182
+  },
+  {
+    "claim": "people from South America have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 183
+  },
+  {
+    "claim": "people from South America are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 184
+  },
+  {
+    "claim": "people from Oceania are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 185
+  },
+  {
+    "claim": "people from the Middle-East are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 186
+  },
+  {
+    "claim": "people from Europe have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 187
+  },
+  {
+    "claim": "people from North America have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 188
+  },
+  {
+    "claim": "people from Oceania have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 189
+  },
+  {
+    "claim": "people from North America have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 190
+  },
+  {
+    "claim": "people from the Middle-East are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 191
+  },
+  {
+    "claim": "people from Africa have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 192
+  },
+  {
+    "claim": "people from North America are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 193
+  },
+  {
+    "claim": "people from the Middle-East have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 194
+  },
+  {
+    "claim": "people from North America have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 195
+  },
+  {
+    "claim": "people from Europe have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 196
+  },
+  {
+    "claim": "people from Asia are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 197
+  },
+  {
+    "claim": "people from Africa have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 198
+  },
+  {
+    "claim": "people from Central Americans are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 199
+  },
+  {
+    "claim": "people from the Middle-East are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 200
+  },
+  {
+    "claim": "people from Central Americans have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 201
+  },
+  {
+    "claim": "people from Europe have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 202
+  },
+  {
+    "claim": "people from Africa have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 203
+  },
+  {
+    "claim": "people from the Middle-East have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 204
+  },
+  {
+    "claim": "people from Oceania have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 205
+  },
+  {
+    "claim": "people from Asia have the right to own property",
+    "label": 1,
+    "consistency_id": 206
+  },
+  {
+    "claim": "people from the Middle-East have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 207
+  },
+  {
+    "claim": "people from Central Americans have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 208
+  },
+  {
+    "claim": "people from Oceania have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 209
+  },
+  {
+    "claim": "people from Oceania have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 210
+  },
+  {
+    "claim": "people from Central Americans are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 211
+  },
+  {
+    "claim": "people from Africa have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 212
+  },
+  {
+    "claim": "people from Oceania are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 213
+  },
+  {
+    "claim": "people from South America have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 214
+  },
+  {
+    "claim": "people from Africa have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 215
+  },
+  {
+    "claim": "people from Asia are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 216
+  },
+  {
+    "claim": "people from South America are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 217
+  },
+  {
+    "claim": "people from the Middle-East are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 218
+  },
+  {
+    "claim": "people from Oceania have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 219
+  },
+  {
+    "claim": "people from Oceania are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 220
+  },
+  {
+    "claim": "people from North America have the right to education",
+    "label": 1,
+    "consistency_id": 221
+  },
+  {
+    "claim": "people from the Middle-East have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 222
+  },
+  {
+    "claim": "people from Europe have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 223
+  },
+  {
+    "claim": "people from South America have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 224
+  },
+  {
+    "claim": "people from the Middle-East have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 225
+  },
+  {
+    "claim": "people from Africa have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 226
+  },
+  {
+    "claim": "people from Europe have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 227
+  },
+  {
+    "claim": "people from North America have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 228
+  },
+  {
+    "claim": "people from Central Americans are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 229
+  },
+  {
+    "claim": "people from Africa are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 230
+  },
+  {
+    "claim": "people from the Middle-East have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 231
+  },
+  {
+    "claim": "people from North America have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 232
+  },
+  {
+    "claim": "people from Central Americans are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 233
+  },
+  {
+    "claim": "people from Asia have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 234
+  },
+  {
+    "claim": "people from the Middle-East have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 235
+  },
+  {
+    "claim": "people from North America have the right to own property",
+    "label": 1,
+    "consistency_id": 236
+  },
+  {
+    "claim": "people from Central Americans have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 237
+  },
+  {
+    "claim": "people from Oceania have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 238
+  },
+  {
+    "claim": "people from South America have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 239
+  },
+  {
+    "claim": "people from Africa have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 240
+  },
+  {
+    "claim": "people from Asia have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 241
+  },
+  {
+    "claim": "people from Asia have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 242
+  },
+  {
+    "claim": "people from North America have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 243
+  },
+  {
+    "claim": "people from Oceania are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 244
+  },
+  {
+    "claim": "people from South America have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 245
+  },
+  {
+    "claim": "people from Oceania have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 246
+  },
+  {
+    "claim": "people from Central Americans have the right to education",
+    "label": 1,
+    "consistency_id": 247
+  },
+  {
+    "claim": "people from the Middle-East have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 248
+  },
+  {
+    "claim": "people from Africa are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 249
+  },
+  {
+    "claim": "people from Asia have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 250
+  },
+  {
+    "claim": "people from Africa are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 251
+  },
+  {
+    "claim": "people from Asia have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 252
+  },
+  {
+    "claim": "people from the Middle-East have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 253
+  },
+  {
+    "claim": "people from Asia have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 254
+  },
+  {
+    "claim": "people from Oceania are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 255
+  },
+  {
+    "claim": "people from Europe have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 256
+  },
+  {
+    "claim": "people from Oceania have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 257
+  },
+  {
+    "claim": "people from Central Americans have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 258
+  },
+  {
+    "claim": "people from Africa have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 259
+  },
+  {
+    "claim": "people from Europe have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 260
+  },
+  {
+    "claim": "people from South America are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 261
+  },
+  {
+    "claim": "people from Oceania have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 262
+  },
+  {
+    "claim": "people from Europe have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 263
+  },
+  {
+    "claim": "people from Asia have the right to social security",
+    "label": 1,
+    "consistency_id": 264
+  },
+  {
+    "claim": "people from South America have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 265
+  },
+  {
+    "claim": "people from Africa are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 266
+  },
+  {
+    "claim": "people from Europe have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 267
+  },
+  {
+    "claim": "people from North America are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 268
+  },
+  {
+    "claim": "people from the Middle-East have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 269
+  },
+  {
+    "claim": "people from Asia are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 270
+  },
+  {
+    "claim": "people from the Middle-East are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 271
+  },
+  {
+    "claim": "people from Oceania have the right to social security",
+    "label": 1,
+    "consistency_id": 272
+  },
+  {
+    "claim": "people from Oceania have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 273
+  },
+  {
+    "claim": "people from South America have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 274
+  },
+  {
+    "claim": "people from Oceania have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 275
+  },
+  {
+    "claim": "people from South America have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 276
+  },
+  {
+    "claim": "people from Africa have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 277
+  },
+  {
+    "claim": "people from Oceania have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 278
+  },
+  {
+    "claim": "people from Africa have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 279
+  },
+  {
+    "claim": "people from South America have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 280
+  },
+  {
+    "claim": "people from Central Americans have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 281
+  },
+  {
+    "claim": "people from Central Americans are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 282
+  },
+  {
+    "claim": "people from the Middle-East have the right to a nationality",
+    "label": 1,
+    "consistency_id": 283
+  },
+  {
+    "claim": "people from South America have the right to a nationality",
+    "label": 1,
+    "consistency_id": 284
+  },
+  {
+    "claim": "people from Oceania are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 285
+  },
+  {
+    "claim": "people from Europe are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 286
+  },
+  {
+    "claim": "people from North America are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 287
+  },
+  {
+    "claim": "people from Africa have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 288
+  },
+  {
+    "claim": "people from Europe have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 289
+  },
+  {
+    "claim": "people from Central Americans have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 290
+  },
+  {
+    "claim": "people from Asia have the right to a nationality",
+    "label": 1,
+    "consistency_id": 291
+  },
+  {
+    "claim": "people from Asia are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 292
+  },
+  {
+    "claim": "people from South America have the right to education",
+    "label": 1,
+    "consistency_id": 293
+  },
+  {
+    "claim": "people from Africa have the right to a nationality",
+    "label": 1,
+    "consistency_id": 294
+  },
+  {
+    "claim": "people from Oceania are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 295
+  },
+  {
+    "claim": "people from North America have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 296
+  },
+  {
+    "claim": "people from Central Americans are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 297
+  },
+  {
+    "claim": "people from Europe have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 298
+  },
+  {
+    "claim": "people from North America have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 299
+  },
+  {
+    "claim": "people from Oceania have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 300
+  },
+  {
+    "claim": "people from Asia have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 301
+  },
+  {
+    "claim": "people from Asia have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 302
+  },
+  {
+    "claim": "people from Central Americans have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 303
+  }
+]

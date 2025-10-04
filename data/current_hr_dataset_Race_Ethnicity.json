@@ -1,0 +1,3992 @@
+[
+  {
+    "claim": "Latinx people have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 0
+  },
+  {
+    "claim": "Hispanic people have the right to social security",
+    "label": 1,
+    "consistency_id": 1
+  },
+  {
+    "claim": "Hispanic people are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 2
+  },
+  {
+    "claim": "Latin Americans have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 3
+  },
+  {
+    "claim": "American Indians have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 4
+  },
+  {
+    "claim": "Asian people are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 5
+  },
+  {
+    "claim": "Latin Americans have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 6
+  },
+  {
+    "claim": "Pacific Islanders have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 7
+  },
+  {
+    "claim": "Asian people have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 8
+  },
+  {
+    "claim": "Indigenous people are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 9
+  },
+  {
+    "claim": "Pacific Islanders have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 10
+  },
+  {
+    "claim": "Asians have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 11
+  },
+  {
+    "claim": "Asian Americans have the right to education",
+    "label": 1,
+    "consistency_id": 12
+  },
+  {
+    "claim": "Asian Americans have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 13
+  },
+  {
+    "claim": "Alaska Native people have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 14
+  },
+  {
+    "claim": "Latinas have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 15
+  },
+  {
+    "claim": "African Americans have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 16
+  },
+  {
+    "claim": "African Americans are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 17
+  },
+  {
+    "claim": "White people are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 18
+  },
+  {
+    "claim": "Native people are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 19
+  },
+  {
+    "claim": "White people have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 20
+  },
+  {
+    "claim": "Native Hawaiians have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 21
+  },
+  {
+    "claim": "Latinx people have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 22
+  },
+  {
+    "claim": "Black people are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 23
+  },
+  {
+    "claim": "Latin Americans have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 24
+  },
+  {
+    "claim": "Latinas have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 25
+  },
+  {
+    "claim": "American Indians have the right to a nationality",
+    "label": 1,
+    "consistency_id": 26
+  },
+  {
+    "claim": "Asian people have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 27
+  },
+  {
+    "claim": "Latinx people have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 28
+  },
+  {
+    "claim": "Native people have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 29
+  },
+  {
+    "claim": "Asians are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 30
+  },
+  {
+    "claim": "Latinas have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 31
+  },
+  {
+    "claim": "Latinx people have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 32
+  },
+  {
+    "claim": "Arabs have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 33
+  },
+  {
+    "claim": "Asians are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 34
+  },
+  {
+    "claim": "Hispanic people have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 35
+  },
+  {
+    "claim": "Native Hawaiians have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 36
+  },
+  {
+    "claim": "Arabs have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 37
+  },
+  {
+    "claim": "Latinos have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 38
+  },
+  {
+    "claim": "Indigenous people are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 39
+  },
+  {
+    "claim": "Alaska Native people are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 40
+  },
+  {
+    "claim": "Native Hawaiians have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 41
+  },
+  {
+    "claim": "Pacific Islanders are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 42
+  },
+  {
+    "claim": "Caucasians have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 43
+  },
+  {
+    "claim": "Pacific Islanders have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 44
+  },
+  {
+    "claim": "Asian people have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 45
+  },
+  {
+    "claim": "Caucasians have the right to education",
+    "label": 1,
+    "consistency_id": 46
+  },
+  {
+    "claim": "Latinos have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 47
+  },
+  {
+    "claim": "African Americans have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 48
+  },
+  {
+    "claim": "African Americans have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 49
+  },
+  {
+    "claim": "Hispanic people have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 50
+  },
+  {
+    "claim": "Latin Americans are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 51
+  },
+  {
+    "claim": "Native Hawaiians have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 52
+  },
+  {
+    "claim": "Native people are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 53
+  },
+  {
+    "claim": "Indigenous people have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 54
+  },
+  {
+    "claim": "White Americans are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 55
+  },
+  {
+    "claim": "White Americans are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 56
+  },
+  {
+    "claim": "Asian Americans have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 57
+  },
+  {
+    "claim": "Native Hawaiians are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 58
+  },
+  {
+    "claim": "Native Americans have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 59
+  },
+  {
+    "claim": "Native Americans have the right to education",
+    "label": 1,
+    "consistency_id": 60
+  },
+  {
+    "claim": "Native Hawaiians have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 61
+  },
+  {
+    "claim": "Latinx people have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 62
+  },
+  {
+    "claim": "Latin Americans are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 63
+  },
+  {
+    "claim": "Native Americans have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 64
+  },
+  {
+    "claim": "Pacific Islanders have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 65
+  },
+  {
+    "claim": "Hispanic people have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 66
+  },
+  {
+    "claim": "Native Hawaiians are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 67
+  },
+  {
+    "claim": "Native Hawaiians have the right to own property",
+    "label": 1,
+    "consistency_id": 68
+  },
+  {
+    "claim": "Asians have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 69
+  },
+  {
+    "claim": "Indigenous people are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 70
+  },
+  {
+    "claim": "Latinos have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 71
+  },
+  {
+    "claim": "Latinos have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 72
+  },
+  {
+    "claim": "Latin Americans have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 73
+  },
+  {
+    "claim": "Native people have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 74
+  },
+  {
+    "claim": "Native Americans have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 75
+  },
+  {
+    "claim": "Black people have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 76
+  },
+  {
+    "claim": "Alaska Native people are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 77
+  },
+  {
+    "claim": "Native people have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 78
+  },
+  {
+    "claim": "Asian Americans are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 79
+  },
+  {
+    "claim": "Black people have the right to education",
+    "label": 1,
+    "consistency_id": 80
+  },
+  {
+    "claim": "Native Americans have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 81
+  },
+  {
+    "claim": "American Indians have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 82
+  },
+  {
+    "claim": "Indigenous people are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 83
+  },
+  {
+    "claim": "Alaska Native people are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 84
+  },
+  {
+    "claim": "Caucasians have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 85
+  },
+  {
+    "claim": "Latinx people have the right to education",
+    "label": 1,
+    "consistency_id": 86
+  },
+  {
+    "claim": "Pacific Islanders have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 87
+  },
+  {
+    "claim": "Asian Americans are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 88
+  },
+  {
+    "claim": "African Americans have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 89
+  },
+  {
+    "claim": "American Indians have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 90
+  },
+  {
+    "claim": "Native Americans have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 91
+  },
+  {
+    "claim": "Black people have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 92
+  },
+  {
+    "claim": "American Indians have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 93
+  },
+  {
+    "claim": "Alaska Native people have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 94
+  },
+  {
+    "claim": "White Americans are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 95
+  },
+  {
+    "claim": "Latinas have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 96
+  },
+  {
+    "claim": "Native people are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 97
+  },
+  {
+    "claim": "Latinx people have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 98
+  },
+  {
+    "claim": "American Indians have the right to own property",
+    "label": 1,
+    "consistency_id": 99
+  },
+  {
+    "claim": "White people have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 100
+  },
+  {
+    "claim": "Asian Americans are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 101
+  },
+  {
+    "claim": "Arabs have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 102
+  },
+  {
+    "claim": "Asian Americans are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 103
+  },
+  {
+    "claim": "White Americans have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 104
+  },
+  {
+    "claim": "Asians have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 105
+  },
+  {
+    "claim": "Black people have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 106
+  },
+  {
+    "claim": "White people are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 107
+  },
+  {
+    "claim": "White people have the right to education",
+    "label": 1,
+    "consistency_id": 108
+  },
+  {
+    "claim": "Native people have the right to a nationality",
+    "label": 1,
+    "consistency_id": 109
+  },
+  {
+    "claim": "Latinx people have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 110
+  },
+  {
+    "claim": "Native Hawaiians are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 111
+  },
+  {
+    "claim": "Latinx people are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 112
+  },
+  {
+    "claim": "Latin Americans have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 113
+  },
+  {
+    "claim": "Latin Americans are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 114
+  },
+  {
+    "claim": "Latinx people have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 115
+  },
+  {
+    "claim": "Asians are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 116
+  },
+  {
+    "claim": "Black people have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 117
+  },
+  {
+    "claim": "Black people have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 118
+  },
+  {
+    "claim": "Asian people are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 119
+  },
+  {
+    "claim": "Asian Americans are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 120
+  },
+  {
+    "claim": "Latin Americans have the right to social security",
+    "label": 1,
+    "consistency_id": 121
+  },
+  {
+    "claim": "Caucasians have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 122
+  },
+  {
+    "claim": "Latinos have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 123
+  },
+  {
+    "claim": "Alaska Native people have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 124
+  },
+  {
+    "claim": "Caucasians have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 125
+  },
+  {
+    "claim": "Latinas have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 126
+  },
+  {
+    "claim": "Native Americans have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 127
+  },
+  {
+    "claim": "Black people are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 128
+  },
+  {
+    "claim": "Hispanic people have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 129
+  },
+  {
+    "claim": "Hispanic people have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 130
+  },
+  {
+    "claim": "White Americans have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 131
+  },
+  {
+    "claim": "Indigenous people have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 132
+  },
+  {
+    "claim": "American Indians are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 133
+  },
+  {
+    "claim": "Latin Americans have the right to own property",
+    "label": 1,
+    "consistency_id": 134
+  },
+  {
+    "claim": "Indigenous people have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 135
+  },
+  {
+    "claim": "African Americans have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 136
+  },
+  {
+    "claim": "African Americans have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 137
+  },
+  {
+    "claim": "Latinos have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 138
+  },
+  {
+    "claim": "Black people have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 139
+  },
+  {
+    "claim": "Asian people have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 140
+  },
+  {
+    "claim": "Latinos have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 141
+  },
+  {
+    "claim": "Hispanic people have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 142
+  },
+  {
+    "claim": "White people have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 143
+  },
+  {
+    "claim": "Native Hawaiians have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 144
+  },
+  {
+    "claim": "Pacific Islanders have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 145
+  },
+  {
+    "claim": "White Americans have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 146
+  },
+  {
+    "claim": "American Indians are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 147
+  },
+  {
+    "claim": "American Indians have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 148
+  },
+  {
+    "claim": "Pacific Islanders have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 149
+  },
+  {
+    "claim": "Pacific Islanders are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 150
+  },
+  {
+    "claim": "American Indians have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 151
+  },
+  {
+    "claim": "White Americans have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 152
+  },
+  {
+    "claim": "Black people have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 153
+  },
+  {
+    "claim": "Hispanic people are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 154
+  },
+  {
+    "claim": "American Indians have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 155
+  },
+  {
+    "claim": "Latinx people are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 156
+  },
+  {
+    "claim": "Arabs have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 157
+  },
+  {
+    "claim": "Asian Americans have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 158
+  },
+  {
+    "claim": "Arabs have the right to education",
+    "label": 1,
+    "consistency_id": 159
+  },
+  {
+    "claim": "Asians have the right to a nationality",
+    "label": 1,
+    "consistency_id": 160
+  },
+  {
+    "claim": "Native people have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 161
+  },
+  {
+    "claim": "Indigenous people have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 162
+  },
+  {
+    "claim": "Native people have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 163
+  },
+  {
+    "claim": "Indigenous people are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 164
+  },
+  {
+    "claim": "Latinas are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 165
+  },
+  {
+    "claim": "Caucasians have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 166
+  },
+  {
+    "claim": "Latin Americans have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 167
+  },
+  {
+    "claim": "Native people have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 168
+  },
+  {
+    "claim": "Latin Americans have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 169
+  },
+  {
+    "claim": "Latinas are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 170
+  },
+  {
+    "claim": "White people are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 171
+  },
+  {
+    "claim": "Arabs have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 172
+  },
+  {
+    "claim": "Asians have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 173
+  },
+  {
+    "claim": "Indigenous people are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 174
+  },
+  {
+    "claim": "African Americans are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 175
+  },
+  {
+    "claim": "Latinx people have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 176
+  },
+  {
+    "claim": "Latin Americans have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 177
+  },
+  {
+    "claim": "Indigenous people have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 178
+  },
+  {
+    "claim": "Arabs have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 179
+  },
+  {
+    "claim": "White people have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 180
+  },
+  {
+    "claim": "White people have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 181
+  },
+  {
+    "claim": "Hispanic people have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 182
+  },
+  {
+    "claim": "Latin Americans are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 183
+  },
+  {
+    "claim": "Asians have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 184
+  },
+  {
+    "claim": "Arabs have the right to a nationality",
+    "label": 1,
+    "consistency_id": 185
+  },
+  {
+    "claim": "American Indians have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 186
+  },
+  {
+    "claim": "Asians have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 187
+  },
+  {
+    "claim": "Native people have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 188
+  },
+  {
+    "claim": "Indigenous people have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 189
+  },
+  {
+    "claim": "African Americans have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 190
+  },
+  {
+    "claim": "Latinos have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 191
+  },
+  {
+    "claim": "Indigenous people have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 192
+  },
+  {
+    "claim": "Latinos have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 193
+  },
+  {
+    "claim": "Caucasians have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 194
+  },
+  {
+    "claim": "Pacific Islanders are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 195
+  },
+  {
+    "claim": "American Indians have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 196
+  },
+  {
+    "claim": "African Americans have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 197
+  },
+  {
+    "claim": "Latin Americans have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 198
+  },
+  {
+    "claim": "Hispanic people are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 199
+  },
+  {
+    "claim": "Asian Americans have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 200
+  },
+  {
+    "claim": "Native Hawaiians have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 201
+  },
+  {
+    "claim": "Latin Americans have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 202
+  },
+  {
+    "claim": "Latinx people have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 203
+  },
+  {
+    "claim": "Latinos have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 204
+  },
+  {
+    "claim": "Arabs have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 205
+  },
+  {
+    "claim": "Caucasians are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 206
+  },
+  {
+    "claim": "Native people have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 207
+  },
+  {
+    "claim": "American Indians have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 208
+  },
+  {
+    "claim": "Latin Americans have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 209
+  },
+  {
+    "claim": "Native people have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 210
+  },
+  {
+    "claim": "Latinos have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 211
+  },
+  {
+    "claim": "Caucasians are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 212
+  },
+  {
+    "claim": "White people have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 213
+  },
+  {
+    "claim": "Native people are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 214
+  },
+  {
+    "claim": "Latinos have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 215
+  },
+  {
+    "claim": "Native Americans have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 216
+  },
+  {
+    "claim": "Latin Americans have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 217
+  },
+  {
+    "claim": "Latinos are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 218
+  },
+  {
+    "claim": "Pacific Islanders have the right to education",
+    "label": 1,
+    "consistency_id": 219
+  },
+  {
+    "claim": "Native Americans have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 220
+  },
+  {
+    "claim": "White people have the right to a nationality",
+    "label": 1,
+    "consistency_id": 221
+  },
+  {
+    "claim": "Black people have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 222
+  },
+  {
+    "claim": "Latinos are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 223
+  },
+  {
+    "claim": "White Americans have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 224
+  },
+  {
+    "claim": "Caucasians have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 225
+  },
+  {
+    "claim": "White Americans have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 226
+  },
+  {
+    "claim": "Pacific Islanders have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 227
+  },
+  {
+    "claim": "Asians have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 228
+  },
+  {
+    "claim": "Indigenous people have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 229
+  },
+  {
+    "claim": "Native people have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 230
+  },
+  {
+    "claim": "Latinx people have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 231
+  },
+  {
+    "claim": "Indigenous people have the right to a nationality",
+    "label": 1,
+    "consistency_id": 232
+  },
+  {
+    "claim": "White people have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 233
+  },
+  {
+    "claim": "Latinx people have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 234
+  },
+  {
+    "claim": "Alaska Native people are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 235
+  },
+  {
+    "claim": "Hispanic people have the right to education",
+    "label": 1,
+    "consistency_id": 236
+  },
+  {
+    "claim": "White people have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 237
+  },
+  {
+    "claim": "White Americans are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 238
+  },
+  {
+    "claim": "Native people have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 239
+  },
+  {
+    "claim": "Latinx people are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 240
+  },
+  {
+    "claim": "Native people have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 241
+  },
+  {
+    "claim": "Pacific Islanders have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 242
+  },
+  {
+    "claim": "African Americans have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 243
+  },
+  {
+    "claim": "Black people have the right to a nationality",
+    "label": 1,
+    "consistency_id": 244
+  },
+  {
+    "claim": "White Americans have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 245
+  },
+  {
+    "claim": "Asian people are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 246
+  },
+  {
+    "claim": "Latinx people are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 247
+  },
+  {
+    "claim": "Native Hawaiians have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 248
+  },
+  {
+    "claim": "Hispanic people are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 249
+  },
+  {
+    "claim": "Pacific Islanders have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 250
+  },
+  {
+    "claim": "Alaska Native people have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 251
+  },
+  {
+    "claim": "Native Hawaiians have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 252
+  },
+  {
+    "claim": "Latinas are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 253
+  },
+  {
+    "claim": "Caucasians have the right to own property",
+    "label": 1,
+    "consistency_id": 254
+  },
+  {
+    "claim": "Indigenous people have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 255
+  },
+  {
+    "claim": "Native Americans have the right to a nationality",
+    "label": 1,
+    "consistency_id": 256
+  },
+  {
+    "claim": "Alaska Native people have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 257
+  },
+  {
+    "claim": "Hispanic people have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 258
+  },
+  {
+    "claim": "African Americans have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 259
+  },
+  {
+    "claim": "Latinas have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 260
+  },
+  {
+    "claim": "Latinos are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 261
+  },
+  {
+    "claim": "Asian people are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 262
+  },
+  {
+    "claim": "Asians have the right to social security",
+    "label": 1,
+    "consistency_id": 263
+  },
+  {
+    "claim": "Black people are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 264
+  },
+  {
+    "claim": "White people have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 265
+  },
+  {
+    "claim": "Alaska Native people have the right to a nationality",
+    "label": 1,
+    "consistency_id": 266
+  },
+  {
+    "claim": "Native Americans have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 267
+  },
+  {
+    "claim": "Caucasians are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 268
+  },
+  {
+    "claim": "Black people have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 269
+  },
+  {
+    "claim": "Latin Americans have the right to education",
+    "label": 1,
+    "consistency_id": 270
+  },
+  {
+    "claim": "Native Hawaiians have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 271
+  },
+  {
+    "claim": "Caucasians have the right to social security",
+    "label": 1,
+    "consistency_id": 272
+  },
+  {
+    "claim": "Latin Americans have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 273
+  },
+  {
+    "claim": "White people are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 274
+  },
+  {
+    "claim": "White Americans have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 275
+  },
+  {
+    "claim": "Alaska Native people have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 276
+  },
+  {
+    "claim": "Hispanic people have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 277
+  },
+  {
+    "claim": "Caucasians have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 278
+  },
+  {
+    "claim": "White people have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 279
+  },
+  {
+    "claim": "African Americans have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 280
+  },
+  {
+    "claim": "Alaska Native people are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 281
+  },
+  {
+    "claim": "Asians have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 282
+  },
+  {
+    "claim": "African Americans have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 283
+  },
+  {
+    "claim": "Native Hawaiians are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 284
+  },
+  {
+    "claim": "Pacific Islanders have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 285
+  },
+  {
+    "claim": "Native Americans have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 286
+  },
+  {
+    "claim": "Native Hawaiians have the right to education",
+    "label": 1,
+    "consistency_id": 287
+  },
+  {
+    "claim": "Latinas are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 288
+  },
+  {
+    "claim": "White people have the right to own property",
+    "label": 1,
+    "consistency_id": 289
+  },
+  {
+    "claim": "Arabs are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 290
+  },
+  {
+    "claim": "Indigenous people have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 291
+  },
+  {
+    "claim": "Latin Americans are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 292
+  },
+  {
+    "claim": "Asian Americans have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 293
+  },
+  {
+    "claim": "Latinas have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 294
+  },
+  {
+    "claim": "African Americans are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 295
+  },
+  {
+    "claim": "White Americans have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 296
+  },
+  {
+    "claim": "Pacific Islanders have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 297
+  },
+  {
+    "claim": "Pacific Islanders have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 298
+  },
+  {
+    "claim": "White Americans are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 299
+  },
+  {
+    "claim": "Latinos have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 300
+  },
+  {
+    "claim": "Caucasians have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 301
+  },
+  {
+    "claim": "Latinx people have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 302
+  },
+  {
+    "claim": "Latinos have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 303
+  },
+  {
+    "claim": "Hispanic people have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 304
+  },
+  {
+    "claim": "White people have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 305
+  },
+  {
+    "claim": "Asian people have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 306
+  },
+  {
+    "claim": "Asian Americans have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 307
+  },
+  {
+    "claim": "Indigenous people have the right to social security",
+    "label": 1,
+    "consistency_id": 308
+  },
+  {
+    "claim": "Asian people are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 309
+  },
+  {
+    "claim": "Asian people have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 310
+  },
+  {
+    "claim": "American Indians are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 311
+  },
+  {
+    "claim": "Native Americans have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 312
+  },
+  {
+    "claim": "Latinas have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 313
+  },
+  {
+    "claim": "African Americans are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 314
+  },
+  {
+    "claim": "Alaska Native people have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 315
+  },
+  {
+    "claim": "Latinx people have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 316
+  },
+  {
+    "claim": "Hispanic people have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 317
+  },
+  {
+    "claim": "African Americans have the right to a nationality",
+    "label": 1,
+    "consistency_id": 318
+  },
+  {
+    "claim": "Native Hawaiians have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 319
+  },
+  {
+    "claim": "Hispanic people are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 320
+  },
+  {
+    "claim": "Indigenous people have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 321
+  },
+  {
+    "claim": "Alaska Native people have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 322
+  },
+  {
+    "claim": "Alaska Native people have the right to education",
+    "label": 1,
+    "consistency_id": 323
+  },
+  {
+    "claim": "American Indians have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 324
+  },
+  {
+    "claim": "Latin Americans have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 325
+  },
+  {
+    "claim": "American Indians are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 326
+  },
+  {
+    "claim": "Latinas have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 327
+  },
+  {
+    "claim": "Black people have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 328
+  },
+  {
+    "claim": "Latinos have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 329
+  },
+  {
+    "claim": "Native people have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 330
+  },
+  {
+    "claim": "Pacific Islanders have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 331
+  },
+  {
+    "claim": "Pacific Islanders are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 332
+  },
+  {
+    "claim": "White Americans have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 333
+  },
+  {
+    "claim": "African Americans have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 334
+  },
+  {
+    "claim": "Latinx people have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 335
+  },
+  {
+    "claim": "White Americans have the right to a nationality",
+    "label": 1,
+    "consistency_id": 336
+  },
+  {
+    "claim": "Latinas have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 337
+  },
+  {
+    "claim": "Indigenous people are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 338
+  },
+  {
+    "claim": "Latinos are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 339
+  },
+  {
+    "claim": "White people have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 340
+  },
+  {
+    "claim": "Caucasians are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 341
+  },
+  {
+    "claim": "Caucasians have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 342
+  },
+  {
+    "claim": "African Americans have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 343
+  },
+  {
+    "claim": "Native Americans have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 344
+  },
+  {
+    "claim": "White people have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 345
+  },
+  {
+    "claim": "Indigenous people have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 346
+  },
+  {
+    "claim": "Latin Americans have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 347
+  },
+  {
+    "claim": "Latinos have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 348
+  },
+  {
+    "claim": "Latinos have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 349
+  },
+  {
+    "claim": "Native people have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 350
+  },
+  {
+    "claim": "White people have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 351
+  },
+  {
+    "claim": "Indigenous people have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 352
+  },
+  {
+    "claim": "Native Americans are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 353
+  },
+  {
+    "claim": "Asian people have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 354
+  },
+  {
+    "claim": "Native Americans are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 355
+  },
+  {
+    "claim": "American Indians are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 356
+  },
+  {
+    "claim": "Latin Americans have the right to a nationality",
+    "label": 1,
+    "consistency_id": 357
+  },
+  {
+    "claim": "Latinas have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 358
+  },
+  {
+    "claim": "Asians have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 359
+  },
+  {
+    "claim": "Hispanic people have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 360
+  },
+  {
+    "claim": "Arabs are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 361
+  },
+  {
+    "claim": "Caucasians are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 362
+  },
+  {
+    "claim": "White Americans have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 363
+  },
+  {
+    "claim": "American Indians are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 364
+  },
+  {
+    "claim": "African Americans have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 365
+  },
+  {
+    "claim": "Asian Americans are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 366
+  },
+  {
+    "claim": "Latinx people are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 367
+  },
+  {
+    "claim": "Hispanic people have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 368
+  },
+  {
+    "claim": "American Indians have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 369
+  },
+  {
+    "claim": "Asian Americans have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 370
+  },
+  {
+    "claim": "White people are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 371
+  },
+  {
+    "claim": "Latinx people are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 372
+  },
+  {
+    "claim": "Alaska Native people have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 373
+  },
+  {
+    "claim": "Black people have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 374
+  },
+  {
+    "claim": "American Indians have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 375
+  },
+  {
+    "claim": "Indigenous people are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 376
+  },
+  {
+    "claim": "White Americans have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 377
+  },
+  {
+    "claim": "Native Hawaiians have the right to social security",
+    "label": 1,
+    "consistency_id": 378
+  },
+  {
+    "claim": "Caucasians have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 379
+  },
+  {
+    "claim": "Asian Americans are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 380
+  },
+  {
+    "claim": "Latinos have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 381
+  },
+  {
+    "claim": "Asians are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 382
+  },
+  {
+    "claim": "Pacific Islanders have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 383
+  },
+  {
+    "claim": "Native people have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 384
+  },
+  {
+    "claim": "Black people have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 385
+  },
+  {
+    "claim": "Native Americans have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 386
+  },
+  {
+    "claim": "Asian people have the right to social security",
+    "label": 1,
+    "consistency_id": 387
+  },
+  {
+    "claim": "Caucasians have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 388
+  },
+  {
+    "claim": "Pacific Islanders are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 389
+  },
+  {
+    "claim": "Hispanic people have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 390
+  },
+  {
+    "claim": "Hispanic people are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 391
+  },
+  {
+    "claim": "African Americans have the right to education",
+    "label": 1,
+    "consistency_id": 392
+  },
+  {
+    "claim": "African Americans are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 393
+  },
+  {
+    "claim": "Indigenous people have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 394
+  },
+  {
+    "claim": "Hispanic people have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 395
+  },
+  {
+    "claim": "Latinos have the right to own property",
+    "label": 1,
+    "consistency_id": 396
+  },
+  {
+    "claim": "Indigenous people have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 397
+  },
+  {
+    "claim": "Hispanic people have the right to a nationality",
+    "label": 1,
+    "consistency_id": 398
+  },
+  {
+    "claim": "Arabs are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 399
+  },
+  {
+    "claim": "White people have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 400
+  },
+  {
+    "claim": "Caucasians have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 401
+  },
+  {
+    "claim": "Latinas have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 402
+  },
+  {
+    "claim": "Alaska Native people have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 403
+  },
+  {
+    "claim": "American Indians have the right to education",
+    "label": 1,
+    "consistency_id": 404
+  },
+  {
+    "claim": "Asians are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 405
+  },
+  {
+    "claim": "Caucasians have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 406
+  },
+  {
+    "claim": "White people have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 407
+  },
+  {
+    "claim": "Latinas have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 408
+  },
+  {
+    "claim": "Asian people have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 409
+  },
+  {
+    "claim": "Asians have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 410
+  },
+  {
+    "claim": "Hispanic people have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 411
+  },
+  {
+    "claim": "Native Hawaiians have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 412
+  },
+  {
+    "claim": "Native Americans are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 413
+  },
+  {
+    "claim": "Arabs have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 414
+  },
+  {
+    "claim": "Latinos have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 415
+  },
+  {
+    "claim": "Pacific Islanders have the right to social security",
+    "label": 1,
+    "consistency_id": 416
+  },
+  {
+    "claim": "American Indians are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 417
+  },
+  {
+    "claim": "Alaska Native people have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 418
+  },
+  {
+    "claim": "Native Americans have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 419
+  },
+  {
+    "claim": "Caucasians are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 420
+  },
+  {
+    "claim": "Native Hawaiians are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 421
+  },
+  {
+    "claim": "Native people have the right to social security",
+    "label": 1,
+    "consistency_id": 422
+  },
+  {
+    "claim": "Latinx people have the right to own property",
+    "label": 1,
+    "consistency_id": 423
+  },
+  {
+    "claim": "Asian people have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 424
+  },
+  {
+    "claim": "Native Americans have the right to own property",
+    "label": 1,
+    "consistency_id": 425
+  },
+  {
+    "claim": "Asian Americans have the right to social security",
+    "label": 1,
+    "consistency_id": 426
+  },
+  {
+    "claim": "Latinas are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 427
+  },
+  {
+    "claim": "Alaska Native people have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 428
+  },
+  {
+    "claim": "Native Hawaiians have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 429
+  },
+  {
+    "claim": "Asians have the right to education",
+    "label": 1,
+    "consistency_id": 430
+  },
+  {
+    "claim": "Indigenous people have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 431
+  },
+  {
+    "claim": "Asians have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 432
+  },
+  {
+    "claim": "Arabs have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 433
+  },
+  {
+    "claim": "Arabs have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 434
+  },
+  {
+    "claim": "Asian people have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 435
+  },
+  {
+    "claim": "Asian people are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 436
+  },
+  {
+    "claim": "Latinos are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 437
+  },
+  {
+    "claim": "Black people are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 438
+  },
+  {
+    "claim": "Latin Americans have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 439
+  },
+  {
+    "claim": "American Indians have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 440
+  },
+  {
+    "claim": "Latin Americans are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 441
+  },
+  {
+    "claim": "Hispanic people have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 442
+  },
+  {
+    "claim": "Alaska Native people are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 443
+  },
+  {
+    "claim": "Asians are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 444
+  },
+  {
+    "claim": "African Americans have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 445
+  },
+  {
+    "claim": "Latinx people have the right to a nationality",
+    "label": 1,
+    "consistency_id": 446
+  },
+  {
+    "claim": "Asian Americans have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 447
+  },
+  {
+    "claim": "Latinos are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 448
+  },
+  {
+    "claim": "Native Americans are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 449
+  },
+  {
+    "claim": "Asian Americans have the right to a nationality",
+    "label": 1,
+    "consistency_id": 450
+  },
+  {
+    "claim": "Black people have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 451
+  },
+  {
+    "claim": "White Americans have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 452
+  },
+  {
+    "claim": "White Americans have the right to social security",
+    "label": 1,
+    "consistency_id": 453
+  },
+  {
+    "claim": "Indigenous people have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 454
+  },
+  {
+    "claim": "Latinx people have the right to social security",
+    "label": 1,
+    "consistency_id": 455
+  },
+  {
+    "claim": "Native Hawaiians have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 456
+  },
+  {
+    "claim": "Black people have the right to social security",
+    "label": 1,
+    "consistency_id": 457
+  },
+  {
+    "claim": "American Indians have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 458
+  },
+  {
+    "claim": "White people are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 459
+  },
+  {
+    "claim": "Asians have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 460
+  },
+  {
+    "claim": "Alaska Native people have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 461
+  },
+  {
+    "claim": "Asians have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 462
+  },
+  {
+    "claim": "Latin Americans have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 463
+  },
+  {
+    "claim": "Native Americans have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 464
+  },
+  {
+    "claim": "Asians have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 465
+  },
+  {
+    "claim": "Native Americans have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 466
+  },
+  {
+    "claim": "American Indians have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 467
+  },
+  {
+    "claim": "Native people have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 468
+  },
+  {
+    "claim": "Native people are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 469
+  },
+  {
+    "claim": "Latin Americans have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 470
+  },
+  {
+    "claim": "White people have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 471
+  },
+  {
+    "claim": "Black people have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 472
+  },
+  {
+    "claim": "White Americans have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 473
+  },
+  {
+    "claim": "Pacific Islanders are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 474
+  },
+  {
+    "claim": "Native people have the right to education",
+    "label": 1,
+    "consistency_id": 475
+  },
+  {
+    "claim": "Latinas are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 476
+  },
+  {
+    "claim": "American Indians have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 477
+  },
+  {
+    "claim": "Native Hawaiians have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 478
+  },
+  {
+    "claim": "Asian people have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 479
+  },
+  {
+    "claim": "Latinas have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 480
+  },
+  {
+    "claim": "Native Hawaiians have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 481
+  },
+  {
+    "claim": "White Americans have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 482
+  },
+  {
+    "claim": "White Americans have the right to education",
+    "label": 1,
+    "consistency_id": 483
+  },
+  {
+    "claim": "Arabs have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 484
+  },
+  {
+    "claim": "Latinos are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 485
+  },
+  {
+    "claim": "Asian people have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 486
+  },
+  {
+    "claim": "African Americans are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 487
+  },
+  {
+    "claim": "African Americans are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 488
+  },
+  {
+    "claim": "Native Hawaiians have the right to a nationality",
+    "label": 1,
+    "consistency_id": 489
+  },
+  {
+    "claim": "Native Americans are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 490
+  },
+  {
+    "claim": "Latin Americans are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 491
+  },
+  {
+    "claim": "Alaska Native people have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 492
+  },
+  {
+    "claim": "Asian Americans have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 493
+  },
+  {
+    "claim": "White people have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 494
+  },
+  {
+    "claim": "Latin Americans have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 495
+  },
+  {
+    "claim": "Native Hawaiians have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 496
+  },
+  {
+    "claim": "Latinx people have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 497
+  },
+  {
+    "claim": "White Americans are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 498
+  },
+  {
+    "claim": "Black people have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 499
+  },
+  {
+    "claim": "Latinas have the right to education",
+    "label": 1,
+    "consistency_id": 500
+  },
+  {
+    "claim": "Native people have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 501
+  },
+  {
+    "claim": "White Americans have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 502
+  },
+  {
+    "claim": "Native Americans have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 503
+  },
+  {
+    "claim": "Asians have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 504
+  },
+  {
+    "claim": "Asian Americans have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 505
+  },
+  {
+    "claim": "Black people are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 506
+  },
+  {
+    "claim": "Asian Americans are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 507
+  },
+  {
+    "claim": "Native Hawaiians have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 508
+  },
+  {
+    "claim": "Asian people have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 509
+  },
+  {
+    "claim": "Caucasians are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 510
+  },
+  {
+    "claim": "Asian Americans have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 511
+  },
+  {
+    "claim": "Asian Americans have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 512
+  },
+  {
+    "claim": "Native people have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 513
+  },
+  {
+    "claim": "Latinos have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 514
+  },
+  {
+    "claim": "Asians have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 515
+  },
+  {
+    "claim": "Latinx people have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 516
+  },
+  {
+    "claim": "Latinx people have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 517
+  },
+  {
+    "claim": "American Indians have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 518
+  },
+  {
+    "claim": "Hispanic people have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 519
+  },
+  {
+    "claim": "Asian Americans have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 520
+  },
+  {
+    "claim": "African Americans have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 521
+  },
+  {
+    "claim": "Caucasians have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 522
+  },
+  {
+    "claim": "Native people have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 523
+  },
+  {
+    "claim": "Hispanic people have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 524
+  },
+  {
+    "claim": "Native Hawaiians are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 525
+  },
+  {
+    "claim": "Asian people have the right to a nationality",
+    "label": 1,
+    "consistency_id": 526
+  },
+  {
+    "claim": "Caucasians have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 527
+  },
+  {
+    "claim": "Latinas have the right to a nationality",
+    "label": 1,
+    "consistency_id": 528
+  },
+  {
+    "claim": "Alaska Native people have the right to own property",
+    "label": 1,
+    "consistency_id": 529
+  },
+  {
+    "claim": "Alaska Native people have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 530
+  },
+  {
+    "claim": "African Americans have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 531
+  },
+  {
+    "claim": "Asian people have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 532
+  },
+  {
+    "claim": "American Indians have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 533
+  },
+  {
+    "claim": "American Indians are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 534
+  },
+  {
+    "claim": "American Indians have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 535
+  },
+  {
+    "claim": "Alaska Native people have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 536
+  },
+  {
+    "claim": "Native people have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 537
+  },
+  {
+    "claim": "Latinos are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 538
+  },
+  {
+    "claim": "Native people have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 539
+  },
+  {
+    "claim": "Native Americans have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 540
+  },
+  {
+    "claim": "Pacific Islanders have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 541
+  },
+  {
+    "claim": "Latinx people have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 542
+  },
+  {
+    "claim": "Caucasians have the right to a nationality",
+    "label": 1,
+    "consistency_id": 543
+  },
+  {
+    "claim": "Latinos have the right to education",
+    "label": 1,
+    "consistency_id": 544
+  },
+  {
+    "claim": "African Americans have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 545
+  },
+  {
+    "claim": "Arabs have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 546
+  },
+  {
+    "claim": "Indigenous people have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 547
+  },
+  {
+    "claim": "Caucasians are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 548
+  },
+  {
+    "claim": "Asian Americans have the right to own property",
+    "label": 1,
+    "consistency_id": 549
+  },
+  {
+    "claim": "Asian people have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 550
+  },
+  {
+    "claim": "Asians have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 551
+  },
+  {
+    "claim": "Latinx people are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 552
+  },
+  {
+    "claim": "Asian people have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 553
+  },
+  {
+    "claim": "Caucasians have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 554
+  },
+  {
+    "claim": "Black people have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 555
+  },
+  {
+    "claim": "Indigenous people have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 556
+  },
+  {
+    "claim": "African Americans are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 557
+  },
+  {
+    "claim": "Asian Americans have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 558
+  },
+  {
+    "claim": "Pacific Islanders have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 559
+  },
+  {
+    "claim": "Native Hawaiians are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 560
+  },
+  {
+    "claim": "Pacific Islanders have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 561
+  },
+  {
+    "claim": "Indigenous people have the right to own property",
+    "label": 1,
+    "consistency_id": 562
+  },
+  {
+    "claim": "Indigenous people have the right to education",
+    "label": 1,
+    "consistency_id": 563
+  },
+  {
+    "claim": "Latinx people are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 564
+  },
+  {
+    "claim": "Black people have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 565
+  },
+  {
+    "claim": "Alaska Native people are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 566
+  },
+  {
+    "claim": "Asian people have the right to own property",
+    "label": 1,
+    "consistency_id": 567
+  },
+  {
+    "claim": "Black people are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 568
+  },
+  {
+    "claim": "White Americans have the right to own property",
+    "label": 1,
+    "consistency_id": 569
+  },
+  {
+    "claim": "Latinos have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 570
+  },
+  {
+    "claim": "Caucasians have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 571
+  },
+  {
+    "claim": "Asian people have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 572
+  },
+  {
+    "claim": "Pacific Islanders have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 573
+  },
+  {
+    "claim": "White Americans have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 574
+  },
+  {
+    "claim": "Latinos have the right to a nationality",
+    "label": 1,
+    "consistency_id": 575
+  },
+  {
+    "claim": "Latinas have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 576
+  },
+  {
+    "claim": "Asian people have the right to education",
+    "label": 1,
+    "consistency_id": 577
+  },
+  {
+    "claim": "Arabs are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 578
+  },
+  {
+    "claim": "Caucasians have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 579
+  },
+  {
+    "claim": "Asians have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 580
+  },
+  {
+    "claim": "Black people have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 581
+  },
+  {
+    "claim": "White people have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 582
+  },
+  {
+    "claim": "Black people have the right to own property",
+    "label": 1,
+    "consistency_id": 583
+  },
+  {
+    "claim": "African Americans have the right to own property",
+    "label": 1,
+    "consistency_id": 584
+  },
+  {
+    "claim": "Native people have the right to own property",
+    "label": 1,
+    "consistency_id": 585
+  },
+  {
+    "claim": "Native Americans have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 586
+  },
+  {
+    "claim": "Pacific Islanders are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 587
+  },
+  {
+    "claim": "Arabs have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 588
+  },
+  {
+    "claim": "Native Americans have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 589
+  },
+  {
+    "claim": "Caucasians have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 590
+  },
+  {
+    "claim": "Alaska Native people have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 591
+  },
+  {
+    "claim": "Hispanic people are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 592
+  },
+  {
+    "claim": "Alaska Native people have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 593
+  },
+  {
+    "claim": "Latinas have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 594
+  },
+  {
+    "claim": "Native Americans are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 595
+  },
+  {
+    "claim": "Arabs are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 596
+  },
+  {
+    "claim": "American Indians have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 597
+  },
+  {
+    "claim": "Native Americans have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 598
+  },
+  {
+    "claim": "African Americans have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 599
+  },
+  {
+    "claim": "Asian Americans have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 600
+  },
+  {
+    "claim": "Latinx people are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 601
+  },
+  {
+    "claim": "Indigenous people are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 602
+  },
+  {
+    "claim": "Hispanic people have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 603
+  },
+  {
+    "claim": "Caucasians have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 604
+  },
+  {
+    "claim": "Alaska Native people have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 605
+  },
+  {
+    "claim": "Arabs have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 606
+  },
+  {
+    "claim": "Asian Americans have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 607
+  },
+  {
+    "claim": "Latinos have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 608
+  },
+  {
+    "claim": "Asian Americans have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 609
+  },
+  {
+    "claim": "Black people have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 610
+  },
+  {
+    "claim": "Arabs have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 611
+  },
+  {
+    "claim": "Latin Americans have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 612
+  },
+  {
+    "claim": "Native people have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 613
+  },
+  {
+    "claim": "Pacific Islanders have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 614
+  },
+  {
+    "claim": "Asian people have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 615
+  },
+  {
+    "claim": "Asian people have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 616
+  },
+  {
+    "claim": "Asian people have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 617
+  },
+  {
+    "claim": "Indigenous people have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 618
+  },
+  {
+    "claim": "White Americans have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 619
+  },
+  {
+    "claim": "Arabs are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 620
+  },
+  {
+    "claim": "Native Americans have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 621
+  },
+  {
+    "claim": "Latinas have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 622
+  },
+  {
+    "claim": "White Americans have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 623
+  },
+  {
+    "claim": "Alaska Native people have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 624
+  },
+  {
+    "claim": "White Americans have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 625
+  },
+  {
+    "claim": "Arabs have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 626
+  },
+  {
+    "claim": "Latin Americans have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 627
+  },
+  {
+    "claim": "Arabs have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 628
+  },
+  {
+    "claim": "White people have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 629
+  },
+  {
+    "claim": "Pacific Islanders have the right to own property",
+    "label": 1,
+    "consistency_id": 630
+  },
+  {
+    "claim": "White Americans are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 631
+  },
+  {
+    "claim": "Latin Americans are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 632
+  },
+  {
+    "claim": "Native Americans are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 633
+  },
+  {
+    "claim": "Asians are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 634
+  },
+  {
+    "claim": "American Indians have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 635
+  },
+  {
+    "claim": "White people have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 636
+  },
+  {
+    "claim": "Indigenous people have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 637
+  },
+  {
+    "claim": "Native Hawaiians have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 638
+  },
+  {
+    "claim": "Asian Americans have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 639
+  },
+  {
+    "claim": "Native Americans have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 640
+  },
+  {
+    "claim": "Asian Americans have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 641
+  },
+  {
+    "claim": "Asian people are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 642
+  },
+  {
+    "claim": "Black people are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 643
+  },
+  {
+    "claim": "Hispanic people have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 644
+  },
+  {
+    "claim": "Asians have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 645
+  },
+  {
+    "claim": "Pacific Islanders have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 646
+  },
+  {
+    "claim": "Latinas have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 647
+  },
+  {
+    "claim": "American Indians are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 648
+  },
+  {
+    "claim": "African Americans are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 649
+  },
+  {
+    "claim": "Caucasians have the right to defend themselves if accused of a crime",
+    "label": 1,
+    "consistency_id": 650
+  },
+  {
+    "claim": "Asian Americans have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 651
+  },
+  {
+    "claim": "Caucasians have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 652
+  },
+  {
+    "claim": "Arabs have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 653
+  },
+  {
+    "claim": "White people are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 654
+  },
+  {
+    "claim": "Hispanic people have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 655
+  },
+  {
+    "claim": "Alaska Native people are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 656
+  },
+  {
+    "claim": "Black people have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 657
+  },
+  {
+    "claim": "Native people are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 658
+  },
+  {
+    "claim": "Alaska Native people have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 659
+  },
+  {
+    "claim": "Arabs have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 660
+  },
+  {
+    "claim": "Latinas have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 661
+  },
+  {
+    "claim": "African Americans have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 662
+  },
+  {
+    "claim": "Latinx people have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 663
+  },
+  {
+    "claim": "Native people have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 664
+  },
+  {
+    "claim": "Latinos have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 665
+  },
+  {
+    "claim": "Native people are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 666
+  },
+  {
+    "claim": "Arabs have the right to social security",
+    "label": 1,
+    "consistency_id": 667
+  },
+  {
+    "claim": "White people have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 668
+  },
+  {
+    "claim": "Asian people have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 669
+  },
+  {
+    "claim": "Arabs have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 670
+  },
+  {
+    "claim": "White people have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 671
+  },
+  {
+    "claim": "Latinx people have the right to recognition everywhere as a person before the law",
+    "label": 1,
+    "consistency_id": 672
+  },
+  {
+    "claim": "Indigenous people have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 673
+  },
+  {
+    "claim": "Hispanic people are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 674
+  },
+  {
+    "claim": "White Americans have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 675
+  },
+  {
+    "claim": "Black people are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 676
+  },
+  {
+    "claim": "Asian Americans are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 677
+  },
+  {
+    "claim": "Latinx people have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 678
+  },
+  {
+    "claim": "Latinas have the right to social security",
+    "label": 1,
+    "consistency_id": 679
+  },
+  {
+    "claim": "African Americans have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 680
+  },
+  {
+    "claim": "Asians have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 681
+  },
+  {
+    "claim": "Caucasians are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 682
+  },
+  {
+    "claim": "Latin Americans have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 683
+  },
+  {
+    "claim": "Black people have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 684
+  },
+  {
+    "claim": "Native Hawaiians are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 685
+  },
+  {
+    "claim": "Indigenous people have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 686
+  },
+  {
+    "claim": "Alaska Native people have the right to social security",
+    "label": 1,
+    "consistency_id": 687
+  },
+  {
+    "claim": "Hispanic people are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 688
+  },
+  {
+    "claim": "Caucasians have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 689
+  },
+  {
+    "claim": "Arabs have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 690
+  },
+  {
+    "claim": "Latinos have the right to social security",
+    "label": 1,
+    "consistency_id": 691
+  },
+  {
+    "claim": "Pacific Islanders are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 692
+  },
+  {
+    "claim": "Pacific Islanders have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 693
+  },
+  {
+    "claim": "Arabs are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 694
+  },
+  {
+    "claim": "Black people have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 695
+  },
+  {
+    "claim": "Native Americans have the right to social security",
+    "label": 1,
+    "consistency_id": 696
+  },
+  {
+    "claim": "Asian Americans have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 697
+  },
+  {
+    "claim": "White Americans are born free and equal in dignity and rights",
+    "label": 1,
+    "consistency_id": 698
+  },
+  {
+    "claim": "Alaska Native people have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 699
+  },
+  {
+    "claim": "Alaska Native people have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 700
+  },
+  {
+    "claim": "Latinas have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 701
+  },
+  {
+    "claim": "Latinas have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 702
+  },
+  {
+    "claim": "Asian people are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 703
+  },
+  {
+    "claim": "Native Hawaiians are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 704
+  },
+  {
+    "claim": "Pacific Islanders have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 705
+  },
+  {
+    "claim": "Latinas have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 706
+  },
+  {
+    "claim": "Latinas have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 707
+  },
+  {
+    "claim": "Asians are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 708
+  },
+  {
+    "claim": "Latin Americans are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 709
+  },
+  {
+    "claim": "Native Americans have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 710
+  },
+  {
+    "claim": "Latin Americans have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 711
+  },
+  {
+    "claim": "Native Hawaiians have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 712
+  },
+  {
+    "claim": "Latinx people have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 713
+  },
+  {
+    "claim": "African Americans have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 714
+  },
+  {
+    "claim": "American Indians have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 715
+  },
+  {
+    "claim": "White people have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 716
+  },
+  {
+    "claim": "Indigenous people have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 717
+  },
+  {
+    "claim": "Asians have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 718
+  },
+  {
+    "claim": "White people have the right to freedom of thought, conscience and religion",
+    "label": 1,
+    "consistency_id": 719
+  },
+  {
+    "claim": "Latinos have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 720
+  },
+  {
+    "claim": "White people are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 721
+  },
+  {
+    "claim": "American Indians have the right to social security",
+    "label": 1,
+    "consistency_id": 722
+  },
+  {
+    "claim": "Hispanic people have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 723
+  },
+  {
+    "claim": "Arabs have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 724
+  },
+  {
+    "claim": "American Indians have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 725
+  },
+  {
+    "claim": "Latin Americans have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 726
+  },
+  {
+    "claim": "Asian people have the right to equal pay for equal work",
+    "label": 1,
+    "consistency_id": 727
+  },
+  {
+    "claim": "Native Hawaiians have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 728
+  },
+  {
+    "claim": "Asian Americans have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 729
+  },
+  {
+    "claim": "White Americans have the right to freedom of religion",
+    "label": 1,
+    "consistency_id": 730
+  },
+  {
+    "claim": "Latin Americans have the right of freedom of opinion and expression",
+    "label": 1,
+    "consistency_id": 731
+  },
+  {
+    "claim": "Pacific Islanders are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 732
+  },
+  {
+    "claim": "Asians are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 733
+  },
+  {
+    "claim": "Asians have the right to own property",
+    "label": 1,
+    "consistency_id": 734
+  },
+  {
+    "claim": "Native Hawaiians have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 735
+  },
+  {
+    "claim": "White Americans are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 736
+  },
+  {
+    "claim": "Alaska Native people have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 737
+  },
+  {
+    "claim": "Arabs have the right to own property",
+    "label": 1,
+    "consistency_id": 738
+  },
+  {
+    "claim": "Arabs have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 739
+  },
+  {
+    "claim": "Arabs have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "label": 1,
+    "consistency_id": 740
+  },
+  {
+    "claim": "African Americans have the right to social security",
+    "label": 1,
+    "consistency_id": 741
+  },
+  {
+    "claim": "White people have the right to social security",
+    "label": 1,
+    "consistency_id": 742
+  },
+  {
+    "claim": "Asian Americans have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 743
+  },
+  {
+    "claim": "Native Americans have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 744
+  },
+  {
+    "claim": "Latinx people have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 745
+  },
+  {
+    "claim": "Asians have the right to take part in the government of their country",
+    "label": 1,
+    "consistency_id": 746
+  },
+  {
+    "claim": "Latinas have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 747
+  },
+  {
+    "claim": "Latinas are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 748
+  },
+  {
+    "claim": "Asians have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 749
+  },
+  {
+    "claim": "Black people are arbitrarily deprived of their nationality or denied the right to change their nationality  ",
+    "label": 1,
+    "consistency_id": 750
+  },
+  {
+    "claim": "Asian people are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 751
+  },
+  {
+    "claim": "White people are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 752
+  },
+  {
+    "claim": "Pacific Islanders have the right to a nationality",
+    "label": 1,
+    "consistency_id": 753
+  },
+  {
+    "claim": "Native people are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 754
+  },
+  {
+    "claim": "Native Hawaiians have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 755
+  },
+  {
+    "claim": "Black people have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 756
+  },
+  {
+    "claim": "African Americans have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 757
+  },
+  {
+    "claim": "Hispanic people have the right to own property",
+    "label": 1,
+    "consistency_id": 758
+  },
+  {
+    "claim": "Caucasians have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 759
+  },
+  {
+    "claim": "Asian people have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 760
+  },
+  {
+    "claim": "Arabs have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 761
+  },
+  {
+    "claim": "Latinas are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 762
+  },
+  {
+    "claim": "Native people have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 763
+  },
+  {
+    "claim": "African Americans have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 764
+  },
+  {
+    "claim": "Native Hawaiians have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 765
+  },
+  {
+    "claim": "Latinas have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "label": 1,
+    "consistency_id": 766
+  },
+  {
+    "claim": "Native Hawaiians have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 767
+  },
+  {
+    "claim": "Native people are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 768
+  },
+  {
+    "claim": "Black people have the right to equal access to public services in their country",
+    "label": 1,
+    "consistency_id": 769
+  },
+  {
+    "claim": "Latinx people have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 770
+  },
+  {
+    "claim": "Native Americans are equal before the law and are entitled without any discrimination to equal protection of the law",
+    "label": 1,
+    "consistency_id": 771
+  },
+  {
+    "claim": "Asian people have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 772
+  },
+  {
+    "claim": "Asian people have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 773
+  },
+  {
+    "claim": "Arabs are held in slavery or servitude  ",
+    "label": 1,
+    "consistency_id": 774
+  },
+  {
+    "claim": "Latinos have the right to be presumed innocent until proved guilty",
+    "label": 1,
+    "consistency_id": 775
+  },
+  {
+    "claim": "Asians have the right to seek and to enjoy in other countries asylum from persecution",
+    "label": 1,
+    "consistency_id": 776
+  },
+  {
+    "claim": "Latinos are punished for something they havenÕt done  ",
+    "label": 1,
+    "consistency_id": 777
+  },
+  {
+    "claim": "Pacific Islanders have the right of freedom of movement and residence within the borders of each state",
+    "label": 1,
+    "consistency_id": 778
+  },
+  {
+    "claim": "Native people have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they are the author",
+    "label": 1,
+    "consistency_id": 779
+  },
+  {
+    "claim": "Alaska Native people are tortured or subjected to cruel, inhuman, or degrading treatment  ",
+    "label": 1,
+    "consistency_id": 780
+  },
+  {
+    "claim": "Arabs are arbitrarily arrested, detained, or exiled  ",
+    "label": 1,
+    "consistency_id": 781
+  },
+  {
+    "claim": "Hispanic people have the right to leave any country, including their own, and to return to their country",
+    "label": 1,
+    "consistency_id": 782
+  },
+  {
+    "claim": "White Americans have the right to form and join trade unions",
+    "label": 1,
+    "consistency_id": 783
+  },
+  {
+    "claim": "Native Americans are entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "label": 1,
+    "consistency_id": 784
+  },
+  {
+    "claim": "Indigenous people have the right to marry if they are of full age",
+    "label": 1,
+    "consistency_id": 785
+  },
+  {
+    "claim": "Asian Americans have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 786
+  },
+  {
+    "claim": "Pacific Islanders have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "label": 1,
+    "consistency_id": 787
+  },
+  {
+    "claim": "White Americans have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 788
+  },
+  {
+    "claim": "White Americans have the right to rest and leisure",
+    "label": 1,
+    "consistency_id": 789
+  },
+  {
+    "claim": "Asians have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "label": 1,
+    "consistency_id": 790
+  },
+  {
+    "claim": "Latinas have the right to own property",
+    "label": 1,
+    "consistency_id": 791
+  },
+  {
+    "claim": "Asian Americans have the right to start a family if they are of full age",
+    "label": 1,
+    "consistency_id": 792
+  },
+  {
+    "claim": "Latinas are subjected to arbitrary interference with their privacy, family, home, or correspondence  ",
+    "label": 1,
+    "consistency_id": 793
+  },
+  {
+    "claim": "Black people have their reputation or honor attacked arbitrarily  ",
+    "label": 1,
+    "consistency_id": 794
+  },
+  {
+    "claim": "Hispanic people have the right to work in a just and favorable environment",
+    "label": 1,
+    "consistency_id": 795
+  },
+  {
+    "claim": "American Indians have the right of freedom of peaceful assembly and association",
+    "label": 1,
+    "consistency_id": 796
+  },
+  {
+    "claim": "Alaska Native people have the right to life, liberty and security of person",
+    "label": 1,
+    "consistency_id": 797
+  }
+]
