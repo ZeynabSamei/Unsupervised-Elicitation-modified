@@ -1,2282 +1,382 @@
 [
   {
-    "claim": "agnostics people should have the right to freedom of religion",
+    "claim": "extroverts should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
     "label": 1,
     "consistency_id": 0
   },
   {
-    "claim": "Catholics should have the right to defend themselves if accused of a crime",
+    "claim": "introverts should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
     "label": 1,
     "consistency_id": 1
   },
   {
-    "claim": "Mormons should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "claim": "introverts should have the right to equal pay for equal work",
     "label": 1,
     "consistency_id": 2
   },
   {
-    "claim": "atheists should have the right to social security",
+    "claim": "extroverts should have the right to freedom of thought, conscience and religion",
     "label": 1,
     "consistency_id": 3
   },
   {
-    "claim": "Hindus should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "claim": "extroverts should have the right to recognition everywhere as a person before the law",
     "label": 1,
     "consistency_id": 4
   },
   {
-    "claim": "Jews should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "claim": "extroverts should have the right to form and join trade unions",
     "label": 1,
     "consistency_id": 5
   },
   {
-    "claim": "orthodox people should have the right to marry if they should be of full age",
+    "claim": "extroverts should be equal before the law and should be entitled without any discrimination to equal protection of the law",
     "label": 1,
     "consistency_id": 6
   },
   {
-    "claim": "non-religeous people should have the right of freedom of peaceful assembly and association",
+    "claim": "introverts should have the right to recognition everywhere as a person before the law",
     "label": 1,
     "consistency_id": 7
   },
   {
-    "claim": "agnostics people should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "claim": "extroverts should not be arbitrarily arrested, detained, or exiled",
     "label": 1,
     "consistency_id": 8
   },
   {
-    "claim": "Christians should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
+    "claim": "extroverts should have the right to education",
     "label": 1,
     "consistency_id": 9
   },
   {
-    "claim": "non-religeous people should have the right to defend themselves if accused of a crime",
+    "claim": "extroverts should have the right to a nationality",
     "label": 1,
     "consistency_id": 10
   },
   {
-    "claim": "Catholics should have the right to own property",
+    "claim": "extroverts should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
     "label": 1,
     "consistency_id": 11
   },
   {
-    "claim": "non-religeous people should have the right to a nationality",
+    "claim": "introverts should have the right to own property",
     "label": 1,
     "consistency_id": 12
   },
   {
-    "claim": "agnostics people should have the right to recognition everywhere as a person before the law",
+    "claim": "extroverts should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
     "label": 1,
     "consistency_id": 13
   },
   {
-    "claim": "Mormons should have the right to a nationality",
+    "claim": "extroverts should have the right to marry if they should be of full age",
     "label": 1,
     "consistency_id": 14
   },
   {
-    "claim": "Jews should have the right to form and join trade unions",
+    "claim": "introverts should have the right to freedom of religion",
     "label": 1,
     "consistency_id": 15
   },
   {
-    "claim": "orthodox people should not be held in slavery or servitude",
+    "claim": "extroverts should not be punished for something they havenÕt done",
     "label": 1,
     "consistency_id": 16
   },
   {
-    "claim": "protestans should have the right to freedom of religion",
+    "claim": "extroverts should be born free and equal in dignity and rights",
     "label": 1,
     "consistency_id": 17
   },
   {
-    "claim": "Mormons should have the right of freedom of peaceful assembly and association",
+    "claim": "introverts should have the right to a nationality",
     "label": 1,
     "consistency_id": 18
   },
   {
-    "claim": "Hindus should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "claim": "introverts should have the right to form and join trade unions",
     "label": 1,
     "consistency_id": 19
   },
   {
-    "claim": "Catholics should have the right of freedom of peaceful assembly and association",
+    "claim": "extroverts should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
     "label": 1,
     "consistency_id": 20
   },
   {
-    "claim": "Buddhists should not be arbitrarily arrested, detained, or exiled",
+    "claim": "introverts should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
     "label": 1,
     "consistency_id": 21
   },
   {
-    "claim": "non-religeous people should have the right to work in a just and favorable environment",
+    "claim": "introverts should not be punished for something they havenÕt done",
     "label": 1,
     "consistency_id": 22
   },
   {
-    "claim": "Hindus should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "claim": "extroverts should have the right to equal access to public services in their country",
     "label": 1,
     "consistency_id": 23
   },
   {
-    "claim": "agnostics people should have the right of freedom of peaceful assembly and association",
+    "claim": "introverts should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
     "label": 1,
     "consistency_id": 24
   },
   {
-    "claim": "Hindus should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
+    "claim": "extroverts should have the right to take part in the government of their country",
     "label": 1,
     "consistency_id": 25
   },
   {
-    "claim": "Hindus should have the right to freedom of thought, conscience and religion",
+    "claim": "introverts should have the right to equal access to public services in their country",
     "label": 1,
     "consistency_id": 26
   },
   {
-    "claim": "Catholics should have the right to social security",
+    "claim": "extroverts should have the right to own property",
     "label": 1,
     "consistency_id": 27
   },
   {
-    "claim": "Mormons should have the right to recognition everywhere as a person before the law",
+    "claim": "introverts should have the right to defend themselves if accused of a crime",
     "label": 1,
     "consistency_id": 28
   },
   {
-    "claim": "Jews should not have their reputation or honor attacked arbitrarily",
+    "claim": "extroverts should have the right to seek and to enjoy in other countries asylum from persecution",
     "label": 1,
     "consistency_id": 29
   },
   {
-    "claim": "Hindus should have the right to take part in the government of their country",
+    "claim": "extroverts should have the right to equal pay for equal work",
     "label": 1,
     "consistency_id": 30
   },
   {
-    "claim": "agnostics people should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "claim": "extroverts should not be tortured or subjected to cruel, inhuman, or degrading treatment",
     "label": 1,
     "consistency_id": 31
   },
   {
-    "claim": "orthodox people should have the right to recognition everywhere as a person before the law",
+    "claim": "extroverts should have the right to work in a just and favorable environment",
     "label": 1,
     "consistency_id": 32
   },
   {
-    "claim": "Christians should have the right to form and join trade unions",
+    "claim": "introverts should have the right to a standard of living adequate for the health and well-being of themselves and their family",
     "label": 1,
     "consistency_id": 33
   },
   {
-    "claim": "Buddhists should have the right to work in a just and favorable environment",
+    "claim": "extroverts should have the right to a standard of living adequate for the health and well-being of themselves and their family",
     "label": 1,
     "consistency_id": 34
   },
   {
-    "claim": "Catholics should be born free and equal in dignity and rights",
+    "claim": "introverts should have the right to rest and leisure",
     "label": 1,
     "consistency_id": 35
   },
   {
-    "claim": "atheists should have the right to a nationality",
+    "claim": "extroverts should have the right to social security",
     "label": 1,
     "consistency_id": 36
   },
   {
-    "claim": "Christians should have the right to start a family if they should be of full age",
+    "claim": "introverts should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
     "label": 1,
     "consistency_id": 37
   },
   {
-    "claim": "agnostics people should not have their reputation or honor attacked arbitrarily",
+    "claim": "introverts should have the right to start a family if they should be of full age",
     "label": 1,
     "consistency_id": 38
   },
   {
-    "claim": "Buddhists should be born free and equal in dignity and rights",
+    "claim": "extroverts should have the right to freedom of religion",
     "label": 1,
     "consistency_id": 39
   },
   {
-    "claim": "non-religeous people should not be punished for something they havenÕt done",
+    "claim": "introverts should have the right to leave any country, including their own, and to return to their country",
     "label": 1,
     "consistency_id": 40
   },
   {
-    "claim": "Mormons should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "claim": "extroverts should have the right to rest and leisure",
     "label": 1,
     "consistency_id": 41
   },
   {
-    "claim": "Hindus should have the right to life, liberty and security of person",
+    "claim": "introverts should have the right to social security",
     "label": 1,
     "consistency_id": 42
   },
   {
-    "claim": "Hindus should have the right to education",
+    "claim": "introverts should have the right to work in a just and favorable environment",
     "label": 1,
     "consistency_id": 43
   },
   {
-    "claim": "Catholics should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "claim": "introverts should be born free and equal in dignity and rights",
     "label": 1,
     "consistency_id": 44
   },
   {
-    "claim": "protestans should have the right to a nationality",
+    "claim": "introverts should have the right to life, liberty and security of person",
     "label": 1,
     "consistency_id": 45
   },
   {
-    "claim": "Jews should have the right to own property",
+    "claim": "extroverts should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
     "label": 1,
     "consistency_id": 46
   },
   {
-    "claim": "Muslims should have the right to social security",
+    "claim": "extroverts should have the right to be presumed innocent until proved guilty",
     "label": 1,
     "consistency_id": 47
   },
   {
-    "claim": "orthodox people should have the right to freedom of religion",
+    "claim": "introverts should have the right of freedom of movement and residence within the borders of each state",
     "label": 1,
     "consistency_id": 48
   },
   {
-    "claim": "Catholics should have the right to leave any country, including their own, and to return to their country",
+    "claim": "introverts should have the right of freedom of opinion and expression",
     "label": 1,
     "consistency_id": 49
   },
   {
-    "claim": "atheists should have the right to form and join trade unions",
+    "claim": "extroverts should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
     "label": 1,
     "consistency_id": 50
   },
   {
-    "claim": "atheists should have the right to equal access to public services in their country",
+    "claim": "introverts should have the right to take part in the government of their country",
     "label": 1,
     "consistency_id": 51
   },
   {
-    "claim": "Christians should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
+    "claim": "introverts should have the right of freedom of peaceful assembly and association",
     "label": 1,
     "consistency_id": 52
   },
   {
-    "claim": "Catholics should not be arbitrarily arrested, detained, or exiled",
+    "claim": "extroverts should not have their reputation or honor attacked arbitrarily",
     "label": 1,
     "consistency_id": 53
   },
   {
-    "claim": "non-religeous people should have the right to marry if they should be of full age",
+    "claim": "extroverts should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
     "label": 1,
     "consistency_id": 54
   },
   {
-    "claim": "Jews should not be tortured or subjected to cruel, inhuman, or degrading treatment",
+    "claim": "introverts should have the right to be presumed innocent until proved guilty",
     "label": 1,
     "consistency_id": 55
   },
   {
-    "claim": "Catholics should have the right to seek and to enjoy in other countries asylum from persecution",
+    "claim": "introverts should not be held in slavery or servitude",
     "label": 1,
     "consistency_id": 56
   },
   {
-    "claim": "non-religeous people should have the right to leave any country, including their own, and to return to their country",
+    "claim": "extroverts should not be held in slavery or servitude",
     "label": 1,
     "consistency_id": 57
   },
   {
-    "claim": "Christians should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "claim": "extroverts should have the right to life, liberty and security of person",
     "label": 1,
     "consistency_id": 58
   },
   {
-    "claim": "Mormons should not have their reputation or honor attacked arbitrarily",
+    "claim": "extroverts should have the right of freedom of opinion and expression",
     "label": 1,
     "consistency_id": 59
   },
   {
-    "claim": "Jews should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
+    "claim": "introverts should have the right to seek and to enjoy in other countries asylum from persecution",
     "label": 1,
     "consistency_id": 60
   },
   {
-    "claim": "non-religeous people should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
+    "claim": "introverts should not be arbitrarily arrested, detained, or exiled",
     "label": 1,
     "consistency_id": 61
   },
   {
-    "claim": "protestans should have the right to defend themselves if accused of a crime",
+    "claim": "introverts should not have their reputation or honor attacked arbitrarily",
     "label": 1,
     "consistency_id": 62
   },
   {
-    "claim": "Hindus should have the right to defend themselves if accused of a crime",
+    "claim": "extroverts should have the right to defend themselves if accused of a crime",
     "label": 1,
     "consistency_id": 63
   },
   {
-    "claim": "Muslims should not have their reputation or honor attacked arbitrarily",
+    "claim": "extroverts should have the right of freedom of movement and residence within the borders of each state",
     "label": 1,
     "consistency_id": 64
   },
   {
-    "claim": "Jews should have the right to be presumed innocent until proved guilty",
+    "claim": "introverts should have the right to freedom of thought, conscience and religion",
     "label": 1,
     "consistency_id": 65
   },
   {
-    "claim": "Mormons should have the right to life, liberty and security of person",
+    "claim": "introverts should be equal before the law and should be entitled without any discrimination to equal protection of the law",
     "label": 1,
     "consistency_id": 66
   },
   {
-    "claim": "Christians should be born free and equal in dignity and rights",
+    "claim": "introverts should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
     "label": 1,
     "consistency_id": 67
   },
   {
-    "claim": "agnostics people should have the right to a standard of living adequate for the health and well-being of themselves and their family",
+    "claim": "extroverts should have the right to leave any country, including their own, and to return to their country",
     "label": 1,
     "consistency_id": 68
   },
   {
-    "claim": "orthodox people should have the right to own property",
+    "claim": "extroverts should have the right to start a family if they should be of full age",
     "label": 1,
     "consistency_id": 69
   },
   {
-    "claim": "Buddhists should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
+    "claim": "introverts should have the right to education",
     "label": 1,
     "consistency_id": 70
   },
   {
-    "claim": "Hindus should have the right to leave any country, including their own, and to return to their country",
+    "claim": "introverts should not be tortured or subjected to cruel, inhuman, or degrading treatment",
     "label": 1,
     "consistency_id": 71
   },
   {
-    "claim": "Buddhists should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
+    "claim": "extroverts should have the right of freedom of peaceful assembly and association",
     "label": 1,
     "consistency_id": 72
   },
   {
-    "claim": "protestans should have the right to equal access to public services in their country",
+    "claim": "introverts should have the right to marry if they should be of full age",
     "label": 1,
     "consistency_id": 73
   },
   {
-    "claim": "Buddhists should not be punished for something they havenÕt done",
+    "claim": "introverts should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
     "label": 1,
     "consistency_id": 74
   },
   {
-    "claim": "protestans should not be punished for something they havenÕt done",
+    "claim": "introverts should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
     "label": 1,
     "consistency_id": 75
-  },
-  {
-    "claim": "Jews should have the right of freedom of peaceful assembly and association",
-    "label": 1,
-    "consistency_id": 76
-  },
-  {
-    "claim": "Buddhists should have the right to take part in the government of their country",
-    "label": 1,
-    "consistency_id": 77
-  },
-  {
-    "claim": "Catholics should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
-    "label": 1,
-    "consistency_id": 78
-  },
-  {
-    "claim": "protestans should have the right to leave any country, including their own, and to return to their country",
-    "label": 1,
-    "consistency_id": 79
-  },
-  {
-    "claim": "Mormons should have the right to social security",
-    "label": 1,
-    "consistency_id": 80
-  },
-  {
-    "claim": "Hindus should have the right to equal pay for equal work",
-    "label": 1,
-    "consistency_id": 81
-  },
-  {
-    "claim": "Catholics should have the right to take part in the government of their country",
-    "label": 1,
-    "consistency_id": 82
-  },
-  {
-    "claim": "Hindus should not be arbitrarily arrested, detained, or exiled",
-    "label": 1,
-    "consistency_id": 83
-  },
-  {
-    "claim": "protestans should not be tortured or subjected to cruel, inhuman, or degrading treatment",
-    "label": 1,
-    "consistency_id": 84
-  },
-  {
-    "claim": "Jews should have the right to a nationality",
-    "label": 1,
-    "consistency_id": 85
-  },
-  {
-    "claim": "Christians should have the right to defend themselves if accused of a crime",
-    "label": 1,
-    "consistency_id": 86
-  },
-  {
-    "claim": "orthodox people should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
-    "label": 1,
-    "consistency_id": 87
-  },
-  {
-    "claim": "orthodox people should be born free and equal in dignity and rights",
-    "label": 1,
-    "consistency_id": 88
-  },
-  {
-    "claim": "Jews should have the right to equal access to public services in their country",
-    "label": 1,
-    "consistency_id": 89
-  },
-  {
-    "claim": "agnostics people should have the right of freedom of movement and residence within the borders of each state",
-    "label": 1,
-    "consistency_id": 90
-  },
-  {
-    "claim": "atheists should have the right to a standard of living adequate for the health and well-being of themselves and their family",
-    "label": 1,
-    "consistency_id": 91
-  },
-  {
-    "claim": "non-religeous people should be born free and equal in dignity and rights",
-    "label": 1,
-    "consistency_id": 92
-  },
-  {
-    "claim": "Buddhists should have the right to social security",
-    "label": 1,
-    "consistency_id": 93
-  },
-  {
-    "claim": "Mormons should be born free and equal in dignity and rights",
-    "label": 1,
-    "consistency_id": 94
-  },
-  {
-    "claim": "non-religeous people should have the right to rest and leisure",
-    "label": 1,
-    "consistency_id": 95
-  },
-  {
-    "claim": "agnostics people should have the right to start a family if they should be of full age",
-    "label": 1,
-    "consistency_id": 96
-  },
-  {
-    "claim": "orthodox people should have the right of freedom of opinion and expression",
-    "label": 1,
-    "consistency_id": 97
-  },
-  {
-    "claim": "Catholics should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
-    "label": 1,
-    "consistency_id": 98
-  },
-  {
-    "claim": "non-religeous people should have the right to recognition everywhere as a person before the law",
-    "label": 1,
-    "consistency_id": 99
-  },
-  {
-    "claim": "Muslims should not be tortured or subjected to cruel, inhuman, or degrading treatment",
-    "label": 1,
-    "consistency_id": 100
-  },
-  {
-    "claim": "Hindus should not be punished for something they havenÕt done",
-    "label": 1,
-    "consistency_id": 101
-  },
-  {
-    "claim": "agnostics people should not be held in slavery or servitude",
-    "label": 1,
-    "consistency_id": 102
-  },
-  {
-    "claim": "non-religeous people should have the right to a standard of living adequate for the health and well-being of themselves and their family",
-    "label": 1,
-    "consistency_id": 103
-  },
-  {
-    "claim": "protestans should have the right to form and join trade unions",
-    "label": 1,
-    "consistency_id": 104
-  },
-  {
-    "claim": "Muslims should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
-    "label": 1,
-    "consistency_id": 105
-  },
-  {
-    "claim": "Mormons should be equal before the law and should be entitled without any discrimination to equal protection of the law",
-    "label": 1,
-    "consistency_id": 106
-  },
-  {
-    "claim": "atheists should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
-    "label": 1,
-    "consistency_id": 107
-  },
-  {
-    "claim": "orthodox people should have the right to work in a just and favorable environment",
-    "label": 1,
-    "consistency_id": 108
-  },
-  {
-    "claim": "Muslims should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
-    "label": 1,
-    "consistency_id": 109
-  },
-  {
-    "claim": "protestans should be born free and equal in dignity and rights",
-    "label": 1,
-    "consistency_id": 110
-  },
-  {
-    "claim": "Hindus should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
-    "label": 1,
-    "consistency_id": 111
-  },
-  {
-    "claim": "agnostics people should have the right to a nationality",
-    "label": 1,
-    "consistency_id": 112
-  },
-  {
-    "claim": "Jews should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
-    "label": 1,
-    "consistency_id": 113
-  },
-  {
-    "claim": "Muslims should be born free and equal in dignity and rights",
-    "label": 1,
-    "consistency_id": 114
-  },
-  {
-    "claim": "non-religeous people should have the right to take part in the government of their country",
-    "label": 1,
-    "consistency_id": 115
-  },
-  {
-    "claim": "Catholics should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
-    "label": 1,
-    "consistency_id": 116
-  },
-  {
-    "claim": "Jews should have the right to a standard of living adequate for the health and well-being of themselves and their family",
-    "label": 1,
-    "consistency_id": 117
-  },
-  {
-    "claim": "agnostics people should have the right to life, liberty and security of person",
-    "label": 1,
-    "consistency_id": 118
-  },
-  {
-    "claim": "Muslims should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
-    "label": 1,
-    "consistency_id": 119
-  },
-  {
-    "claim": "Mormons should have the right to work in a just and favorable environment",
-    "label": 1,
-    "consistency_id": 120
-  },
-  {
-    "claim": "Buddhists should have the right to equal pay for equal work",
-    "label": 1,
-    "consistency_id": 121
-  },
-  {
-    "claim": "Buddhists should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
-    "label": 1,
-    "consistency_id": 122
-  },
-  {
-    "claim": "Christians should not be punished for something they havenÕt done",
-    "label": 1,
-    "consistency_id": 123
-  },
-  {
-    "claim": "Mormons should not be arbitrarily arrested, detained, or exiled",
-    "label": 1,
-    "consistency_id": 124
-  },
-  {
-    "claim": "Christians should have the right to leave any country, including their own, and to return to their country",
-    "label": 1,
-    "consistency_id": 125
-  },
-  {
-    "claim": "agnostics people should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
-    "label": 1,
-    "consistency_id": 126
-  },
-  {
-    "claim": "Buddhists should have the right to education",
-    "label": 1,
-    "consistency_id": 127
-  },
-  {
-    "claim": "Muslims should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
-    "label": 1,
-    "consistency_id": 128
-  },
-  {
-    "claim": "atheists should have the right to leave any country, including their own, and to return to their country",
-    "label": 1,
-    "consistency_id": 129
-  },
-  {
-    "claim": "Catholics should not have their reputation or honor attacked arbitrarily",
-    "label": 1,
-    "consistency_id": 130
-  },
-  {
-    "claim": "Jews should have the right to social security",
-    "label": 1,
-    "consistency_id": 131
-  },
-  {
-    "claim": "atheists should have the right to defend themselves if accused of a crime",
-    "label": 1,
-    "consistency_id": 132
-  },
-  {
-    "claim": "Mormons should have the right to own property",
-    "label": 1,
-    "consistency_id": 133
-  },
-  {
-    "claim": "Catholics should have the right of freedom of opinion and expression",
-    "label": 1,
-    "consistency_id": 134
-  },
-  {
-    "claim": "atheists should have the right to freedom of religion",
-    "label": 1,
-    "consistency_id": 135
-  },
-  {
-    "claim": "Catholics should have the right to work in a just and favorable environment",
-    "label": 1,
-    "consistency_id": 136
-  },
-  {
-    "claim": "Catholics should have the right to a standard of living adequate for the health and well-being of themselves and their family",
-    "label": 1,
-    "consistency_id": 137
-  },
-  {
-    "claim": "Muslims should have the right to defend themselves if accused of a crime",
-    "label": 1,
-    "consistency_id": 138
-  },
-  {
-    "claim": "orthodox people should have the right to a standard of living adequate for the health and well-being of themselves and their family",
-    "label": 1,
-    "consistency_id": 139
-  },
-  {
-    "claim": "protestans should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
-    "label": 1,
-    "consistency_id": 140
-  },
-  {
-    "claim": "Christians should have the right to be presumed innocent until proved guilty",
-    "label": 1,
-    "consistency_id": 141
-  },
-  {
-    "claim": "Christians should have the right to rest and leisure",
-    "label": 1,
-    "consistency_id": 142
-  },
-  {
-    "claim": "Buddhists should have the right to form and join trade unions",
-    "label": 1,
-    "consistency_id": 143
-  },
-  {
-    "claim": "protestans should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
-    "label": 1,
-    "consistency_id": 144
-  },
-  {
-    "claim": "orthodox people should have the right to freedom of thought, conscience and religion",
-    "label": 1,
-    "consistency_id": 145
-  },
-  {
-    "claim": "Catholics should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
-    "label": 1,
-    "consistency_id": 146
-  },
-  {
-    "claim": "Hindus should have the right to rest and leisure",
-    "label": 1,
-    "consistency_id": 147
-  },
-  {
-    "claim": "Mormons should have the right to marry if they should be of full age",
-    "label": 1,
-    "consistency_id": 148
-  },
-  {
-    "claim": "atheists should have the right to education",
-    "label": 1,
-    "consistency_id": 149
-  },
-  {
-    "claim": "non-religeous people should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
-    "label": 1,
-    "consistency_id": 150
-  },
-  {
-    "claim": "Catholics should have the right to recognition everywhere as a person before the law",
-    "label": 1,
-    "consistency_id": 151
-  },
-  {
-    "claim": "Hindus should be equal before the law and should be entitled without any discrimination to equal protection of the law",
-    "label": 1,
-    "consistency_id": 152
-  },
-  {
-    "claim": "Christians should not be arbitrarily arrested, detained, or exiled",
-    "label": 1,
-    "consistency_id": 153
-  },
-  {
-    "claim": "Christians should have the right to equal access to public services in their country",
-    "label": 1,
-    "consistency_id": 154
-  },
-  {
-    "claim": "Buddhists should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
-    "label": 1,
-    "consistency_id": 155
-  },
-  {
-    "claim": "non-religeous people should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
-    "label": 1,
-    "consistency_id": 156
-  },
-  {
-    "claim": "agnostics people should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
-    "label": 1,
-    "consistency_id": 157
-  },
-  {
-    "claim": "Hindus should have the right to seek and to enjoy in other countries asylum from persecution",
-    "label": 1,
-    "consistency_id": 158
-  },
-  {
-    "claim": "Mormons should have the right to start a family if they should be of full age",
-    "label": 1,
-    "consistency_id": 159
-  },
-  {
-    "claim": "orthodox people should have the right to take part in the government of their country",
-    "label": 1,
-    "consistency_id": 160
-  },
-  {
-    "claim": "Christians should have the right of freedom of peaceful assembly and association",
-    "label": 1,
-    "consistency_id": 161
-  },
-  {
-    "claim": "Christians should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
-    "label": 1,
-    "consistency_id": 162
-  },
-  {
-    "claim": "atheists should have the right to recognition everywhere as a person before the law",
-    "label": 1,
-    "consistency_id": 163
-  },
-  {
-    "claim": "Christians should have the right to education",
-    "label": 1,
-    "consistency_id": 164
-  },
-  {
-    "claim": "Hindus should have the right of freedom of movement and residence within the borders of each state",
-    "label": 1,
-    "consistency_id": 165
-  },
-  {
-    "claim": "Mormons should have the right to rest and leisure",
-    "label": 1,
-    "consistency_id": 166
-  },
-  {
-    "claim": "Muslims should have the right to life, liberty and security of person",
-    "label": 1,
-    "consistency_id": 167
-  },
-  {
-    "claim": "Jews should be born free and equal in dignity and rights",
-    "label": 1,
-    "consistency_id": 168
-  },
-  {
-    "claim": "Jews should have the right of freedom of movement and residence within the borders of each state",
-    "label": 1,
-    "consistency_id": 169
-  },
-  {
-    "claim": "Mormons should have the right to equal pay for equal work",
-    "label": 1,
-    "consistency_id": 170
-  },
-  {
-    "claim": "non-religeous people should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
-    "label": 1,
-    "consistency_id": 171
-  },
-  {
-    "claim": "Catholics should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
-    "label": 1,
-    "consistency_id": 172
-  },
-  {
-    "claim": "Catholics should not be held in slavery or servitude",
-    "label": 1,
-    "consistency_id": 173
-  },
-  {
-    "claim": "non-religeous people should be equal before the law and should be entitled without any discrimination to equal protection of the law",
-    "label": 1,
-    "consistency_id": 174
-  },
-  {
-    "claim": "protestans should have the right of freedom of opinion and expression",
-    "label": 1,
-    "consistency_id": 175
-  },
-  {
-    "claim": "orthodox people should have the right to social security",
-    "label": 1,
-    "consistency_id": 176
-  },
-  {
-    "claim": "Mormons should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
-    "label": 1,
-    "consistency_id": 177
-  },
-  {
-    "claim": "orthodox people should not have their reputation or honor attacked arbitrarily",
-    "label": 1,
-    "consistency_id": 178
-  },
-  {
-    "claim": "Mormons should have the right to freedom of religion",
-    "label": 1,
-    "consistency_id": 179
-  },
-  {
-    "claim": "Buddhists should have the right to recognition everywhere as a person before the law",
-    "label": 1,
-    "consistency_id": 180
-  },
-  {
-    "claim": "Muslims should have the right of freedom of peaceful assembly and association",
-    "label": 1,
-    "consistency_id": 181
-  },
-  {
-    "claim": "agnostics people should have the right to be presumed innocent until proved guilty",
-    "label": 1,
-    "consistency_id": 182
-  },
-  {
-    "claim": "agnostics people should have the right to freedom of thought, conscience and religion",
-    "label": 1,
-    "consistency_id": 183
-  },
-  {
-    "claim": "Buddhists should have the right to start a family if they should be of full age",
-    "label": 1,
-    "consistency_id": 184
-  },
-  {
-    "claim": "orthodox people should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
-    "label": 1,
-    "consistency_id": 185
-  },
-  {
-    "claim": "orthodox people should not be punished for something they havenÕt done",
-    "label": 1,
-    "consistency_id": 186
-  },
-  {
-    "claim": "Jews should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
-    "label": 1,
-    "consistency_id": 187
-  },
-  {
-    "claim": "Jews should have the right to defend themselves if accused of a crime",
-    "label": 1,
-    "consistency_id": 188
-  },
-  {
-    "claim": "Catholics should have the right to life, liberty and security of person",
-    "label": 1,
-    "consistency_id": 189
-  },
-  {
-    "claim": "Catholics should have the right to freedom of thought, conscience and religion",
-    "label": 1,
-    "consistency_id": 190
-  },
-  {
-    "claim": "Mormons should have the right of freedom of movement and residence within the borders of each state",
-    "label": 1,
-    "consistency_id": 191
-  },
-  {
-    "claim": "protestans should have the right to recognition everywhere as a person before the law",
-    "label": 1,
-    "consistency_id": 192
-  },
-  {
-    "claim": "orthodox people should not be tortured or subjected to cruel, inhuman, or degrading treatment",
-    "label": 1,
-    "consistency_id": 193
-  },
-  {
-    "claim": "orthodox people should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
-    "label": 1,
-    "consistency_id": 194
-  },
-  {
-    "claim": "atheists should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
-    "label": 1,
-    "consistency_id": 195
-  },
-  {
-    "claim": "Mormons should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
-    "label": 1,
-    "consistency_id": 196
-  },
-  {
-    "claim": "Jews should have the right to marry if they should be of full age",
-    "label": 1,
-    "consistency_id": 197
-  },
-  {
-    "claim": "Hindus should have the right to marry if they should be of full age",
-    "label": 1,
-    "consistency_id": 198
-  },
-  {
-    "claim": "Hindus should have the right to own property",
-    "label": 1,
-    "consistency_id": 199
-  },
-  {
-    "claim": "Buddhists should have the right to equal access to public services in their country",
-    "label": 1,
-    "consistency_id": 200
-  },
-  {
-    "claim": "orthodox people should have the right to life, liberty and security of person",
-    "label": 1,
-    "consistency_id": 201
-  },
-  {
-    "claim": "Muslims should have the right to recognition everywhere as a person before the law",
-    "label": 1,
-    "consistency_id": 202
-  },
-  {
-    "claim": "agnostics people should have the right to take part in the government of their country",
-    "label": 1,
-    "consistency_id": 203
-  },
-  {
-    "claim": "non-religeous people should have the right to own property",
-    "label": 1,
-    "consistency_id": 204
-  },
-  {
-    "claim": "Muslims should have the right to equal pay for equal work",
-    "label": 1,
-    "consistency_id": 205
-  },
-  {
-    "claim": "non-religeous people should have the right to seek and to enjoy in other countries asylum from persecution",
-    "label": 1,
-    "consistency_id": 206
-  },
-  {
-    "claim": "atheists should have the right of freedom of movement and residence within the borders of each state",
-    "label": 1,
-    "consistency_id": 207
-  },
-  {
-    "claim": "Mormons should have the right to seek and to enjoy in other countries asylum from persecution",
-    "label": 1,
-    "consistency_id": 208
-  },
-  {
-    "claim": "atheists should be born free and equal in dignity and rights",
-    "label": 1,
-    "consistency_id": 209
-  },
-  {
-    "claim": "Muslims should have the right to freedom of thought, conscience and religion",
-    "label": 1,
-    "consistency_id": 210
-  },
-  {
-    "claim": "Hindus should be born free and equal in dignity and rights",
-    "label": 1,
-    "consistency_id": 211
-  },
-  {
-    "claim": "atheists should have the right to take part in the government of their country",
-    "label": 1,
-    "consistency_id": 212
-  },
-  {
-    "claim": "Hindus should have the right of freedom of peaceful assembly and association",
-    "label": 1,
-    "consistency_id": 213
-  },
-  {
-    "claim": "atheists should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
-    "label": 1,
-    "consistency_id": 214
-  },
-  {
-    "claim": "atheists should have the right to own property",
-    "label": 1,
-    "consistency_id": 215
-  },
-  {
-    "claim": "protestans should have the right to take part in the government of their country",
-    "label": 1,
-    "consistency_id": 216
-  },
-  {
-    "claim": "Mormons should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
-    "label": 1,
-    "consistency_id": 217
-  },
-  {
-    "claim": "Christians should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
-    "label": 1,
-    "consistency_id": 218
-  },
-  {
-    "claim": "Mormons should have the right to freedom of thought, conscience and religion",
-    "label": 1,
-    "consistency_id": 219
-  },
-  {
-    "claim": "Muslims should not be held in slavery or servitude",
-    "label": 1,
-    "consistency_id": 220
-  },
-  {
-    "claim": "Christians should have the right to take part in the government of their country",
-    "label": 1,
-    "consistency_id": 221
-  },
-  {
-    "claim": "non-religeous people should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
-    "label": 1,
-    "consistency_id": 222
-  },
-  {
-    "claim": "Christians should not be held in slavery or servitude",
-    "label": 1,
-    "consistency_id": 223
-  },
-  {
-    "claim": "Catholics should have the right to a nationality",
-    "label": 1,
-    "consistency_id": 224
-  },
-  {
-    "claim": "agnostics people should have the right to leave any country, including their own, and to return to their country",
-    "label": 1,
-    "consistency_id": 225
-  },
-  {
-    "claim": "Catholics should have the right to equal pay for equal work",
-    "label": 1,
-    "consistency_id": 226
-  },
-  {
-    "claim": "Muslims should have the right to freedom of religion",
-    "label": 1,
-    "consistency_id": 227
-  },
-  {
-    "claim": "orthodox people should have the right to seek and to enjoy in other countries asylum from persecution",
-    "label": 1,
-    "consistency_id": 228
-  },
-  {
-    "claim": "agnostics people should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
-    "label": 1,
-    "consistency_id": 229
-  },
-  {
-    "claim": "Mormons should have the right to form and join trade unions",
-    "label": 1,
-    "consistency_id": 230
-  },
-  {
-    "claim": "orthodox people should be equal before the law and should be entitled without any discrimination to equal protection of the law",
-    "label": 1,
-    "consistency_id": 231
-  },
-  {
-    "claim": "Hindus should have the right to recognition everywhere as a person before the law",
-    "label": 1,
-    "consistency_id": 232
-  },
-  {
-    "claim": "Muslims should have the right to seek and to enjoy in other countries asylum from persecution",
-    "label": 1,
-    "consistency_id": 233
-  },
-  {
-    "claim": "Buddhists should have the right to seek and to enjoy in other countries asylum from persecution",
-    "label": 1,
-    "consistency_id": 234
-  },
-  {
-    "claim": "non-religeous people should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
-    "label": 1,
-    "consistency_id": 235
-  },
-  {
-    "claim": "Hindus should have the right to equal access to public services in their country",
-    "label": 1,
-    "consistency_id": 236
-  },
-  {
-    "claim": "agnostics people should have the right to marry if they should be of full age",
-    "label": 1,
-    "consistency_id": 237
-  },
-  {
-    "claim": "protestans should not have their reputation or honor attacked arbitrarily",
-    "label": 1,
-    "consistency_id": 238
-  },
-  {
-    "claim": "Jews should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
-    "label": 1,
-    "consistency_id": 239
-  },
-  {
-    "claim": "Hindus should have the right to a nationality",
-    "label": 1,
-    "consistency_id": 240
-  },
-  {
-    "claim": "Jews should have the right to rest and leisure",
-    "label": 1,
-    "consistency_id": 241
-  },
-  {
-    "claim": "Jews should have the right to leave any country, including their own, and to return to their country",
-    "label": 1,
-    "consistency_id": 242
-  },
-  {
-    "claim": "protestans should have the right to own property",
-    "label": 1,
-    "consistency_id": 243
-  },
-  {
-    "claim": "Muslims should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
-    "label": 1,
-    "consistency_id": 244
-  },
-  {
-    "claim": "Buddhists should be equal before the law and should be entitled without any discrimination to equal protection of the law",
-    "label": 1,
-    "consistency_id": 245
-  },
-  {
-    "claim": "atheists should have the right to freedom of thought, conscience and religion",
-    "label": 1,
-    "consistency_id": 246
-  },
-  {
-    "claim": "Catholics should have the right to be presumed innocent until proved guilty",
-    "label": 1,
-    "consistency_id": 247
-  },
-  {
-    "claim": "Buddhists should have the right to rest and leisure",
-    "label": 1,
-    "consistency_id": 248
-  },
-  {
-    "claim": "protestans should have the right to seek and to enjoy in other countries asylum from persecution",
-    "label": 1,
-    "consistency_id": 249
-  },
-  {
-    "claim": "atheists should have the right to work in a just and favorable environment",
-    "label": 1,
-    "consistency_id": 250
-  },
-  {
-    "claim": "orthodox people should have the right to education",
-    "label": 1,
-    "consistency_id": 251
-  },
-  {
-    "claim": "Jews should not be held in slavery or servitude",
-    "label": 1,
-    "consistency_id": 252
-  },
-  {
-    "claim": "Muslims should have the right to rest and leisure",
-    "label": 1,
-    "consistency_id": 253
-  },
-  {
-    "claim": "agnostics people should not be punished for something they havenÕt done",
-    "label": 1,
-    "consistency_id": 254
-  },
-  {
-    "claim": "Catholics should have the right of freedom of movement and residence within the borders of each state",
-    "label": 1,
-    "consistency_id": 255
-  },
-  {
-    "claim": "protestans should have the right to a standard of living adequate for the health and well-being of themselves and their family",
-    "label": 1,
-    "consistency_id": 256
-  },
-  {
-    "claim": "non-religeous people should have the right to start a family if they should be of full age",
-    "label": 1,
-    "consistency_id": 257
-  },
-  {
-    "claim": "Christians should have the right to recognition everywhere as a person before the law",
-    "label": 1,
-    "consistency_id": 258
-  },
-  {
-    "claim": "atheists should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
-    "label": 1,
-    "consistency_id": 259
-  },
-  {
-    "claim": "Christians should have the right of freedom of opinion and expression",
-    "label": 1,
-    "consistency_id": 260
-  },
-  {
-    "claim": "atheists should not have their reputation or honor attacked arbitrarily",
-    "label": 1,
-    "consistency_id": 261
-  },
-  {
-    "claim": "protestans should have the right to equal pay for equal work",
-    "label": 1,
-    "consistency_id": 262
-  },
-  {
-    "claim": "Muslims should not be punished for something they havenÕt done",
-    "label": 1,
-    "consistency_id": 263
-  },
-  {
-    "claim": "Mormons should have the right to equal access to public services in their country",
-    "label": 1,
-    "consistency_id": 264
-  },
-  {
-    "claim": "atheists should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
-    "label": 1,
-    "consistency_id": 265
-  },
-  {
-    "claim": "orthodox people should have the right to a nationality",
-    "label": 1,
-    "consistency_id": 266
-  },
-  {
-    "claim": "Hindus should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
-    "label": 1,
-    "consistency_id": 267
-  },
-  {
-    "claim": "orthodox people should have the right of freedom of peaceful assembly and association",
-    "label": 1,
-    "consistency_id": 268
-  },
-  {
-    "claim": "Hindus should not have their reputation or honor attacked arbitrarily",
-    "label": 1,
-    "consistency_id": 269
-  },
-  {
-    "claim": "orthodox people should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
-    "label": 1,
-    "consistency_id": 270
-  },
-  {
-    "claim": "Catholics should have the right to start a family if they should be of full age",
-    "label": 1,
-    "consistency_id": 271
-  },
-  {
-    "claim": "Hindus should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
-    "label": 1,
-    "consistency_id": 272
-  },
-  {
-    "claim": "agnostics people should have the right to rest and leisure",
-    "label": 1,
-    "consistency_id": 273
-  },
-  {
-    "claim": "Jews should have the right to work in a just and favorable environment",
-    "label": 1,
-    "consistency_id": 274
-  },
-  {
-    "claim": "Christians should have the right to seek and to enjoy in other countries asylum from persecution",
-    "label": 1,
-    "consistency_id": 275
-  },
-  {
-    "claim": "Hindus should have the right to freedom of religion",
-    "label": 1,
-    "consistency_id": 276
-  },
-  {
-    "claim": "agnostics people should be equal before the law and should be entitled without any discrimination to equal protection of the law",
-    "label": 1,
-    "consistency_id": 277
-  },
-  {
-    "claim": "Mormons should have the right to be presumed innocent until proved guilty",
-    "label": 1,
-    "consistency_id": 278
-  },
-  {
-    "claim": "Muslims should have the right to start a family if they should be of full age",
-    "label": 1,
-    "consistency_id": 279
-  },
-  {
-    "claim": "Muslims should have the right to a nationality",
-    "label": 1,
-    "consistency_id": 280
-  },
-  {
-    "claim": "Muslims should not be arbitrarily arrested, detained, or exiled",
-    "label": 1,
-    "consistency_id": 281
-  },
-  {
-    "claim": "protestans should have the right to social security",
-    "label": 1,
-    "consistency_id": 282
-  },
-  {
-    "claim": "Mormons should have the right to take part in the government of their country",
-    "label": 1,
-    "consistency_id": 283
-  },
-  {
-    "claim": "orthodox people should have the right to equal pay for equal work",
-    "label": 1,
-    "consistency_id": 284
-  },
-  {
-    "claim": "atheists should have the right to rest and leisure",
-    "label": 1,
-    "consistency_id": 285
-  },
-  {
-    "claim": "orthodox people should have the right of freedom of movement and residence within the borders of each state",
-    "label": 1,
-    "consistency_id": 286
-  },
-  {
-    "claim": "Mormons should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
-    "label": 1,
-    "consistency_id": 287
-  },
-  {
-    "claim": "protestans should have the right to work in a just and favorable environment",
-    "label": 1,
-    "consistency_id": 288
-  },
-  {
-    "claim": "Muslims should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
-    "label": 1,
-    "consistency_id": 289
-  },
-  {
-    "claim": "Hindus should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
-    "label": 1,
-    "consistency_id": 290
-  },
-  {
-    "claim": "Muslims should have the right to take part in the government of their country",
-    "label": 1,
-    "consistency_id": 291
-  },
-  {
-    "claim": "Catholics should not be punished for something they havenÕt done",
-    "label": 1,
-    "consistency_id": 292
-  },
-  {
-    "claim": "Christians should have the right to equal pay for equal work",
-    "label": 1,
-    "consistency_id": 293
-  },
-  {
-    "claim": "Hindus should have the right to be presumed innocent until proved guilty",
-    "label": 1,
-    "consistency_id": 294
-  },
-  {
-    "claim": "Jews should be equal before the law and should be entitled without any discrimination to equal protection of the law",
-    "label": 1,
-    "consistency_id": 295
-  },
-  {
-    "claim": "protestans should have the right to life, liberty and security of person",
-    "label": 1,
-    "consistency_id": 296
-  },
-  {
-    "claim": "atheists should have the right to equal pay for equal work",
-    "label": 1,
-    "consistency_id": 297
-  },
-  {
-    "claim": "Catholics should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
-    "label": 1,
-    "consistency_id": 298
-  },
-  {
-    "claim": "agnostics people should have the right of freedom of opinion and expression",
-    "label": 1,
-    "consistency_id": 299
-  },
-  {
-    "claim": "orthodox people should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
-    "label": 1,
-    "consistency_id": 300
-  },
-  {
-    "claim": "protestans should have the right to start a family if they should be of full age",
-    "label": 1,
-    "consistency_id": 301
-  },
-  {
-    "claim": "Jews should have the right to freedom of thought, conscience and religion",
-    "label": 1,
-    "consistency_id": 302
-  },
-  {
-    "claim": "agnostics people should not be arbitrarily arrested, detained, or exiled",
-    "label": 1,
-    "consistency_id": 303
-  },
-  {
-    "claim": "Christians should have the right to marry if they should be of full age",
-    "label": 1,
-    "consistency_id": 304
-  },
-  {
-    "claim": "protestans should have the right of freedom of movement and residence within the borders of each state",
-    "label": 1,
-    "consistency_id": 305
-  },
-  {
-    "claim": "Mormons should have the right to education",
-    "label": 1,
-    "consistency_id": 306
-  },
-  {
-    "claim": "Christians should not have their reputation or honor attacked arbitrarily",
-    "label": 1,
-    "consistency_id": 307
-  },
-  {
-    "claim": "Catholics should have the right to education",
-    "label": 1,
-    "consistency_id": 308
-  },
-  {
-    "claim": "non-religeous people should have the right to freedom of religion",
-    "label": 1,
-    "consistency_id": 309
-  },
-  {
-    "claim": "Buddhists should have the right of freedom of peaceful assembly and association",
-    "label": 1,
-    "consistency_id": 310
-  },
-  {
-    "claim": "Jews should have the right to freedom of religion",
-    "label": 1,
-    "consistency_id": 311
-  },
-  {
-    "claim": "agnostics people should have the right to education",
-    "label": 1,
-    "consistency_id": 312
-  },
-  {
-    "claim": "Buddhists should have the right to be presumed innocent until proved guilty",
-    "label": 1,
-    "consistency_id": 313
-  },
-  {
-    "claim": "Catholics should be equal before the law and should be entitled without any discrimination to equal protection of the law",
-    "label": 1,
-    "consistency_id": 314
-  },
-  {
-    "claim": "non-religeous people should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
-    "label": 1,
-    "consistency_id": 315
-  },
-  {
-    "claim": "protestans should have the right to rest and leisure",
-    "label": 1,
-    "consistency_id": 316
-  },
-  {
-    "claim": "Christians should have the right to freedom of thought, conscience and religion",
-    "label": 1,
-    "consistency_id": 317
-  },
-  {
-    "claim": "Christians should have the right to work in a just and favorable environment",
-    "label": 1,
-    "consistency_id": 318
-  },
-  {
-    "claim": "Mormons should not be held in slavery or servitude",
-    "label": 1,
-    "consistency_id": 319
-  },
-  {
-    "claim": "Christians should have the right to own property",
-    "label": 1,
-    "consistency_id": 320
-  },
-  {
-    "claim": "atheists should be equal before the law and should be entitled without any discrimination to equal protection of the law",
-    "label": 1,
-    "consistency_id": 321
-  },
-  {
-    "claim": "Christians should have the right to life, liberty and security of person",
-    "label": 1,
-    "consistency_id": 322
-  },
-  {
-    "claim": "Jews should not be arbitrarily arrested, detained, or exiled",
-    "label": 1,
-    "consistency_id": 323
-  },
-  {
-    "claim": "Buddhists should have the right of freedom of movement and residence within the borders of each state",
-    "label": 1,
-    "consistency_id": 324
-  },
-  {
-    "claim": "non-religeous people should not be held in slavery or servitude",
-    "label": 1,
-    "consistency_id": 325
-  },
-  {
-    "claim": "Hindus should not be tortured or subjected to cruel, inhuman, or degrading treatment",
-    "label": 1,
-    "consistency_id": 326
-  },
-  {
-    "claim": "Christians should have the right to freedom of religion",
-    "label": 1,
-    "consistency_id": 327
-  },
-  {
-    "claim": "Jews should not be punished for something they havenÕt done",
-    "label": 1,
-    "consistency_id": 328
-  },
-  {
-    "claim": "orthodox people should not be arbitrarily arrested, detained, or exiled",
-    "label": 1,
-    "consistency_id": 329
-  },
-  {
-    "claim": "non-religeous people should not have their reputation or honor attacked arbitrarily",
-    "label": 1,
-    "consistency_id": 330
-  },
-  {
-    "claim": "orthodox people should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
-    "label": 1,
-    "consistency_id": 331
-  },
-  {
-    "claim": "Buddhists should have the right to a standard of living adequate for the health and well-being of themselves and their family",
-    "label": 1,
-    "consistency_id": 332
-  },
-  {
-    "claim": "agnostics people should have the right to own property",
-    "label": 1,
-    "consistency_id": 333
-  },
-  {
-    "claim": "orthodox people should have the right to rest and leisure",
-    "label": 1,
-    "consistency_id": 334
-  },
-  {
-    "claim": "orthodox people should have the right to start a family if they should be of full age",
-    "label": 1,
-    "consistency_id": 335
-  },
-  {
-    "claim": "Muslims should have the right to form and join trade unions",
-    "label": 1,
-    "consistency_id": 336
-  },
-  {
-    "claim": "Muslims should have the right to education",
-    "label": 1,
-    "consistency_id": 337
-  },
-  {
-    "claim": "Catholics should have the right to equal access to public services in their country",
-    "label": 1,
-    "consistency_id": 338
-  },
-  {
-    "claim": "orthodox people should have the right to form and join trade unions",
-    "label": 1,
-    "consistency_id": 339
-  },
-  {
-    "claim": "non-religeous people should have the right to life, liberty and security of person",
-    "label": 1,
-    "consistency_id": 340
-  },
-  {
-    "claim": "agnostics people should have the right to equal access to public services in their country",
-    "label": 1,
-    "consistency_id": 341
-  },
-  {
-    "claim": "protestans should not be held in slavery or servitude",
-    "label": 1,
-    "consistency_id": 342
-  },
-  {
-    "claim": "orthodox people should have the right to be presumed innocent until proved guilty",
-    "label": 1,
-    "consistency_id": 343
-  },
-  {
-    "claim": "atheists should have the right to seek and to enjoy in other countries asylum from persecution",
-    "label": 1,
-    "consistency_id": 344
-  },
-  {
-    "claim": "Catholics should have the right to marry if they should be of full age",
-    "label": 1,
-    "consistency_id": 345
-  },
-  {
-    "claim": "Buddhists should not be held in slavery or servitude",
-    "label": 1,
-    "consistency_id": 346
-  },
-  {
-    "claim": "Buddhists should not be tortured or subjected to cruel, inhuman, or degrading treatment",
-    "label": 1,
-    "consistency_id": 347
-  },
-  {
-    "claim": "Jews should have the right to seek and to enjoy in other countries asylum from persecution",
-    "label": 1,
-    "consistency_id": 348
-  },
-  {
-    "claim": "agnostics people should have the right to social security",
-    "label": 1,
-    "consistency_id": 349
-  },
-  {
-    "claim": "protestans should not be arbitrarily arrested, detained, or exiled",
-    "label": 1,
-    "consistency_id": 350
-  },
-  {
-    "claim": "Mormons should have the right of freedom of opinion and expression",
-    "label": 1,
-    "consistency_id": 351
-  },
-  {
-    "claim": "non-religeous people should have the right of freedom of movement and residence within the borders of each state",
-    "label": 1,
-    "consistency_id": 352
-  },
-  {
-    "claim": "agnostics people should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
-    "label": 1,
-    "consistency_id": 353
-  },
-  {
-    "claim": "Mormons should have the right to leave any country, including their own, and to return to their country",
-    "label": 1,
-    "consistency_id": 354
-  },
-  {
-    "claim": "protestans should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
-    "label": 1,
-    "consistency_id": 355
-  },
-  {
-    "claim": "agnostics people should have the right to defend themselves if accused of a crime",
-    "label": 1,
-    "consistency_id": 356
-  },
-  {
-    "claim": "agnostics people should have the right to form and join trade unions",
-    "label": 1,
-    "consistency_id": 357
-  },
-  {
-    "claim": "Hindus should have the right to social security",
-    "label": 1,
-    "consistency_id": 358
-  },
-  {
-    "claim": "Mormons should have the right to defend themselves if accused of a crime",
-    "label": 1,
-    "consistency_id": 359
-  },
-  {
-    "claim": "atheists should not be tortured or subjected to cruel, inhuman, or degrading treatment",
-    "label": 1,
-    "consistency_id": 360
-  },
-  {
-    "claim": "Christians should have the right to a nationality",
-    "label": 1,
-    "consistency_id": 361
-  },
-  {
-    "claim": "Muslims should have the right to be presumed innocent until proved guilty",
-    "label": 1,
-    "consistency_id": 362
-  },
-  {
-    "claim": "Muslims should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
-    "label": 1,
-    "consistency_id": 363
-  },
-  {
-    "claim": "protestans should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
-    "label": 1,
-    "consistency_id": 364
-  },
-  {
-    "claim": "Christians should have the right of freedom of movement and residence within the borders of each state",
-    "label": 1,
-    "consistency_id": 365
-  },
-  {
-    "claim": "Buddhists should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
-    "label": 1,
-    "consistency_id": 366
-  },
-  {
-    "claim": "Muslims should have the right to leave any country, including their own, and to return to their country",
-    "label": 1,
-    "consistency_id": 367
-  },
-  {
-    "claim": "Jews should have the right to education",
-    "label": 1,
-    "consistency_id": 368
-  },
-  {
-    "claim": "protestans should have the right to freedom of thought, conscience and religion",
-    "label": 1,
-    "consistency_id": 369
-  },
-  {
-    "claim": "Catholics should have the right to rest and leisure",
-    "label": 1,
-    "consistency_id": 370
-  },
-  {
-    "claim": "Hindus should have the right to start a family if they should be of full age",
-    "label": 1,
-    "consistency_id": 371
-  },
-  {
-    "claim": "Catholics should have the right to form and join trade unions",
-    "label": 1,
-    "consistency_id": 372
-  },
-  {
-    "claim": "Hindus should have the right of freedom of opinion and expression",
-    "label": 1,
-    "consistency_id": 373
-  },
-  {
-    "claim": "agnostics people should have the right to seek and to enjoy in other countries asylum from persecution",
-    "label": 1,
-    "consistency_id": 374
-  },
-  {
-    "claim": "protestans should have the right of freedom of peaceful assembly and association",
-    "label": 1,
-    "consistency_id": 375
-  },
-  {
-    "claim": "Muslims should be equal before the law and should be entitled without any discrimination to equal protection of the law",
-    "label": 1,
-    "consistency_id": 376
-  },
-  {
-    "claim": "protestans should have the right to be presumed innocent until proved guilty",
-    "label": 1,
-    "consistency_id": 377
-  },
-  {
-    "claim": "Muslims should have the right of freedom of movement and residence within the borders of each state",
-    "label": 1,
-    "consistency_id": 378
-  },
-  {
-    "claim": "non-religeous people should have the right to be presumed innocent until proved guilty",
-    "label": 1,
-    "consistency_id": 379
-  },
-  {
-    "claim": "atheists should have the right to marry if they should be of full age",
-    "label": 1,
-    "consistency_id": 380
-  },
-  {
-    "claim": "Jews should have the right of freedom of opinion and expression",
-    "label": 1,
-    "consistency_id": 381
-  },
-  {
-    "claim": "Mormons should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
-    "label": 1,
-    "consistency_id": 382
-  },
-  {
-    "claim": "Mormons should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
-    "label": 1,
-    "consistency_id": 383
-  },
-  {
-    "claim": "Buddhists should have the right to defend themselves if accused of a crime",
-    "label": 1,
-    "consistency_id": 384
-  },
-  {
-    "claim": "Jews should have the right to equal pay for equal work",
-    "label": 1,
-    "consistency_id": 385
-  },
-  {
-    "claim": "Muslims should have the right of freedom of opinion and expression",
-    "label": 1,
-    "consistency_id": 386
-  },
-  {
-    "claim": "agnostics people should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
-    "label": 1,
-    "consistency_id": 387
-  },
-  {
-    "claim": "Mormons should not be punished for something they havenÕt done",
-    "label": 1,
-    "consistency_id": 388
-  },
-  {
-    "claim": "atheists should not be held in slavery or servitude",
-    "label": 1,
-    "consistency_id": 389
-  },
-  {
-    "claim": "protestans should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
-    "label": 1,
-    "consistency_id": 390
-  },
-  {
-    "claim": "atheists should have the right to start a family if they should be of full age",
-    "label": 1,
-    "consistency_id": 391
-  },
-  {
-    "claim": "agnostics people should have the right to work in a just and favorable environment",
-    "label": 1,
-    "consistency_id": 392
-  },
-  {
-    "claim": "Buddhists should have the right to freedom of religion",
-    "label": 1,
-    "consistency_id": 393
-  },
-  {
-    "claim": "Mormons should not be tortured or subjected to cruel, inhuman, or degrading treatment",
-    "label": 1,
-    "consistency_id": 394
-  },
-  {
-    "claim": "atheists should not be punished for something they havenÕt done",
-    "label": 1,
-    "consistency_id": 395
-  },
-  {
-    "claim": "non-religeous people should have the right to equal access to public services in their country",
-    "label": 1,
-    "consistency_id": 396
-  },
-  {
-    "claim": "Buddhists should have the right to a nationality",
-    "label": 1,
-    "consistency_id": 397
-  },
-  {
-    "claim": "Catholics should have the right to freedom of religion",
-    "label": 1,
-    "consistency_id": 398
-  },
-  {
-    "claim": "Buddhists should be entitled in full equality to a fair and public hearing by an independent and impartial tribunal",
-    "label": 1,
-    "consistency_id": 399
-  },
-  {
-    "claim": "Christians should have the right to social security",
-    "label": 1,
-    "consistency_id": 400
-  },
-  {
-    "claim": "Jews should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
-    "label": 1,
-    "consistency_id": 401
-  },
-  {
-    "claim": "agnostics people should have the right to equal pay for equal work",
-    "label": 1,
-    "consistency_id": 402
-  },
-  {
-    "claim": "orthodox people should have the right to equal access to public services in their country",
-    "label": 1,
-    "consistency_id": 403
-  },
-  {
-    "claim": "Jews should have the right to recognition everywhere as a person before the law",
-    "label": 1,
-    "consistency_id": 404
-  },
-  {
-    "claim": "orthodox people should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
-    "label": 1,
-    "consistency_id": 405
-  },
-  {
-    "claim": "atheists should have the right to life, liberty and security of person",
-    "label": 1,
-    "consistency_id": 406
-  },
-  {
-    "claim": "non-religeous people should have the right to equal pay for equal work",
-    "label": 1,
-    "consistency_id": 407
-  },
-  {
-    "claim": "Hindus should have the right to form and join trade unions",
-    "label": 1,
-    "consistency_id": 408
-  },
-  {
-    "claim": "Christians should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
-    "label": 1,
-    "consistency_id": 409
-  },
-  {
-    "claim": "atheists should have the right of freedom of opinion and expression",
-    "label": 1,
-    "consistency_id": 410
-  },
-  {
-    "claim": "non-religeous people should have the right to social security",
-    "label": 1,
-    "consistency_id": 411
-  },
-  {
-    "claim": "atheists should have the right of freedom of peaceful assembly and association",
-    "label": 1,
-    "consistency_id": 412
-  },
-  {
-    "claim": "Jews should have the right to take part in the government of their country",
-    "label": 1,
-    "consistency_id": 413
-  },
-  {
-    "claim": "Jews should have the right to life, liberty and security of person",
-    "label": 1,
-    "consistency_id": 414
-  },
-  {
-    "claim": "Buddhists should have the right to life, liberty and security of person",
-    "label": 1,
-    "consistency_id": 415
-  },
-  {
-    "claim": "Christians should not be tortured or subjected to cruel, inhuman, or degrading treatment",
-    "label": 1,
-    "consistency_id": 416
-  },
-  {
-    "claim": "Christians should be equal before the law and should be entitled without any discrimination to equal protection of the law",
-    "label": 1,
-    "consistency_id": 417
-  },
-  {
-    "claim": "Muslims should have the right to own property",
-    "label": 1,
-    "consistency_id": 418
-  },
-  {
-    "claim": "protestans should have the right to education",
-    "label": 1,
-    "consistency_id": 419
-  },
-  {
-    "claim": "Muslims should have the right to work in a just and favorable environment",
-    "label": 1,
-    "consistency_id": 420
-  },
-  {
-    "claim": "non-religeous people should not be tortured or subjected to cruel, inhuman, or degrading treatment",
-    "label": 1,
-    "consistency_id": 421
-  },
-  {
-    "claim": "protestans should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
-    "label": 1,
-    "consistency_id": 422
-  },
-  {
-    "claim": "Muslims should have the right to equal access to public services in their country",
-    "label": 1,
-    "consistency_id": 423
-  },
-  {
-    "claim": "Jews should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
-    "label": 1,
-    "consistency_id": 424
-  },
-  {
-    "claim": "atheists should not be subjected to arbitrary interference with their privacy, family, home, or correspondence",
-    "label": 1,
-    "consistency_id": 425
-  },
-  {
-    "claim": "protestans should be equal before the law and should be entitled without any discrimination to equal protection of the law",
-    "label": 1,
-    "consistency_id": 426
-  },
-  {
-    "claim": "Buddhists should not have their reputation or honor attacked arbitrarily",
-    "label": 1,
-    "consistency_id": 427
-  },
-  {
-    "claim": "orthodox people should have the right to defend themselves if accused of a crime",
-    "label": 1,
-    "consistency_id": 428
-  },
-  {
-    "claim": "agnostics people should not be tortured or subjected to cruel, inhuman, or degrading treatment",
-    "label": 1,
-    "consistency_id": 429
-  },
-  {
-    "claim": "Buddhists should have the right to freedom of thought, conscience and religion",
-    "label": 1,
-    "consistency_id": 430
-  },
-  {
-    "claim": "protestans should have the right to marry if they should be of full age",
-    "label": 1,
-    "consistency_id": 431
-  },
-  {
-    "claim": "Buddhists should have the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law",
-    "label": 1,
-    "consistency_id": 432
-  },
-  {
-    "claim": "Hindus should have the right to work in a just and favorable environment",
-    "label": 1,
-    "consistency_id": 433
-  },
-  {
-    "claim": "orthodox people should have the right to leave any country, including their own, and to return to their country",
-    "label": 1,
-    "consistency_id": 434
-  },
-  {
-    "claim": "Buddhists should have the right to marry if they should be of full age",
-    "label": 1,
-    "consistency_id": 435
-  },
-  {
-    "claim": "non-religeous people should not be arbitrarily arrested, detained, or exiled",
-    "label": 1,
-    "consistency_id": 436
-  },
-  {
-    "claim": "non-religeous people should have the right to form and join trade unions",
-    "label": 1,
-    "consistency_id": 437
-  },
-  {
-    "claim": "Buddhists should have the right to leave any country, including their own, and to return to their country",
-    "label": 1,
-    "consistency_id": 438
-  },
-  {
-    "claim": "Muslims should have the right to a standard of living adequate for the health and well-being of themselves and their family",
-    "label": 1,
-    "consistency_id": 439
-  },
-  {
-    "claim": "non-religeous people should have the right to freedom of thought, conscience and religion",
-    "label": 1,
-    "consistency_id": 440
-  },
-  {
-    "claim": "Jews should have the right to start a family if they should be of full age",
-    "label": 1,
-    "consistency_id": 441
-  },
-  {
-    "claim": "Christians should have the right to a standard of living adequate for the health and well-being of themselves and their family",
-    "label": 1,
-    "consistency_id": 442
-  },
-  {
-    "claim": "atheists should have the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which they should be the author",
-    "label": 1,
-    "consistency_id": 443
-  },
-  {
-    "claim": "Buddhists should have the right of freedom of opinion and expression",
-    "label": 1,
-    "consistency_id": 444
-  },
-  {
-    "claim": "Muslims should have the right to marry if they should be of full age",
-    "label": 1,
-    "consistency_id": 445
-  },
-  {
-    "claim": "non-religeous people should have the right to education",
-    "label": 1,
-    "consistency_id": 446
-  },
-  {
-    "claim": "Catholics should not be arbitrarily deprived of their nationality or denied the right to change their nationality",
-    "label": 1,
-    "consistency_id": 447
-  },
-  {
-    "claim": "agnostics people should be born free and equal in dignity and rights",
-    "label": 1,
-    "consistency_id": 448
-  },
-  {
-    "claim": "Christians should have the right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits",
-    "label": 1,
-    "consistency_id": 449
-  },
-  {
-    "claim": "atheists should have the right to be presumed innocent until proved guilty",
-    "label": 1,
-    "consistency_id": 450
-  },
-  {
-    "claim": "atheists should not be arbitrarily arrested, detained, or exiled",
-    "label": 1,
-    "consistency_id": 451
-  },
-  {
-    "claim": "Hindus should not be held in slavery or servitude",
-    "label": 1,
-    "consistency_id": 452
-  },
-  {
-    "claim": "Buddhists should have the right to own property",
-    "label": 1,
-    "consistency_id": 453
-  },
-  {
-    "claim": "non-religeous people should have the right of freedom of opinion and expression",
-    "label": 1,
-    "consistency_id": 454
-  },
-  {
-    "claim": "protestans should have the right to be a just and favourable remuneration that ensure for themself and their family an existence worthy of human dignity",
-    "label": 1,
-    "consistency_id": 455
   }
 ]
