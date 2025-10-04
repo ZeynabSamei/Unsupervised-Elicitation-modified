@@ -126,7 +126,7 @@ def main(args):
 def get_args():
     parser = argparse.ArgumentParser()
     parser.add_argument("--seed", type=int, default=42)
-    parser.add_argument("--model", type=str, default="meta-llama/Llama-3.1-8B")
+    parser.add_argument("--model", type=str, default="meta-llama/Llama-3.1-8B-Instruct")
     return parser.parse_args()
 
 
