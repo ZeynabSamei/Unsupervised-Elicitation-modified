@@ -16,7 +16,7 @@ def load_data(args):
     """
     Load moral_dataset and prepare prompts.
     """
-    data_path = get_root_directory() / "data/train_moral_dataset.json"
+    data_path = get_root_directory() / "data/train_hr_dataset.json"
     with open(data_path) as f:
         train = json.load(f)
 
@@ -58,7 +58,7 @@ def load_data(args):
     print(system_prompt)  # Just to check it's loaded
     
     for i in train:
-        i['source'] = 'moral_dataset'
+        i['source'] = 'hr_dataset'
         i['system_prompt'] = system_prompt
         i['user_prompt'] = i['claim']
 
@@ -117,15 +117,6 @@ def predict_label(client, model, example):
         print("⚠️ Unexpected model output:", score)
         return -1
 
-    
-    
-    # if ["1", "true", "yes" , "correct" , "reasonable" , "acceptable", "valid" , ": 1"] in score:
-    #     return 1
-    # elif ["0", "false", "no" , "wrong", "unreasonable" , "unacceptable", "invalid" , ": 0"] in score:
-    #     return 0
-    # else:
-    #     print("⚠️ Unexpected model output:", score)
-    #     return -1
 
 
 def calculate_accuracy(demonstrations):
@@ -157,7 +148,7 @@ def main(args):
     print("Final accuracy:", calculate_accuracy(demonstrations))
 
     # Save results
-    save_path = "/home/maliza/scratch/results/moral_dataset_results.json"
+    save_path = "/home/maliza/scratch/results/hr_dataset_results.json"
     os.makedirs(os.path.dirname(save_path), exist_ok=True)
     with open(save_path, "w") as f:
         json.dump(demonstrations, f, indent=2)
