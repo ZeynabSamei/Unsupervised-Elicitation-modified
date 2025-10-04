@@ -12,7 +12,7 @@ from openai import OpenAI
 # Helper functions
 # ----------------------------
 
-def load_data(dataset_name, args):
+def load_data(dataset_name):
     """
     Load dataset and prepare prompts.
     """
@@ -36,22 +36,20 @@ def load_data(dataset_name, args):
         i['system_prompt'] = system_prompt
         i['user_prompt'] = i['claim']
 
-    fewshot_ids = random.sample(range(len(train)), args.batch_size)
-    return train, fewshot_ids
+    return train
 
 
-def initialize(train, fewshot_ids, args):
+def initialize(train):
     """
-    Initialize demonstration dict — no seed examples.
+    Initialize demonstration dict.
     """
     demonstrations = {}
-    for id, i in enumerate(fewshot_ids):
-        item = train[i]
+    for uid, item in enumerate(train):
         item["vanilla_label"] = item["label"]
-        item["uid"] = id
+        item["uid"] = uid
         item["label"] = None
         item["type"] = "predict"
-        demonstrations[id] = item
+        demonstrations[uid] = item
     return demonstrations
 
 
@@ -85,17 +83,15 @@ def calculate_accuracy(demonstrations):
     return np.mean([l == vl for l, vl in zip(labels, vanilla_labels)])
 
 
-def run_for_dataset(dataset_name, save_name, args, client):
+def run_for_dataset(dataset_name, save_name, client, model):
     print(f"\n🔹 Running for dataset: {dataset_name}")
-    train, fewshot_ids = load_data(dataset_name, args)
-    demonstrations = initialize(train, fewshot_ids, args)
+    train = load_data(dataset_name)
+    demonstrations = initialize(train)
 
-    k = 0
-    for uid, example in demonstrations.items():
+    for k, example in enumerate(demonstrations.values()):
         if k % 100 == 0:
             print(f"  Processing {k}/{len(demonstrations)} ...")
-        k += 1
-        example["label"] = predict_label(client, args.model, example)
+        example["label"] = predict_label(client, model, example)
     
     acc = calculate_accuracy(demonstrations)
     print(f"✅ {dataset_name} | Final accuracy: {acc:.3f}")
@@ -123,14 +119,12 @@ def main(args):
 
     for c in categories:
         print(c)
-        run_for_dataset(f"hr_dataset_{c}", f"hr_results_{c}", args, client)
-        run_for_dataset(f"current_hr_dataset_{c}", f"curr_hr_results_{c}", args, client)
+        run_for_dataset(f"hr_dataset_{c}", f"hr_results_{c}", client, args.model)
+        run_for_dataset(f"current_hr_dataset_{c}", f"curr_hr_results_{c}", client, args.model)
 
 
 def get_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--batch_size", type=int, default=200)
-    parser.add_argument("--num_seed", type=int, default=0)
     parser.add_argument("--seed", type=int, default=42)
     parser.add_argument("--model", type=str, default="meta-llama/Llama-3.1-8B")
     return parser.parse_args()
