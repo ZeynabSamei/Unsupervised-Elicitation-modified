@@ -92,7 +92,7 @@ def run_for_dataset(dataset_name, save_name, args, client):
 
     k = 0
     for uid, example in demonstrations.items():
-        if k % 50 == 0:
+        if k % 100 == 0:
             print(f"  Processing {k}/{len(demonstrations)} ...")
         k += 1
         example["label"] = predict_label(client, args.model, example)
