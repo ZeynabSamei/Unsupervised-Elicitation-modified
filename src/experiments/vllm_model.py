@@ -142,7 +142,7 @@ def main(args):
     # Predict labels for all examples without seeds
     k=0
     for uid, example in demonstrations.items():
-        if k%100==0:
+        if k%50==0:
             print(k)
         k=k+1
         if example["label"] is None:
