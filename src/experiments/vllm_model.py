@@ -70,25 +70,51 @@ def load_data(args):
 def initialize(train, fewshot_ids, args):
     """
     Initialize demonstration dict and seed labels.
+    No random initialization — seeds keep their true (vanilla) labels.
     """
     demonstrations = {}
-
-    random_init_labels = [1] * (args.num_seed // 2) + [0] * (args.num_seed // 2) 
-    random.shuffle(random_init_labels)
 
     for id, i in enumerate(fewshot_ids):
         item = train[i]
         item["vanilla_label"] = item["label"]
         item["uid"] = id
         if id >= args.num_seed:
+            # Predict later
             item["label"] = None
             item["type"] = "predict"
         else:
-            item["label"] = random_init_labels[id]
+            # Use true label instead of random
+            item["label"] = item["vanilla_label"]
             item["type"] = "seed"
         demonstrations[id] = item
 
     return demonstrations
+
+
+
+
+# def initialize(train, fewshot_ids, args):
+#     """
+#     Initialize demonstration dict and seed labels.
+#     """
+#     demonstrations = {}
+
+#     random_init_labels = [1] * (args.num_seed // 2) + [0] * (args.num_seed // 2) 
+#     random.shuffle(random_init_labels)
+
+#     for id, i in enumerate(fewshot_ids):
+#         item = train[i]
+#         item["vanilla_label"] = item["label"]
+#         item["uid"] = id
+#         if id >= args.num_seed:
+#             item["label"] = None
+#             item["type"] = "predict"
+#         else:
+#             item["label"] = random_init_labels[id]
+#             item["type"] = "seed"
+#         demonstrations[id] = item
+
+#     return demonstrations
 
 def predict_label(client, model, example):
     # full_prompt = f"{example['system_prompt']}\n"+"Claim: "+"{example['user_prompt']}" +"Answer:"
@@ -120,9 +146,22 @@ def predict_label(client, model, example):
 
 
 def calculate_accuracy(demonstrations):
+    """
+    Compute accuracy between predicted and vanilla labels.
+    (All examples are predicted — no seeds.)
+    """
     labels = [v["label"] for v in demonstrations.values() if v["label"] is not None]
     vanilla_labels = [v["vanilla_label"] for v in demonstrations.values() if v["label"] is not None]
+    if not labels:
+        return 0.0
     return np.mean([l == vl for l, vl in zip(labels, vanilla_labels)])
+
+
+
+# def calculate_accuracy(demonstrations):
+#     labels = [v["label"] for v in demonstrations.values() if v["label"] is not None]
+#     vanilla_labels = [v["vanilla_label"] for v in demonstrations.values() if v["label"] is not None]
+#     return np.mean([l == vl for l, vl in zip(labels, vanilla_labels)])
 
 
 # ----------------------------
@@ -136,8 +175,14 @@ def main(args):
     # OpenAI/vLLM client (pointing to local vLLM server)
     client = OpenAI(api_key="EMPTY", base_url="http://127.0.0.1:8000/v1")
 
-    print("Initial label distribution:", Counter([v['label'] for v in demonstrations.values() if v['label'] is not None]))
-    print("Initial accuracy:", calculate_accuracy(demonstrations))
+
+
+    # print("Initial label distribution:", Counter([v['label'] for v in demonstrations.values() if v['label'] is not None]))
+    # print("Initial accuracy (on seeds only):", calculate_accuracy(demonstrations, include_seeds=True))
+
+
+    # print("Initial label distribution:", Counter([v['label'] for v in demonstrations.values() if v['label'] is not None]))
+    # print("Initial accuracy:", calculate_accuracy(demonstrations))
 
     # Predict labels for all examples without seeds
     k=0
@@ -148,8 +193,14 @@ def main(args):
         if example["label"] is None:
             example["label"] = predict_label(client, args.model, example)
 
+    # print("Final label distribution:", Counter([v['label'] for v in demonstrations.values()]))
+    # print("Final accuracy:", calculate_accuracy(demonstrations))
+    
+    # After predictions
     print("Final label distribution:", Counter([v['label'] for v in demonstrations.values()]))
-    print("Final accuracy:", calculate_accuracy(demonstrations))
+    print("Final accuracy (predicted items only):", calculate_accuracy(demonstrations))
+
+
 
     # Save results
     save_path = "/home/maliza/scratch/results/hr_dataset_results.json"
