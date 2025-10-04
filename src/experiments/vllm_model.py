@@ -52,8 +52,8 @@ def load_data(args):
 
     
     # system_prompt=system_prompt+"\n"+system_prompt1
-    system_prompt=system_prompt1+ "Now do you think the claim is morally True (1) or False (0)?"
-    # system_prompt=system_prompt1+" Examples:"+fewshot_text+ "Now do you think the claim is morally True (1) or False (0)?"
+    # system_prompt=system_prompt1+ "Now do you think the claim is morally True (1) or False (0)?"
+    system_prompt=system_prompt1+" Examples:"+fewshot_text+ "Now do you think the claim is morally True (1) or False (0)?"
     
     # print(system_prompt)  # Just to check it's loaded
     
