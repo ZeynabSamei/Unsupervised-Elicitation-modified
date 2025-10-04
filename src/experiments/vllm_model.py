@@ -140,7 +140,11 @@ def main(args):
     print("Initial accuracy:", calculate_accuracy(demonstrations))
 
     # Predict labels for all examples without seeds
+    k=0
     for uid, example in demonstrations.items():
+        if k%100==0:
+            print(k)
+        k=k+1
         if example["label"] is None:
             example["label"] = predict_label(client, args.model, example)
 
