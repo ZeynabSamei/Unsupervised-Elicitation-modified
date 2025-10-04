@@ -29,7 +29,8 @@ def load_data(dataset_name):
     with open(prompt_path, "r", encoding="utf-8") as f:
         system_prompt = f.read().strip()
     
-    system_prompt = system_prompt + "\n" + system_prompt1 + " Now do you think the claim is morally True (1) or False (0)?"
+    # system_prompt = system_prompt + "\n" + system_prompt1 + " Now do you think the claim is morally True (1) or False (0)?"
+    system_prompt = system_prompt1 + " Now do you think the claim is morally True (1) or False (0)?"
 
     for i in train:
         i['source'] = dataset_name
