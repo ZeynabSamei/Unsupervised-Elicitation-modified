@@ -412,8 +412,8 @@ I think this claim is **** """
             args.GROUP_SIZE = 3
 
     
-  elif args.testbed == 'util_dataset':
-        with open(get_root_directory() / "data/train_util_dataset.json") as f:
+    elif args.testbed == 'util_dataset':
+          with open(get_root_directory() / "data/train_util_dataset.json") as f:
             train = json.load(f)
         template = """Question: {Question}
 Statement 1: {Statement1}
