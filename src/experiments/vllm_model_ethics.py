@@ -106,7 +106,10 @@ def predict_label(client, model, example):
     )
     score = response.choices[0].text.strip().lower()
     print('example is:', example['user_prompt'])
+    print('*****************************')
     print('score is:', score)
+    print('*****************************')
+    
     
     positive = ["1", "true", "yes", "correct", "reasonable", "acceptable", "valid", ": 1"]
     negative = ["0", "false", "no", "wrong", "unreasonable", "unacceptable", "invalid", ": 0"]
