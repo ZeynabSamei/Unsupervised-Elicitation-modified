@@ -105,10 +105,10 @@ def predict_label(client, model, example):
         temperature=0, n=1
     )
     score = response.choices[0].text.strip().lower()
-    print('example is:', example['user_prompt'])
-    print('*****************************')
-    print('score is:', score)
-    print('*****************************')
+    # print('example is:', example['user_prompt'])
+    # print('*****************************')
+    # print('score is:', score)
+    # print('*****************************')
     
     
     positive = ["1", "true", "yes", "correct", "reasonable", "acceptable", "valid", ": 1"]
