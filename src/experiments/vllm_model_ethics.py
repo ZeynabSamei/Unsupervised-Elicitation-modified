@@ -111,17 +111,13 @@ def run_for_dataset(dataset_name, save_name, client, model):
 
 def main(args):
     categories = [
-        "Appearance", "Continent", "Country", "Disability", "Gender",
-        "Nationality", "Personality", "Politics", "Race_Ethnicity",
-        "Religion", "Sexual", "Socioeconomic"
-    ]
+        "commonsense", "dentology", "justice", "util"]
 
     client = OpenAI(api_key="EMPTY", base_url="http://127.0.0.1:8000/v1")
 
     for c in categories:
         print(c)
-        # run_for_dataset(f"hr_dataset_{c}", f"post_hr_results_{c}", client, args.model)
-        run_for_dataset(f"current_hr_dataset_{c}", f"curr_hr_results_{c}", client, args.model)
+        run_for_dataset(f"train_{c}_dataset", f"results_{c}", client, args.model)
 
 
 def get_args():
