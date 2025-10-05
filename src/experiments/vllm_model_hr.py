@@ -29,8 +29,8 @@ def load_data(dataset_name):
     with open(prompt_path, "r", encoding="utf-8") as f:
         system_prompt = f.read().strip()
     
-    # system_prompt = system_prompt + "\n" + system_prompt1 + " Now do you think the claim is morally True (1) or False (0)?"
-    system_prompt = system_prompt1 + " Now do you think the claim is morally True (1) or False (0)?"
+    system_prompt = system_prompt + "\n" + system_prompt1 + " Now do you think the claim is morally True (1) or False (0)?"
+    # system_prompt = system_prompt1 + " Now do you think the claim is morally True (1) or False (0)?"
 
     for i in train:
         i['source'] = dataset_name
@@ -110,13 +110,8 @@ def run_for_dataset(dataset_name, save_name, client, model):
 # ----------------------------
 
 def main(args):
-    # categories = [
-    #     "Appearance", "Continent", "Country", "Disability", "Gender",
-    #     "Nationality", "Personality", "Politics", "Race_Ethnicity",
-    #     "Religion", "Sexual", "Socioeconomic"
-    # ]
     categories = [
-        "Disability", "Gender",
+        "Appearance", "Continent", "Country", "Disability", "Gender",
         "Nationality", "Personality", "Politics", "Race_Ethnicity",
         "Religion", "Sexual", "Socioeconomic"
     ]
@@ -125,8 +120,8 @@ def main(args):
 
     for c in categories:
         print(c)
-        run_for_dataset(f"hr_dataset_{c}", f"post_hr_results_{c}", client, args.model)
-        run_for_dataset(f"current_hr_dataset_{c}", f"curr_post_hr_results_{c}", client, args.model)
+        # run_for_dataset(f"hr_dataset_{c}", f"post_hr_results_{c}", client, args.model)
+        run_for_dataset(f"current_hr_dataset_{c}", f"curr_hr_results_{c}", client, args.model)
 
 
 def get_args():
