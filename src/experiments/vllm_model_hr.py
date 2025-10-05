@@ -110,9 +110,14 @@ def run_for_dataset(dataset_name, save_name, client, model):
 # ----------------------------
 
 def main(args):
+    # categories = [
+    #     "Appearance", "Continent", "Country", "Disability", "Gender",
+    #     "Nationality", "Personality", "Politics", "Race_Ethnicity",
+    #     "Religion", "Sexual", "Socioeconomic"
+    # ]
+
     categories = [
-        "Appearance", "Continent", "Country", "Disability", "Gender",
-        "Nationality", "Personality", "Politics", "Race_Ethnicity",
+        "Disability", "Gender", "Nationality", "Personality", "Politics", "Race_Ethnicity",
         "Religion", "Sexual", "Socioeconomic"
     ]
 
