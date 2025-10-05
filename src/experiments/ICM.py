@@ -357,31 +357,45 @@ I think this claim is **** """
             i['prompt'] = template.format(claim=i['claim'])
         args.GROUP_SIZE = 1
 
-
     elif args.testbed == "hr_dataset":
         with open(get_root_directory() / "data/train_hr_dataset.json") as f:
-                 train = json.load(f)
+            train = json.load(f)
         template = """Claim: {claim}
 I think this claim is **** """
 
         for i in train:
-            i['source'] = 'moral_dataset'
+            i['source'] = 'hr_dataset'
             i['consistency_key'] = 'A' if i['label'] else 'B'
             i['prompt'] = template.format(claim=i['claim'])
         args.GROUP_SIZE = 1
 
+
+
     elif args.testbed == "commonsense_dataset":
-            with open(get_root_directory() / "data/train_commonsense_dataset.json") as f:
-                train = json.load(f)
-            template = """Question: {question}
-Claim: {answer}
+        with open(get_root_directory() / "data/train_commonsense_dataset.json") as f:
+            train = json.load(f)
+        template = """Claim: {claim}
 I think this claim is **** """
+
+        for i in train:
+            i['source'] = 'commonsense_dataset'
+            i['consistency_key'] = 'A' if i['label'] else 'B'
+            i['prompt'] = template.format(claim=i['claim'])
+        args.GROUP_SIZE = 1
+
+
+    elif args.testbed == "justice_dataset":
+        with open(get_root_directory() / "data/train_justice_dataset.json") as f:
+            train = json.load(f)
+        template = """Claim: {claim}
+I think this claim is **** """
+
+        for i in train:
+            i['source'] = 'justice_dataset'
+            i['consistency_key'] = 'A' if i['label'] else 'B'
+            i['prompt'] = template.format(claim=i['claim'])
+        args.GROUP_SIZE = 1
     
-            for i in train:
-                i['source'] = 'commonsense_dataset'
-                i['consistency_key'] = 'A' if i['label'] else 'B'
-                i['prompt'] = template.format(question=i['question'], answer=i['choice'])
-            args.GROUP_SIZE = 2
 
 
     elif args.testbed == "deontology_dataset":
@@ -398,48 +412,21 @@ I think this claim is **** """
             args.GROUP_SIZE = 3
 
     
-    elif args.testbed == "justice_dataset":
-            with open(get_root_directory() / "data/train_justice_dataset.json") as f:
-                train = json.load(f)
-            template = """Question: {question}
-Claim: {answer}
-I think this claim is **** """
-    
-            for i in train:
-                i['source'] = 'justice_dataset'
-                i['consistency_key'] = 'A' if i['label'] else 'B'
-                i['prompt'] = template.format(question=i['question'], answer=i['choice'])
-            args.GROUP_SIZE = 2
+  elif args.testbed == 'util_dataset':
+        with open(get_root_directory() / "data/train_util_dataset.json") as f:
+            train = json.load(f)
+        template = """Question: {Question}
+Statement 1: {Statement1}
+Statement 2: {Statement2}
+Claim: Statement 1 is more useful than Statement 2.
+I think this claim is """
 
-    
+        for i in train:
+            i['source'] = 'util_dataset'
+            i['consistency_key'] = 'A>B' if i['label'] else 'B>A'
+            i['prompt'] = template.format(Question=i['Question'], Statement1=i['Statement1'], Statement2=i['Statement2'])
+        args.GROUP_SIZE = 1
 
-    elif args.testbed == "virtue_dataset":
-            with open(get_root_directory() / "data/train_virtue_dataset.json") as f:
-                train = json.load(f)
-            template = """Question: {question}
-Claim: {answer}
-I think this claim is **** """
-    
-            for i in train:
-                i['source'] = 'virtue_dataset'
-                i['consistency_key'] = 'A' if i['label'] else 'B'
-                i['prompt'] = template.format(question=i['question'], answer=i['choice'])
-            args.GROUP_SIZE = 2
-
-
-    
-    elif args.testbed == "utilitarianism_dataset":
-            with open(get_root_directory() / "data/train_utilitarianism_dataset.json") as f:
-                train = json.load(f)
-            template = """Question: {question}
-Claim: {answer}
-I think this claim is **** """
-    
-            for i in train:
-                i['source'] = 'utilitarianism_dataset'
-                i['consistency_key'] = 'A' if i['label'] else 'B'
-                i['prompt'] = template.format(question=i['question'], answer=i['choice'])
-            args.GROUP_SIZE = 2
 
         
     elif args.testbed == 'gsm8k':
