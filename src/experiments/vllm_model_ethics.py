@@ -102,7 +102,7 @@ def predict_label(client, model, example):
         model=model,
         prompt=full_prompt,
         max_tokens=100,
-        temperature=0
+        temperature=0, n=1
     )
     score = response.choices[0].text.strip().lower()
     print('example is:', example['user_prompt'])
