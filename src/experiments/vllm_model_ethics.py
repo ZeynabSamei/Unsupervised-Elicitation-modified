@@ -101,7 +101,7 @@ def predict_label(client, model, example):
     response = client.completions.create(
         model=model,
         prompt=full_prompt,
-        max_tokens=20,
+        max_tokens=10,
         temperature=0, n=1
     )
     score = response.choices[0].text.strip().lower()
