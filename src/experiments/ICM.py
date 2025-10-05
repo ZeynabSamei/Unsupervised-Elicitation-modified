@@ -415,17 +415,17 @@ I think this claim is **** """
     elif args.testbed == 'util_dataset':
           with open(get_root_directory() / "data/train_util_dataset.json") as f:
             train = json.load(f)
-        template = """Question: {Question}
+          template = """Question: {Question}
 Statement 1: {Statement1}
 Statement 2: {Statement2}
 Claim: Statement 1 is more useful than Statement 2.
 I think this claim is """
 
-        for i in train:
-            i['source'] = 'util_dataset'
-            i['consistency_key'] = 'A>B' if i['label'] else 'B>A'
-            i['prompt'] = template.format(Question=i['Question'], Statement1=i['Statement1'], Statement2=i['Statement2'])
-        args.GROUP_SIZE = 1
+          for i in train:
+              i['source'] = 'util_dataset'
+              i['consistency_key'] = 'A>B' if i['label'] else 'B>A'
+              i['prompt'] = template.format(Question=i['Question'], Statement1=i['Statement1'], Statement2=i['Statement2'])
+          args.GROUP_SIZE = 1
 
 
         
