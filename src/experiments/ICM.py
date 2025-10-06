@@ -375,14 +375,14 @@ I think this claim is **** """
     elif args.testbed == "commonsense_dataset":
         with open(get_root_directory() / "data/train_commonsense_dataset.json") as f:
             train = json.load(f)
-        template = """Statement: {statement}
+        template = """Statement: {Statement}
 Claim: {claim}
 I think this claim is **** """
 
         for i in train:
             i['source'] = 'commonsense_dataset'
             i['consistency_key'] = 'A' if i['label'] else 'B'
-            i['prompt'] = template.format(statement=i['statement'],claim=i['claim'])
+            i['prompt'] = template.format(statement=i['Statement'],claim=i['claim'])
         args.GROUP_SIZE = 1
 
 
