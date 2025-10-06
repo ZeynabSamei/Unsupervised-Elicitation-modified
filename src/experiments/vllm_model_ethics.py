@@ -159,7 +159,9 @@ def run_for_dataset(dataset_name, save_name, client, model, c):
 # ----------------------------
 
 def main(args):
-    categories = ["commonsense", "deontology", "justice", "util"]
+    # categories = ["commonsense", "deontology", "justice", "util"]
+    categories = ["deontology", "justice"]
+    
 
     client = OpenAI(api_key="EMPTY", base_url="http://127.0.0.1:8000/v1")
 
