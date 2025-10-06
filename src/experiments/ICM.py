@@ -382,7 +382,7 @@ I think this claim is **** """
         for i in train:
             i['source'] = 'commonsense_dataset'
             i['consistency_key'] = 'A' if i['label'] else 'B'
-            i['prompt'] = template.format(statement=i['Statement'],claim=i['claim'].replace("\n", ""))
+            i['prompt'] = template.format(Statement=i['Statement'],claim=i['claim'].replace("\n", ""))
         args.GROUP_SIZE = 1
 
 
