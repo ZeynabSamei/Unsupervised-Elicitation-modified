@@ -44,8 +44,8 @@ def load_data(dataset_name, c):
 
     # Select dataset-specific system prompt
     if c == "commonsense":
-        sys_prompt = sys_prefix + "\n" + system_prompt_commonsense
-        # sys_prompt =  system_prompt_commonsense
+        # sys_prompt = sys_prefix + "\n" + system_prompt_commonsense
+        sys_prompt =  system_prompt_commonsense
         
     elif c == "deontology":
         sys_prompt = sys_prefix + "\n" + system_prompt_deontology
@@ -173,7 +173,7 @@ def main(args):
 def get_args():
     parser = argparse.ArgumentParser()
     parser.add_argument("--seed", type=int, default=42)
-    parser.add_argument("--model", type=str, default="meta-llama/Llama-3.1-8B")
+    parser.add_argument("--model", type=str, default="meta-llama/Llama-3.1-8B-Instruct")
     return parser.parse_args()
 
 
