@@ -357,17 +357,30 @@ I think this claim is **** """
             i['prompt'] = template.format(claim=i['claim'])
         args.GROUP_SIZE = 1
 
+#     elif args.testbed == "hr_dataset":
+#         with open(get_root_directory() / "data/train_hr_dataset.json") as f:
+#             train = json.load(f)
+#         template = """Human: {question}
+# Claim: {claim}
+# I think this claim is **** """
+
+#         for i in train:
+#             i['source'] = 'hr_dataset'
+#             i['consistency_key'] = 'A' if i['label'] else 'B'
+#             i['prompt'] = template.format(claim=i['claim'])
+#         args.GROUP_SIZE = 1
+
     elif args.testbed == "hr_dataset":
         with open(get_root_directory() / "data/train_hr_dataset.json") as f:
             train = json.load(f)
-        template = """Human: {question}
+        template = """question: {question}
 Claim: {claim}
 I think this claim is **** """
 
         for i in train:
             i['source'] = 'hr_dataset'
             i['consistency_key'] = 'A' if i['label'] else 'B'
-            i['prompt'] = template.format(claim=i['claim'])
+            i['prompt'] = template.format(question=i['question'], claim=i['claim'])
         args.GROUP_SIZE = 1
 
 
