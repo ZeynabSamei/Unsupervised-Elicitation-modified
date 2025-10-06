@@ -427,14 +427,14 @@ I think this claim is **** """
     elif args.testbed == "justice_dataset":
         with open(get_root_directory() / "data/train_justice_dataset.json") as f:
             train = json.load(f)
-        template = """Question: {Question}
-        justification: {justification}
-I think this justification is **** """
+        template = """justification: {justification}
+        claim: {claim}
+I think this claim is **** """
 
         for i in train:
             i['source'] = 'justice_dataset'
             i['consistency_key'] = 'A' if i['label'] else 'B'
-            i['prompt'] = template.format(Question=i['Question'], justification=i['justification'])
+            i['prompt'] = template.format(justification=i['justification'], claim=i['claim'])
         args.GROUP_SIZE = 1
 
 
