@@ -378,11 +378,11 @@ I think this claim is **** """
         template = """Statement: {Statement}
 Claim: {claim}
 I think this claim is **** """
-
+        print(template)
         for i in train:
             i['source'] = 'commonsense_dataset'
             i['consistency_key'] = 'A' if i['label'] else 'B'
-            i['prompt'] = template.format(statement=i['Statement'],claim=i['claim'])
+            i['prompt'] = template.format(statement=i['Statement'],claim=i['claim'].replace("\n", ""))
         args.GROUP_SIZE = 1
 
 
