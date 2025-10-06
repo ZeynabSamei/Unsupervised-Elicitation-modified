@@ -372,18 +372,32 @@ I think this claim is **** """
 
 
 
+#     elif args.testbed == "commonsense_dataset":
+#         with open(get_root_directory() / "data/train_commonsense_dataset.json") as f:
+#             train = json.load(f)
+#         template = """Statement: {Statement}
+# Claim: {claim}
+# I think this claim is **** """
+#         print(template)
+#         for i in train:
+#             i['source'] = 'commonsense_dataset'
+#             i['consistency_key'] = 'A' if i['label'] else 'B'
+#             i['prompt'] = template.format(Statement=i['Statement'],claim=i['claim'].replace("\n", ""))
+#         args.GROUP_SIZE = 1
+
     elif args.testbed == "commonsense_dataset":
         with open(get_root_directory() / "data/train_commonsense_dataset.json") as f:
             train = json.load(f)
-        template = """Statement: {Statement}
-Claim: {claim}
-I think this claim is **** """
-        print(template)
+                    template = """Claim: {claim}
+            I think this claim is **** """
+
         for i in train:
             i['source'] = 'commonsense_dataset'
             i['consistency_key'] = 'A' if i['label'] else 'B'
-            i['prompt'] = template.format(Statement=i['Statement'],claim=i['claim'].replace("\n", ""))
+            i['prompt'] = template.format(claim=i['claim'])
         args.GROUP_SIZE = 1
+
+            
 
 
     elif args.testbed == "justice_dataset":
