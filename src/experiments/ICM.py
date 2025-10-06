@@ -443,7 +443,7 @@ I think this claim is **** """
             train = json.load(f)
 
         template = """Statement: {Statement}
-Exemption: {Exemption}
+Response: {Response}
 Claim: {Claim}
 I think this claim is ****"""
     
@@ -452,7 +452,7 @@ I think this claim is ****"""
             i['consistency_key'] = 'A' if i['label'] else 'B'
             i['prompt'] = template.format(
                 Statement=i['Statement'],
-                Exemption=i['Exemption'],
+                Response=i['Response'],
                 Claim=i['Claim'])
     
         args.GROUP_SIZE = 3
