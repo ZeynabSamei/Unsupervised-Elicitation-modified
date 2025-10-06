@@ -409,20 +409,27 @@ I think this claim is **** """
             i['consistency_key'] = 'A' if i['label'] else 'B'
             i['prompt'] = template.format(claim=i['claim'])
         args.GROUP_SIZE = 1
-    
+
 
     elif args.testbed == "deontology_dataset":
         with open(get_root_directory() / "data/train_deontology_dataset.json") as f:
             train = json.load(f)
-        template = """Question: {question}
-Claim: {answer}
-I think this claim is **** """
 
+        template = """Statement: {Statement}
+Exemption: {Exemption}
+Claim: {Claim}
+I think this claim is ****"""
+    
         for i in train:
             i['source'] = 'deontology_dataset'
             i['consistency_key'] = 'A' if i['label'] else 'B'
-            i['prompt'] = template.format(question=i['question'], answer=i['choice'])
+            i['prompt'] = template.format(
+                Statement=i['Statement'],
+                Exemption=i['Exemption'],
+                Claim=i['Claim'])
+    
         args.GROUP_SIZE = 3
+
 
     
     elif args.testbed == 'util_dataset':
