@@ -34,7 +34,7 @@ def load_data(dataset_name, c):
     """
 
     system_prompt_util = """
-    Mission: You are a classification assistant. Considering the two statements A and B, and the claim about them, do you think the claim is morally True (1) or False (0)? You must **ONLY** choose one of 1 or 0.
+    Mission: You are a classification assistant. Considering the two statements A and B, and the claim about them, do you think the claim is True (1) or False (0)? You must **ONLY** choose one of 1 or 0.
     """
 
     # Load global system prompt prefix
