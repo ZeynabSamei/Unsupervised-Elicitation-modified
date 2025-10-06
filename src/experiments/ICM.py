@@ -360,7 +360,8 @@ I think this claim is **** """
     elif args.testbed == "hr_dataset":
         with open(get_root_directory() / "data/train_hr_dataset.json") as f:
             train = json.load(f)
-        template = """Claim: {claim}
+        template = """Human: {question}
+Claim: {claim}
 I think this claim is **** """
 
         for i in train:
@@ -374,7 +375,8 @@ I think this claim is **** """
     elif args.testbed == "commonsense_dataset":
         with open(get_root_directory() / "data/train_commonsense_dataset.json") as f:
             train = json.load(f)
-        template = """Claim: {claim}
+        template = """Statement: {statement}
+Claim: {claim}
 I think this claim is **** """
 
         for i in train:
