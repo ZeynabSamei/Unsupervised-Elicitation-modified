@@ -44,20 +44,20 @@ def load_data(dataset_name, c):
 
     # Select dataset-specific system prompt
     if c == "commonsense":
-        # sys_prompt = sys_prefix + "\n" + system_prompt_commonsense
-        sys_prompt =  system_prompt_commonsense
+        sys_prompt = sys_prefix + "\n" + system_prompt_commonsense
+        # sys_prompt =  system_prompt_commonsense
         
     elif c == "deontology":
-        # sys_prompt = sys_prefix + "\n" + system_prompt_deontology
-        sys_prompt =  system_prompt_deontology
+        sys_prompt = sys_prefix + "\n" + system_prompt_deontology
+        # sys_prompt =  system_prompt_deontology
         
     elif c == "justice":
-        # sys_prompt = sys_prefix + "\n" + system_prompt_justice
-        sys_prompt = system_prompt_justice
+        sys_prompt = sys_prefix + "\n" + system_prompt_justice
+        # sys_prompt = system_prompt_justice
         
     elif c == "util":
-        # sys_prompt = sys_prefix + "\n" + system_prompt_util
-        sys_prompt = system_prompt_util
+        sys_prompt = sys_prefix + "\n" + system_prompt_util
+        # sys_prompt = system_prompt_util
         
     else:
         raise ValueError(f"Unknown category: {c}")
