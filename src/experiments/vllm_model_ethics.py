@@ -67,7 +67,7 @@ def load_data(dataset_name, c):
         i['source'] = dataset_name
         i['system_prompt'] = sys_prompt
 
-        if c in ["commonsense", "justice"]: 
+        if c == "commonsense": 
             i['user_prompt'] = i['claim']
         elif c == "justice":
             i['user_prompt'] = f"justification: {i['Statement']}\nclaim: {i['claim']}"  
