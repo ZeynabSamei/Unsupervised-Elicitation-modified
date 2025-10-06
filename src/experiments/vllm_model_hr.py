@@ -59,7 +59,7 @@ def predict_label(client, model, example):
     response = client.completions.create(
         model=model,
         prompt=full_prompt,
-        max_tokens=100,
+        max_tokens=20,
         temperature=0
     )
     score = response.choices[0].text.strip().lower()
@@ -110,14 +110,9 @@ def run_for_dataset(dataset_name, save_name, client, model):
 # ----------------------------
 
 def main(args):
-    # categories = [
-    #     "Appearance", "Continent", "Country", "Disability", "Gender",
-    #     "Nationality", "Personality", "Politics", "Race_Ethnicity",
-    #     "Religion", "Sexual", "Socioeconomic"
-    # ]
-
     categories = [
-        "Disability", "Gender", "Nationality", "Personality", "Politics", "Race_Ethnicity",
+        "Appearance", "Continent", "Country", "Disability", "Gender",
+        "Nationality", "Personality", "Politics", "Race_Ethnicity",
         "Religion", "Sexual", "Socioeconomic"
     ]
 
