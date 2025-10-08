@@ -16,7 +16,7 @@ def load_data(args):
     """
     Load moral_dataset and prepare prompts.
     """
-    data_path = get_root_directory() / "data/train_hr_dataset.json"
+    data_path = get_root_directory() / "data/train_moral_dataset.json"
     with open(data_path) as f:
         train = json.load(f)
 
@@ -51,8 +51,8 @@ def load_data(args):
         fewshot_text += f"Claim: {item['claim']}\nAnswer: {label_str}\n\n"
 
     
-    system_prompt=system_prompt+"\n"+system_prompt1 +"Now do you think the claim is morally True (1) or False (0)?"
-    # system_prompt=system_prompt1+ "Now do you think the claim is morally True (1) or False (0)?"
+    # system_prompt=system_prompt+"\n"+system_prompt1 +"Now do you think the claim is morally True (1) or False (0)?"
+    system_prompt=system_prompt1+ "Now do you think the claim is morally True (1) or False (0)?"
     # system_prompt=system_prompt1+" Examples:"+fewshot_text+ "Now do you think the claim is morally True (1) or False (0)?"
     
     # print(system_prompt)  # Just to check it's loaded
@@ -99,7 +99,7 @@ def predict_label(client, model, example):
     response = client.completions.create(
         model=model,
         prompt=full_prompt,
-        max_tokens=100,
+        max_tokens=10,
         temperature=0
     )
     score = response.choices[0].text.strip().lower()
@@ -157,7 +157,7 @@ def main(args):
 
 
     # Save results
-    save_path = "/home/maliza/scratch/results/hr_dataset_results.json"
+    save_path = "/home/maliza/scratch/results/mistral_post_moral_dataset_results.json"
     os.makedirs(os.path.dirname(save_path), exist_ok=True)
     with open(save_path, "w") as f:
         json.dump(demonstrations, f, indent=2)
