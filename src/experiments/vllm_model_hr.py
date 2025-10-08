@@ -121,7 +121,7 @@ def main(args):
     for c in categories:
         print(c)
         # run_for_dataset(f"hr_dataset_{c}", f"llama70b_post_hr_results_{c}", client, args.model)
-        run_for_dataset(f"current_hr_dataset_{c}", f"curr_hr_results_{c}", client, args.model)
+        run_for_dataset(f"current_hr_dataset_{c}", f"llama70b_post_curr_hr_results_{c}", client, args.model)
 
 
 def get_args():
