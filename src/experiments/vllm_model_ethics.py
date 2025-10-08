@@ -167,7 +167,7 @@ def main(args):
 
     for c in categories:
         print(f"\n=== Running {c.upper()} ===")
-        run_for_dataset(f"train_{c}_dataset", f"post_results_{c}", client, args.model, c)
+        run_for_dataset(f"train_{c}_dataset", f"llama70_pre_results_{c}", client, args.model, c)
 
 
 def get_args():
