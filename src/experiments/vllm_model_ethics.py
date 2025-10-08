@@ -44,20 +44,20 @@ def load_data(dataset_name, c):
 
     # Select dataset-specific system prompt
     if c == "commonsense":
-        sys_prompt = sys_prefix + "\n" + system_prompt_commonsense
-        # sys_prompt =  system_prompt_commonsense
+        # sys_prompt = sys_prefix + "\n" + system_prompt_commonsense
+        sys_prompt =  system_prompt_commonsense
         
     elif c == "deontology":
-        sys_prompt = sys_prefix + "\n" + system_prompt_deontology
-        # sys_prompt =  system_prompt_deontology
+        # sys_prompt = sys_prefix + "\n" + system_prompt_deontology
+        sys_prompt =  system_prompt_deontology
         
     elif c == "justice":
-        sys_prompt = sys_prefix + "\n" + system_prompt_justice
-        # sys_prompt = system_prompt_justice
+        # sys_prompt = sys_prefix + "\n" + system_prompt_justice
+        sys_prompt = system_prompt_justice
         
     elif c == "util":
-        sys_prompt = sys_prefix + "\n" + system_prompt_util
-        # sys_prompt = system_prompt_util
+        # sys_prompt = sys_prefix + "\n" + system_prompt_util
+        sys_prompt = system_prompt_util
         
     else:
         raise ValueError(f"Unknown category: {c}")
@@ -160,20 +160,19 @@ def run_for_dataset(dataset_name, save_name, client, model, c):
 
 def main(args):
     categories = ["commonsense", "deontology", "justice", "util"]
-    # categories = ["commonsense"]
     
 
     client = OpenAI(api_key="EMPTY", base_url="http://127.0.0.1:8000/v1")
 
     for c in categories:
         print(f"\n=== Running {c.upper()} ===")
-        run_for_dataset(f"train_{c}_dataset", f"llama70_pre_results_{c}", client, args.model, c)
+        run_for_dataset(f"train_{c}_dataset", f"llama70_post_results_{c}", client, args.model, c)
 
 
 def get_args():
     parser = argparse.ArgumentParser()
     parser.add_argument("--seed", type=int, default=42)
-    parser.add_argument("--model", type=str, default="meta-llama/Llama-3.1-70B")
+    parser.add_argument("--model", type=str, default="meta-llama/Llama-3.1-70B-Instruct")
     return parser.parse_args()
 
 
