@@ -516,7 +516,6 @@ BASE_MODELS = {
     "meta-llama/Llama-3.1-8B",
     "meta-llama/Llama-3.1-70B",
     "meta-llama/Llama-4-Scout-17B-16E",
-    "gpt-3.5-turbo"
 }
 
 
