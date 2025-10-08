@@ -29,8 +29,8 @@ def load_data(dataset_name):
     with open(prompt_path, "r", encoding="utf-8") as f:
         system_prompt = f.read().strip()
     
-    system_prompt = system_prompt + "\n" + system_prompt1 + " Now do you think the claim is morally True (1) or False (0)?"
-    # system_prompt = system_prompt1 + " Now do you think the claim is morally True (1) or False (0)?"
+    # system_prompt = system_prompt + "\n" + system_prompt1 + " Now do you think the claim is morally True (1) or False (0)?"
+    system_prompt = system_prompt1 + " Now do you think the claim is morally True (1) or False (0)?"
 
     for i in train:
         i['source'] = dataset_name
@@ -120,14 +120,14 @@ def main(args):
 
     for c in categories:
         print(c)
-        # run_for_dataset(f"hr_dataset_{c}", f"llama70b_pre_hr_results_{c}", client, args.model)
+        # run_for_dataset(f"hr_dataset_{c}", f"llama70b_post_hr_results_{c}", client, args.model)
         run_for_dataset(f"current_hr_dataset_{c}", f"curr_hr_results_{c}", client, args.model)
 
 
 def get_args():
     parser = argparse.ArgumentParser()
     parser.add_argument("--seed", type=int, default=42)
-    parser.add_argument("--model", type=str, default="meta-llama/Llama-3.1-70B")
+    parser.add_argument("--model", type=str, default="meta-llama/Llama-3.1-70B-Instruct")
     return parser.parse_args()
 
 
