@@ -120,14 +120,14 @@ def main(args):
 
     for c in categories:
         print(c)
-        # run_for_dataset(f"hr_dataset_{c}", f"post_hr_results_{c}", client, args.model)
+        # run_for_dataset(f"hr_dataset_{c}", f"llama70b_pre_hr_results_{c}", client, args.model)
         run_for_dataset(f"current_hr_dataset_{c}", f"curr_hr_results_{c}", client, args.model)
 
 
 def get_args():
     parser = argparse.ArgumentParser()
     parser.add_argument("--seed", type=int, default=42)
-    parser.add_argument("--model", type=str, default="meta-llama/Llama-3.1-8B")
+    parser.add_argument("--model", type=str, default="meta-llama/Llama-3.1-70B")
     return parser.parse_args()
 
 
