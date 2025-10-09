@@ -157,7 +157,7 @@ def main(args):
 
 
     # Save results
-    save_path = "/home/maliza/scratch/results/mistral_pre_moral_dataset_results.json"
+    save_path = "/home/maliza/scratch/results/olmo_pre_moral_dataset_results.json"
     os.makedirs(os.path.dirname(save_path), exist_ok=True)
     with open(save_path, "w") as f:
         json.dump(demonstrations, f, indent=2)
@@ -168,7 +168,7 @@ def get_args():
     parser.add_argument("--batch_size", type=int, default=4)
     parser.add_argument("--num_seed", type=int, default=4)
     parser.add_argument("--seed", type=int, default=42)
-    parser.add_argument("--model", type=str, default="mistralai/Mistral-7B-v0.3")
+    parser.add_argument("--model", type=str, default="allenai/OLMoE-1B-7B-0924 ")
     return parser.parse_args()
 
 
