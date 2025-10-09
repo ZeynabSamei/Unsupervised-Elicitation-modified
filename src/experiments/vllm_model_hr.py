@@ -28,6 +28,8 @@ def load_data(dataset_name):
     prompt_path = get_root_directory() / "data/sys_prompt.txt"
     with open(prompt_path, "r", encoding="utf-8") as f:
         system_prompt = f.read().strip()
+
+    system_prompt=system_prompt[:3800]
     
     system_prompt = system_prompt + "\n" + system_prompt1 + " Now do you think the claim is morally True (1) or False (0)?"
     # system_prompt = system_prompt1 + " Now do you think the claim is morally True (1) or False (0)?"
