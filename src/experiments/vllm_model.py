@@ -51,8 +51,8 @@ def load_data(args):
         fewshot_text += f"Claim: {item['claim']}\nAnswer: {label_str}\n\n"
 
     system_prompt=system_prompt[:3800]
-    system_prompt=system_prompt+"\n"+system_prompt1 +"Now do you think the claim is morally True (1) or False (0)?"
-    # system_prompt=system_prompt1+ "Now do you think the claim is morally True (1) or False (0)?"
+    # system_prompt=system_prompt+"\n"+system_prompt1 +"Now do you think the claim is morally True (1) or False (0)?"
+    system_prompt=system_prompt1+ "Now do you think the claim is morally True (1) or False (0)?"
     # system_prompt=system_prompt1+" Examples:"+fewshot_text+ "Now do you think the claim is morally True (1) or False (0)?"
   
     # print(system_prompt)  # Just to check it's loaded
@@ -157,7 +157,7 @@ def main(args):
 
 
     # Save results
-    save_path = "/home/maliza/scratch/results/olmo_pre_moral_dataset_results.json"
+    save_path = "/home/maliza/scratch/results/olmo_post_moral_dataset_results.json"
     os.makedirs(os.path.dirname(save_path), exist_ok=True)
     with open(save_path, "w") as f:
         json.dump(demonstrations, f, indent=2)
@@ -168,7 +168,7 @@ def get_args():
     parser.add_argument("--batch_size", type=int, default=4)
     parser.add_argument("--num_seed", type=int, default=4)
     parser.add_argument("--seed", type=int, default=42)
-    parser.add_argument("--model", type=str, default="allenai/OLMo-2-1124-13B")
+    parser.add_argument("--model", type=str, default="allenai/OLMo-2-1124-13B-Instruct")
     return parser.parse_args()
 
 
