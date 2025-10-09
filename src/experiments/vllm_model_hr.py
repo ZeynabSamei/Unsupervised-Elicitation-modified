@@ -121,13 +121,13 @@ def main(args):
     for c in categories:
         print(c)
         # run_for_dataset(f"hr_dataset_{c}", f"llama70b_pre_hr_results_{c}", client, args.model)
-        run_for_dataset(f"current_hr_dataset_{c}", f"mistral_pre_curr_hr_results_{c}", client, args.model)
+        run_for_dataset(f"current_hr_dataset_{c}", f"olmo_pre_curr_hr_results_{c}", client, args.model)
 
 
 def get_args():
     parser = argparse.ArgumentParser()
     parser.add_argument("--seed", type=int, default=42)
-    parser.add_argument("--model", type=str, default="mistralai/Mistral-7B-v0.3")
+    parser.add_argument("--model", type=str, default="allenai/OLMoE-1B-7B-0924 ")
     return parser.parse_args()
 
 
