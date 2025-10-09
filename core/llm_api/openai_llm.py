@@ -517,7 +517,8 @@ BASE_MODELS = {
     "meta-llama/Llama-3.1-70B",
     "meta-llama/Llama-4-Scout-17B-16E",
     "allenai/OLMo-7B",
-    "mistralai/Mistral-7B-v0.3"
+    "mistralai/Mistral-7B-v0.3",
+    "allenai/OLMoE-1B-7B-0924"
 }
 
 
