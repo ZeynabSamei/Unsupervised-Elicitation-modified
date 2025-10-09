@@ -166,13 +166,13 @@ def main(args):
 
     for c in categories:
         print(f"\n=== Running {c.upper()} ===")
-        run_for_dataset(f"train_{c}_dataset", f"mistral_pre_results_{c}", client, args.model, c)
+        run_for_dataset(f"train_{c}_dataset", f"olmo_pre_results_{c}", client, args.model, c)
 
 
 def get_args():
     parser = argparse.ArgumentParser()
     parser.add_argument("--seed", type=int, default=42)
-    parser.add_argument("--model", type=str, default="mistralai/Mistral-7B-v0.3")
+    parser.add_argument("--model", type=str, default="allenai/OLMoE-1B-7B-0924 ")
     return parser.parse_args()
 
 
