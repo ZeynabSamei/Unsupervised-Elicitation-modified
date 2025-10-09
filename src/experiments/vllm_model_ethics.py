@@ -46,20 +46,20 @@ def load_data(dataset_name, c):
 
     # Select dataset-specific system prompt
     if c == "commonsense":
-        # sys_prompt = sys_prefix + "\n" + system_prompt_commonsense
-        sys_prompt =  system_prompt_commonsense
+        sys_prompt = sys_prefix + "\n" + system_prompt_commonsense
+        # sys_prompt =  system_prompt_commonsense
         
     elif c == "deontology":
-        # sys_prompt = sys_prefix + "\n" + system_prompt_deontology
-        sys_prompt =  system_prompt_deontology
+        sys_prompt = sys_prefix + "\n" + system_prompt_deontology
+        # sys_prompt =  system_prompt_deontology
         
     elif c == "justice":
-        # sys_prompt = sys_prefix + "\n" + system_prompt_justice
-        sys_prompt = system_prompt_justice
+        sys_prompt = sys_prefix + "\n" + system_prompt_justice
+        # sys_prompt = system_prompt_justice
         
     elif c == "util":
-        # sys_prompt = sys_prefix + "\n" + system_prompt_util
-        sys_prompt = system_prompt_util
+        sys_prompt = sys_prefix + "\n" + system_prompt_util
+        # sys_prompt = system_prompt_util
         
     else:
         raise ValueError(f"Unknown category: {c}")
@@ -170,13 +170,13 @@ def main(args):
 
     for c in categories:
         print(f"\n=== Running {c.upper()} ===")
-        run_for_dataset(f"train_{c}_dataset", f"olmo_post_results_{c}", client, args.model, c)
+        run_for_dataset(f"train_{c}_dataset", f"olmo_pre_results_{c}", client, args.model, c)
 
 
 def get_args():
     parser = argparse.ArgumentParser()
     parser.add_argument("--seed", type=int, default=42)
-    parser.add_argument("--model", type=str, default="allenai/OLMoE-1B-7B-0924-Instruct")
+    parser.add_argument("--model", type=str, default="allenai/OLMo-2-1124-13B")
     return parser.parse_args()
 
 
