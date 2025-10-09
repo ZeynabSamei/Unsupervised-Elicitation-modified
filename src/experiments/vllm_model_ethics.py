@@ -42,6 +42,8 @@ def load_data(dataset_name, c):
     with open(prompt_path, "r", encoding="utf-8") as f:
         sys_prefix = f.read().strip()
 
+    sys_prefix=sys_prefix[:3800]
+
     # Select dataset-specific system prompt
     if c == "commonsense":
         sys_prompt = sys_prefix + "\n" + system_prompt_commonsense
@@ -61,6 +63,8 @@ def load_data(dataset_name, c):
         
     else:
         raise ValueError(f"Unknown category: {c}")
+    
+
 
     # ----- Build user prompts -----
     for i in train:
