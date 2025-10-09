@@ -172,7 +172,7 @@ def main(args):
 def get_args():
     parser = argparse.ArgumentParser()
     parser.add_argument("--seed", type=int, default=42)
-    parser.add_argument("--model", type=str, default="allenai/OLMoE-1B-7B-0924 ")
+    parser.add_argument("--model", type=str, default="allenai/OLMoE-1B-7B-0924")
     return parser.parse_args()
 
 
