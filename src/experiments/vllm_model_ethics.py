@@ -192,13 +192,13 @@ def main(args):
 
     for c in categories:
         print(f"\n=== Running {c.upper()} ===")
-        run_for_dataset(f"train_{c}_dataset", f"olmo_post_results_{c}", client, args.model, c)
+        run_for_dataset(f"train_{c}_dataset", f"llama8_few_results_{c}", client, args.model, c)
 
 
 def get_args():
     parser = argparse.ArgumentParser()
     parser.add_argument("--seed", type=int, default=42)
-    parser.add_argument("--model", type=str, default="allenai/OLMo-2-1124-13B-Instruct")
+    parser.add_argument("--model", type=str, default="meta-llama/Llama-3.1-8B-Instruct ")
     return parser.parse_args()
 
 
