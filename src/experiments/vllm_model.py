@@ -53,7 +53,7 @@ def load_data(args):
     system_prompt=system_prompt[:3800]
     # system_prompt=system_prompt+"\n"+system_prompt1 +"Now do you think the claim is morally True (1) or False (0)?"
     system_prompt=system_prompt1+ "Now do you think the claim is morally True (1) or False (0)?"
-    # system_prompt=system_prompt1+" Examples:"+fewshot_text+ "Now do you think the claim is morally True (1) or False (0)?"
+    system_prompt=(system_prompt1+" Examples:"+fewshot_text+ "Now do you think the claim is morally True (1) or False (0)?")[:4000]
   
     # print(system_prompt)  # Just to check it's loaded
     
@@ -157,7 +157,7 @@ def main(args):
 
 
     # Save results
-    save_path = "/home/maliza/scratch/results/olmo_post_moral_dataset_results.json"
+    save_path = "/home/maliza/scratch/results/olmo_few_moral_dataset_results.json"
     os.makedirs(os.path.dirname(save_path), exist_ok=True)
     with open(save_path, "w") as f:
         json.dump(demonstrations, f, indent=2)
