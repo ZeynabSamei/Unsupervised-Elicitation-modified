@@ -23,15 +23,15 @@ def load_data(dataset_name, c):
     
 
     
-    categories = ["commonsense", "deontology", "justice", "util"]
+    # categories = ["commonsense", "deontology", "justice", "util"]
     fewshot_data = {}
     
     root = Path(get_root_directory())
     
-    for c in categories:
-        path = root / f"data/fewshot_{c}.json"
-        with open(path) as f:
-            fewshot_data[c] = json.load(f)
+    # for cc in categories:
+    path = root / f"data/fewshot_{c}.json"
+    with open(path) as f:
+        fewshot_data[c] = json.load(f)
 
     
     # ----- System prompts -----
