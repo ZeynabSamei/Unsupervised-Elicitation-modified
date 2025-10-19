@@ -62,25 +62,29 @@ def load_data(dataset_name, c):
     if c == "commonsense":
         # sys_prompt = sys_prefix + "\n" + system_prompt_commonsense
         sys_prompt =  system_prompt_commonsense
-        sys_prompt =  system_prompt_commonsense+fewshot_data['commonsense']
+        fewshot_text = json.dumps(fewshot_data['commonsense'], indent=2)
+        sys_prompt =  system_prompt_commonsense+fewshot_text
         
         
     elif c == "deontology":
         # sys_prompt = sys_prefix + "\n" + system_prompt_deontology
         sys_prompt =  system_prompt_deontology
-        sys_prompt =  system_prompt_deontology+fewshot_data['deontology']
+        fewshot_text = json.dumps(fewshot_data['deontology'], indent=2)
+        sys_prompt =  system_prompt_deontology+fewshot_text
         
         
     elif c == "justice":
         # sys_prompt = sys_prefix + "\n" + system_prompt_justice
         sys_prompt = system_prompt_justice
-        sys_prompt =  system_prompt_justice+fewshot_data['justice']
+        fewshot_text = json.dumps(fewshot_data['justice'], indent=2)
+        sys_prompt =  system_prompt_justice+fewshot_text
         
         
     elif c == "util":
         # sys_prompt = sys_prefix + "\n" + system_prompt_util
         sys_prompt = system_prompt_util
-        sys_prompt =  system_prompt_util+fewshot_data['util']
+        fewshot_text = json.dumps(fewshot_data['util'], indent=2)
+        sys_prompt =  system_prompt_util+fewshot_text
         
         
     else:
