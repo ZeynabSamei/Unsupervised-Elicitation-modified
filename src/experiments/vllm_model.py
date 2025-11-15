@@ -168,7 +168,7 @@ def get_args():
     parser.add_argument("--batch_size", type=int, default=4)
     parser.add_argument("--num_seed", type=int, default=4)
     parser.add_argument("--seed", type=int, default=42)
-    parser.add_argument("--model", type=str, default="mistralai/Mistral-7B-Instruct-v0.3")
+    parser.add_argument("--model", type=str, default="/home/maliza/scratch/ft_results/mistral-normbank")
     return parser.parse_args()
 
 
