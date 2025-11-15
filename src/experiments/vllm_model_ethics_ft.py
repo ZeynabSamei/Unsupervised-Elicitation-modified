@@ -187,52 +187,40 @@ def run_for_dataset(dataset_name, save_name, client, model, c):
 # ----------------------------
 # Main
 # ----------------------------
+# ----------------------------
+# Main
+# ----------------------------
 def main(args):
-    # Mapping from category -> fine-tuned model path
-    category_models = {
-        "commonsense": "/home/maliza/scratch/ft_results/mistral-commonsense",
-        "deontology":  "/home/maliza/scratch/ft_results/mistral-deontology",
-        "justice":     "/home/maliza/scratch/ft_results/mistral-justice",
-        "util":        "/home/maliza/scratch/ft_results/mistral-util",
-    }
-
     client = OpenAI(api_key="EMPTY", base_url="http://127.0.0.1:8000/v1")
 
-    categories = ["deontology", "justice", "util"]
+    categories = ["commonsense", "deontology", "justice", "util"]
 
     for c in categories:
+        # Get the model path for this category from args.model dictionary
+        model_path = args.model.get(c)
+        if model_path is None:
+            raise ValueError(f"No model specified for category {c}")
+
         print(f"\n=== Running {c.upper()} ===")
-
-        # Load dataset & initialize
-        train = load_data(f"train_{c}_dataset", c)
-        demonstrations = initialize(train)
-
-        model_path = category_models[c]
         print(f"Using model: {model_path}")
-
-        # Predict labels
-        for k, example in enumerate(demonstrations.values()):
-            if k % 50 == 0:
-                print(f"  Processing {k}/{len(demonstrations)} ...")
-            if example["label"] is None:
-                example["label"] = predict_label(client, model_path, example)
-
-        # After predictions
-        acc = calculate_accuracy(demonstrations)
-        print(f"{c.upper()} | Final accuracy: {acc:.3f}")
-        print("Label distribution:", Counter([v['label'] for v in demonstrations.values()]))
-
-        # Save results
-        save_path = f"/home/maliza/scratch/results/olmo_few_results_{c}.json"
-        os.makedirs(os.path.dirname(save_path), exist_ok=True)
-        with open(save_path, "w") as f:
-            json.dump(demonstrations, f, indent=2)
-        print(f"💾 Saved results to {save_path}")
+        run_for_dataset(f"train_{c}_dataset", f"olmo_few_results_{c}", client, model_path, c)
 
 
 def get_args():
     parser = argparse.ArgumentParser()
     parser.add_argument("--seed", type=int, default=42)
+    # Provide a JSON string mapping category -> model path
+    parser.add_argument(
+        "--model",
+        type=str,
+        default=json.dumps({
+            "commonsense": "/home/maliza/scratch/ft_results/mistral-commonsense",
+            "deontology":  "/home/maliza/scratch/ft_results/mistral-deontology",
+            "justice":     "/home/maliza/scratch/ft_results/mistral-justice",
+            "util":        "/home/maliza/scratch/ft_results/mistral-util",
+        }),
+        help="JSON dict mapping category -> model path"
+    )
     return parser.parse_args()
 
 
@@ -241,4 +229,6 @@ if __name__ == "__main__":
     setup_environment(logger_level="error")
     args = get_args()
     random.seed(args.seed)
+    # Convert the JSON string into a Python dict
+    args.model = json.loads(args.model)
     main(args)
