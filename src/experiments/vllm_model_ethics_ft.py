@@ -214,8 +214,7 @@ def get_args():
         "--model",
         type=str,
         default=json.dumps({
-            # "commonsense": "/home/maliza/scratch/ft_results/mistral-commonsense",
-            "commonsense": "/home/maliza/scratch/ft_results/mistral-normbank",
+            "commonsense": "/home/maliza/scratch/ft_results/mistral-commonsense",
             "deontology":  "/home/maliza/scratch/ft_results/mistral-deontology",
             "justice":     "/home/maliza/scratch/ft_results/mistral-justice",
             "util":        "/home/maliza/scratch/ft_results/mistral-util",
