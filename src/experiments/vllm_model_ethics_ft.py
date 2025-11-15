@@ -198,7 +198,7 @@ def main(args):
 
     client = OpenAI(api_key="EMPTY", base_url="http://127.0.0.1:8000/v1")
 
-    categories = ["commonsense", "deontology", "justice", "util"]
+    categories = ["deontology", "justice", "util"]
 
     for c in categories:
         print(f"\n=== Running {c.upper()} ===")
