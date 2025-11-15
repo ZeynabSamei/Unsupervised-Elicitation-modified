@@ -201,20 +201,38 @@ def main(args):
     categories = ["commonsense", "deontology", "justice", "util"]
 
     for c in categories:
-        # If args.c is set, only run that category
-        if args.c and args.c != c:
-            continue
+        print(f"\n=== Running {c.upper()} ===")
+
+        # Load dataset & initialize
+        train = load_data(f"train_{c}_dataset", c)
+        demonstrations = initialize(train)
 
         model_path = category_models[c]
-        print(f"\n=== Running {c.upper()} ===")
         print(f"Using model: {model_path}")
-        run_for_dataset(f"train_{c}_dataset", f"olmo_few_results_{c}", client, model_path, c)
+
+        # Predict labels
+        for k, example in enumerate(demonstrations.values()):
+            if k % 50 == 0:
+                print(f"  Processing {k}/{len(demonstrations)} ...")
+            if example["label"] is None:
+                example["label"] = predict_label(client, model_path, example)
+
+        # After predictions
+        acc = calculate_accuracy(demonstrations)
+        print(f"{c.upper()} | Final accuracy: {acc:.3f}")
+        print("Label distribution:", Counter([v['label'] for v in demonstrations.values()]))
+
+        # Save results
+        save_path = f"/home/maliza/scratch/results/olmo_few_results_{c}.json"
+        os.makedirs(os.path.dirname(save_path), exist_ok=True)
+        with open(save_path, "w") as f:
+            json.dump(demonstrations, f, indent=2)
+        print(f"💾 Saved results to {save_path}")
 
 
 def get_args():
     parser = argparse.ArgumentParser()
     parser.add_argument("--seed", type=int, default=42)
-    parser.add_argument("--c", type=str, default=None, help="Run only this category (optional)")
     return parser.parse_args()
 
 
