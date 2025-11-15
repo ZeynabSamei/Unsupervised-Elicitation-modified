@@ -53,7 +53,7 @@ def load_data(args):
     system_prompt=system_prompt[:3800]
     # system_prompt=system_prompt+"\n"+system_prompt1 +"Now do you think the claim is morally True (1) or False (0)?"
     system_prompt=system_prompt1+ "Now do you think the claim is morally True (1) or False (0)?"
-    system_prompt=(system_prompt1+" Examples:"+fewshot_text+ "Now do you think the claim is morally True (1) or False (0)?")[:8000]
+    # system_prompt=(system_prompt1+" Examples:"+fewshot_text+ "Now do you think the claim is morally True (1) or False (0)?")[:8000]
   
     # print(system_prompt)  # Just to check it's loaded
     
@@ -168,7 +168,7 @@ def get_args():
     parser.add_argument("--batch_size", type=int, default=4)
     parser.add_argument("--num_seed", type=int, default=4)
     parser.add_argument("--seed", type=int, default=42)
-    parser.add_argument("--model", type=str, default="/home/maliza/scratch/ft_results/mistral-normbank")
+    parser.add_argument("--model", type=str, default="mistralai/Mistral-7B-Instruct-v0.3")
     return parser.parse_args()
 
 
